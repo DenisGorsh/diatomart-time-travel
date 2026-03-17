@@ -1,15 +1,18 @@
 "use client";
 
 import { useState, useEffect, useCallback, useRef } from "react";
-import SceneIllustration from "./SceneIllustrations";
+import Image from "next/image";
 
 interface Scene {
   id: number;
   title: string;
   year: string;
   narration: string;
+  image: string;
   credit: string;
-  tint: string; // overlay colour + opacity
+  tint: string;
+  /** CSS animation name — each scene gets a unique motion */
+  animation: string;
 }
 
 const scenes: Scene[] = [
@@ -19,8 +22,10 @@ const scenes: Scene[] = [
     year: "1198 – 1201",
     narration:
       "Pope Celestine III declares a crusade against the last pagans of Europe. German knights board cog ships at Lübeck, crossing the grey Baltic toward a land of dark forests and ancient gods. Bishop Albert founds Riga at the mouth of the Daugava — a bridgehead for Christendom.",
-    credit: "Animated medieval manuscript miniature",
+    image: "/images/cartoon/generated/scene_01_crusaders.png",
+    credit: "12th-century manuscript illumination style",
     tint: "rgba(26,39,68,0.25)",
+    animation: "panRight",        // ship sailing east
   },
   {
     id: 2,
@@ -28,8 +33,10 @@ const scenes: Scene[] = [
     year: "1202 – 1236",
     narration:
       "The Order of the Sword Brothers wages permanent holy war across Livonia. Hill-forts burn, sacred groves are felled, entire peoples are baptised at swordpoint. The Livonians, Latgalians, and Estonians resist — but the armored cavalry is unstoppable on open ground.",
-    credit: "Animated medieval battle miniature",
+    image: "/images/cartoon/generated/scene_02_sword_brothers.png",
+    credit: "13th-century chronicle manuscript miniature",
     tint: "rgba(107,29,42,0.2)",
+    animation: "panLeft",         // cavalry charging left-to-right, camera tracks
   },
   {
     id: 3,
@@ -37,8 +44,10 @@ const scenes: Scene[] = [
     year: "22 September 1236",
     narration:
       "The Sword Brothers march into Samogitia and walk into a trap. In marshy forest, the pagans surround the German army. Heavy cavalry cannot manoeuvre. Master Volkwin falls. The Order is annihilated in a single afternoon. From the ashes, the survivors merge with the Teutonic Order.",
-    credit: "Animated medieval manuscript scene",
+    image: "/images/cartoon/generated/scene_03_saule.png",
+    credit: "13th-century chronicle marginalia, ink and wash",
     tint: "rgba(44,24,16,0.2)",
+    animation: "zoomIn",          // closing in on the carnage
   },
   {
     id: 4,
@@ -46,8 +55,10 @@ const scenes: Scene[] = [
     year: "1237 – 1290",
     narration:
       "The Teutonic Order transforms the landscape. Stone castles rise at every river crossing — Riga, Cēsis, Sigulda, Kuldīga, Dobele. Each fortress is monastery, barracks, and seat of government in one. Riga joins the Hanseatic League in 1282.",
-    credit: "Animated medieval architectural illustration",
+    image: "/images/cartoon/generated/scene_04_castles.png",
+    credit: "13th-century architectural manuscript drawing",
     tint: "rgba(196,163,90,0.15)",
+    animation: "tiltUp",          // camera tilts up as castles rise
   },
   {
     id: 5,
@@ -55,8 +66,10 @@ const scenes: Scene[] = [
     year: "c. 1290",
     narration:
       "An anonymous brother takes up his pen. In 12,000 lines of rhyming Middle High German verse he records a century of crusade — battles won and lost, brothers fallen, peoples conquered. His manuscript survives in Heidelberg: 148 parchment pages speaking across seven centuries.",
-    credit: "Animated illuminated manuscript scene",
+    image: "/images/cartoon/generated/scene_05_chronicler.png",
+    credit: "Illuminated manuscript author portrait",
     tint: "rgba(90,58,40,0.15)",
+    animation: "gentleZoom",      // slow intimate zoom on the scribe
   },
   {
     id: 6,
@@ -64,8 +77,10 @@ const scenes: Scene[] = [
     year: "c. 1500 – 1560",
     narration:
       "Riga is a powerful Hanseatic city. Latin manuscripts fill the monastery libraries. In 1513 the first book is printed in Riga. Then in 1521 the Reformation sweeps through — Protestant doctrines transform the city forever.",
-    credit: "Animated Renaissance woodcut",
+    image: "/images/cartoon/generated/scene_06_parchment.png",
+    credit: "16th-century woodcut print",
     tint: "rgba(90,58,40,0.1)",
+    animation: "panRight",        // scanning across the workshop
   },
   {
     id: 7,
@@ -73,8 +88,10 @@ const scenes: Scene[] = [
     year: "1558 – 1621",
     narration:
       "Ivan the Terrible invades in 1558, igniting decades of war. The Livonian Order dissolves. Riga becomes a prize fought over by Russia, Poland, and Sweden. Armies march and counter-march across the ravaged land. In 1581 Riga falls to Poland-Lithuania.",
-    credit: "Animated 16th-century woodcut siege",
+    image: "/images/cartoon/generated/scene_07_fall.png",
+    credit: "16th-century Hogenberg siege engraving",
     tint: "rgba(107,29,42,0.15)",
+    animation: "zoomIn",          // zooming into the besieged city
   },
   {
     id: 8,
@@ -82,8 +99,10 @@ const scenes: Scene[] = [
     year: "1621 – 1710",
     narration:
       "Gustav II Adolf conquers Riga, making it the largest city in the entire Swedish Empire — larger than Stockholm itself. Schools are founded, Bibles translated, panoramic engravings capture the city's grandeur. But the Great Famine of 1695 brings death.",
-    credit: "Animated Baroque engraving",
+    image: "/images/cartoon/generated/scene_08_swedish.png",
+    credit: "17th-century Baroque copperplate engraving",
     tint: "rgba(26,39,68,0.1)",
+    animation: "panLeft",         // panoramic sweep across the harbor
   },
   {
     id: 9,
@@ -91,8 +110,10 @@ const scenes: Scene[] = [
     year: "1710 – 1795",
     narration:
       "The Russian siege of 1710 and a catastrophic plague kill two-thirds of the population. Peter the Great claims the ruined city. The Treaty of Nystad cedes the Baltic to Russia. Slowly, painfully, Riga rebuilds under imperial rule.",
-    credit: "Animated 18th-century copperplate engraving",
+    image: "/images/cartoon/generated/scene_09_peter.png",
+    credit: "18th-century copperplate engraving, hand-tinted",
     tint: "rgba(26,39,68,0.15)",
+    animation: "zoomOut",         // pulling back to reveal the devastation
   },
   {
     id: 10,
@@ -100,8 +121,10 @@ const scenes: Scene[] = [
     year: "1795 – 1860",
     narration:
       "Napoleon's Grande Armée approaches in 1812 — Riga's suburbs are burned as desperate defence. Serfdom is abolished. Railways arrive. The medieval walls come down. Riga transforms from a walled Hanseatic town into a modern industrial seaport.",
-    credit: "Animated 19th-century lithograph",
+    image: "/images/cartoon/generated/scene_10_industrial.png",
+    credit: "Early 19th-century lithograph",
     tint: "rgba(44,24,16,0.1)",
+    animation: "panRight",        // following the train
   },
   {
     id: 11,
@@ -109,8 +132,10 @@ const scenes: Scene[] = [
     year: "1860 – 1905",
     narration:
       "Population explodes from 77,000 to 282,000 in four decades. Latvians become the city's largest group. The first Song Festival in 1873 ignites national pride. Art Nouveau buildings soar skyward. Riga becomes the third-largest industrial city in the Russian Empire.",
-    credit: "Animated Art Nouveau poster",
+    image: "/images/cartoon/generated/scene_11_awakening.png",
+    credit: "Late 19th-century chromolithograph poster",
     tint: "rgba(196,163,90,0.1)",
+    animation: "tiltUp",          // sweeping up to the flags
   },
   {
     id: 12,
@@ -118,8 +143,10 @@ const scenes: Scene[] = [
     year: "1905 – 1914",
     narration:
       "Imperial Riga reaches its zenith: nearly 600,000 souls, hundreds of Jugendstil masterpieces, a rich tapestry of Latvian, German, Russian, and Jewish cultures. Then in August 1914, mobilisation orders arrive. The Great War begins. An era ends. Nothing will ever be the same.",
-    credit: "Animated expressionist scene",
+    image: "/images/cartoon/generated/scene_12_war.png",
+    credit: "Early 20th-century expressionist woodcut",
     tint: "rgba(107,29,42,0.15)",
+    animation: "dramaPush",       // dramatic slow push into the marching column
   },
 ];
 
@@ -181,16 +208,59 @@ export default function CartoonPage() {
 
   return (
     <div className="fixed inset-0 z-50 bg-black flex flex-col">
+      {/* ── animation keyframes ── */}
+      <style>{`
+        @keyframes panRight {
+          0%   { transform: scale(1.15) translateX(-4%); }
+          100% { transform: scale(1.15) translateX(4%); }
+        }
+        @keyframes panLeft {
+          0%   { transform: scale(1.15) translateX(4%); }
+          100% { transform: scale(1.15) translateX(-4%); }
+        }
+        @keyframes zoomIn {
+          0%   { transform: scale(1.0); }
+          100% { transform: scale(1.2); }
+        }
+        @keyframes zoomOut {
+          0%   { transform: scale(1.25); }
+          100% { transform: scale(1.0); }
+        }
+        @keyframes tiltUp {
+          0%   { transform: scale(1.2) translateY(5%); }
+          100% { transform: scale(1.2) translateY(-5%); }
+        }
+        @keyframes gentleZoom {
+          0%   { transform: scale(1.0) translate(0, 0); }
+          100% { transform: scale(1.12) translate(-1%, -2%); }
+        }
+        @keyframes dramaPush {
+          0%   { transform: scale(1.0) translateY(0); }
+          60%  { transform: scale(1.15) translateY(-1%); }
+          100% { transform: scale(1.22) translateY(-2%); }
+        }
+      `}</style>
+
       {/* ── image + overlay ── */}
       <div
         className={`flex-1 relative overflow-hidden transition-opacity duration-700 ${fade ? "opacity-100" : "opacity-0"}`}
       >
-        {/* animated SVG illustration */}
+        {/* animated background image */}
         <div
           className="absolute inset-0"
           key={scene.id}
+          style={{
+            animation: `${scene.animation} 10s ease-in-out forwards`,
+          }}
         >
-          <SceneIllustration sceneId={scene.id} />
+          <Image
+            src={scene.image}
+            alt={scene.title}
+            fill
+            className="object-cover"
+            sizes="100vw"
+            priority
+          />
         </div>
 
         {/* colour tint */}
@@ -333,7 +403,6 @@ export default function CartoonPage() {
           </button>
         </div>
       </div>
-
     </div>
   );
 }

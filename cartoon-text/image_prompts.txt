@@ -1,0 +1,90 @@
+RIGA TIME TRAVEL — IMAGE GENERATION PROMPTS
+=============================================
+Each prompt uses ONLY the visual media that actually existed during that period.
+Aspect ratio: 16:10 (website full-screen)
+
+
+SCENE 1 — THE CRUSADERS SAIL EAST (1198–1201)
+Visual media of the period: manuscript illuminations, mosaic, Romanesque church frescoes
+
+/imagine A cog ship carrying crusaders across the Baltic Sea toward a dark forested coast, bishop with a cross standing at the bow, based on an actual 12th-century manuscript illumination, tempera and gold leaf on vellum, Romanesque style with flat figures and no perspective, bold outlines, vermillion red and ultramarine blue pigments, burnished gold leaf background, the visual language of the Winchester Bible or Moralia in Job manuscripts --ar 16:10 --s 750 --style raw
+
+
+SCENE 2 — THE SWORD BROTHERS (1202–1236)
+Visual media of the period: manuscript illuminations, seal impressions, early heraldic art
+
+/imagine Armored knights of the Livonian Order on horseback with red cross-and-sword shields attacking a Baltic tribal settlement, based on a 13th-century chronicle manuscript illumination like the Maciejowski Bible, opaque tempera on vellum, flat spatial composition with stacked registers, bold black outlines, heraldic shields, figures in chain mail with great helms, limited palette of red ochre blue and gold leaf --ar 16:10 --s 750 --style raw
+
+
+SCENE 3 — THE CATASTROPHE AT SAULE (22 September 1236)
+Visual media of the period: manuscript illuminations, chronicle marginalia
+
+/imagine Fallen crusader knights lying in marshland surrounded by forest, Lithuanian warriors with wooden shields and spears standing victorious, based on a 13th-century battle chronicle marginalia illustration like those in Matthew Paris chronicles, ink and wash on vellum, tinted drawing style, minimal color, cross-hatched shading, annotated manuscript page with Latin text fragments visible at edges --ar 16:10 --s 750 --style raw
+
+
+SCENE 4 — CASTLES RISE ACROSS LIVONIA (1237–1290)
+Visual media of the period: manuscript illuminations, architectural plans on vellum, wax seals
+
+/imagine A Teutonic Order stone castle under construction on a Livonian river bank with scaffolding and workers, based on a 13th-century architectural manuscript drawing like those in Villard de Honnecourt sketchbook, ink on vellum with geometric construction lines visible, elevation and cutaway views combined, figures of masons with tools, Gothic architectural details, brown ink with red and gold accents --ar 16:10 --s 750 --style raw
+
+
+SCENE 5 — THE CHRONICLER'S QUILL (c. 1290)
+Visual media of the period: illuminated manuscripts, decorated initials, colophon pages
+
+/imagine A monk writing the Livonian Rhymed Chronicle at a scriptorium desk with quill and ink, based on a 13th-century illuminated manuscript author portrait like the Codex Manesse miniatures, tempera and gold leaf on vellum, the scribe seated within a decorated initial letter, Gothic architectural frame, Middle High German text lines visible on the parchment, rich lapis blue and gold leaf background --ar 16:10 --s 750 --style raw
+
+
+SCENE 6 — THE AGE OF PARCHMENT (c. 1500–1560)
+Visual media of the period: woodcut prints, movable type, incunabula title pages, early maps
+
+/imagine A printing press workshop producing the Riga Breviary of 1513, based on an actual early 16th-century woodcut print like those by Jost Amman or the Nuremberg Chronicle, black line woodcut on laid paper, a printer operating a wooden screw press, type cases on shelves, printed sheets hanging to dry, strong black outlines with parallel-line shading, no color, visible wood grain texture in the cut --ar 16:10 --s 750 --style raw
+
+
+SCENE 7 — THE FALL OF LIVONIA (1558–1621)
+Visual media of the period: woodcut broadsheets, engraved battle maps, siege illustrations
+
+/imagine Siege of Riga with cannon bombardment breaking through city walls, soldiers with muskets and pikes storming the breach, based on a 16th-century German broadsheet woodcut or Hogenberg engraving, detailed black ink line engraving on paper, bird's-eye view of fortified city with labeled bastions, smoke from cannon fire, period military formations, text cartouche at bottom, aged yellowed paper --ar 16:10 --s 750 --style raw
+
+
+SCENE 8 — THE SWEDISH CROWN (1621–1710)
+Visual media of the period: copperplate engravings, city panoramas, naval prints, Baroque portraits
+
+/imagine Panoramic view of Swedish Riga from across the Daugava river with warships in harbor, based on an actual 17th-century copperplate engraving like those by Matthäus Merian or Erik Dahlbergh Suecia Antiqua, fine parallel burin lines on copper, detailed city skyline with numbered church spires, ships with Swedish flags, decorative Baroque cartouche with title and coat of arms, sky rendered in graduated line density --ar 16:10 --s 750 --style raw
+
+
+SCENE 9 — PETER'S CITY (1710–1795)
+Visual media of the period: copperplate engravings, mezzotints, hand-colored maps, architectural drawings
+
+/imagine The devastated city of Riga after the 1710 siege and plague, Russian soldiers raising the imperial eagle standard over ruins, based on an 18th-century copperplate engraving in the style of period battle prints, fine cross-hatching and stipple technique, dramatic sky with engraved cloud formations, ruined buildings rendered in precise architectural detail, hand-tinted with watercolor washes in sepia and grey-blue, engraved border with scale and compass rose --ar 16:10 --s 750 --style raw
+
+
+SCENE 10 — THE INDUSTRIAL TITAN (1795–1860)
+Visual media of the period: lithographs, steel engravings, daguerreotypes, topographic prints
+
+/imagine A steam locomotive arriving at Riga's new railway station with factory smokestacks in background and medieval walls being demolished, based on an early 19th-century lithograph print like those by Godfrey Engelmann, crayon lithograph on stone with soft tonal gradations, Romantic-era composition, sepia and warm grey tones, fine grain texture of lithographic stone visible, figures in top hats and frock coats, horses and carriages on cobblestones --ar 16:10 --s 750 --style raw
+
+
+SCENE 11 — THE LATVIAN AWAKENING (1860–1905)
+Visual media of the period: chromolithograph posters, photogravure, Art Nouveau prints, early photography
+
+/imagine The First Latvian Song Festival of 1873 with a massive choir on an outdoor stage and red-white-red Latvian flags, based on a late 19th-century chromolithograph poster, full color lithographic printing with halftone dots visible, Art Nouveau decorative border with organic floral ornaments, Jugendstil lettering, the visual style of Alphonse Mucha or the Secession movement, warm golden amber and forest green palette --ar 16:10 --s 750 --style raw
+
+
+SCENE 12 — THE EVE OF WAR (1905–1914)
+Visual media of the period: photogravure, halftone newspaper prints, propaganda posters, expressionist prints
+
+/imagine Soldiers marching through Art Nouveau Riga streets under a blood-red sky with civilians watching from doorways, based on an early 20th-century expressionist linocut or woodcut print in the style of Die Brücke artists Ernst Ludwig Kirchner or Karl Schmidt-Rottluff, bold angular carved forms, stark red and black ink on rough paper, dramatic high-contrast composition, visible knife cuts and wood grain, raw emotional intensity --ar 16:10 --s 750 --style raw
+
+
+NOTES:
+- Each prompt references ONLY visual techniques and media that existed during that period
+- Reference artists and print traditions are historically accurate to the date range
+- 1198-1290: manuscript illumination (the only visual medium)
+- 1290-1500: illuminated manuscripts, decorated initials
+- 1500-1560: woodcut prints (Gutenberg era)
+- 1558-1621: woodcut broadsheets, early copper engravings
+- 1621-1710: copperplate engravings (golden age of printmaking)
+- 1710-1795: copperplate, mezzotint, hand-colored prints
+- 1795-1860: lithography, steel engraving
+- 1860-1905: chromolithography, Art Nouveau, early photography
+- 1905-1914: expressionist prints, halftone, propaganda posters
