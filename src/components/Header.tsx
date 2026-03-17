@@ -7,6 +7,7 @@ const navLinks = [
   { href: "/", label: "Home" },
   { href: "/about", label: "About the Book" },
   { href: "/books/livonian-chronicle", label: "Sample" },
+  { href: "/cartoon", label: "Cartoon" },
   { href: "/chapters", label: "Timeline" },
   { href: "/gallery", label: "Gallery" },
   { href: "/author", label: "Diatom Art" },
