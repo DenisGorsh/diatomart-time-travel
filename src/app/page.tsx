@@ -26,12 +26,9 @@ export default function HomePage() {
             A visual journey through 400 years of Riga’s history, told through
             original archival documents from the Latvian National Archive Library.
           </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link href="/chapters" className="bg-gold text-ink px-8 py-3 tracking-wide hover:bg-gold-light transition-colors">
-              Explore the Chapters
-            </Link>
-            <Link href="/timeline" className="border border-parchment/30 px-8 py-3 tracking-wide hover:border-gold hover:text-gold transition-colors">
-              View the Timeline
+          <div className="flex justify-center">
+            <Link href="/chapters" className="bg-gold text-ink px-10 py-3 text-lg tracking-wide hover:bg-gold-light transition-colors">
+              Start Time Journey
             </Link>
           </div>
         </div>
@@ -41,7 +38,7 @@ export default function HomePage() {
       <section className="bg-parchment-dark py-12">
         <div className="max-w-5xl mx-auto px-4 grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
           {[
-            ['400+', 'Years of History'],
+            ['700+', 'Years of History'],
             ['80–120', 'Archive Documents'],
             ['3', 'Languages'],
             ['7', 'Chapters'],

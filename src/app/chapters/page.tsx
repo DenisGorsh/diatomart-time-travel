@@ -31,6 +31,10 @@ const timelineEvents = [
   { year: "1905", text: "Revolution \u2014 Latvian national movement strengthens", chapter: 7 },
   { year: "1913", text: "Population nearly 600,000 \u2014 peak of Imperial Riga", chapter: 7 },
   { year: "1914", text: "World War I begins \u2014 end of an era", chapter: 7 },
+  { year: "1915", text: "Latvian Riflemen battalions formed on the Eastern Front", chapter: 7 },
+  { year: "1917", text: "German army captures Riga \u2014 occupation begins", chapter: 7 },
+  { year: "1918", text: "18 November \u2014 Latvia declares independence", chapter: 7 },
+  { year: "1919", text: "War of Independence \u2014 the Latvian Republic is secured", chapter: 7 },
 ];
 
 const chapterColors = [
@@ -56,7 +60,7 @@ export default function ChaptersPage() {
             Seven Chapters
           </h1>
           <p className="text-parchment/70 text-lg">
-            From the founding of Riga in 1201 to the eve of the Great War
+            From the founding of Riga in 1201 to independence in 1919
           </p>
         </div>
       </section>
@@ -66,7 +70,7 @@ export default function ChaptersPage() {
         <div className="max-w-6xl mx-auto px-4">
           <SectionHeading
             title="Timeline of Riga"
-            subtitle="713 years from founding to the First World War"
+            subtitle="718 years from founding to independence"
           />
 
           {/* Visual timeline bar */}
@@ -80,7 +84,7 @@ export default function ChaptersPage() {
                 const endYear = endMatch
                   ? parseInt(endMatch[0])
                   : startYear + 50;
-                const totalSpan = 1914 - 1201;
+                const totalSpan = 1919 - 1201;
                 const left = ((startYear - 1201) / totalSpan) * 100;
                 const width = ((endYear - startYear) / totalSpan) * 100;
                 return (
@@ -103,7 +107,7 @@ export default function ChaptersPage() {
               <span>1400</span>
               <span>1600</span>
               <span>1800</span>
-              <span>1914</span>
+              <span>1919</span>
             </div>
           </div>
 
