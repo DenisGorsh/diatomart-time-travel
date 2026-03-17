@@ -12,7 +12,7 @@ export default function GalleryPage() {
           <p className="text-gold tracking-[0.3em] uppercase text-sm mb-3">
             The Archive
           </p>
-          <h1 className="font-display text-4xl sm:text-5xl mb-4">Gallery</h1>
+          <h1 className="font-gothic text-4xl sm:text-5xl mb-4">Gallery</h1>
           <p className="text-parchment/70 text-lg">
             {galleryItems.length} historical documents and images spanning seven
             centuries

@@ -11,7 +11,7 @@ export default function ContactPage() {
       <section className="bg-navy text-parchment py-16">
         <div className="max-w-4xl mx-auto px-4 text-center">
           <p className="text-gold tracking-[0.3em] uppercase text-sm mb-3">Get in Touch</p>
-          <h1 className="font-display text-4xl sm:text-5xl mb-4">Contact</h1>
+          <h1 className="font-gothic text-4xl sm:text-5xl mb-4">Contact</h1>
           <p className="text-parchment/70 text-lg">Questions, collaborations, or press inquiries</p>
         </div>
       </section>

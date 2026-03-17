@@ -52,7 +52,7 @@ export default function ChaptersPage() {
           <p className="text-gold tracking-[0.3em] uppercase text-sm mb-3">
             The Journey
           </p>
-          <h1 className="font-display text-4xl sm:text-5xl mb-4">
+          <h1 className="font-gothic text-4xl sm:text-5xl mb-4">
             Seven Chapters
           </h1>
           <p className="text-parchment/70 text-lg">
@@ -160,7 +160,7 @@ export default function ChaptersPage() {
                   {String(ch.id).padStart(2, "0")}
                 </span>
                 <div>
-                  <h2 className="font-display text-3xl text-ink">
+                  <h2 className="font-gothic text-3xl text-ink">
                     {ch.title}
                   </h2>
                   <p className="text-ink-light">

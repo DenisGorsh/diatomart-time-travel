@@ -14,6 +14,7 @@
   --font-serif: "Georgia", "Times New Roman", serif;
   --font-display: "Palatino Linotype", "Book Antiqua", "Palatino", serif;
   --font-gothic: "UnifrakturMaguntia", "Georgia", serif;
+  --font-medieval: "MedievalSharp", "Georgia", serif;
 }
 
 html { scroll-behavior: smooth; }

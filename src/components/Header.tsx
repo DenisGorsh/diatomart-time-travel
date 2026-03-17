@@ -21,11 +21,8 @@ export function Header() {
     <header className="bg-navy text-parchment sticky top-0 z-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6">
         <div className="flex items-center justify-between h-16">
-          <Link
-            href="/"
-            className="font-display text-xl tracking-wider text-gold"
-          >
-            DIATOM ART
+          <Link href="/" className="font-gothic text-2xl text-gold">
+            Diatom Art
           </Link>
 
           {/* Desktop nav */}
@@ -34,7 +31,7 @@ export function Header() {
               <Link
                 key={link.href}
                 href={link.href}
-                className="text-sm tracking-wide text-parchment/80 hover:text-gold transition-colors"
+                className="font-medieval text-sm text-parchment/80 hover:text-gold transition-colors"
               >
                 {link.label}
               </Link>
@@ -79,7 +76,7 @@ export function Header() {
               <Link
                 key={link.href}
                 href={link.href}
-                className="text-sm tracking-wide text-parchment/80 hover:text-gold transition-colors py-1"
+                className="font-medieval text-sm text-parchment/80 hover:text-gold transition-colors py-1"
                 onClick={() => setMenuOpen(false)}
               >
                 {link.label}

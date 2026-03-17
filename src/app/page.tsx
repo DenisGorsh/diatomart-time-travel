@@ -11,8 +11,8 @@ export default function HomePage() {
         <div className="absolute inset-0 opacity-10" style={{ backgroundImage: 'url(/images/texture.svg)', backgroundSize: '200px' }} />
         <div className="relative max-w-4xl mx-auto px-4 text-center">
           <p className="text-gold tracking-[0.3em] uppercase text-sm mb-4">Diatom Art Presents</p>
-          <h1 className="font-gothic text-6xl sm:text-8xl mb-6 leading-tight">
-            Time Travel
+          <h1 className="font-gothic text-5xl sm:text-8xl mb-6 leading-tight">
+            Riga Time Travel
           </h1>
           <p className="text-xl sm:text-2xl text-parchment/80 font-display mb-2">
             Путешествие во времени

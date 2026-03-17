@@ -6,7 +6,7 @@ export function Footer() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
-            <h3 className="font-display text-gold text-lg mb-3">Diatom Art</h3>
+            <h3 className="font-gothic text-gold text-xl mb-3">Diatom Art</h3>
             <p className="text-sm leading-relaxed">
               Publishing house dedicated to preserving and celebrating Riga&apos;s
               cultural heritage through fine art books.
