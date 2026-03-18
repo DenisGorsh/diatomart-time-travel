@@ -11,13 +11,13 @@ export default function HomePage() {
         <div className="absolute inset-0 opacity-10" style={{ backgroundImage: 'url(/images/texture.svg)', backgroundSize: '200px' }} />
         <div className="relative max-w-4xl mx-auto px-4 text-center">
           <p className="text-gold tracking-[0.3em] uppercase text-sm mb-4">Diatom Art Presents</p>
-          <h1 className="font-gothic text-5xl sm:text-8xl mb-4 leading-tight">
+          <h1 className="font-medieval text-5xl sm:text-8xl mb-4 leading-tight">
             R\u012bgas Laika Ce\u013cojums
           </h1>
-          <p className="font-fell text-xl sm:text-2xl text-parchment/70 mb-1 tracking-wide">
+          <p className="font-gothic text-2xl sm:text-3xl text-parchment/70 mb-1">
             Riga Time Travel
           </p>
-          <p className="font-uncial text-lg sm:text-xl text-parchment/60">
+          <p className="font-display text-lg sm:text-xl text-parchment/50 italic">
             \u0420\u0438\u0433\u0430 \u2014 \u041f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0438\u0435 \u0432\u043e \u0412\u0440\u0435\u043c\u0435\u043d\u0438
           </p>
           <div className="flex items-center justify-center gap-3 my-8">
