@@ -24,7 +24,7 @@ export default function RootLayout({
           crossOrigin="anonymous"
         />
         <link
-          href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=MedievalSharp&display=swap"
+          href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=MedievalSharp&family=Uncial+Antiqua&family=IM+Fell+English+SC&display=swap"
           rel="stylesheet"
         />
       </head>

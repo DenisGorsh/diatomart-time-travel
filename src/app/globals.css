@@ -15,6 +15,8 @@
   --font-display: "Palatino Linotype", "Book Antiqua", "Palatino", serif;
   --font-gothic: "UnifrakturMaguntia", "Georgia", serif;
   --font-medieval: "MedievalSharp", "Georgia", serif;
+  --font-uncial: "Uncial Antiqua", "Georgia", serif;
+  --font-fell: "IM Fell English SC", "Georgia", serif;
 }
 
 html { scroll-behavior: smooth; }

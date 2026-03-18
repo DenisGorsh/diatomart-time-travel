@@ -19,6 +19,17 @@ export const timelineBooks: Record<string, TimelineBook[]> = {
     { title: "The Livonian Rhymed Chronicle", author: "trans. Jerry C. Smith & William L. Urban", year: "1977", lang: "English", thumbnail: "/images/gallery/manuscript-livonian-chronicle-193r.jpg", bookSlug: "livonian-chronicle" },
   ],
   "1282": [
+    // PRIMARY SOURCES — original documents
+    { title: "Hansisches Urkundenbuch, Bd. 1: Nr. 906 \u2014 Riga-L\u00fcbeck-Visby Compact", author: "ed. K. H\u00f6hlbaum", year: "1876", lang: "Latin/German", thumbnail: "/images/gallery/p311_Nr906_1282_Riga_compact.jpg", externalUrl: "https://www.digitale-sammlungen.de/en/view/bsb11327101?page=335" },
+    { title: "Hansisches Urkundenbuch, Bd. 1: Nr. 863 \u2014 L\u00fcbeck-Visby Treaty (1280)", author: "ed. K. H\u00f6hlbaum", year: "1876", lang: "Latin/German", thumbnail: "/images/gallery/p299_Nr863_1280_Lubeck_Visby_treaty.jpg", externalUrl: "https://www.digitale-sammlungen.de/en/view/bsb11327101?page=323" },
+    { title: "Liv-, Esth- u. Curl\u00e4ndisches Urkundenbuch, Bd. 1: Nr. 548 \u2014 Riga Hanseatic Compact", author: "ed. F.G. von Bunge", year: "1853", lang: "Latin/German", thumbnail: "/images/gallery/n603_Nr548_1282_RIGA_LUBECK_VISBY_COMPACT.jpg", externalUrl: "https://archive.org/details/bub_gb_xXlOAAAAcAAJ" },
+    { title: "Livl\u00e4ndische Reimchronik (Cod. Pal. germ. 367)", author: "Anonymous", year: "c. 1290", lang: "Middle High German", thumbnail: "/images/gallery/folio_259r_riga_trade_hub.jpg", bookSlug: "livonian-chronicle" },
+    { title: "Novgorod\u2013German Trade Agreement (UNESCO)", author: "Novgorod / German cities / Gotland", year: "1259\u20131263", lang: "Old Church Slavonic", thumbnail: "/images/gallery/LVVA_1259_trade_agreement_novgorod.jpg", externalUrl: "https://www.arhivi.gov.lv/en/unesco-pasaules-atminas-registra-ieklautie-hanzas-vestures-dokumenti" },
+    { title: "Smolensk\u2013Riga\u2013Gotland Trade Treaty", author: "Prince Mstislav Davidovich", year: "1229", lang: "Old Russian", thumbnail: "/images/gallery/smolensk_1229_parchment_front.jpg", externalUrl: "https://www.schaeken.nl/lu/research/online/editions/1229/index.html" },
+    { title: "Novgorod Kontor Regulations (UNESCO)", author: "Hanseatic Kontor", year: "1295", lang: "Low German", thumbnail: "/images/gallery/LVVA_1295_novgorod_kontor_regulations.jpg", externalUrl: "https://www.arhivi.gov.lv/en/unesco-pasaules-atminas-registra-ieklautie-hanzas-vestures-dokumenti" },
+    { title: "Urkundenbuch der Stadt L\u00fcbeck", author: "Verein f\u00fcr L\u00fcbeckische Geschichte", year: "1843\u20131905", lang: "Latin/German", thumbnail: "/images/gallery/title_page.jpg", externalUrl: "https://archive.org/details/bub_gb_2TwOAAAAQAAJ" },
+    // SECONDARY SOURCES — scholarly works
+    { title: "Geschichte der Stadt Riga", author: "Constantin Mettig", year: "1897", lang: "German", thumbnail: "/images/gallery/mettig_1897_p225_ansicht_von_riga.jpg", externalUrl: "http://dspace.ut.ee/handle/10062/46505" },
     { title: "The Hanse in Medieval and Early Modern Europe", author: "Justyna Wubs-Mrozewicz", year: "2013", lang: "English" },
     { title: "Die Hanse", author: "Philippe Dollinger", year: "1970", lang: "German/French" },
     { title: "Riga als Hansestadt", author: "Friedrich Benninghoven", year: "1961", lang: "German" },
