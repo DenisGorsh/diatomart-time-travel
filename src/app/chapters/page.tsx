@@ -1,7 +1,9 @@
+import Link from "next/link";
 import { chapters } from "@/data/chapters";
 import { SectionHeading } from "@/components/SectionHeading";
 import { BookIcons } from "@/components/BookTooltip";
 import { timelineBooks } from "@/data/timelineBooks";
+import { books } from "@/data/books";
 
 export const metadata = { title: "Chapters \u2014 Time Travel \u2014 Diatom Art" };
 
@@ -144,6 +146,48 @@ export default function ChaptersPage() {
                 );
               })}
             </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Translated Source Books */}
+      <section className="bg-navy text-parchment py-12 border-b border-gold/20">
+        <div className="max-w-6xl mx-auto px-4">
+          <div className="text-center mb-8">
+            <h2 className="font-gothic text-2xl sm:text-3xl text-parchment/80 mb-2">Primary Source Books</h2>
+            <p className="text-parchment/40 text-sm">Read the original chronicles with full English translations</p>
+          </div>
+          <div className="grid sm:grid-cols-3 gap-4">
+            {books.map((b) => {
+              const isComplete = b.slug !== "hennenberger-1595";
+              return (
+                <Link
+                  key={b.slug}
+                  href={`/books/${b.slug}`}
+                  className="group border border-gold/15 hover:border-gold/40 p-4 transition-all"
+                >
+                  <div className="flex items-start justify-between gap-2 mb-2">
+                    <p className="font-display text-base text-gold/80 group-hover:text-gold-light transition-colors leading-tight">
+                      {b.title}
+                    </p>
+                    {isComplete ? (
+                      <span className="flex-shrink-0 text-[9px] bg-gold/20 text-gold px-1.5 py-0.5 tracking-wider uppercase">
+                        100%
+                      </span>
+                    ) : (
+                      <span className="flex-shrink-0 text-[9px] bg-parchment/10 text-parchment/40 px-1.5 py-0.5 tracking-wider uppercase">
+                        9%
+                      </span>
+                    )}
+                  </div>
+                  <p className="text-[10px] text-parchment/35 italic mb-1">{b.subtitle}</p>
+                  <div className="flex justify-between text-[10px] text-parchment/30">
+                    <span>{b.date} &middot; {b.language}</span>
+                    <span>{b.totalPages} pp.</span>
+                  </div>
+                </Link>
+              );
+            })}
           </div>
         </div>
       </section>
