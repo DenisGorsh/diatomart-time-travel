@@ -10,7 +10,7 @@ export interface TimelineBook {
 
 export const timelineBooks: Record<string, TimelineBook[]> = {
   "1201": [
-    { title: "Chronicon Livoniae", author: "Henry of Livonia", year: "c. 1227", lang: "Latin", thumbnail: "/images/gallery/manuscript-livonian-chronicle-192r.jpg", externalUrl: "https://archive.org/details/heinricischronic00hein" },
+    { title: "Chronicon Livoniae", author: "Henry of Livonia", year: "c. 1227", lang: "Latin", thumbnail: "/images/chronicon/p001.jpg", bookSlug: "chronicon-livoniae" },
     { title: "Livl\u00e4ndische Reimchronik", author: "Anonymous", year: "c. 1290", lang: "Middle High German", thumbnail: "/images/gallery/manuscript-livonian-chronicle-192r.jpg", bookSlug: "livonian-chronicle" },
     { title: "The Northern Crusades", author: "Eric Christiansen", year: "1997", lang: "English" },
   ],

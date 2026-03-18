@@ -3,11 +3,12 @@
 import { use, useState, useEffect, useRef, useCallback } from "react";
 import { notFound } from "next/navigation";
 import Image from "next/image";
-import Link from "next/link";
 import { books } from "@/data/books";
 import { chroniclePages } from "@/data/chroniclePages";
 import { allFolioTranslations } from "@/data/chronicleTranslations";
 import { fullFolioTranslations } from "@/data/fullTranslations";
+import { chroniconPages } from "@/data/chroniconPages";
+import { chroniconFullTranslations } from "@/data/chroniconFullTranslations";
 
 /* ---------- build merged page data ---------- */
 interface PageData {
@@ -19,7 +20,22 @@ interface PageData {
   notes?: string;
 }
 
-function buildPages(): PageData[] {
+function buildPages(slug: string): PageData[] {
+  if (slug === "chronicon-livoniae") {
+    return chroniconPages.map((p, i) => {
+      const full = chroniconFullTranslations[p.label];
+      return {
+        idx: i,
+        label: p.label,
+        file: p.file,
+        original: full?.original || undefined,
+        english: full?.english || "",
+        notes: undefined,
+      };
+    });
+  }
+
+  // Default: Livonian Rhymed Chronicle
   return chroniclePages.map((p, i) => {
     const full = fullFolioTranslations[p.label];
     const t = allFolioTranslations[p.label];
@@ -46,8 +62,10 @@ export default function BookPage({
   const book = books.find((b) => b.slug === slug);
   if (!book) return notFound();
 
-  const allPages = useRef(buildPages()).current;
+  const allPages = useRef(buildPages(slug)).current;
   const total = allPages.length;
+
+  const pageLabel = slug === "chronicon-livoniae" ? "Page" : "Folio";
 
   const [loadedTo, setLoadedTo] = useState(CHUNK);
   const [activeIdx, setActiveIdx] = useState(0);
@@ -224,7 +242,7 @@ export default function BookPage({
             </p>
             <p className="text-sm text-ink-light/60">
               {book.date} &middot; {book.author} &middot; {book.language}{" "}
-              &middot; {total} folios
+              &middot; {total} pages
             </p>
             <div className="mt-4 flex items-center justify-center gap-3">
               <span className="block w-12 h-px bg-gold" />
@@ -250,7 +268,7 @@ export default function BookPage({
               <div className="flex items-center gap-4 mb-6">
                 <span className="block flex-1 h-px bg-gold/30" />
                 <span className="font-display text-sm text-gold tracking-widest uppercase">
-                  Folio {page.label}
+                  {pageLabel} {page.label}
                 </span>
                 <span className="text-[10px] text-ink-light/40">
                   {page.idx + 1} of {total}
@@ -265,7 +283,7 @@ export default function BookPage({
                   <div className="relative aspect-[3/4] bg-parchment-dark border border-gold/20 sticky top-36">
                     <Image
                       src={page.file}
-                      alt={`Folio ${page.label}`}
+                      alt={`${pageLabel} ${page.label}`}
                       fill
                       className="object-contain"
                       sizes="(max-width: 768px) 100vw, 320px"
@@ -286,14 +304,22 @@ export default function BookPage({
                     </div>
                   )}
 
-                  <div>
-                    <p className="text-[10px] tracking-widest text-gold uppercase mb-2">
-                      English Translation
-                    </p>
-                    <div className="text-[15px] text-ink-light leading-[1.8] whitespace-pre-line">
-                      {page.english}
+                  {page.english ? (
+                    <div>
+                      <p className="text-[10px] tracking-widest text-gold uppercase mb-2">
+                        English Translation
+                      </p>
+                      <div className="text-[15px] text-ink-light leading-[1.8] whitespace-pre-line">
+                        {page.english}
+                      </div>
                     </div>
-                  </div>
+                  ) : (
+                    <div className="py-8 text-center">
+                      <p className="text-sm text-ink-light/40 italic">
+                        Translation in progress...
+                      </p>
+                    </div>
+                  )}
 
                   {page.notes && (
                     <div className="bg-parchment-dark/60 border border-gold/15 px-4 py-3 mt-4">
@@ -314,7 +340,7 @@ export default function BookPage({
           {loadedTo < total && (
             <div ref={sentinelRef} className="text-center py-12">
               <p className="text-sm text-ink-light/50">
-                Loading more folios&hellip; ({loadedTo} of {total} loaded)
+                Loading more pages&hellip; ({loadedTo} of {total} loaded)
               </p>
             </div>
           )}
@@ -329,7 +355,7 @@ export default function BookPage({
               </div>
               <p className="font-display text-lg text-ink">Finis</p>
               <p className="text-sm text-ink-light/60 mt-1">
-                End of the Livonian Rhymed Chronicle &middot; {total} folios
+                End of {book.title} &middot; {total} pages
               </p>
               <p className="text-[10px] text-ink-light/40 mt-3">
                 {book.source}
