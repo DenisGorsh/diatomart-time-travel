@@ -15,7 +15,7 @@ export function Footer() {
           <div>
             <h3 className="font-display text-gold text-lg mb-3">Navigate</h3>
             <div className="flex flex-col gap-1 text-sm">
-              <Link href="/about" className="hover:text-gold transition-colors">About the Book</Link>
+              <Link href="/about" className="hover:text-gold transition-colors">About Project</Link>
               <Link href="/chapters" className="hover:text-gold transition-colors">Chapters</Link>
               <Link href="/gallery" className="hover:text-gold transition-colors">Gallery</Link>
               <Link href="/timeline" className="hover:text-gold transition-colors">Timeline</Link>

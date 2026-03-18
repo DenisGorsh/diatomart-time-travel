@@ -17,6 +17,7 @@
   --font-medieval: "MedievalSharp", "Georgia", serif;
   --font-uncial: "Uncial Antiqua", "Georgia", serif;
   --font-fell: "IM Fell English SC", "Georgia", serif;
+  --font-hand: "Caveat", "Georgia", cursive;
 }
 
 html { scroll-behavior: smooth; }
@@ -30,4 +31,167 @@ body {
 ::selection {
   background-color: var(--color-gold);
   color: var(--color-ink);
+}
+
+/* ── Aged manuscript page effects ── */
+
+/* Ink blot splatters - pure CSS */
+.ink-blot {
+  position: absolute;
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 2;
+}
+.ink-blot::before,
+.ink-blot::after {
+  content: '';
+  position: absolute;
+  border-radius: 50%;
+  background: inherit;
+}
+
+/* Foxing spots (brown age spots on paper) */
+.foxing-spot {
+  position: absolute;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(139, 100, 60, 0.15) 0%, rgba(139, 100, 60, 0.05) 60%, transparent 100%);
+  pointer-events: none;
+  z-index: 1;
+}
+
+/* Water stain ring */
+.water-stain {
+  position: absolute;
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 1;
+  background: radial-gradient(circle, transparent 55%, rgba(160, 130, 80, 0.08) 60%, rgba(160, 130, 80, 0.12) 65%, rgba(160, 130, 80, 0.05) 70%, transparent 75%);
+}
+
+/* Margin note handwriting style */
+.margin-note {
+  font-family: var(--font-hand);
+  color: rgba(70, 40, 20, 0.55);
+  position: absolute;
+  pointer-events: none;
+  line-height: 1.3;
+  z-index: 3;
+}
+.margin-note.faded {
+  color: rgba(70, 40, 20, 0.3);
+}
+
+/* Worm hole */
+.worm-hole {
+  position: absolute;
+  width: 3px;
+  height: 3px;
+  border-radius: 50%;
+  background: rgba(80, 50, 20, 0.25);
+  box-shadow: 0 0 2px rgba(80, 50, 20, 0.15);
+  pointer-events: none;
+  z-index: 2;
+}
+
+/* Manuscript page wrapper */
+.manuscript-page {
+  position: relative;
+  background:
+    /* Subtle vertical fibres */
+    repeating-linear-gradient(
+      90deg,
+      transparent,
+      transparent 3px,
+      rgba(139, 100, 60, 0.02) 3px,
+      rgba(139, 100, 60, 0.02) 4px
+    ),
+    /* Warm parchment base with uneven color */
+    radial-gradient(ellipse at 20% 50%, #f7f2ea 0%, #f0e8d8 50%, #e8dcc5 100%);
+}
+
+/* Torn/rough page edge effect */
+.page-edge-left {
+  position: absolute;
+  left: -2px;
+  top: 0;
+  bottom: 0;
+  width: 30px;
+  pointer-events: none;
+  z-index: 4;
+  background: linear-gradient(to right, var(--color-parchment) 0%, transparent 100%);
+  mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 400' preserveAspectRatio='none'%3E%3Cpath d='M0,0 L30,0 L28,20 L30,40 L27,60 L30,80 L29,100 L30,120 L27,140 L30,160 L28,180 L30,200 L27,220 L30,240 L29,260 L30,280 L27,300 L30,320 L28,340 L30,360 L27,380 L30,400 L0,400 Z' fill='white'/%3E%3C/svg%3E");
+  mask-size: 100% 100%;
+}
+
+/* Aged page border shadow */
+.page-shadow {
+  box-shadow:
+    inset 0 0 80px rgba(120, 80, 40, 0.08),
+    inset 0 0 20px rgba(120, 80, 40, 0.05),
+    /* Darker corners */
+    inset 40px 40px 60px rgba(100, 70, 30, 0.06),
+    inset -40px -40px 60px rgba(100, 70, 30, 0.06),
+    inset 40px -40px 60px rgba(100, 70, 30, 0.04),
+    inset -40px 40px 60px rgba(100, 70, 30, 0.04);
+}
+
+/* Red/brown initial drop cap style */
+.drop-cap-ornate::first-letter {
+  font-family: var(--font-medieval);
+  float: left;
+  font-size: 4.5em;
+  line-height: 0.75;
+  padding-right: 0.1em;
+  color: #8b1a1a;
+  text-shadow: 1px 1px 0 rgba(139, 26, 26, 0.2);
+}
+
+/* Crossed-out text */
+.struck-through {
+  text-decoration: line-through;
+  text-decoration-color: rgba(70, 40, 20, 0.4);
+  text-decoration-thickness: 1.5px;
+}
+
+/* Faded red marginalia number */
+.folio-number {
+  font-family: var(--font-hand);
+  color: rgba(139, 26, 26, 0.35);
+  font-size: 1rem;
+  position: absolute;
+  pointer-events: none;
+  z-index: 3;
+}
+
+/* Printer's ornament line */
+.ornament-line {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  opacity: 0.6;
+}
+.ornament-line::before,
+.ornament-line::after {
+  content: '';
+  flex: 1;
+  max-width: 120px;
+  height: 1px;
+  background: linear-gradient(to right, transparent, #8b6440, transparent);
+}
+
+/* Quill pen scratch lines */
+.pen-test {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+  height: 2px;
+  background: linear-gradient(to right, rgba(44, 24, 16, 0.3), rgba(44, 24, 16, 0.1), transparent);
+  transform-origin: left center;
+}
+
+/* Animation for subtle page curl */
+@keyframes subtle-curl {
+  0%, 100% { transform: perspective(1000px) rotateY(0deg); }
+  50% { transform: perspective(1000px) rotateY(0.3deg); }
 }

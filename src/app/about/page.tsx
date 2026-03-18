@@ -1,25 +1,35 @@
 import { SectionHeading } from "@/components/SectionHeading";
 import Link from "next/link";
 
-export const metadata = { title: "About the Book — Time Travel — Diatom Art" };
+export const metadata = { title: "About the Project — Time Travel — Diatom Art" };
 
 export default function AboutPage() {
   return (
     <>
       <section className="bg-navy text-parchment py-16">
         <div className="max-w-4xl mx-auto px-4 text-center">
-          <p className="text-gold tracking-[0.3em] uppercase text-sm mb-3">About the Book</p>
+          <p className="text-gold tracking-[0.3em] uppercase text-sm mb-3">About the Project</p>
           <h1 className="font-gothic text-4xl sm:text-5xl mb-4">Time Travel</h1>
-          <p className="text-parchment/70 text-lg">400 years of Riga through the lens of its archives</p>
+          <p className="text-parchment/70 text-lg">A non-profit cultural project &mdash; 400 years of Riga through the lens of its archives</p>
         </div>
       </section>
 
       <section className="py-16 max-w-4xl mx-auto px-4">
         <div className="prose-custom space-y-8 text-ink-light leading-relaxed">
+          <div className="bg-parchment-dark/60 border border-gold/20 p-6 mb-4">
+            <p className="font-display text-sm text-burgundy tracking-wide uppercase mb-2">Non-Profit Cultural Initiative</p>
+            <p>
+              <em>Time Travel</em> is a non-profit cultural and educational project by Diatom Art (Riga, Latvia).
+              All proceeds from book sales are reinvested into archival research, digitisation of historical
+              documents, and making Riga&rsquo;s heritage accessible to the public. This project receives
+              no commercial sponsorship and operates solely for the preservation and dissemination of Baltic cultural history.
+            </p>
+          </div>
+
           <div>
             <h2 className="font-display text-2xl text-ink mb-4">The Vision</h2>
             <p>
-              <em>Time Travel</em> is a large-format hardcover book that traces Riga’s
+              <em>Time Travel</em> is a large-format hardcover book that traces Riga&rsquo;s
               extraordinary journey from a medieval Hanseatic trading port to one of the
               great cities of the Russian Empire. Every page features an original archival
               document — handwritten manuscripts in Latin, printed decrees in German,
