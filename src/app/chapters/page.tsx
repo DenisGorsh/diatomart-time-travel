@@ -38,14 +38,14 @@ const timelineEvents = [
 ];
 
 const chapterColors = [
-  "bg-ink/60",
-  "bg-burgundy/70",
-  "bg-burgundy",
-  "bg-navy",
-  "bg-navy-light",
-  "bg-ink-light",
-  "bg-gold/80",
-  "bg-burgundy-light",
+  "bg-ink/40",        // Ch. 0 — Crusader Age
+  "bg-burgundy/70",   // Ch. 1
+  "bg-burgundy",      // Ch. 2
+  "bg-navy",          // Ch. 3
+  "bg-navy-light",    // Ch. 4
+  "bg-ink-light",     // Ch. 5
+  "bg-gold/80",       // Ch. 6
+  "bg-burgundy-light",// Ch. 7
 ];
 
 export default function ChaptersPage() {
@@ -57,7 +57,7 @@ export default function ChaptersPage() {
             The Journey
           </p>
           <h1 className="font-gothic text-4xl sm:text-5xl mb-4">
-            Seven Chapters
+            Eight Chapters
           </h1>
           <p className="text-parchment/70 text-lg">
             From the founding of Riga in 1201 to independence in 1919
@@ -78,25 +78,24 @@ export default function ChaptersPage() {
             <div className="flex h-8 rounded overflow-hidden border border-gold/20">
               {chapters.map((ch, i) => {
                 const startYear = parseInt(
-                  ch.years.match(/\d{4}/)?.[0] || "1500"
+                  ch.years.match(/\d{4}/)?.[0] || "1201"
                 );
                 const endMatch = ch.years.match(/\d{4}$/);
                 const endYear = endMatch
                   ? parseInt(endMatch[0])
                   : startYear + 50;
                 const totalSpan = 1919 - 1201;
-                const left = ((startYear - 1201) / totalSpan) * 100;
                 const width = ((endYear - startYear) / totalSpan) * 100;
                 return (
                   <a
                     key={ch.id}
                     href={`#${ch.slug}`}
-                    className={`${chapterColors[i + 1]} relative group flex items-center justify-center text-parchment text-[9px] tracking-wider hover:opacity-90 transition-opacity`}
+                    className={`${chapterColors[i]} relative group flex items-center justify-center text-parchment text-[9px] tracking-wider hover:opacity-90 transition-opacity`}
                     style={{ width: `${width}%` }}
-                    title={`${ch.title} (${ch.years})`}
+                    title={`${ch.id === 0 ? "Prologue" : `Ch. ${ch.id}`}: ${ch.title} (${ch.years})`}
                   >
                     <span className="hidden sm:inline truncate px-1">
-                      Ch. {ch.id}
+                      {ch.id === 0 ? "Prologue" : `Ch. ${ch.id}`}
                     </span>
                   </a>
                 );
@@ -116,8 +115,7 @@ export default function ChaptersPage() {
             <div className="absolute left-[47px] top-0 bottom-0 w-px bg-gold/20" />
             <div className="space-y-3">
               {timelineEvents.map((e, i) => {
-                const ch =
-                  e.chapter > 0 ? chapters[e.chapter - 1] : undefined;
+                const ch = chapters.find((c) => c.id === e.chapter);
                 return (
                   <div key={i} className="flex gap-4 items-start">
                     <div className="flex-shrink-0 w-12 text-right">
@@ -126,11 +124,7 @@ export default function ChaptersPage() {
                       </span>
                     </div>
                     <div className="relative mt-1.5">
-                      <span
-                        className={`block w-2.5 h-2.5 rounded-full border-2 border-parchment-dark ${
-                          e.chapter === 0 ? "bg-ink/40" : "bg-gold"
-                        }`}
-                      />
+                      <span className="block w-2.5 h-2.5 rounded-full border-2 border-parchment-dark bg-gold" />
                     </div>
                     <div className="flex-1 flex items-center gap-2 flex-wrap">
                       <p className="text-sm text-ink-light">{e.text}</p>
@@ -139,7 +133,7 @@ export default function ChaptersPage() {
                           href={`#${ch.slug}`}
                           className="text-[9px] text-burgundy/60 hover:text-burgundy transition-colors whitespace-nowrap"
                         >
-                          Ch. {e.chapter}
+                          {e.chapter === 0 ? "Prologue" : `Ch. ${e.chapter}`}
                         </a>
                       )}
                       {timelineBooks[e.year] && (
@@ -161,7 +155,7 @@ export default function ChaptersPage() {
             <article key={ch.id} id={ch.slug} className="scroll-mt-20">
               <div className="flex items-baseline gap-4 mb-6">
                 <span className="font-display text-6xl text-gold/30">
-                  {String(ch.id).padStart(2, "0")}
+                  {ch.id === 0 ? "\u2020" : String(ch.id).padStart(2, "0")}
                 </span>
                 <div>
                   <h2 className="font-gothic text-3xl text-ink">
@@ -231,7 +225,7 @@ export default function ChaptersPage() {
                 Estimated pages: {ch.pageCount}
               </p>
 
-              {ch.id < chapters.length && (
+              {idx < chapters.length - 1 && (
                 <div className="border-b border-gold/15 mt-12" />
               )}
             </article>

@@ -88,7 +88,7 @@ export default function HomePage() {
       {/* Chapters preview */}
       <section className="py-20 bg-parchment-dark/50">
         <div className="max-w-6xl mx-auto px-4">
-          <SectionHeading title="Seven Chapters" subtitle="From medieval parchment to the eve of the Great War" />
+          <SectionHeading title="Eight Chapters" subtitle="From the founding crusade to the eve of the Great War" />
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
             {chapters.slice(0, 6).map((ch) => (
               <ChapterCard key={ch.id} number={ch.id} title={ch.title} years={ch.years} era={ch.era} description={ch.description} slug={ch.slug} />

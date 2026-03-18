@@ -15,7 +15,7 @@ export function ChapterCard({ number, title, years, era, description, slug }: Ch
       <div className="border border-gold/20 p-6 hover:border-gold/50 hover:bg-parchment-dark/30 transition-all">
         <div className="flex items-baseline gap-4 mb-3">
           <span className="font-display text-4xl text-gold/40 group-hover:text-gold transition-colors">
-            {String(number).padStart(2, '0')}
+            {number === 0 ? '\u2020' : String(number).padStart(2, '0')}
           </span>
           <div>
             <h3 className="font-display text-xl text-ink">{title}</h3>

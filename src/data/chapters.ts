@@ -12,6 +12,30 @@ export interface Chapter {
 
 export const chapters: Chapter[] = [
   {
+    id: 0,
+    slug: "crusader-age",
+    title: "The Crusader Age",
+    era: "Founding & Livonian Confederation",
+    years: "1201\u20131500",
+    description:
+      "Bishop Albert founds Riga in 1201 as a bridgehead for the Northern Crusades. The Livonian Brothers of the Sword wage war across the Baltic, their deeds immortalized in the Livonian Rhymed Chronicle. Riga joins the Hanseatic League in 1282, becoming a vital node in the medieval trade network stretching from Novgorod to Bruges. The Livonian Order builds its castle overlooking the Daugava, and for three centuries Riga grows as a fortress-city, a trading hub, and a seat of ecclesiastical power.",
+    highlights: [
+      "1201: Bishop Albert founds Riga as a crusader port",
+      "1202: Livonian Brothers of the Sword established",
+      "1282: Riga joins the Hanseatic League",
+      "1330: Riga Castle built by the Livonian Order",
+      "A crossroads of Latin, German, Slavic, and Baltic cultures",
+    ],
+    documents: [
+      "Livonian Rhymed Chronicle (Cod. Pal. germ. 367) \u2014 full translation",
+      "Hansisches Urkundenbuch \u2014 1282 Riga-L\u00fcbeck-Visby Compact",
+      "Henry of Livonia\u2019s Chronicon Livoniae",
+      "Smolensk\u2013Riga\u2013Gotland Trade Treaty (1229)",
+      "UNESCO-listed Hanseatic documents from LVVA",
+    ],
+    pageCount: "20\u201330",
+  },
+  {
     id: 1,
     slug: "age-of-parchment",
     title: "The Age of Parchment",
