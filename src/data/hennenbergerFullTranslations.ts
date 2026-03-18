@@ -1,5 +1,5 @@
 // Auto-generated from hennenberger_full_translations.jsonl
-// Generated: 2026-03-18T17:53:18.835Z
+// Generated: 2026-03-18T18:35:46.755Z
 // Run: node integrate_hennenberger_translations.js
 
 export const hennenbergerFullTranslations: Record<string, { original: string; english: string }> = {
@@ -17714,5 +17714,4017 @@ Newdorffgen Y. 7.
 [Year 1268 -- Mestwin's wars] When Schwantipol [Swietopelk II, Duke of Pomerania] died in 1268 [actually 1266], his son Mestwin [Mszczuj/Mestwin II] soon forgot his father's teaching that they should keep peace with the Order. He began to war with the Order, incited the Prussians to his side, ravaged the Culm land [Chelmno region] and the Bishopric of Nisenburg [?/possibly Nessau or the area around Neuenburg].
 
 When the Order's people were sailing down the Vistula [Weisfel/Weichsel] with 19 ships loaded with provisions and equipment to aid the Christians, and came to Neuenburg, the Vistula was blocked on both sides -- on one side by Prussians, on the other by Neuenburgers and Pomeranians -- and they pressed the Order's forces so hard that they had to throw everything overboard [auswerffen] just to barely escape.`,
+  },
+  "p371": {
+    original: `wolten / so were das gros Werder auch dar=
+von hat es nicht zugestanden. Vnd ist in
+ist die Hauptstadt. Darinnen ligen auch
+Hela / Neuburg / Schwetze / Hamers=
+Tauchel / Nackl / Stargarot / Schöneck
+vnd Lawez.
+
+Dieses Landt halte innen Schwantipol / wolte aber daruon
+den Polen nichts Contribuiren / derhalben jhn Lesto Albus Hertzog
+in Polen / anno 1227. auff Martini / auff einen Reichstag erfor=
+dert / als solte es heissen rahten zum gemeinen nutze des Reichs.
+Schwantipol aber mercket wol das die Glocke auff jhn gegossen /
+vnd vber jhn gehen solte / verzeucht vnd wartet auff gelegenheit / vbers
+roschet mit vielem Volck / die Fürsten im Rade / erwürget viel volcks /
+vnd auch Lestonem Album in der flucht. Hat darnach viel streit
+mit den Polen vnd auch dem Orden gehabt / doch vertrug er sich letz=
+lich mit dem Orden. Bisohl auch im Todtbette seinen Sönen /
+mit dem Orden Frieden zuhalten / den er sein Ellich hette gehabt / so
+lang er mit dem Orden gestritten hette.
+
+Nach des Vattern Schwantipols todt / nam Warckislaus
+der eine Sohn den Orden an. Samborius vnd Rauborius ga=
+ben jhr theil dem Orden / solten jhnen ehrliche vnterhaltung zu jren
+tagen darfür geben. Das wolte Mestowinus der Elteste Sohn
+nicht zugeben / vnd nam jhr Landt auch ein / doch ward es durchs
+Papsts Legaten entschieden / das der Orden solte behalten / das Er ge=
+biete Wancke darinnen die Niwa ligt / die Polen hiessens Gniew /
+sollen wie Mechovius sagt / nur 15. Dörffer darzu gehört haben.
+
+Als Mestowinus oder Mistiguius / wie jhn Mechovius nent /
+Schwantipols Eltester Sohn / so vnordentlich lebet / mit Concu=
+binen sich hielte / vnd keinen rechten Erben hatte / setzte er Primislaundt
+einen Loparmschen Fürst zu / so hernach zum Polnischen König erweh=
+let ward / zum Erben / aber nach dem todt Mestowini / wolte Bolda=
+mirus Marggraff zu Brandenburg nicht mit zufrieden sein / vnd ward
+ein tag bestimmet. Da begeret Boldamirus eine Christliche ge=
+nugthuung / für den todt seiner Schwester / so ohne schuld vnd vrsach
+erwürget war. Denn Primislaus hatte des Marggraffen schwe=
+ster Leuckardis zur Ehe gehabt / vnd weil sie nicht fruchtbar gewesen /
+hatte er sie erwürget.
+
+Darnach begeret er einen abtrag für Pomerellen / denn es
+gleiche nahe were / vnd hatte jhm Mestowinus das seine nicht ent=
+trecken können. Primislaus heut jhm ein schlagen an / welches
+geschach / da wurden die Polen in die flucht geschlagen / vnd kam Pri=
+mislaus in der flucht nahe in einem Dorff Rogelßna / da ward er
+erschochen / vnd wolten etliche / sein eigen Volck hab es gethan. Anno
+1307. sagt Grunaw. Mechovius aber sagt anno 1295. Doch
+behielten die Polen damals Pomerellen.`,
+    english: `[Page 371 -- Pomerellen continued: Schwantipol's politics; succession disputes]
+
+[Continuation from previous page] ...if they had wanted [to resist], the Grosse Werder [Great Vistula Delta island] would also not have agreed. And [Neuenburg/Nowe] is the capital [Hauptstadt]. Within [the region] also lie Hela [Hel], Neuburg, Schwetze [Swiecie], Hammerstein, Tauchel [Tuchola], Nackl [Naklo], Stargarot [Stargard Gdanski/Starogard Gdanski], Schoneck [Skarszewy], and Lawez [Labes?].
+
+[Schwantipol and the murder of Leszek the White] This land was held by Schwantipol [Swietopelk II, Duke of Pomerania], but he refused to pay tribute [Contribuiren] to Poland. Therefore Lesto Albus [Leszek the White], Duke of Poland, summoned him in 1227, on St. Martin's Day [November 11], to a Reichstag [Imperial Diet], ostensibly to deliberate on the common benefit of the realm. But Schwantipol perceived that the bell was cast for him [i.e., the trap was set], and that it would come down upon him. He delayed and waited for opportunity, then surprised them with a large force while the princes were in council [im Rade], slaughtered many people, and also [killed] Lestonem Album [Leszek the White] as he fled. He afterward had much conflict with the Poles and also with the [Teutonic] Order, but eventually made peace with the Order. He also commanded his sons on his deathbed to keep peace with the Order, [saying] that he had had no luck [Ellich/Gluck] as long as he had fought against the Order.
+
+[Succession after Schwantipol] After their father Schwantipol's death, one son, Warckislaus [Warcislaw], turned against the Order. Samborius [Sambor II] and Rauborius [Ratibor] gave their portions to the Order in exchange for an honorable maintenance [pension] for their remaining days. Mestowinus [Mestwin II], the eldest son, would not agree to this and seized their lands too. But the matter was decided by the Pope's legate: the Order should keep what it held, [including] the district of Wancke [Gniew/Mewe region], in which the Niwa [?] lies. The Poles called it Gniew [Mewe]. According to Mechovius [Maciej Miechowita], only 15 villages belonged to it.
+
+[Mestwin, Primislaus, and Boldamirus] When Mestowinus (or Mistiguius, as Mechovius calls him), Schwantipol's eldest son, lived dissolutely, keeping concubines and having no legitimate heir, he appointed Primislaus [Przemysl II], a Loparmian [?/Greater Polish] prince -- who was later elected King of Poland -- as his heir. But after Mestwin's death, Boldamirus [Waldemar], Margrave of Brandenburg, was not satisfied [with this arrangement], and a meeting [tag] was arranged.
+
+[Murder of Leuckardis] Boldamirus demanded Christian satisfaction for the death of his sister, who had been murdered without guilt or cause. For Primislaus had married the Margrave's sister Leuckardis [Ludgarda of Mecklenburg?], and because she had not borne children, he had her strangled [erwurget].
+
+[Battle and death of Primislaus] Then [Boldamirus] demanded compensation for Pomerellen, since it was equally near [i.e., he had a claim to it], and Mestwin had not been able to withhold it from him. Primislaus offered him battle, which took place. The Poles were routed, and Primislaus, fleeing, came near to a village called Rogelsna [Rogozno], where he was stabbed to death [erschochen]. Some say his own people did it. Grunau [Simon Grunau, Prussian chronicler] says [this was in the] year 1307; Mechovius says 1295 [the correct date is February 1296]. Yet the Poles kept Pomerellen at that time.`,
+  },
+  "p372": {
+    original: `Petrus Schwantius Cancellarius / der
+ausgelegtes Gelt nicht bekonmen konte /
+Marggraffen verantworten / darumb
+ward das er los / fortset er die Marg=
+fussungen kommen / vnd auch die Sta=
+aber belagerten sie. Derhalben Bog zu der König Neuman
+in Pommern / den Orden von des Königs wegen vnd hilff anlangte /
+er sich helffe wehren / vnd die Marggrafischen abschlugen vnd vertrie=
+ben. Halste jhm dafür den Orden mit Legatten / welchen die
+jhre Dienste bestallung haben / das wolten die Polen nicht gehör /
+vnd dauchte die forderung des Geldes Periculum auch damit /
+derhalben musten die Polen weichen / vnd dem Orden Dantzk lassen.
+
+Als aber Boldamirus der Marggraff ein zeitlang abwe=
+sent vnd vnmesslich war / da war Segeßlaus Fürst zu Prussß=
+land / der nam sich der Ritter an / als ein Erb / schrieb dem Orden
+er solle jhm Pomerellen sein Erbgut einstumen. Der Orden ant=
+wortet / Pomerellen were jhr / das weisen sie jhm mit Chryfogeno
+hier bescheiden / wie nicht were. Segeßlaus schickt 4000. Mann
+für Dantzk / vnd weil die Ordensbrüder laufftsichlaten vnd brautzen /
+vb den Bürgern zugehörig / warn / sie jhren Feinde / vnd liessen sie
+Geld dafür.
+
+Aber anno 1310. zog Heinrich Plocke damals Gros Com=
+phur / auff den Dominik in die Statt / schlung sich mit den Nie=
+derleut / kompte / die Stadtt / handelt gar vnbarmhertzig mit den Bür=
+gern / denn er wolte sich damit einen namen machen / jedoch darnach
+hertz / vnd nahme goltessie Pommerellen ein / vnd vertrieb die Po=
+len daraus.
+
+Anno 1331. als Boldamirus der Marggraff von Bran=
+denburg wider zu liechtenwaer war / vnd Gelde bedürffte / vnd wüste
+das der Orden leichtlich Gelt auffbringen konte bott er den Pomer=
+der Erbpflicht von Brandenburger Pomerellen an Junitarifficiren.
+Orden aber / ob sie es wol einen hatten / auch sonsten jhnen
+aufgetragen waer / gleichwol sand zuuersehen / kaufften sie es jhm ab
+für 300000. Gülden Vngerich. Mechovius aber sagt nur
+für 30000. Marck bretter Groschen / vnd ist das Gelt zu New
+Calß erlöset worden.
+
+Es dringen auch die Polnische Bischoffe in die Lande / vnd
+wolten S. Peters pfennig daraus haben / das wolte der Orden
+nicht aussehen / derhalben vnter Ludero Hertzogen von Braun=
+schweig / dem neuensten Prussien 34. Jährelang in Bann gethan
+wurde. D. Prussit gelie.
+
+Anno 1329. verschrieb jhnen Johannes der Behemische
+König / auch Pommerellen / von dem sie es auch / vnd ein gros Geide
+erkaufften.
+
+Anno 1335. ward ein Tagefart zu Wisgrodtin Vngern
+gehalten / da war auch König Casimirus von Polen / Jugandt aber`,
+    english: `[Page 372 -- Pomerellen: Teutonic Order acquires Danzig and Pomerellen; Brandenburg sale]
+
+[Petrus Schwantius] Petrus Schwantius [Piotr Swinka?], the Chancellor, who could not recover the money he had laid out, [went to] answer to the Margrave. Thereupon he was freed, [and] went forth. The Margraves came [with their forces] and also the city [was involved], but they besieged them. Therefore the King [Wladyslaw Lokietek?] sent Bog [Bogislaw?] to Neumann in Pomerania [to seek help]; the Order was approached on the King's behalf for assistance. [The Order] helped defend and drove off the Brandenburgers [Marggrafischen]. [The King] rewarded the Order with legates [privileges], which [granted them] their service appointments. But the Poles would not hear of it, and the demand for money [seemed] dangerous [Periculum] as well. Therefore the Poles had to yield and let the Order have Danzig [Gdansk].
+
+[Segesslaus's claim] But when Boldamirus [Waldemar] the Margrave had been absent and unmeasured [inactive?] for some time, Segesslaus [?], a prince in Prussia, took up the knights' cause as an heir. He wrote to the Order that they should surrender Pomerellen, his hereditary estate [Erbgut]. The Order replied that Pomerellen was theirs, and they proved it to him with [the document of] Chrysogenus [?]. Segesslaus sent 4,000 men before Danzig, and since the Order's brothers were [busy with] commerce and brewing, [appealing] to the burghers' loyalty, they [paid off] their enemies with money.
+
+[Heinrich Plocke takes Danzig, 1310] But in the year 1310, Heinrich [von] Plotzke [Plocke], then Grand Commander [Gros Comphur], went into the city on the Dominik [St. Dominic's Day / the annual Dominik market], fought with the common people [Niederleut], captured the town, and dealt very mercilessly with the citizens -- for he wanted to make a name for himself. Afterward, however, [with] heart [courage], he took all of Pomerellen and drove the Poles out.
+
+[Sale of Pomerellen by Brandenburg, 1331] In 1331, when Boldamirus [Waldemar] the Margrave of Brandenburg was [restored/returned to power] and needed money, and knew that the Order could easily raise funds, he offered to cede the Pomeranian hereditary rights of Brandenburg over Pomerellen [to the Order]. The Order -- although they already held it, and it had been otherwise conveyed to them -- nonetheless, to be safe [sand zuuersehen], bought it from him for 300,000 Hungarian gulden. But Mechovius [Miechowita] says only for 30,000 marks in broad groschen, and the money was paid out at Neu-Kalss [?].
+
+[Polish Bishops and the Ban] The Polish Bishops also pressed into the land and wanted St. Peter's Penny [a papal tax] from it. The Order would not tolerate this. Therefore, under Luder [Ludger?], Duke of Braunschweig [Brunswick], the newest [Grand Master of] Prussia was placed under the [papal] ban for 34 years. [Reference:] D. Prussit gelie.
+
+[Bohemian confirmation, 1329] In 1329, Johannes [John of Bohemia], the Bohemian King, also assigned Pomerellen to them [the Order], from whom they also bought it, along with a large [sum of] money.
+
+[Diet at Wisegrad, 1335] In 1335, a Diet [Tagefart] was held at Wisegrad [Visegrad] in Hungary. King Casimirus [Casimir III] of Poland was also there, but [his] youth...`,
+  },
+  "p373": {
+    original: `Polen vnd Pomerellen wider Recht fürchielt /
+d König zu Vngeren / vnd Johanné König
+ba ward Casimiro Polen oder Cuya mit
+Pomerellen zugesprochen.
+
+Anno 1343. war ein Fried gemacht / zwischen Casimiro
+Lostecks Sohn / vnd Ludolpho König dem Hoemeister / vnd verziehe
+sich der König aller Gerechtigkeit / so er zum Lande Pomerellen möch=
+te haben / sich fort keinen Hertzogen daruon zuschreiben / die Wap=
+pen vnd schrifften dieses Landes aus Siegeln vnd Kleinotten ausze=
+leschen / vnd dis beschwert auch er / mit Adelheydis seiner Königin vnd
+Erben.
+
+Also hat der Orden dis Land im besitz gehabt von dem 1310.
+Jahr vnd bebavet / bis in das Jahr 1466. nach dem grossen Krig
+musse sichs der Hoemeister verzeihen.
+Pomersdorff S. 11.
+
+Pomesania hat den namen von Pomeso dem so Sohn
+Widiwuti / vnd scheidet dis Landt die Weissel von Pomerellen. El=
+bing flus / Drausen See / vnd Wecsle flus vom Höckerlande. Ossa
+oder Mocker flüsser vom Colmischen Lande / Dribantz von Dobrin
+vnd Michelaw. Vnd sollen an etzlichen örtern / als vmb Risen=
+burg / Riesen gewonet haben.
+
+Dieser Pomeso hatte für sich nicht sonderliche Wenung /
+denn wo es jhm geliebet / setzt hier / setzt dort / wonet er vnterm Ge=
+zelt. Diesen mahneten die Masuren vmb den Zinß / fiengen ju
+auch auch mit seinen söhnen / er aber entsam. Thet einen zug Winters
+zeit ins Land Welida / ist wie man achtet / Pomern genant / mit
+grossem Volck (denn der Fürst zu Welida hatte Pomest Tochter
+Man Quesnow in seinem Land jagen gefunden / den er / als er jm darü=
+ber spöttische antwort gegeben / erstochen) raubt / brennet / vnd ver=
+heeret / bleibt zu lang: denn da er wider zu haus wil / ist die Weissel
+pontes er wider auffgetawet / also betrifft jhn der Fürst von Welida / erschlegt
+jhm alles Volck / Er aber setze mit seinen Pferde in die Weissel /
+wil vber schwemmen / vnd erseufft.
+
+Dis ob man es rechen solte / fragt man die Götter. Aber sie
+antworten Nein / darumb must man es bleiben lassen / denn niemand
+wider der Götter willen thun dorffste.
+
+Dis Lande ist bald im ersten nach dem Colmischen Lande /
+vom Orden / durch hülffe der Deutschen Fürsten eingenomen wor=
+den. Es ist aber auch dis Lande von Schwantipoln / Preus=
+sen / Sudawen / Polen / als von Lorceta vnd Jagello / etc. offt
+verheeret worden / wie denn zum theil bey den Stedten dieses Lan=
+des leicht zufinden ist.`,
+    english: `[Page 373 -- End of Pomerellen dispute; Pomesania]
+
+[Pomerellen awarded] ...Poland and Pomerellen were adjudicated against law [wider Recht]. [The arbiters were] the King of Hungary and King Johannes [John of Bohemia]. [In the end,] Poland or Kuyavia [Cuya], along with Pomerellen, was awarded to Casimir [Casimir III].
+
+[Peace of Kalisz, 1343] In 1343, a peace was made between Casimir [Casimiro], Losteck's son [i.e., Lokietek's son], and Ludolph [Ludolf Konig], the Hoemeister [Grand Master of the Teutonic Order]. The King renounced all rights [Gerechtigkeit] he might have had to the land of Pomerellen, [promising] to no longer call himself Duke thereof, to erase the coat of arms and inscriptions of this land from seals and jewels [Kleinotten]. He also confirmed this oath together with his Queen Adelheydis [Adelaide of Hesse] and [their] heirs.
+
+[Order's possession] Thus the Order held this land in possession from the year 1310, and cultivated it, until the year 1466 [Second Peace of Thorn], after the Great War [Thirteen Years' War], when the Hoemeister had to renounce it.
+
+Pomersdorff S. 11.
+
+[Pomesania -- Old Prussian tribal territory]
+
+Pomesania takes its name from Pomeso, the son of Widiwuti [legendary Prussian king]. This land is separated from Pomerellen by the Vistula [Weissel]. [It is bounded by] the Elbing River [Elblag], the Drausen See [Lake Druzno], and the Wecksle [Vistula tributary] river from the Hockerland [higher ground]. The Ossa or Mocker rivers [separate it] from the Culm Land [Chelmno region], [and] the Dribantz [Drweca] from Dobrin [Dobrzynska] and Michelaw [Michalowicka]. Giants [Riesen] are said to have dwelt in some places, such as around Riesenburg [Prabuty].
+
+[Legend of Pomeso] This Pomeso had no fixed dwelling of his own; wherever it pleased him, he would set up here or there, living under a tent [Gezelt]. The Masurians demanded tribute [Zins] from him and also captured [some of] his sons, but he escaped. He made a winter expedition into the land of Welida -- thought to be what is now called Pomerania [Pomern] -- with a great host. (For the Prince of Welida had found Pomeso's daughter's husband [?] Quesnow hunting in his land, and when [Quesnow] gave him a mocking answer, [the Prince] stabbed him to death.) [Pomeso] plundered, burned, and ravaged, but stayed too long. When he wanted to return home, the Vistula had thawed again [the ice had melted]. The Prince of Welida caught up with him and slew all his people. Pomeso himself rode his horse into the Vistula, tried to swim across, and drowned.
+
+[The gods consulted] When asked whether this should be avenged, they consulted the gods [Gotter -- i.e., the pagan Prussian deities]. But they answered 'No,' so they had to let it be, for no one dared act against the will of the gods.
+
+[Conquest of Pomesania] This land was one of the first, after the Culm Land, to be taken by the [Teutonic] Order, with the help of the German Princes. But this land was also often ravaged by Schwantipol [Swietopelk], Prussians, Sudovians [Sudawen], Poles -- by Lorceta [?] and Jagello [Jagiello/Wladyslaw II], etc. -- as can easily be found [described] under the entries for the towns of this land.`,
+  },
+  "p374": {
+    original: `Historia / von einer mentlichen Sch
+Auff Pomesan wonete ein Ritter / Re=
+te eine alte Witwe vnd Tochter / so eine Ju=
+ren / hinter sich gelassen / die furen auff Astu=
+gens aus jhrem Poss / nach der Kirchen / v. b hatten / 18 in
+300. marck Silberwerck vn geschmeide / nach Preusscher Nase auff dem
+Leibe / Als der Fuhrknecht mit jhnen in Walde kompt / steiget er ab /
+vnd heisst auff die alte Frau / die Jungfraw rettet die Mutter / leget
+sich mit dem Knecht ins schlagen / überwindet jhn / zwinget jhn auff
+das Pferde vnd bindet jhn dar auff / vnd als sie ins Dorff kamen /
+wardt der Knecht auff das Radt geschlagen /
+doch sturben auch Mutter vnd Tochter in acht tagen / denn sie zu sehr
+verwundet waren.
+
+Poppen a. 21. Ist gahr eine schöne Jagtpuden /
+wie ein Schloß von Holtz wercklich gebawet / mit einem See schier
+vmbgeben / Ist ein Haupthaus aller Jagtpuden in Preussen / alda
+finde man gahr viel schöner Hirsch / vnd Elendt gewethe.
+So kan auch ein Fürst mit seinem gantzen Hofflager alda ligen.
+Porden Z. 17.
+
+Portugal ist ein Preusch Schloß gewesen / im Felde Portugals
+gegen der Balga vber / daüon die Preussischen Orden grossen schaden
+gethan / aber die Ordens Brüder mit der hülffe Hertzog Otten von
+Braunschweig / haben es zerstöret. Ist von Ermen / so Glettin=
+geheissen / gebawet worden.
+Poskayten Q. 18. Posen W. 21.
+Postile V. 9. Posnicken L. 18.
+
+Barnahas ein reicher Krüger von Posnicken / schert Anno wie auch
+1581. den 19. Septembris nach der Stadt Königsperg / ligt die nacht Gott die
+bey Mandelen auff der Weyde / da rühret jhn der Schlagt / wardt in Gottloser
+die Stadt gebracht / kundte kein wort reden / lebet 6. Stunden vnd starb / Ding nicht
+so besücht in Gott / der zuuor einen seiner Freundtschafft in einer Kör=
+stung erstochen hatte. Des gibt jhm sein voriger Seelsorger Herr
+Magister Christopherus Benicke / ein sehr gut gezeugnis / das jm
+srine vbelthat hertzlich leid gewesen / sich fleissig zu Gottes wort gehal=
+ten / vnd freudig mit in der Kirchen Geistliche Lieder gesungen hab.
+Kan auch wol Gott jhn allhie / nur vmb ander leute willen / zum
+Exempel gestrafft haben / zur anzeigung / was es für ein grausame Sünde
+se / welche damals an dem orts sehr gemein / aber wenig gestrafft
+ist worden.
+Posennen Q. 19. G. Postwalde L. 19.
+R. Postwalde M. 19. Pottangen E. 27.
+
+Porterberg Ist ein hoher Berg zwischen Colmen vnd altem
+Haus / darauff bawer der Orden ein Schloß / auff das nicht Schwantipol
+dem Orden zu schaden darauff bawete / ward endtlich vom Orden
+abgebrochen / vnd die Mewa daruon gebawet.
+Petgeriß 4. Pottruten V. 17.
+Prandaß b. 12. Prawieten X. 29.`,
+    english: `[Page 374 -- Story of a brave maiden in Pomesania; Poppen hunting lodge; Portugal fortress; Posnicken; Porterberg]
+
+[Historia -- a courageous deed] Story of a courageous [mentlichen, i.e., mannlichen] deed: In Pomesania there lived a knight, Re-- [name partially illegible], who left behind an old widow and a daughter, a young woman. They drove out from their estate [Poss] in an Asturian [?] carriage to church, carrying 18 [pieces] in 300 marks' worth of silverwork and jewelry [geschmeide], by Prussian measure [Preusscher Nase], on their persons. When the driver [Fuhrknecht] came with them into the forest, he dismounted and attacked [heisst auff] the old woman. The maiden [Jungfraw] defended her mother, fought the servant [Knecht], overpowered him, forced him onto the horse, and bound him thereon. When they reached the village, the servant was broken on the wheel [auff das Radt geschlagen -- a form of execution]. Yet both mother and daughter also died within eight days, for they had been too severely wounded.
+
+[Poppen] Poppen a. 21. A very fine hunting lodge [Jagtpuden], built like a castle of wood, nearly surrounded by a lake. It is the chief hunting lodge [Haupthaus] of all the hunting lodges in Prussia. There one finds very many fine deer [Hirsch] and elk [Elendt] antlers [gewethe]. A prince with his entire court [Hofflager] can be accommodated there.
+
+Porden Z. 17.
+
+[Portugal fortress] Portugal was a Prussian fortress, situated in the field of Portugal opposite the Balga [a Teutonic Order castle on the Vistula Lagoon]. From it the Prussians did great damage to the Order. But the Order's brothers, with the help of Duke Otto of Braunschweig [Brunswick], destroyed it. It had been built by the Ermens [Warmians], and was [also] called Glettin.
+
+Poskayten Q. 18. Posen [Poznan] W. 21.
+Postile V. 9. Posnicken L. 18.
+
+[Barnahas of Posnicken -- a divine judgment] Barnahas, a rich innkeeper [Kruger] from Posnicken [a village in Samland], set out on September 19, 1581, toward the city of Konigsberg [Kaliningrad]. He spent the night at Mandelen on the meadow [Weyde]. There he was struck by a stroke [der Schlagt, i.e., Schlaganfall]. He was brought to the city, could not speak a word, lived six hours, and died. Thus God visited [judgment upon] him, who had previously stabbed to death one of his kinsmen [Freundtschafft] in a tavern brawl [Korstung]. Yet his former pastor, Herr Magister Christopherus Benicke, gave him a very good testimony: that he had been heartily sorry for his misdeed [vbelthat], had diligently attended God's word, and had joyfully sung spiritual hymns [Geistliche Lieder] in church. It may also be that God punished him here [on earth] only as an example for other people, to show what a terrible sin [grausame Sunde] it is -- one that was then very common in that place, but seldom punished.
+
+Posennen Q. 19. G. Postwalde L. 19.
+R. Postwalde M. 19. Pottangen E. 27.
+
+[Porterberg] Porterberg is a high hill between Culm [Chelmno] and the old castle [altem Haus]. The Order built a fortress on it so that Schwantipol [Swietopelk] could not build there to the Order's disadvantage. It was eventually demolished by the Order, and the [materials were used to build] Mewe [Gniew].
+
+Petgeris 4. Pottruten V. 17.
+Prandass b. 12. Prawieten X. 29.`,
+  },
+  "p375": {
+    original: `Ein schön Dorff / ein grosse meil von Dantz=
+kelcis & Adaucti / im grossen Kriege / vom
+sein auch viel Dantzker / so zu retten ha=
+gen worden.
+3ol E. 22.
+Pregelmund suche Kneiphoff.
+Prerosia R. 29. Ist Fürstlicher Durchleuchtigkeit
+Jagtbuden im Johannsburgischen / da auch viel schöner Geweih von
+Hirschen / innen sein.
+
+Preuschmarck X. 10. Zuuorn Transporn genandt /
+ligt zum mehren theil im See / daraus die Sirgune entspringt.
+
+Ist Anno 1329. gemauret von Leopoldo Wolfstag / vnter
+Wernero von Orseln / für die verlemete Rit=
+ter vnd Ordensbrüder.
+Hat sich dem Polnischen König / Anno 1410. nach der Tan=
+nenbergischen Schlacht / mit beding ergeben.
+
+Im grossen Kriege.
+
+Im Grossen Kriege / Anno 1454. am tage Mauritij / bald
+nach der Schlacht für der Conitz / ergab sichs wider an den Orden /
+denn sie einen vnerfarnen Hauptiman hatten / George vom Berge / ei=
+nen Rathman von Braunsberg. Der Orden besetzt es darnach.
+
+Anno 1463. Wardt es vom Bunde angelauffen / kundten es
+aber nicht einkriegen.
+
+Anno 1595.
+den ersten Febr:
+Ist im Ampte
+PreuschMarck /
+im See Geserich
+ein Fisch Pres=
+sem genandt / ge=
+fangen worden /
+in welchem / als
+man jn gerissen /
+ein solche Blase /
+wie hie gedruckt
+ist / gefunden wor=
+den / hat nur das eine Seeklein / als das grösser / recht gehabt / doch
+auff der einen seitten höher als auff der andern / fast wie die vnfletige
+Beuche an den Wammessern / darnach ein grosses Roller / hernacher
+ein silber Roller / gleichsam als ob sie vber einen stock (wie sie pflegen)
+gezogen / dahinter aber nichts von dem andern theil der Blasen ge=
+wesen / wie sie Baltin Hugo / wie er mir selber saget / vnwider bedeuts=
+künig willen / angerichtet.`,
+    english: `[Page 375 -- Pregelmund; Preuschmarck (Preussisch Mark); monstrous fish bladder of 1595]
+
+[Continuation from previous page] ...a fine village, a great mile from Danzig. [On the feast of] SS. Felicis & Adaucti [August 30], during the Great War [Thirteen Years' War], many Danzigers [were involved]; those who were captured [to be rescued/ransomed]...
+
+3ol [?] E. 22.
+Pregelmund -- see Kneiphoff [a district of Konigsberg].
+
+Prerosia R. 29. A hunting lodge [Jagtbuden] of His Princely Grace [Furstlicher Durchleuchtigkeit, i.e., the Duke of Prussia] in the Johannsburg [Pisz] district, where many fine deer antlers [Geweih von Hirschen] are kept.
+
+[Preuschmarck / Preussisch Mark / Przezmark]
+
+Preuschmarck X. 10. Formerly called Transporn. It lies mostly on a lake, from which the Sirgune [Sirwa?] river rises.
+
+[Founded 1329] It was walled [fortified] in the year 1329 by Leopold Wolfstag [?], under [Grand Master] Werner von Orseln, as a refuge for infirm [verlemete, i.e., injured/disabled] knights and brothers of the Order.
+
+[Surrender 1410] It surrendered to the Polish King in the year 1410, after the Battle of Tannenberg [Grunwald], with conditions.
+
+[In the Great War (Thirteen Years' War)]
+
+[Year 1454] In the Great War, in 1454, on St. Maurice's Day [September 22], soon after the battle of Conitz [Chojnice], it returned to the Order, because they [the rebels] had an inexperienced captain -- George vom Berge, a councilman [Rathman] from Braunsberg [Braniewo]. The Order then garrisoned it.
+
+[Year 1463] In 1463, it was attacked by the [Prussian] Confederation [Bunde], but they could not take it.
+
+[Woodcut illustration: A large, grotesque bladder or organ from inside a fish, shown in an engraved oval shape with lumpy, folded textures, resembling an intestinal sac.]
+
+[Monstrous fish, 1595] In the year 1595, on the first of February, in the district [Ampte] of Preusch Marck, in Lake Geserich [Jeziorak, the longest lake in Poland], a fish called a Pressem [a type of bream or freshwater fish] was caught. When it was cut open, a bladder like the one printed here was found inside. It had only one small section [Seeklein], like the larger [part], properly formed, yet on one side higher than on the other -- much like the filthy bellies [Beuche] on the doublets [Wammessern]. Then [there was] a large roller [fold], then a silver [?] roller, as though pulled over a stick (as they [tailors] are wont to do). Behind it, however, there was nothing of the other part of the bladder. As Baltin Hugo told me himself, [this was] arranged against the will of those who wish to deny portents [vnwider bedeutskunig willen]. [Hennenberger interprets this deformed fish bladder as a divine sign mocking the vanity of contemporary fashion -- specifically the puffy, pleated doublets (Wamms) of the era.]`,
+  },
+  "p376": {
+    original: `Es ist auch dis tausende 95. Jahr /
+eine ander Blasen / zu Königsperg von des
+in einem Halbfisch gefunden worden / so
+wie ein Heupe / doch wie ein langes maul
+vnter einen Leib / mit hoch auffgedrecketen
+ten daran / da das geringer blestein sein sol in lang
+lechtiges hertz. Aber was ists? Was frag ich die grosse Welt dar=
+nach / sie verachts vnd verlachts / vnd treibe aus solchen warnun=
+gen Gottes / nur das lautter gespöt / da doch der heilige Apostel Pau=
+lus den Christen saget / Rom. 8. Das ängstliche harren der Crea=
+turen wartet auff die offenbarung der Kinder Gottes / sintemal die
+Creatur vnterworffenist der eytelleit / ohne jren willen / sondern vmb
+des willen / der sie vnterworffen hat / auff hoffnung. Derhalben
+mus sie den Gottlosen / zum fressen / sauffen / hoffart vnzucht / vnd al=
+lem bösen / wiewol vnwillig / dienen / auch jhr erseuffliche prediger
+sein / doch auff hoffnung / denn es wird nicht lange weren / da wird
+es ein ende werden / denn die Welt vbermacht es gantz vnd gar / vnd
+ist kein auffhören / vnd wil keiner dem andern nachgeben / was er von
+andern sihet / wil er auch haben / vnd nachthun. Der Bawer wil dem
+Bürger gleich sein / der Bürger dem Edelmann / der Edelmann dem
+Graffen vnd Fürsten / vnd achten der Stende gahr nichts.
+
+Es hat auff dem nechsten Fürstlichem Beylager / eine Edelfrau
+der Fürstin Wagen gesehn / der hatte jhr sehr wol gefallen / hatte
+bald auch einen solchen haben wollen / so geschicht es in den Stedten
+auch / was die Auslender für newe Muster herbringen / das mus
+man hie auch haben / nicht allein die Reichen / sondern auch die ar=
+men / ja es kompt balde durch das gantze Landt / mancher wil er frie=
+den haben / so mus er sein Weib vnd Tochter heraus streichen / auch
+viel höher denn sein vermögen / den Reichen gleich / vnd solte er auch
+darumb vnd alle seine Narung wo nicht durch finantzerey / auch vmb
+die Seele komen / wie Joannis Angeli Historia / vom Handtwercker /
+so seinen guten Standt vbergeben muste / seinem Weibe zugefallen /
+ein Kauffman werden / aber wol bekam es jhnen.
+
+Papst Sirius V. hat grosse Kröse / vnd vnfletige Kleider nicht
+köntlen leiden / sondern Diener dartzu bestellet / vnd in der Stadt
+Rom / mit Scheren lassen herumb gehen / die solche Roller den Leuten
+haben auff den Gassen abgeschnitten / vnd vngebürliche Kleider
+ausgezogen / Vnd wir / die wir Christen sein wollen / leiden es
+nicht allein / sondern tragens auch selber / das man ja kennen mö=
+ge / was wir für Christen sein.
+
+Darumb neme jederman solche Göttliche warnung an / so er in
+seinen Creaturen thut / vnd vns mit den augen zusehen / vnd henden zu
+greiffen gibt: wisse derhalben / das der HErr einen grewel habe an der
+Hoffart / Prouerb. 6. Den Hoffertigen ist leyde Gott vnd die Welt
+feindt / Syrach 50. Dis Gott widerstehet den Hoffertigen / aber den de=
+mütigen gibt er gnade / wie genugsam die exempel auch ausweisen.`,
+    english: `[Page 376 -- Second monstrous fish bladder; sermon against vanity and pride; Pope Sixtus V]
+
+[Second fish portent] Also in this [same year of 15]95, another such bladder was found in Konigsberg, inside a halibut [Halbfisch]. It was shaped like a head [Heupe], yet with a long snout [langes maul] under a body, with raised [aufgedrecketen] [features] on it, where the smaller part should be, [forming] a longish heart. But what of it? Why do I ask -- the great world [die grosse Welt] takes no notice; it despises and laughs at it, and makes mere mockery of such warnings from God.
+
+[Romans 8 citation] Yet the holy Apostle Paul says to Christians, Romans 8 [v.19-20]: 'The anxious longing of creation waits for the revelation of the children of God; for the creature was made subject to vanity [eytelleit], not willingly, but by reason of him who subjected it, in hope.' Therefore [creation] must serve the godless -- for their gluttony, drunkenness, pride, lechery, and all evil -- though unwillingly. [The creatures] are also its sighing preachers, yet in hope, for it will not last long; there will be an end. For the world overdoes it utterly, and there is no stopping it. No one will yield to another; whatever one sees another have, he wants the same and imitates it. The peasant [Bawer] wants to be equal to the burgher, the burgher to the nobleman, the nobleman to the count and prince, and they regard the [social] estates [Stende] as nothing at all.
+
+[Vanity of dress] At the last princely wedding [Furstlichem Beylager], a noblewoman saw the Princess's carriage, which pleased her greatly; she immediately wanted one just like it. The same happens in the towns: whatever new fashions [Muster] foreigners bring in, one must have them here too -- not only the rich, but also the poor. Indeed, it soon spreads through the entire land. Many a man, if he wants peace [in his household], must dress up [heraus streichen] his wife and daughter, even far beyond his means, to equal the rich -- even if it costs him his livelihood [Narung] through fraud [finantzerey] and even his soul. As the story [Historia] of Joannis Angeli [tells of] a craftsman who had to give up his good [social] standing to please his wife and become a merchant -- but it did not go well for them.
+
+[Pope Sixtus V against fashion] Pope Sixtus V [Sirius V, i.e., Sixtus V, r. 1585-1590] could not abide great ruffs [Krose] and slovenly [vnfletige] clothing. He appointed servants [for the purpose] and had them go about the city of Rome with scissors [Scheren], cutting such rollers [ruffs/pleated collars] off people in the streets and stripping off improper clothing. And we, who claim to be Christians, not only tolerate it but wear it ourselves -- so that one may well see what kind of Christians we are.
+
+[Exhortation] Therefore let everyone heed such divine warnings, which [God] gives through His creatures, setting them before our eyes and into our hands. Know therefore that the Lord has an abomination [grewel] of pride (Proverbs 6 [v.17]). 'The proud are hateful to God and the world' (Sirach 50 [actually Sirach 10:7]). God resists the proud, but gives grace to the humble -- as the examples also amply demonstrate.`,
+  },
+  "p377": {
+    original: `osius Lowasser / von Stol=
+n Töchterlein.
+
+Das stoltz geht drein.
+Ansiehet krumb.
+manet / Auch offtmals tangt /
+Viel klap= Da ist nichts an /
+Darfür sich hütte jederman.
+
+Frome Tochter.
+Ein fromme tochter / Darff keinen Wechtr.
+Nicht viel ausgehet / Spinnt wirdt vnd neht.
+Daheim zuhaus / Da wird ehr aus.
+Gott thut vorleihen / Glück vnd gedeyen.
+Ein solch sol jhm einer freihen.
+
+Preuschmarck T. 30. Ist ein Kirchdorff im Höckerland
+ligende.
+
+Preussen.
+
+Weil wir droben im Marienburg fol. 280. siebentze=
+hen Hoemeister / auch im Königsperg fol. 199. noch jhrer sieben
+gehabt haben / vnd die ersten eilffe noch hinterstellig sein / Ob sie
+wol nicht in Preussen / sondern die ersten vier zu Ackers gewo=
+net / der vierde aber das Haupthaus gen Venedig verleget / wie
+er denn sampt den sieben nachfolgenden alda gewonet / vnd gleich=
+wol das Regiment in Preussen gehabt / wollen wir dieselbigen
+albie auch kurtzlich erzelen / damit man sie alle in diesem Buch haben
+möge / Wer aber die gelegenheit des Landes Preussen / mit sei=
+nen Grentzen vnd austheilungen zu wissen begeret / der mag
+mein erstes / Anno 1584. in truck verfertigtes / vnd
+ausgangenes Büchlein / Kurtze beschrei=
+bung des Landes Preussen
+genannt / lesen.
+
+Der anfang aber dieses Ordens / ist geschehen im Gelobten
+Lande / in der belagerung der Stadt Ackers / so man auch Ptolo=
+maidem nennet / nemlich Anno 1190. Als Fridericus Primus /
+Barbarossa genant / im Wasser vmbkommen / vnd sein Sohn Hen=
+ricus VI. Keyser wardt / zog das Volck für die gewaltige vnd mech=
+tige Stadt Ackers / vnd lagen lang darfür / da wurden viel Leute
+kranck / vnd sturben jhrer auch sehr viel / denn sie lagen zerstrewet /
+einer hie der ander dort / hatten keine sonderliche wartung / da wa=
+ren acht Pilgram / 5. von Bremen / vnd 3. von Lübeck / die namen`,
+    english: `[Page 377 -- Moral verses; Preuschmarck; major entry on Prussia and the Teutonic Order's origins]
+
+[Verse fragment -- on proud women] ...osius Lowasser [Ambrosius Lobwasser, the hymn translator?], from Stol[berg?], [about] a daughter:
+
+'The proud one struts in.
+Looks askance.
+[She] prances, often dances too;
+Much clattering -- it means nothing at all;
+Let everyone beware of such.'
+
+[Verse -- A Virtuous Daughter]
+'A virtuous daughter / Needs no watchman.
+Does not go out much / Spins, works, and sews.
+At home in the house / There honor comes forth.
+God does bestow / Fortune and prosperity.
+Such a one should a man marry.'
+
+[Preuschmarck] Preuschmarck T. 30. A parish village [Kirchdorff] in the Hockerland [higher ground region of Pomesania].
+
+[PREUSSEN -- Prussia: Major Entry]
+
+Since we have listed above, under Marienburg [Malbork] (fol. 280), seventeen Hoemeister [Grand Masters of the Teutonic Order], and also under Konigsberg (fol. 199) another seven, and the first eleven are still outstanding -- although they did not reside in Prussia, but the first four lived in Acre [Ackers], and the fourth moved the headquarters [Haupthaus] to Venice, where he and the seven following [Grand Masters] resided, yet still governed Prussia -- we wish to briefly recount them here as well, so that one may have them all in this book. Whoever wishes to know the geography [gelegenheit] of the land of Prussia, with its borders and divisions, may read my first booklet, printed and published in the year 1584, called 'A Brief Description of the Land of Prussia' [Kurtze beschreibung des Landes Preussen]. [This refers to Hennenberger's earlier published work.]
+
+[Origin of the Teutonic Order] The beginning of this Order took place in the Holy Land [Gelobten Lande], during the siege of the city of Acre [Ackers], also called Ptolemais, namely in the year 1190. When Frederick I [Fridericus Primus], called Barbarossa, perished in the water [drowned in the Saleph River, 1190], and his son Henry VI [Henricus VI] became Emperor, the [Crusader] forces besieged the great and mighty city of Acre and lay before it for a long time. Many people fell sick, and very many died, for they lay scattered -- one here, another there -- with no proper care. Then there were eight pilgrims [Pilgram] -- five from Bremen and three from Lubeck -- who took...`,
+  },
+  "p378": {
+    original: `ein Segel von einem Lübischen Schiff / Re=
+die Deutsche Krancke vnter dasselbige Se=
+lem fleis vnd treiwen / das solcher ond ander
+kamen / vnd gesund wurden / das fiel den
+derlich Friderico aus Schwabe / dis Keyser=
+wol / schrieben solches dem Keyser Henrico zu / bat er wolte
+solchs an Papst bringen / vnd jhnen zu einem Orden darüm sie
+also möchten sein vnd leben / der armen Krancken warten / vnd jnen die=
+nen / vnd in der noth auch helffen streiten / solches gieng also an / vn
+der Papst Celestinus III. Confirmiret den Orden / vnd gab jhnen
+S. Augustini Regel / auch grossen Ablas / wie in der Joanniter vnd
+Templirer Orden hatte / nach welcher Ritterschafft sie auch leben solte /
+dardurch sie denn auch zu grossen gütern kamen / vnd kleide solche mit
+andern der Patriarch von Jerusalem ein / auff schreiben vnd befehl
+des Papsts / gab jhnen den weissen Mantel / mit einem schwartzen
+Creutz hinten vnd vorn / auch einen weissen Schilt / mit einem schwartze
+Creutz / vnd solten heissen Ritter Brüder / des Hospitals S. Marie
+Deutsches Ordens zu Jerusalem.
+
+Dieses Teutschen Ordens erster Meister / Hein=
+rich von Walpot.`,
+    english: `[Page 378 -- Founding of the Teutonic Order; First Grand Master Heinrich von Walpot]
+
+[Founding narrative continued] ...a sail from a Lubeck ship. [They made a shelter and] tended the sick Germans under that same sail with such diligence and faithfulness that [many] others came and were healed. This pleased [many], especially Frederick of Swabia [Friedrich von Schwaben, i.e., Duke Frederick VI of Swabia, son of Barbarossa]. They wrote of this to Emperor Henry [VI], asking him to bring it before the Pope, and [to petition] that they might be [constituted as] an Order, so that they could live [in community], care for the sick poor, serve them, and also fight in times of need.
+
+[Papal confirmation] This came to pass, and Pope Celestine III [Celestinus III, r. 1191-1198] confirmed the Order and gave them the Rule of St. Augustine [S. Augustini Regel], as well as great indulgences [Ablas], such as the Hospitallers [Joanniter, i.e., Knights of St. John] and the Templars [Templirer] had. They were to live according to the same knightly [discipline]. Through this they also came into great wealth [grosse gutern]. The Patriarch of Jerusalem invested them, together with others, by written order [schreiben] and command [befehl] of the Pope: he gave them the white mantle [weissen Mantel] with a black cross [schwartzen Creutz] on the back and front, and also a white shield [weissen Schilt] with a black cross. They were to be called 'Knight Brothers of the Hospital of St. Mary of the German [Teutonic] Order in Jerusalem' [Ritter Bruder, des Hospitals S. Marie Deutsches Ordens zu Jerusalem].
+
+[Woodcut illustration: A large, formal portrait of the first Grand Master, Heinrich von Walpot, shown in full armor standing between two ornate Renaissance columns. He wears the white mantle with the black cross of the Teutonic Order and holds a sword. His coat of arms -- featuring a wheel design -- appears on a shield to his left. The style is typical of 16th-century commemorative woodcuts.]
+
+The first Master of this Teutonic Order: Heinrich von Walpot [Heinrich von Walpot, first Grand Master of the Teutonic Order, r. c. 1198-1200].`,
+  },
+  "p379": {
+    original: `Von Walpot / wie die Hoemeist=
+zug / vnd Vierten Bumeisters Gro=
+ssen von Walp ots Son gewesen sein /
+in des lassen. Ist für der Stadt Ackers
+im Fogei vnd Raubs Beurettin / bele von Jeru=
+salem / auch in vielen Bistchümen / vnd Fürsten Deutsches
+Landes exercist worden. Das als anno 1191. den 15. Julij die Stadt
+auss nicht auffstehen warisine die König Philippo von Francken /
+vnd Richardo König von Engellandt Hertzog in Aqaitanien / auch die=
+ser Orden neben den Joanitern vnd Templirten hinein gelanget / vnd
+der Frantzhösische. Da hat der Deutsche Orden einen gahr raummen
+platz an der Mauren an S. Niclaus Thor erlänget / da er einen schö=
+nen Hospital / neben einer Kirchen gebawet / auch einen Garten ge=
+macht / darinne für die Krancken daraus Junctura.
+
+Dieser Ordenmeister war ein sehr mütiger Man in Gott / vnd sehr
+barmherzig gegen die armen Krancken vnd geschossen / oder im Krige
+affgeschlagene es waere jhrer getreulich / schaffete jhn allerley nottürfft /
+ne das mehrerteil wider gesundt wurden vnd auffstanden / so haust
+haten außerlich aussehen. Die erbet von den Deutschen Fürsten vnd Herrn
+so wol das in seinem Orden grose gnüge sein endt / gaben / vnd da die
+Fürsten vnd Herrn wider für Schwartz zu haus gaben / liessen die
+Orden viel guter. Als begaben sich viel Deutsche Ritter vnd Knecht
+in Erde man nun vnd auff den gesagten der Landthäter / das all
+diese Orden viel wurden vnd anmall an personen vnd gütern.
+
+Der Oemelster Heinrich / hielde auch ein Capitel zu Ackers / vnd
+machet seine ordnung / wie sich die Brüder halten vnd auff eine
+Stifft / nemlich das sie teglich 200. Pater noster vnd Aue Maria / vnd den
+Glauben für vnd nach / frischen vnd auff eine Striassiglich Fest /
+auch / was die Auslender für newe Muster herbringen / das Brüder
+auch viel Reuter / gegen die Feinde auffzustellten.
+
+Als König Baldwinus von Jerusalem seinen grossen fleiss des
+Deutschen Ordens vermam / oder er jnr zu Jerusalem auch den Berge
+Syon / ein Spital sampt einer Kirchen ein / so S. Helena lass
+re bawen lassen / das sie alda auch der Krancken warteteten / sampt den
+Verwundeten vnd geschossenen. Auch die Pilgram Deutscher Jun=
+gen alda auffzunemen / herbergeten: sie versorgeten / wie denn solch auch
+die Johanniter theten / so Pilgram zu gesaltzm waren / spiessen.
+
+Es ist auch alles in verschiden das Er vnd Meister gedienet der
+Preister vn Erzpriester also in dem vnd urennemliche Krancken
+also in Karsten vnd Dranck geferet vnd gehalten wor=
+den. bit der Papst Celestinus 3. die Denn darumb in Bann gethan
+das sie`,
+    english: `[Page 379 -- Heinrich von Walpot's rule; the Order in Acre and Jerusalem]
+
+[Von Walpot continued] Von Walpot -- as the Hoemeister [Grand Master]. [He is said to have been] a son of the fourth Baumeister [?] Grossens von Walpot. He was [active] before the city of Acre, in [the areas of] Vogei [Jaffa?] and Raubsbeurettin [?], [and] near Jerusalem. Also in many bishoprics and [German] principalities [Fursten Deutsches Landes], the Order was exercised [i.e., it grew and operated].
+
+[Fall of Acre to the Crusaders, 1191] When, on July 15, 1191, the city [of Acre] could no longer hold out, [it was taken] by King Philip [II] of France [Francken] and King Richard [the Lionheart] of England, Duke of Aquitaine [Aqaitanien]. This Order, together with the Hospitallers [Joanitern] and the Templars [Templirten], also entered [the city], as did the French [order]. The Teutonic Order obtained a spacious place on the walls at St. Nicholas Gate [S. Niclaus Thor], where they built a fine hospital beside a church, and also made a garden for the sick.
+
+[Character of Heinrich von Walpot] This Order Master was a very courageous man in God and very merciful toward the sick poor and those wounded or maimed in war. He faithfully cared for them, provided them with all necessities, so that most recovered and got back on their feet. He solicited [support] from the German princes and lords, who gave [generously], so that his Order had great abundance. And when the princes and lords returned home from [the Crusade], they left the Order many estates [guter]. Thus many German knights and servants joined [the Order], and through the [generosity of] benefactors [Landthater], the Order grew greatly in both persons and property.
+
+[Chapter at Acre -- Rule established] The Hoemeister Heinrich also held a Chapter [Capitel] at Acre and established their rule [ordnung]: how the brothers should conduct themselves and [maintain] a foundation -- namely, that they should daily [recite] 200 Pater Nosters and Ave Marias, and the Creed before and after, and [observe] every solemn feast. Also [he arranged] that the brothers should maintain many horsemen [Reuter] against the enemies.
+
+[Grant on Mount Zion] When King Baldwin [Baldwinus] of Jerusalem observed the great diligence of the Teutonic Order, he also granted them, in Jerusalem on Mount Zion [Berge Syon], a hospital together with a church that St. Helena [mother of Emperor Constantine] had had built, so that they could also tend the sick there, along with the wounded and those shot [in battle]. Also [they were] to receive, shelter, and provision German pilgrims [Pilgram Deutscher Jungen] there -- just as the Hospitallers [Johanniter] also did for pilgrims who came to [the Holy Land].
+
+[Conflict with clergy] It also happened that [disputes arose over] how the priests and archpriests served the Order, and how the sick were fed [geferet] and cared for in carts [Karsten] and wagons. [Until] Pope Celestine III placed them [certain parties] under the ban [excommunication] because they...`,
+  },
+  "p380": {
+    original: `das sie jhren Priestern die Eheweiber geb
+Graphia Henrici Pantlialionis Ex Saxol
+ist / von den Polen sagt nicht allein Joach
+die Polnischen Scribenten / als Mecho=
+lib. 7. sue fol. 119. b. Item 130. a. Herb auss lie.
+
+des Papsts Legat Petrus Capuanus / Festing anfan sd hernoch
+Henricus der eingedrungene Ertzbischoff zu Gnisen / mit gewalt ab=
+geschaffet / vnd ist jhnen darnach biß auff diesen tag der Teutsische Nut=
+renstand viel lieber vnd angenemer worden / als der heilige Ehestand /
+den Gott selber geordnet vnd eingesetzt hat.
+
+Daneben ist auch das denckwürdig / Als dieser Orden im gelobten
+Lande / seinen anfang genomen / sol ein groß itziger Nordenwinde in
+Preussen gewehret haben / derenthalben alle Schiff in Preussen verfau=
+let sind. Es sol auch die frische Neerung in dieser zeit / durch solche
+starcke Nordenwinde auffgetrieben / denn zuuoren kein Haff alda / son=
+dern lauter See gewesen sein sol.
+
+Dieser Meister ist gestorben zu Ackers / anno 1200. vnd alda in
+seiner Kirchen / den 5. tag nach Aller Heiligen begraben worden.
+
+Der ander Meister Otto von Karpen.`,
+    english: `[Page 380 -- Clerical celibacy; portents in Prussia; death of Heinrich von Walpot; Second Grand Master Otto von Karpen]
+
+[Clerical celibacy controversy] ...that they [the clergy] should give their priests wives. [Reference:] Graphia Henrici Panthalionis [Heinrich Pantaleon's chronicle] ex Saxonia. [This] is [confirmed]; of the Poles, not only Joachim [Joachim Cureus?] says [this], but also the Polish writers, such as Mechovius [Maciej Miechowita], lib. 7, suo fol. 119b, also 130a, Herb[ord?] (...)
+
+[Celibacy enforced] The Pope's legate Petrus Capuanus [Peter of Capua] and afterward Henricus, the intruded [eingedrungene] Archbishop of Gnesen [Gniezno], forcibly abolished [this practice]. And from that time to this day, the [priestly] celibate state [Teutsische Nutrenstand / Nonenstand?] has become much more beloved and acceptable to them than the holy estate of marriage [Ehestand], which God Himself ordained and instituted.
+
+[Portent -- Storms in Prussia] It is also noteworthy that when this Order had its beginning in the Holy Land, a great [and persistent] north wind [Nordenwinde] is said to have blown in Prussia, on account of which all ships in Prussia rotted. The Frische Nehrung [Vistula Spit] is also said to have been driven up [formed] at this time by such strong north winds, for previously there had been no lagoon [Haff] there, but only open sea.
+
+[Death of Heinrich von Walpot] This Master died at Acre in the year 1200 and was buried there in his church, on the fifth day after All Saints' [November 6].
+
+[Woodcut illustration: A full-length formal portrait of the second Grand Master, Otto von Karpen, standing between two ornate Renaissance columns with heraldic shields. He is depicted in full plate armor wearing the white mantle of the Teutonic Order with its black cross, holding a sword. His coat of arms appears on the left. The woodcut style matches the portrait of Heinrich von Walpot on p378.]
+
+The second Master: Otto von Karpen [Otto von Kerpen, second Grand Master of the Teutonic Order, r. c. 1200-1208].`,
+  },
+  "p331": {
+    original: `ab fugen in die 750. Behemen / Mähren /
+a / Auss Hoemeister festen / kamen jhr nur 6.
+viel von der Mawren hart beschedigt. Die Fen-
+in opffern man zu A.. gsperg im Thum. Ein ander sagt / das 250.
+Behemen erschlagen / vnd 82. also gefangen sein worden. Solche ge-
+fangene sol man auff Montag Lætare / sampt 6. Fenlin gen Königs-
+perg gebracht haben / vnd die Fenlein im Thum auffgesteckt.
+Meisferswalde S. 14.
+
+Memmel / oder Memmelburg. C. 21. Auff Cu-
+risch Cleupeda / Martinus Cromerus Lib. 17. nents Tropædem / Ist
+Erstlich gebawt ein festes Haus / mit gewaltigen Graben vnd Wallen / vnd da-
+neben eine zimliche Stadt / bende mit dem Flus Tange vmbgeben.
+Es hat auch gar ein gutes Tieff einzuschiffen.
+
+Ist gebawet Anno 1250. von B: Eberhart / Landmeister in
+Lifflande / vnter dem Hoemeister Landgraff Identity Conradt / das Schlos
+liegt an der gesaltzenen See / da der flus Tange das Schlos befleust /
+vnd alda in das Curisch Haff / hart bey der See felt. Vnd ward dis
+Schlos vnter Conradt Walroder gefertiget.
+
+Vnter dem folgenden Landmeister in Lifflandt / Hanno von
+Sangerhausen / kamen viel Samlender / vnd belegerten diese Burg /
+aber die Christen wereten sich so Ritterlich / vnd erschossen der Feinde
+so viel / das sie mit grossen schaden abstechen musten.
+
+Vmb die zeit / als Heinrich Plotzkaw Landmeister in Preus-
+sen war / da war gar ein streitbarer Compthur auff der Memmel / B:
+Lorentz ein Graff von Deck / dem schrieb Zayrecto ein gewaltiger Bo-
+jar / aus dem Samaistschen Fürstenthumb Rosenaw. Er solte kom-
+men vnd jhn zur Tauff helffen / doch vmb sicherheit willen / gut Volck
+mit bringen. Er hatte aber im Walde / da man vber einen langen
+Tham ziehen muste / bestellet / sie alle zuerschlagen. Als aber der
+Compthur mit 15. auserlesenen Brüdern vnd jhrem Volck schir dahin
+kam / begegnete jm ein verlaufsener Sudaw / der sagt: wiltu mit mir
+reitten / wil ich dir vnd den deinen jhr leben retten / als im der Compthur
+geschworen hatte / zeiget er jm nicht allein die verretherey an / sondern
+füre jn auch durch einen Waldt da sie den Zayrecto funden / denckende /
+Wie nu der Compthur erschlagen solte werden / erschlugen jhm sein
+Volck / in aber fürten sie gefangen mit / des nachtes bunden sie jhn mit
+einer Eysernen Retten / an einen Bawm / wie sie nu schlieffen / ward er
+los / erwischt ein Schwerdt / ersticht B: Jerosulum von Hauen / für
+den Compthur / vnd andere mehr / in dem erwachten sie / vnd heisset
+der Compthur dem Zayrecto den Kopff entzwey / vnd die Brüder
+rauff / verbranden das Landt / Menschen vnd Viehe trieben sie
+in Preussen.
+
+Anno 1323.`,
+    english: `[Page 331 -- Memel/Klaipeda: founding, fortification, and early conflicts]
+
+[Battle of the Bohemians -- continued from previous page] ...fled into the 750 Bohemians [and] Moravians. From the Hoemeister's [Grand Master's] fortresses, only 6 of theirs came [back]. Many were badly injured by the walls [Mawren]. The banners [Fenlein] were offered [displayed] in the Cathedral [Thum/Dom] at Konigsberg. Another [source] says that 250 Bohemians were slain and 82 captured. These prisoners are said to have been brought to Konigsberg on Monday Laetare [4th Sunday of Lent], together with 6 banners, and the banners were hung up in the Cathedral.
+
+Meisferswalde S. 14.
+
+[Memel / Memmelburg -- Klaipeda] C. 21. In Curonian [called] Cleupeda [Klaipeda]. Martinus Cromerus [Martin Kromer, Polish historian], Lib. 17, calls it Tropaeden. First built as a strong house [fortification] with mighty ditches and ramparts, and beside it a fair-sized town, both surrounded by the river Tange [Dane River]. It also has a very good deep [channel/harbor] for shipping.
+
+[Founded 1250] Built in the year 1250 by Brother Eberhart, Landmeister [Provincial Master] in Livonia, under the Hoemeister [Grand Master] Landgrave Conrad [Conrad of Thuringia]. The castle lies on the salt sea [Baltic], where the river Tange flows past the castle and there empties into the Curonian Lagoon [Curisch Haff], hard by the sea. This castle was completed under [Grand Master] Conrad [von] Walrode [Konrad von Wallenrode, r. 1391-1393].
+
+[Samland siege] Under the following Landmeister in Livonia, Hanno von Sangerhausen [Anno von Sangerhausen], many Samlanders [pagan Prussians from Samland] came and besieged this fortress, but the Christians defended themselves so valiantly and shot so many of the enemy that they [the Samlanders] had to withdraw with great losses.
+
+[The treachery of Zayrecto] Around the time when Heinrich von Plotzkau was Landmeister in Prussia, there was a very warlike Komtur [commander] at Memel, Brother Lorentz, a Count von Deck. To him wrote Zayrecto, a powerful Boyar [Bojar] from the Samogitian [Samaitschen] principality of Rosenaw [Raseiniai]. He [Zayrecto] said [the Komtur] should come and help him receive baptism, but for safety's sake bring good soldiers. However, he [Zayrecto] had set an ambush in the forest, where one had to cross a long causeway [Tham/Damm], to slay them all.
+
+But when the Komtur with 15 chosen Brothers and their troops was nearly there, a runaway Sudovian [Sudaw, a member of the Sudovian/Yotvingian Prussian tribe] met him and said: 'If you will ride with me, I will save your life and those of your men.' When the Komtur had sworn [to protect him], he [the Sudovian] revealed not only the treachery, but led him through a forest where they found Zayrecto -- who was expecting the Komtur to be slain. [Instead] they slew his [Zayrecto's] people, and took him [Zayrecto] prisoner. That night they bound him with an iron chain to a tree. While they slept, he [Zayrecto] got free, seized a sword, and stabbed Brother Jerosulum von Hauen [mistaking him] for the Komtur, and others besides. Then they awoke, and the Komtur split Zayrecto's head in two [heisset dem Zayrecto den Kopff entzwey]. The Brothers then burned the land [of the Samogitians], and drove people and livestock into Prussia.
+
+In the year 1323.`,
+  },
+  "p332": {
+    original: `Anno 1323. In der Fasten / kamen die Sa-
+Stadt Memmel vnd drey Fischhäuser / vnd verbra-
+ter der Burg war / auch die Schiffe / das Volck ertrn ... theil /
+das ander fürten sie gesenglich hinweg.
+
+Anno 1328. Ward das Haus Memmel / von den Brüdern in
+Lifflandt / den Brüdern in Preussen / auff ein Jahr gegeben / mit aller
+fruchtbarkeit vnd zubehörung / gehört also noch in Preussen.
+
+Ein nachlessiger Herr / so nur des Jagens
+wartet / erschlagen.
+
+Anno 1379. Als die Samaitten B: Gallum vom Teichrichwal-
+de zum Compthur hatten gekrieget / der nur des Jagens / vnd nicht
+seins ampts zu wartten pflag / erschlugen in die Samaitten mit allem
+Volck / als sie im schwarwerck waren / zogen für die Memmel / erdürgten
+viel Volcks / vnd brandten die Stade aus. Denn es heist: Hatt
+jemande ein Ampt / so warte er des Ampts Rom. 12.
+
+Anno 1389. Kamen die Samaitten gen der Memmel / vnd
+erschlugen alda 800. Man / so an der Stadt baweten / von welchen jr
+500. dem Bischoff von Neilsperg gehörten / die der Hoemeister mit ge-
+waldt dahin gezwungen hatte.
+
+Kurtz vor der Tannenbergischen Schlacht / fielen die Sa-
+maitten ab vnd verbrandten auch die Stadt Memel.
+
+Im grossen Kriege.
+
+Anno 1457. Kamen auff Martini die Dantzker / funden zur
+Memel 14. Schiffs Kreger geheissen / so dem Orden die Lübischer vnd
+Hamburger / mit Volck vnd Proviant geschickt hatten / deren 8. be-
+luden sie / vnd fürten sie mit sich gen Dantzig / die andern vnd auch
+eine Pastey verbrandten sie.
+
+Anno 1459. Kurtz nach der 11. tausent Jungfrawen tag / ver-
+brandten die Samaitten das Schlos Memel / da kamen die Lifflen-
+der vnd besatzten es mit 200. Man.
+
+Anno 1464. Auff Joannis des Teuffers abendt / sind mit Si-
+mon Lübelaw einem Schipper / vnd andern Schiffen Herr Marquar-
+us Knocke / Petrus Brande / Caspar Hecke / welche zuuor Bürger zu
+Königsperg gewesen / von Dantzig gen der Memel geschifft / da habe
+sie jhr 11. Schiffe / welche jnen die Königsperger / mit gewaldt auff der
+See genomen / gefunden. Sind darnach zum Schlos Memel gezoge /
+vnd vermeinet sie würden es bekomen / aber es hat jnen fehl geschlagen /
+dann ohn gefehr 8. tage zuuoren / haben etzliche aus Dennemarckten
+die Memmeler gewarnet / denn es verrecher vnter jhnen hatte / wie
+sie denn auch selber bekande haben. Aus diesen Schiffen sind jhr
+neune gen Dantzig gebracht / die andern zwey haben sie verbrandt /
+vnter welchen der von Königsperg das grösste war.
+
+Im grossen`,
+    english: `[Page 332 -- Memel: Samogitian raids, the Great War, and naval engagements]
+
+[Year 1323 -- Samogitian raid] In the year 1323, during Lent, the Samogitians came [and attacked] the town of Memel and three fishing houses [Fischhauser], and burned... [text partially damaged] ...the fortress as well, also the ships. The people [were partly] drowned, the others they led away as prisoners.
+
+[Year 1328 -- Transfer to Prussia] In 1328, the House [castle] of Memel was given by the Brothers in Livonia to the Brothers in Prussia for one year, with all its revenues and appurtenances. It has belonged to Prussia ever since.
+
+[A negligent lord who only cared for hunting -- slain]
+
+[Year 1379] In 1379, when the Samogitians had obtained Brother Gallus von Teichrichwald as Komtur [commander] -- who only cared for hunting [Jagens] and did not attend to his office -- the Samogitians slew him with all his people while they were doing forced labor [schwarwerck]. They marched on Memel, killed many people, and burned the town. For it is written: 'If anyone has an office, let him attend to that office' [Romans 12]. [A moralizing comment by Hennenberger on the Komtur's negligence.]
+
+[Year 1389 -- Samogitian massacre] In 1389, the Samogitians came to Memel and slew 800 men there who were building [fortifying] the town, of whom 500 belonged to the Bishop of Neilsperg [likely the Bishop of Samland at Neuhausen], whom the Hoemeister [Grand Master] had forced to go there.
+
+[Before Tannenberg] Shortly before the Battle of Tannenberg [Grunwald, 1410], the Samogitians revolted and also burned the town of Memel.
+
+[In the Great War (Thirteen Years' War, 1454-1466)]
+
+[Year 1457] In 1457, on [the Feast of] St. Martin [November 11], the Danzigers came [and] found at Memel 14 ships called Kregers [war vessels], which the Lubeckers and Hamburgers had sent to the Order with troops and provisions. They loaded 8 [of the ships] and took them to Danzig; the others and also a bastion [Pastey] they burned.
+
+[Year 1459 -- Samogitians burn the castle] In 1459, shortly after the Day of the 11,000 Virgins [October 21, the Feast of St. Ursula], the Samogitians burned the castle of Memel. Then the Livonians came and garrisoned it with 200 men.
+
+[Year 1464 -- Naval expedition from Danzig] In 1464, on the Eve of St. John the Baptist [June 23], Simon Lubelaw, a skipper, and other ships [carried] Herr Marquarnus Knocke, Petrus Brande, [and] Caspar Hecke -- who had previously been citizens of Konigsberg -- sailed from Danzig to Memel. There they found 11 of their ships which the Konigsbergers had seized by force on the sea. They then sailed to the castle of Memel, expecting to take it, but they failed. For about 8 days before, some [people] from Denmark had warned the Memelers, since there were traitors [verrecher] among them [the attackers], as they themselves later confessed. Of these ships, nine were brought to Danzig; the other two they burned, among which the one from Konigsberg was the largest.
+
+[In the Great (War)...]`,
+  },
+  "p333": {
+    original: `Im Polnischen Krieg.
+
+20. Kamen auff den Pfingstmorgen die Dants-
+ker / mit drey ... en / vnd namen beim Schlos ein Schiff mit
+Wein / vnd ein Schmacken mit Aeschen / so man Weiselscher nennet /
+vnd brandten die Stadt halb aus.
+
+Als anno 1525. Marggraff Albrecht seinen Orde abgeleget /
+vnd das Lande zu Preussen vom Polnischen König zu Lehen hatte erbst
+lich angenomen / Da war auff der Memel Hertzog Erich von Braun-
+schweig / Comptar / dem gefiel es nicht. Da er aber aus dem Lande
+verreisst war / f... er Bischoff von Samlandt jm das Schlos ger-
+ne abhendig ge....t / weil es jm aber nicht wolte angehen / sette er zu
+Königsperg / als er wider in das Landt war kommen / seine ge-
+fangen: Es wardt aber der Hertzog gewarnet / zog vmb die Stade /
+kompt gen der Sarckauw / da er sich mit einem Bothgen der Memel
+vber setzen lies: Derhalben wurden die Thor in der Altenstadt Kö-
+nigsperg vmbsonsts geschlossen.
+
+Da aber Hertzog Erich das Schlos nicht auffgeben wolte /
+zog der newe Hertzog / Marggraff Albrecht / mit allem Hoffgesinde
+dahin / dasselbige einzunehmen / Dennoch wolte jhn der von Braun-
+schweigt so balde nicht einlassen.
+
+Da nun der Marggraff auff das Schlos kam / stunde der
+Hertzog von Braunschweigt / in einem gantzen Küris / mit ausge-
+zogenem Schwerdt im Schlos.
+
+Da sprach der Marggraff Albrecht: Wie nu Herr Ohem /
+wie nu? Er antwortet: O Herr Ohem / jhr thut nicht wol an mir.
+Doch vertrugen sich beide Herrn vntereinander / vnd der von Braun-
+schweigt bekam Jehrlichen ein Summa Geldes aus dem Lande / vber-
+gab das Schlos / vnd zog hinaus / in des Ordens Heuser / da er
+seinen vnterhalt hatte.
+
+Anno 1540. vier wochen nach Martini / brandte die Stadt
+Memel aus bis auff 6. Heuser.
+
+Anno 1595. den 19. Febr. vmb 9. vhr aussen Abends / hat ein
+Kriegsman / mit namen Hans von der Heyde / aus Ditmarischen /
+auff dieser Feste / da er auff dem Wahll / am fordersten Rundeel die
+Wacht gehalten / gesehen / das eine Brücken vber den Graben / bis
+auff Rundeel ward / vnd darüber geradt zu jhm kommen einen
+langen schwartzen Man / in einem langen Talar / der jhn auff Sechs-
+fisch mit harten worten hat angesprochen. Was stehstu alhier? Der
+Kriegsman geantwortet: Ich stehe hie von Gottes / vnd meines Gne-
+digsten Herrn wegen. Antwortet der schwartze Man: Das hies dich
+Gott reden / vnd fragt weiter: Habt jr auch noch da im ding zu fressen?
+Antwort Hans / ja Gott vnd genug zu essen vnd trinckts / vnd güte vor-
+rath. Sprach der schwartze Man: aber Korn vnd Holtz wird euch
+mangeln / warauff er vnd die Brücke verschwunden / vnd die Schant-
+körbe sich gekrachet haben. Solchs hat er von stund an dem Büchsen-
+meister / so die Wache Visitiret / vnd am morgens dem Hauptman / auch
+Presto dem Pfarrern alda erzehlet.
+
+Mew-`,
+    english: `[Page 333 -- Memel in the Polish War; Margrave Albrecht's secularization; a ghost story]
+
+[In the Polish War (War of 1519-1521)]
+
+[Year 1520] On Whit Sunday [Pentecost] morning, the Danzigers came with three [ships?] and seized near the castle a ship laden with wine, and a Schmack [flat-bottomed boat] with ashes -- which they call Weiselscher [Vistula ash, a type of potash] -- and burned half the town.
+
+[Year 1525 -- Secularization of Prussia] When in 1525 Margrave Albrecht [of Brandenburg-Ansbach] renounced his Order [the Teutonic Order] and received the land of Prussia as a hereditary fief from the Polish King [Sigismund I], Duke Erich von Braunschweig [Brunswick], the Komtur at Memel, was displeased. When he [Erich] had traveled out of the country, the Bishop of Samland tried to take the castle from him [gain control], but when that failed, he [tried to] seize [Erich] at Konigsberg when he returned to the land. But the Duke was warned, rode around the town [of Konigsberg], came to the Sarckauw [Sarkau], where he crossed to Memel in a small boat. Therefore the gates of the Altstadt [Old Town] of Konigsberg were closed in vain.
+
+[Standoff at Memel castle] When Duke Erich would not give up the castle, the new Duke, Margrave Albrecht, marched there with all his household retinue [Hoffgesinde] to take it. Yet the [Duke] von Braunschweig would not readily let him in.
+
+When the Margrave came to the castle, Duke [Erich] von Braunschweig stood in full armor [gantzen Kuris / cuirass], with drawn sword, in the castle.
+
+Then Margrave Albrecht said: 'Well now, Lord Cousin [Ohem], well now?' He answered: 'O Lord Cousin, you do not do well by me.' Yet both lords came to terms: the [Duke] von Braunschweig received an annual sum of money from the land, surrendered the castle, and moved out into the Order's houses [other Teutonic Order properties], where he was maintained. [This episode illustrates the difficult transition from Teutonic Order rule to the secular Duchy of Prussia.]
+
+[Year 1540 -- Fire] In 1540, four weeks after Martinmas [St. Martin's Day, November 11], the town of Memel burned down, leaving only 6 houses standing.
+
+[Year 1595 -- A ghostly apparition] On the 19th of February 1595, around 9 o'clock in the evening, a soldier named Hans von der Heyde, from Dithmarschen [Ditmarischen, a region in Holstein], while on guard duty at this fortress on the rampart [Wahll], at the foremost roundel [Rundeel, a circular bastion], saw a bridge appear over the moat up to the roundel. Over it there came straight toward him a tall black man in a long robe [Talar], who addressed him in a harsh voice in the Saxon dialect [Sechsfisch / Sachsisch]. 'What are you standing here for?' The soldier answered: 'I stand here in God's name and my most gracious Lord's.' The black man answered: 'God bade you say that,' and asked further: 'Do you still have anything to eat in there?' Hans answered: 'Yes, God be praised, enough to eat and drink, and good provisions.' The black man said: 'But corn and wood will run short for you' -- whereupon he and the bridge vanished, and the gabions [Schantkorbe, wicker baskets filled with earth for fortification] creaked. [The soldier] immediately reported this to the gun-master [Buchsenmeister], who was inspecting the watch, and the next morning to the captain, and also to Presto the pastor there. [A typical 16th-century ghost/apparition story recorded as historical fact.]
+
+[Mew(e)...]`,
+  },
+  "p334": {
+    original: `Mengegut X. 14.
+Mentelsqut X. 18. oder Mentsg-
+gut genand.
+Mercka d. 5.
+Merunpken S. 28. Ligt in Sudawen / vnd hat zu-
+vor Meeruncken geheissen.
+Messig G. 7. Poln: Oschetzko.
+Metricken G. 23.
+
+Mewe W. 6. Mechovius lib3, cap: 61. nennet es Polnisch
+Gniew / hat zuuoren das Gepiete Wancke geheissen. Schwanti-
+pols Söne / Mestowins Bruder / die hetten jhre Güter dem Orden
+auffgetragen vnd verbriefst / also das der eine Barckislaus genandt /
+den Orden annam / den andern zween Semborio vnd Ratisborio /
+sölte der Orden zu jhren tagen / ein ehrliches auskommen geben.
+
+Aber Mestowin nam die Güter ein vnd wolte es nicht zugeben /
+dis klagte der Orden des Bapsts Legaten / der vertrug es / das der Or-
+den solt haben das Gebiete Wancke / also hies das Mewisch Gebiet
+den Orden: Ja zuohren. Derhalben brach der Orden anno 1283. das Schlos
+Putterberg ab / vnd bawete damit das Schlos Mewe.
+
+Doch ist hernacher das Schlos wider abgebrochen worden / vnd
+an die Stadt gebawet.
+Hat ein Conuent gehabt.
+Hat sich anno 1410. nach der Tannenbergischen Schlacht de
+Polnischen König mit geding ergeben.
+
+Im grossen Kriege.
+
+Anno 1454. Als der König die Schlacht für der Conitz ver-
+loren / vnd die Stadt Dirschaw sich dem Orden ergeben hatte / er-
+schrackten die Mewer / vnd schrieben etzliche Bürger Heinrich Reus-
+se / er solte komen / dar ausser bey nachtzeit kam / ward in die Stadt gelasse /
+hernacher ergaben sich auch die auff dem Schlos.
+
+Anno 1457. auff Vincula Petri kamen 2000. Dantzker zu
+fuss / vnd 300. Polnische Reisiger / vnd beranten die Mewa / auff
+der andern seiten der Weissel / kamen 800. Reisiger vnd 2000. Pol-
+nischer Draben / so kamen auch auff der Weissel grosse Weisselbane
+mit Plockheusern / vnd damit stürmeten sie die Stadt. Aber sie
+wrete sich ritterlich / bis auff S: Matthei tag / da brachen die Polen
+ohne wissen des Königs auss / weil sie nicht Soldt krigten / vnd zogen
+in bisweilen daruon / derhalben die Dantzker auch abziehen musten /
+mit grossem schaden.
+
+Anno 1458 Donnerstag nach Misericordias / namen des Or-
+dants Gesetz zur Mewelgentz / den Dünschdauwers 4. schock Küche / vnd
+ein schock Pferde / hetten auch schier die Stadt errant.
+
+Auff den`,
+    english: `[Page 334 -- Place entries; Mewe/Gniew: founding, Tannenberg, and the Great War]
+
+[Place entries]
+Mengegut X. 14.
+Mentelsqut X. 18. also called Mentsgut.
+Mercka d. 5.
+Merunpken S. 28. Lies in Sudauen [Sudovia], and was formerly called Meeruncken.
+Messig G. 7. Polish: Oszczetzko.
+Metricken G. 23.
+
+[Mewe / Gniew] W. 6. Mechovius [Maciej Miechowita, Polish historian], Lib. 3, Cap. 61, calls it by the Polish name Gniew. It was formerly called the district of Wancke [Wanke]. Schwantipol's [Swietopelk II, Duke of Pomerania] sons, Mestwin's [Mestwin II] brothers, had conveyed their estates to the Order and confirmed them by charter. Thus one [brother] named Barckislaus [Warcislaw] joined the Order; the other two, Semborio [Sambor] and Ratisborio [Racibor], were to receive an honorable livelihood from the Order for the rest of their days.
+
+But Mestwin [Mestwin II] seized the estates and would not allow it. The Order complained to the Pope's Legate, who settled the matter: the Order was to have the district of Wancke -- thus the Mewe district [came to] belong to the Order. Therefore the Order in 1283 demolished the castle of Putterberg and used the materials to build the castle of Mewe [Gniew].
+
+Later, however, the castle was demolished again and [rebuilt] attached to the town.
+It had a Convent [a Teutonic Order commandery].
+In 1410, after the Battle of Tannenberg [Grunwald], it surrendered to the Polish King on terms.
+
+[In the Great War (Thirteen Years' War, 1454-1466)]
+
+[Year 1454] In 1454, when the King [Casimir IV of Poland] had lost the battle at Konitz [Chojnice] and the town of Dirschau [Tczew] had surrendered to the Order, the people of Mewe were frightened. Some citizens wrote to Heinrich Reusse [Heinrich Reuss von Plauen], [asking] him to come. He came secretly by night, was let into the town, and afterward those in the castle also surrendered [to the Order].
+
+[Year 1457 -- Siege of Mewe] In 1457, on [the Feast of] St. Peter in Chains [Vincula Petri, August 1], 2,000 Danzig infantry and 300 Polish cavalry attacked Mewe. On the other side of the Vistula [Weissel/Weichsel], 800 cavalry and 2,000 Polish foot soldiers [Draben] came, and also on the Vistula came great Vistula barges [Weisselbane] with blockhouses [Plockheuser, floating wooden forts], and with these they stormed the town. But it defended itself valiantly until St. Matthew's Day [September 21]. Then the Poles broke off without the King's knowledge, because they received no pay, and gradually withdrew. Therefore the Danzigers also had to retreat, with great losses.
+
+[Year 1458] On Thursday after Misericordias [2nd Sunday after Easter], the Order's troops from Mewe took from the Dunschdauers [likely inhabitants of a nearby area] 4 Schock [240] cattle and one Schock [60] horses, and nearly stormed the town as well.
+
+[continued...]`,
+  },
+  "p335": {
+    original: `ntag nach Jubilate / fuhren 15. Schiff auff der
+fehren / geleiset mit Dantzker Schützen / in son-
+derlichen / da machten sich die Mewer auch zu Schiff auff /
+folgen jnen bis gen der Falckenaw / da berichten sich die Dantzker / vnd
+schlugen sich lang mit des Ordens Volck / das der Dantzker viel blie-
+ben / vnd die andern die flucht namen. Der Mewer nur einer todt /
+vnd zwene hart verwundet wurden / krigten die 15. Schiff / darim-
+nen funden sie 40. Last Getreydes / 400. Schincken fleisches / 2.
+schock gute Ochsen / 600. Marck in einer Laden / 2. grosse Fas mit
+Schmaltz / 4. Fas Wein / 6. Tonnen Honigs / Butter / Rees / hirsch /
+Schwaben / Erbeis / Hanffsamen / etc. Solches solte für den Kö-
+nig / so er sich für Margenburg / oder die Mewe würde lagern / auch
+frigten sie darinnen Eysen / Kupffer / vnd Kupfferwasser.
+
+Anno 1460. krigten sie in die 4000 Marck / auff der Weissel
+in Weisselkahnen.
+
+Auff Matthei als Fritz von Lieben Eich nicht zu haus war /
+solte Schlos vnd Stadt verrathen sein worden / aber man ward es
+gewar / vnd die Zugbrücken ward auffgezogen / Derhalben die Feun-
+de von Margenburg vnd Stargarde sich an die Mühlen machten /
+fiengen B: Schaldum von Czydrewitz / mit 30. Knechten / die fürten
+sie gen Margenburg in das Gefengnis.
+
+Anno 1463. Mitwoch nach Jacobi / zogen die Preussen vnd
+Polen widerumb mit Heeres schilden für die Mewa / belagerten sie
+zu Wasser vnd zu Lande 23. wochen lang / vnd nach dem sie keine
+speise mehr hatten / vnd niemandts sie entsetzten koute / dingeten sie sich
+vom Schlos ab / auff S: Johans tag in Waehenachten. Die
+Stadt hat auch alle jhre Freyheit erhalten.
+
+Hernach wurden die Bürger von den Polen vbel gehalten /
+derhalben sie die Stadt gerne widerumb an den Orden gebracht hät-
+ten / deren wurden 7. darumb gefangen / die musten sich mit 2000.
+Marck lösen.
+
+Darnach kam auff etzlicher erforderung / Heinrich Reus von
+Plaitben / vnd dis war auch den Dantzkern verrathen / wie nun jene
+einsteigen / diese hindten zu / vnd schlugen auff sie / fingen jr 80. Man /
+vnd 28. wurden erschlagen / 20. so eingestiegen waren / wurden auch
+gefangen.
+
+Meyendorff V. 4.
+
+Michelaw d. 9. Ist ein kleines Lendigen / liget
+zwischen den Flüssen Dribantz vnd Prodna / darinnen hat Stras-
+burgt gelegen / denn die Dribantz zuuoren auff dieser seiten gegan-
+gen hat. Es ist auch vmb dieses Lendigen / stets ein zanck gewe-
+sen. Denn der König sprach es an / als das seine: Vnd der Hoe-
+meister befass es / als sein erkaufftes vnd wolerhabetes Gut / der-
+halben es viel mal zerstöret worden ist.
+
+Anno 1304.`,
+    english: `[Page 335 -- Mewe continued; Michelaw]
+
+[River battle near Mewe] On Sunday after Jubilate [3rd Sunday after Easter], 15 ships sailed up the [Vistula], escorted by Danzig marksmen. Then the people of Mewe also took to ships, followed them to the Falckenaw [Falkenau]. There the Danzigers turned to fight, and they battled long with the Order's troops. Many Danzigers fell, and the rest fled. Of the Mewe [garrison] only one was killed and two badly wounded. They captured the 15 ships, in which they found: 40 Last [a unit of measure, roughly 2 tons each] of grain, 400 hams, 2 Schock [120] good oxen, 600 marks in a chest, 2 great barrels of lard, 4 barrels of wine, 6 barrels of honey, butter, rice, venison, [dried fish/Schwaben], peas, hemp seed, etc. These provisions were intended for the King [Casimir IV], should he besiege Marienburg [Malbork] or Mewe. They also found iron, copper, and copperas [Kupfferwasser, copper sulfate, used in dyeing and medicine].
+
+[Year 1460] In 1460, they captured about 4,000 marks [worth of goods] on the Vistula in Vistula barges [Weisselkahnen].
+
+[Betrayal attempt at Mewe] On St. Matthew's Day [September 21], when Fritz von Lieben Eich [the commander] was not at home, the castle and town were to be betrayed [to the enemy], but it was discovered and the drawbridge was raised. Therefore the enemies from Marienburg and Stargard seized the mills [instead], and captured Brother Schaldum von Czydrewitz with 30 soldiers, taking them to Marienburg to prison.
+
+[Year 1463 -- Long siege] In 1463, on Wednesday after [the Feast of] St. James [July 25], the Prussians and Poles again marched with armed forces against Mewe. They besieged it by water and land for 23 weeks, and when [the garrison] had no more food and no one could relieve them, they negotiated their departure from the castle on St. John's Day at Christmas [December 27, the Feast of St. John the Evangelist]. The town retained all its privileges.
+
+[Citizens mistreated by Poles] Afterward the citizens were treated badly by the Poles, so that they would gladly have returned the town to the Order. Seven [citizens] were captured for this [plotting] and had to ransom themselves for 2,000 marks.
+
+[Heinrich Reuss's failed attack] Then, at the request of some [citizens], Heinrich Reusse von Plauen came [to retake the town], but this too was betrayed to the Danzigers. As the [Order's men] were climbing in, the [Danzigers] came up from behind and attacked them, capturing 80 men. 28 were slain, and 20 who had already climbed inside were also captured.
+
+Meyendorff V. 4.
+
+[Michelaw] d. 9. A small strip of land [Lendigen], lying between the rivers Dribantz [Drweca] and Prodna [?]. Strasburg [Brodnica] was situated there, for the Dribantz formerly ran on this side. There has always been a quarrel over this small territory, for the King [of Poland] claimed it as his, and the Hoemeister [Grand Master] held it as his purchased and well-maintained property. Therefore it has been destroyed many times.
+
+In the year 1304.`,
+  },
+  "p336": {
+    original: `Anno 1304. Ist Michelawer Lant
+Conrado Sarck ver... worden / für 130. schoch
+von einem Fürsten aus der Coya / Casimirns ge-
+scheide / so das Gelt binnen zweien Jahren m... / vnd vmb erieget
+würde / so solle das Lande des Ordens sein / das verstuben / vnd der
+Orden behielt das Lande.
+
+Anno 1345. ward ein vertrag gemacht / oder ein ewiger Frie-
+de zwischen König Casimiro / vnd Ludolpho König dem Hoemeister
+in Preussen. In welchem der König von Polen / gentzlich vnd gar /
+für sich vnd seine Erben / dieses Lendichen soll verziche / darüber auch
+Siegel vnd Brieff gab. Desgleichen auch Carolus König zu
+Vngern / Casimirs Eydem / auch alle Masurische Fürsten.
+
+Ist aber hernach im vertrag / nach dem grossen Kriege widerumb
+an den Polnischen König gelomen.
+
+Michelaw d. 9.
+Milentz V. 7.
+Müschwada d. 26.
+Milen Z. 14.
+Miswalde W. 10.
+Mondeck Z. 11.
+
+Michovlen V. 17.
+Mulowantz T. 6.
+Mulck W. 23.
+Mungenen T. 15.
+Mirchaw S. 2.
+Gros Montaw V. 7.
+
+Mottenhagen O. 18. Für etlichen vnd dreissig
+Jahren / war ein Schulmeister hinter Friedlandt auff ein Dorffe /
+seines Handtwercks ein Beutler / der Geburt aus Düringen / hatte
+viel Kinder / ward alhie Pfarrer / hat ein mal vier wochen lang kein
+Brodt im Haus gehabt / auch keins bey den Nachbarn bekomen können /
+sich vnd seine Kinder nur mit sawrem Kumpost speisen müssen /
+ohne Brot. Solches ist für Fr. Drht. Marggraff Albrechten hoch-
+löblicher Gedechtnis kommen / darauff der sechste Frosch von der Hu-
+ben zugelegt geschlossen / vnd forthin zugeben verordenet ist worden.
+
+Dieser Pfarrer ist hernacher aut den Pawren in ein Mülgen
+da man Bier zuschencken pfleget auch zum Bier gegangen / wie man
+denn auch noch derselbigen Pfarrer findet / so fleissiger der Krüge vnd
+des Geseuffs / denn der Bücher vnd Ampts warten / wie wol man
+die tobet / sindt nicht stoltz / schelten vnd straffen nicht so hart von der
+Cantzel / lassens auch sonsten gehen wie es gehet. Als aber der-
+selbige mit seinen Bawren zu haus gieng / vnd mit einem sich auff
+dem wege erzürnete / schlug jhn der Pawer todt / vnd liess darvon / were
+besser zu haus geblieben / so weren nicht so viel armer Weysen da ge-
+worden.
+
+Doctor Ambrosius Lowasser / von
+den Dorffspfarherrn.
+
+Ein Dorffspfarrher / Einfeltig Lehr /
+Straff böse art / Der Pawren hart.
+Sie gute berichte / Zu jhnen nicht.
+In den Krug lauff / Vnd mit jhn sauff
+Hürt sich / das man jhn nicht zurauff.
+
+Ein ander3`,
+    english: `[Page 336 -- Michelaw concluded; place entries; Mottenhagen -- a tale of a village pastor]
+
+[Year 1304 -- Michelaw's legal history] In 1304, the Michelaw land was sold [ver...worden] to Conrado Sarck for 130 Schock [a large sum] by a prince of the Coya [Kujavia], Casimir's [partition]. If the money was [not paid] within two years and [the land] was conquered, then it should belong to the Order. That [condition] expired, and the Order kept the land.
+
+[Year 1345 -- Treaty of Kalisz] In 1345, a treaty was made -- or an eternal peace -- between King Casimir [Casimir III the Great of Poland] and Ludolph [Ludolf Konig von Wattzau], the Hoemeister [Grand Master] in Prussia. In which the King of Poland entirely and completely, for himself and his heirs, was to renounce this little territory, and gave seal and charter [Siegel vnd Brieff] thereto. Likewise also Charles [Carolus], King of Hungary, Casimir's son-in-law, and also all the Masurian princes.
+
+But afterward, in the treaty after the Great War [the Second Peace of Thorn, 1466], it came again to the Polish King.
+
+[Place entries]
+Michelaw d. 9. / Milentz V. 7. / Muschwada d. 26. / Milen Z. 14. / Miswalde W. 10. / Mondeck Z. 11. / Michovlen V. 17. / Mulowantz T. 6. / Mulck W. 23. / Mungenen T. 15. / Mirchaw S. 2. / Gros Montaw V. 7.
+
+[Mottenhagen] O. 18. Some thirty-odd years ago [i.e., around 1565], there was a schoolmaster behind [near] Friedland, in a village, a purse-maker [Beutler] by trade, born in Thuringia [Duringen]. He had many children. He became pastor here [at Mottenhagen]. Once he had no bread in the house for four weeks, nor could he get any from the neighbors. He had to feed himself and his children with nothing but sour sauerkraut [sawrem Kumpost], without bread. This came to the attention of the most illustrious [Fr. Drht. = Furstliche Durchlaucht] Margrave Albrecht [Duke of Prussia] of most praiseworthy memory, whereupon it was resolved that the sixth Frosch [a measure of grain tax] from the Huben [hides of land, a land unit] should be added [to the pastor's income] and henceforth paid.
+
+[The pastor's downfall] This pastor afterward went to the peasants' tavern [Mulgen], where beer was served, and also drank beer. As one still finds such pastors today -- more diligent at the tavern and the drink than at their books and office. Although they are scolded, they are not proud, they do not rebuke and punish so harshly from the pulpit, and let things go as they go. But when this [pastor] was walking home with his peasants [parishioners] and got into a quarrel with one of them on the way, the peasant struck him dead and fled. It would have been better to stay home, so that so many poor orphans would not have been left behind.
+
+[Verse by Doctor Ambrosius Lobwasser -- on village pastors]
+
+A village pastor / Simple teaching, /
+Punish bad ways / Of peasants hard. /
+Give them good instruction / [But they listen] not. /
+Run to the tavern / And drink with them /
+Beware, lest one be struck dead. [A satirical verse about the dangers rural pastors faced when they fraternized with their hard-drinking parishioners.]`,
+  },
+  "p337": {
+    original: `in anders desselbigen.
+iger / Mit jhrer Lehe /
+.. en schaffen / Doch mus ich straffen /
+Das sie zu gemein / Den Bürgern sein /
+Mit jhnen zehren / In Zechen lehren /
+Offt selbst thun / was sie anderen wehren.
+
+Für 40. Jahren als ich anno 1554. in das Ministerium Eontas
+kommen war / vnd mit dem alten Burgraffen Christoff von Creutz-
+wessen hatte / fraget er mich als ein Jungen Prediger / Ob ich auch zu
+zeiten zur Pawren zu Gast ging / drauff er mir gar ein feine Parabel
+sagte: Es were einer gewesen / der hette gesagt / er ging wol zu sei-
+nen Pawren zu Gaste / esse vnd trincke auch wol mit jhnen / sesse auch
+wol eine zeitlang bey solchen / so lang sie sagten / Herr / Herr Parner /
+Herr Kercherre / Herr Seelsorger / es gilt zu / Wenn sie aber sag-
+ten / Papp es gilt Di / so were es hohe zeit auffzustehen / vnd zuhaus
+zugehen / vnd die letzte Kanne mit jne nimermehr zutrincken. Dieses
+hab ich mir meine tag eine Regel sein lassen / vnd Gott lob / noch nie
+gehöret / Papp es gilt dir.
+
+Que culpare soles, ea tu ne feceris ipse,
+Turpe est Doctori, cum culpa redarguit ipsum. Cato.
+
+Anno 1583. den 22.
+Dec mb: ist in diesem Kirch-
+spiel im Dorff Worinen ein er-
+schreckliches vnd abschewlichs
+Kind geboren worden. Hat
+zwey angesichter mit zwey Ha-
+senmeulern / zwo Nasen / vier
+augen / zwey grosse augen vnter
+der stirn / die weit offen stehen /
+wie Kalbes Augen / vnd wider
+für der stirn zwey kleine augen /
+an jeglicher seiten des Ange-
+sichts zwey Ohren / das Heupt
+oben gar offen. Hat forne
+zwo grosse bluttige Beulen /
+oben vber der stirn / als zwo
+grosse Rosenknoppen / die rot sind. Hinden im Nacken / hat jhm
+der Knochen vmbs heupt spitzig zusamen gangen / gleichsam wie
+ein widerhacken gestanden / vmbher sind weisse kurtze haere / vnd
+hinden auff dem Creutzknochen / hat es ein gros loch gehabt.
+
+Worung W. 12. Das Schlos ist gebawet Anno
+1280. Die Stadt anno 1302. Ist gemauret worden vnter Wer-
+nero von Orselen / anno 1328. von B: Herman von Oettingen de-
+hersten Spitler. Hat ein Conuent gehabt.
+
+Ist anno`,
+    english: `[Page 337 -- Hennenberger's pastoral anecdote; a monstrous birth at Worinen; Worung/Mohrungen]
+
+[Verse continued -- another version of the same satirical poem on village pastors]
+...of the same [subject]. /
+...with their teaching, /
+...must create / Yet I must punish, /
+That they are too familiar / With the citizens [parishioners], /
+Feast with them / Instruct in taverns [Zechen], /
+Often do themselves / What they forbid others.
+
+[Hennenberger's personal anecdote] Forty years ago, when in 1554 I [Hennenberger] entered the ministry [Ministerium] at Eontas [likely a place name, possibly Konten/Kunten], and was dining with the old Burggraf [castellan] Christoph von Creutz, he asked me as a young preacher whether I sometimes went as a guest to the peasants. Then he told me a fine parable [Parabel]: There had once been a man who said he gladly went as a guest to his peasants, ate and drank with them, and sat with them for a good while -- as long as they said: 'Sir, Sir Pastor [Parner], Sir Church-lord [Kercherre], Sir Soul-shepherd [Seelsorger], here's to you!' But when they began saying: 'Papp [Dad/buddy], here's to YOU' -- then it was high time to get up, go home, and never drink the last tankard with them. This I have made my rule all my days, and, God be praised, I have never yet heard: 'Papp, here's to you.' [An anecdote about knowing when to leave a peasant drinking party before the reverence breaks down.]
+
+'What you are wont to blame, do not do yourself; / It is shameful for a teacher when fault convicts him.' -- Cato. [A quotation from the Distichs of Cato, a medieval school text.]
+
+[Year 1583 -- Monstrous birth at Worinen] On the 22nd of December 1583 [mb = abbreviated], in this parish, in the village of Worinen, a horrible and abominable child was born. [Woodcut illustration of a monstrous birth -- a two-faced infant with multiple deformities.] It had two faces with two hare-lips [Hasenmeulern], two noses, four eyes -- two large eyes beneath the forehead, standing wide open like calf's eyes, and again before the forehead two small eyes. On each side of the face, two ears. The top of the head was completely open. In front it had two large bloody swellings above the forehead, like two large rosebuds, which were red. At the back of the neck, the bone around the head came together in a point, standing like a barb [widerhacken]. Around it were white short hairs, and at the back, on the cross-bone [sacrum/occipital bone], it had a large hole. [Such reports of 'monstrous births' were commonly recorded in 16th-century chronicles as divine portents.]
+
+[Worung / Mohrungen -- now Morag, Poland] W. 12. The castle was built in the year 1280. The town [was built] in 1302. It was walled [fortified with stone] under Werner von Orseln [Grand Master, r. 1324-1330], in 1328, by Brother Herman von Oettingen, the first Spitler [Hospitalier, a high-ranking officer of the Teutonic Order]. It had a Convent [Teutonic Order commandery].
+
+In the year [continued]...`,
+  },
+  "p338": {
+    original: `Ist Anno 1410. Von Polen nach der
+Schlacht eingenommen worden.
+
+In grossen Kriege.
+
+Anno 1458. war auff S: Marien Magdalenen tag / der den-
+frieden aus / da kam B. Heinrich Reus / mit 20. Ordensherrn vnd
+500. Man für Morung / den 30. Bürger ju gelobet hatte / einzuhelffen /
+aber sie kundtens für den andern Bürgern nicht thun. Vnd wurde zwi-
+schen 2. Pasteyen 6. Ordensherrn grosses Adels / (so newlich aus
+Deutschlandt komen) erschlagen / dazu auch 700. Man. Dis erzür-
+net Heinrichen Reussen mechtig sehr / vnd schrey: O jr Fleischhunde / wie
+schendtlich habt jhr vnser Brüder / vnd gutes volck verraten / vnd nen-
+net jhr zwene / verbrande jnen die gantze Vorstadt / verecher jhen jhre
+Hopffengarten / vnd zog daruon. Aber die Morunger namen densel-
+ben tag ire Verrether vnd viertheilteten sie.
+
+Anno 1461. am tage Viti vnd Modesti / kam Heinrich Reus von
+Pleitben mit 1600 Man / vnd berant Morunge / darinne war Etlicher
+von Baussen / mit 700. Reisige / vnd wiewol sie offt zu jhr hinaus Rele /
+vnd mit jnen scharmützelden / konten sie jn doch nicht abschlagen / sonder
+er lag davor bis auff Simonis vnd Judæ / da gebrach Proviant in der
+Stadt / vnd kriegten auch kein entsetzung / derhalben übergaben sie sich ab /
+vnd der Orden nam Morungen ein.
+
+Im Polnischen Krige.
+
+Anno 1520. kamen die Polen / so Dilgenburg / Deutsch Eylaw /
+vnd Hoenstein eingenomen hatten / vnd lageren sich in die 5000. oder
+6000. starck für Morung / brante alle Dorffer im zuge aus / weil aber
+nichts verhanden war / damit sie es erhalten konten / musten sie es auff-
+geben / sonderlich weil man den Hauptman nicht folgen wolte.
+
+Für etzlichen Jaren / hatte sich ein grosser wilder Eber / zu den za-
+men Stadschweinen gesellet / vnd mit jnen in die Stadt hinein gegan-
+gen / nach dem man die Thor geschlossen / hat er sich auff den Kirchhoff
+begeben / da er denn auch gefangen oder geschossen war worden.
+
+Anno 1577 den 30. Junii / sind im Morungischen Hollendische /
+vnd Luckgeschein / grosse Platregen gewesen / mit grossem Hagel /
+darunter Hagelstein wie Hüner vnd Enten Eyer gefallen / hat gros-
+sen schaden gethan.
+
+Mlücker Z. 6. Mückenhagen S. 6.
+
+Mülhausen S. 32. Ein Stedlein im Hockerlandt /
+Fr. Dr. in Preussen zugehörig / man sagt / sie haben einen grossen
+Krebs im Teiche / an einer grossen Retten gefangen liegen / der jhnen
+die Stadtmawren vmbgefressen habe. Es werden aber ins wasser
+geworffen / die jhn sehen wollen.
+
+Ist gebawet Anno 1356. vom Hoemeister Winnick Kniprode /
+der vrsach / das seine Pawren im Hockerlande jren Marckt alda vnd
+nicht zu Wormitt noch zu Braunsberg halten solte. Weil er mit
+der Prussischen vnd Erm-`,
+    english: `[Page 338 -- Mohrungen/Morung in the Great War and Polish War; Muhlhausen]
+
+[Year 1410] In 1410, [Mohrungen] was taken by the Poles after the Battle [of Tannenberg/Grunwald].
+
+[In the Great War (Thirteen Years' War)]
+
+[Year 1458 -- Heinrich Reusse's attack] In 1458, on St. Mary Magdalene's Day [July 22], the truce having expired, Brother Heinrich Reusse [Heinrich Reuss von Plauen] came with 20 lords of the Order and 500 men before Morung [Mohrungen/Morag]. Thirty citizens had pledged [gelobet] to help let them in, but they could not do it because of the other citizens. Between two bastions [Pasteyen], 6 lords of the Order of high nobility (recently arrived from Germany) were slain, along with 700 men. This enraged Heinrich Reusse greatly, and he cried: 'O you flesh-hounds [Fleischhunde]! How shamefully you have betrayed our Brothers and good people!' He named two [of the traitors], burned the entire suburb [Vorstadt], destroyed their hop gardens [Hopffengarten], and withdrew. But the people of Morung that same day seized their traitors and quartered them [viertheilteten].
+
+[Year 1461 -- Siege of Morung] In 1461, on the day of [Saints] Vitus and Modestus [June 15], Heinrich Reusse von Plauen came with 1,600 men and besieged Morung. Inside was [a commander named] Etlicher von Baussen with 700 cavalry. Though they often rode out and skirmished with him [Reusse], they could not drive him off. He lay before [the town] until [the Feast of] Saints Simon and Jude [October 28]. Then provisions ran out in the town, and no relief came. Therefore they surrendered, and the Order took Morung.
+
+[In the Polish War (War of 1519-1521)]
+
+[Year 1520] In 1520, the Poles -- who had taken Gilgenburg [Dabrownon], Deutsch Eylau [Ilawa], and Hohenstein [Olsztynek] -- camped before Morung with 5,000 to 6,000 men and burned all the villages along the way. But since there was nothing available to sustain [the siege], they had to give it up, especially since [the soldiers] would not follow the captain.
+
+[A wild boar in the town] Some years ago, a great wild boar [wilder Eber] joined the tame town pigs [Stadtschweine] and went with them into the town. After the gates were closed, he took refuge in the churchyard, where he was then captured or shot. [A charming small-town anecdote.]
+
+[Year 1577 -- Hailstorm] On the 30th of June 1577, in the Morung district, in Hollandisch and Luckgeschein [areas settled by Dutch colonists], there were great cloudburst rains with great hail. Hailstones as large as hen's and duck's eggs fell, causing great damage.
+
+Mlucker Z. 6. Muckenhagen S. 6.
+
+[Muhlhausen] S. 32. A small town in the Hockerland [a hilly district in Ermland/Warmia], belonging to the Princely Duchy [Fr. Dr. = Furstliche Durchlaucht] of Prussia. They say they have a great crayfish [Krebs] in the pond, held on a great chain, which has gnawed away the town walls. Those who want to see it are thrown into the water. [A humorous tall tale -- a local prank played on gullible visitors.]
+
+[Founded 1356] Built in 1356 by the Hoemeister [Grand Master] Winrich von Kniprode [r. 1351-1382], for the reason that his peasants in the Hockerland should hold their market there and not at Wormditt [Orneta] or Braunsberg [Braniewo]. Since he [was in dispute] with the Prussian and Ermland [Warmia]...`,
+  },
+  "p339": {
+    original: `erg / vnd den Thümherrn im grossen Zande /
+der willen lag.
+
+Im grossen Kriege.
+
+Anno 1455. Mitwoch nach Ostern / kam Heinrich Reus /
+vnd lies für die Sache vnd more eingelassen / verhielten sie hernacher vom Pol-
+nischen Lande annder geworben.
+
+Mülhausen P. 37. auff Natangen / hat im Passt-
+heim grossen Felssen geliefert / wie der Albtes Brieff noch vorhandtn /
+durch die schöne Kirche gechartet. Welchen Ablasbriff / der edele
+Daniel von Kunheim / so dieses Geschlechtes aus Lottringen /
+der erste in dis Landt kommen / vnd Landtrichter gewesen / zu
+Reit anno 1492. gen Germanien bekommen / entre welchen ein Cope-
+fein vnd Cardinal Bernick der fürnembste / so auch noch daselbige
+Jahr im Augusto Papst / vnd Alexander VI. genant worden.
+Das sein aber der Papst innocentius VIII. seltten nicht gednistet sey /
+wegen seiner schendlichen geschichten / bald an der Gottlosigkeit kranck
+gelegen / darün er auch vnlangst hernach gestorben.
+Solcher
+Brieff / ob er schon jemund nichts geachtet / ist er doch fürstlicher zeit
+fast hoch vnd teuer gehalten worden / fürmeml er auch damals den Pfaf-
+fen viel vnd stinckent eingetragen hat.
+
+In welcher Kirchen D. Stepani Lutheri begraben liegen /
+auch des Tewren Mannes Tochter / Margaretha Kunheimin / ein
+gar tugendsame Matrona / sehet 5. Kinder gelassen / seher
+glückt / die man billich in ehren halten sol. Es mus
+auch vnser Herr Gott / von dieses Landt zu Preussen / wie ich
+erlahret haben / das er nicht allein den ersten Papstischen Bischoff zum
+Euangelio bekeret / sondern aud des Tewren Mannes Martin Luthers Kin-
+er darinna zu rahen / verordinet hat / denn nicht allein sein allerleist
+Enckels ous jhren Kindern in Wehlungen / sondern auch sein Ent-
+elen Tochtger / (derer name ihren Historien) Hans Luther zu König-
+sperg an der Altenstadt Pfarkirchen ruhet.
+
+Georg von Kunheim / der Elte Fr. Drht: Etsheimer Rath
+vnd Hauptman auff Tapian hat 200. Marck geschicken denen jhr-
+lich vnd 15 Marckt Perysinir noch Diessm Juch seiner armen alter
+sch wahen Unterthanen / so meher Er ob noch eigen / noch sonsten je-
+mandts er sie ernehren könne / hasn jhn gesotten je-
+der Hauptsumm / ausstehn / vnd davon darumb zu busste kommen sol. Wer aber
+nicht recht arme vnderthanen / foderau auch den beiden Junge vnd
+wirt rauff interesse außzahlen / Ee hab sich aber günstet / das auff mei-
+nient abzug die Hauptsumma in die 400. Mir. war / als das man
+vndt der armen so verhandten / desto besser helffen fan. Damit er dann
+seinen Nachkomlingen solches desto massen nach jhrn vermögen zu-
+ncreiren wo nutzlichen anliesung jhnen Million. Welches ist löblich
+vnd diss Pfarherrnkid or tihsten aller Obrigkeit ein Ecxmpl ist gegen jhr-
+e alte vnd vnuermögende Unterthanen gleicher weise susterhälhen /
+vnd die Russlich Väterlich zuuertragen / sey sol.
+
+Von`,
+    english: `[Page 339 -- Muhlhausen continued; Luther's descendants in Prussia; Georg von Kunheim's charity]
+
+[Muhlhausen in the Great War]
+
+[Year 1455] On Wednesday after Easter, Heinrich Reusse came and was let in... [text partially damaged/illegible] ...they afterward [negotiated with] the Polish side.
+
+[Muhlhausen on Natangen] P. 37. In Natangen [the Muhlhausen there], [the church] has received from the bishopric [Passheim] great indulgences [Ablassbrief], as the Abbot's letter still exists, chartered through the beautiful church.
+
+[The Kunheim family and the Papal indulgence] The noble Daniel von Kunheim -- the first of this family [from Lorraine/Lothringen] to come into this land, and who served as Landrichter [provincial judge] -- obtained [the indulgence] in the year 1492 in Rome [Germanien should be Rom], among [the clergy] of whom a certain Cardinal Bernick [Rodrigo Borgia?] was the most prominent, who that same year in August became Pope and was called Alexander VI. But Pope Innocent VIII [Innocentius VIII] had barely been mourned, on account of his shameful deeds. [Alexander VI] soon fell ill with godlessness, and died not long after. [Hennenberger's Protestant editorial comment on Renaissance papacy.]
+
+Such a [papal] letter, though nowadays nobody regards it, was in princely times held very high and dear, and at that time brought the priests much stinking revenue [stinckent eingetragen]. [A strong Protestant denunciation of the sale of indulgences.]
+
+[Luther's descendants buried here] In this church lie buried D. Stepanus Lutherus [descendants of Martin Luther through his son], and also the worthy man's [Luther's] granddaughter Margaretha Kunheimin [nee Luther, who married into the Kunheim family], a very virtuous matron. She left 5 children... [text partially illegible].
+
+It must be that our Lord God ordained this land of Prussia -- as I have learned -- not only [as the place where] the first Papist bishop was converted to the Gospel, but also [where] the dear man Martin Luther's children and grandchildren should find rest. For not only his [great-]grandchild from their children [rests] in Wehlungen [?], but also his granddaughter... Hans Luther rests at the Old Town parish church in Konigsberg. [An important genealogical note: members of Martin Luther's family settled in Prussia.]
+
+[Georg von Kunheim's charitable foundation] Georg von Kunheim, the elder, Privy Councilor [Etsheimer Rath] and Captain [Hauptman] at Tapiau [Gvardeysk], donated 200 marks annually and 15 marks [additional] for his poor, old, and infirm subjects [Unterthanen]. Since he could neither maintain them himself nor anyone else could feed them, [he established] a fund [Hauptsumma] from which the interest should be paid. The principal had grown to about 400 marks, so that the poor could be better helped. He thus urged his successors to increase [the fund] according to their means, for useful purposes. This is praiseworthy, and this pastor's district [should serve] as an example to all authorities, to likewise sustain their old and incapable subjects, and to bear [the responsibility] in a fatherly manner.`,
+  },
+  "p340": {
+    original: `Vom Nochfewer auff S. Jo-
+hannis des Teuffers abendt.
+
+Es ist im Lande an etzlichen ortern / ... das Heydnische
+vnd Papistische Teuffelswerck / Gottlosen Leuten im hertzen steckt /
+auff S. Johannis des Teuffers abendt ein grewlich Abgötterey / die
+viel von der Obrigkeit billigen / auch wol von den Pfarren nicht ge-
+straffet wird. Das man nicht ein Frewdenfewr macht / sondern
+ein Nochfewr / mit einem Rade / Geisseln vnd Strengen zeucht /
+mit sonderlichen worten / vnd auch an einem sonderlichen orte / als
+ziemlich / da man das Viehe dasselbige Jahr hinaus auff die weyde
+treibt / vnd haltens darfür / das es gut für das Viehe sterben sey / so
+man auff künfftigen morgen / das Viehe vber die brandt stette treibe /
+da das Fewer gewesen ist. Auch sol das Fewer für wendelen vnd
+Milch benemung sein / darumb die Gesellen so das Fewer gezogen /
+als für jhren lohn / auff den nechsten morgen / das ist / auff S. Jo-
+hannis tag / sehr fru / von haus zu haus / milch zusamlen gehen / auch
+gleuben sie / das der Donner vnd Hagel keinen schaden thu / an denen
+orten / da man solch Fewer ziehe. So stecken sie auch denselbigen abent
+Loddicken / oder grosse Kletten / Besuss vnd dergleichen auss / sonderlich
+vber die Thür / Thor oder Hecke / da das Viehe aus vnd ein gehet / das
+sol für Teuffels gespenste / zeuberey vnd wendelev gut sein.
+
+Also effedt vns der Teuffel bey hellem lichten Sonnenschein /
+weisst vns von Gott / auff solche aberglauben vnd abgöttereyen.
+Vnd ist das Prussiche Volck nicht leichtlich daruon zubringen / wie
+ich gnugsam erfaren habe. Es solten auch hierinnen die Pfarrern
+zum theil / nicht so vnachtsam sein / wie auch die Obrigkeit solches
+billich abschaffen vnd straffen solte / denn sonsten bey vielen kein pre-
+digen hilfft / weil sie im aberglauben so gahr ersoffen sein / vnd wenn
+schon frome trewe Prediger / solch Teuffelisch ding straffen / vnd ab-
+schaffen wollen / So sprechen vnsere Prussiche Heyden vnd Euan-
+gelische Papisten / man neme jhnen jhre alte Gerechtigkeit / können
+dennoch zum Sacrament gehen / vnd sich Christen rühmen / bey sol-
+cher vnd dergleichen schendtlicher Abgötterey.
+
+Anno 1560. den 28. Decemb: des morgens kurtz für tage /
+wurd im Norden der Himel / blut rot / vnd solche röte krümpt sich vber
+ein schwartze wolcken / wie ein bogen / vnd schüssen von vnten herauff
+fewrige stralen / alle zeit nach einander / zog sich endlich herunter vber
+Königsperg. Da lies sichs ansehen / nicht anders / als gieng ein
+Fewr nach dem andern an / vnd schiene nicht anders als wenn eine
+grosse Stadt brennete / grossen dampff vnd rauch von sich gebende /
+das man nicht anders meinete / denn Königsperg stünde gar im Fewer /
+schüssen endlich zweer Sterne / einer aus Norden der ander aus Sü-
+den darein / vnd vergieng hernacher mit dem tage. Solches hat
+man nicht allein zu Mülhausen / sondern auch zu Königsperg / vnd
+an vielen anderen örtern gesehen.
+
+Es ij
+
+Historia`,
+    english: `[Page 340 -- On the Nochfeuer (Need-fire) on St. John the Baptist's Eve; celestial portent over Konigsberg]
+
+[On the Need-fire on St. John's Eve] In the land, in certain places, the heathen [Heydnische] and Papist devil's work [Teuffelswerck] still lodges in the hearts of godless people. On the Eve of St. John the Baptist [June 23 / Midsummer Eve], a horrible idolatry [Abgotterey] is practiced, which many of the authorities [Obrigkeit] tolerate, and which is not even punished by the pastors [Pfarren].
+
+[Description of the Need-fire ritual] They do not make a joy-fire [Frewdenfewr, i.e. a normal bonfire], but a Need-fire [Nochfewr / Notfeuer, a fire produced by friction, an ancient Germanic/Baltic pagan practice]. They use a wheel, whips, and ropes [Geisseln vnd Strengen], with special words, and at a special place -- namely, where the livestock was driven out to pasture that year. They believe it is good against cattle plague [Viehe sterben] if, the next morning, the cattle are driven over the burnt place where the fire was.
+
+Also, the fire is supposed to protect against Wendelen [a type of evil magic/milk-stealing curse] and loss of milk. Therefore, the fellows who kindled the fire, as their payment, go from house to house early the next morning -- that is, on St. John's Day -- collecting milk.
+
+They also believe that thunder and hail will do no damage in places where such a fire has been drawn [kindled by friction]. On the same evening, they set up Loddicken [large burdock leaves], or great burs [Kletten], broom [Besuss], and the like, especially over the door, gate, or hedge where the livestock passes in and out. This is supposed to be good against the Devil's ghosts [Teuffels gespenste], sorcery, and Wendeley [milk-stealing witchcraft]. [An invaluable ethnographic description of surviving pre-Christian Prussian midsummer rituals.]
+
+[Hennenberger's Protestant condemnation] Thus the Devil leads us astray in broad daylight [bey hellem lichten Sonnenschein], turning us away from God to such superstitions and idolatries. And the Prussian people [Prussiche Volck] are not easily brought away from it, as I have amply experienced. The pastors should not be so negligent in this matter, and the authorities should rightly abolish and punish it. For otherwise, no amount of preaching helps with many [people], since they are so deeply drowned in superstition. And when pious, faithful preachers try to punish and abolish such devilish things, our Prussian heathens and Evangelical Papists [Euangelische Papisten -- a biting term for nominally Protestant Prussians who retain Catholic/pagan practices] say that one is taking away their ancient rights [alte Gerechtigkeit]. Yet they can still go to the Sacrament and call themselves Christians, alongside such and similar shameful idolatry. [A vivid picture of the incomplete Reformation in rural 16th-century Prussia.]
+
+[Year 1560 -- Celestial portent] On the 28th of December 1560, in the morning shortly before daybreak, the sky in the north turned blood red. The redness arched over a black cloud like a bow, and fiery rays shot up from below, one after another. It finally descended over Konigsberg. It looked exactly as if one fire after another was breaking out, and appeared as if a great city were burning, giving off great smoke and vapor, so that one thought Konigsberg itself was ablaze. Finally two stars shot [into the sky], one from the north and the other from the south, and then it faded with the coming of day. This was seen not only at Muhlhausen, but also at Konigsberg and in many other places. [A description of what was likely an aurora borealis or atmospheric phenomenon, interpreted as a portent.]`,
+  },
+  "p351": {
+    original: `Meister so sehr / das er mit aller seiner macht
+enburg zog / dasselbige mit rauben vnd brennen
+hinweg führet / Auch verheeret er jhm her=
+er Land /
+as er zum Orden schicken muste / vnd vmb
+Frieden bitten lies.
+
+Anno 1392. Hatten die Grawe Münche alda Kirchwei= Sim: Gru=
+hung / auff den Sontag nach Corporis Christi / vnd grossen ablas da Tra: 14.
+zu bekomen / nemlich vergebung der Sünden / von peen vnd schulde / c. 2.
+derhalben wen vnd feit das Volck da zu liess. Es satzten sich zu
+Stangenwaldt ja die 300. personen in ein Flösse / vber die Weissel
+zufahren / die trieb der Strom auff einen Rahnen / das die Flös zer=
+brach / vnd alles Volck versoff. Derhalben der Hoemeister Con=
+radt von Jungingen diesen / vnd andere mehr Ablas so in Preussen
+waren / abschaffete.
+
+Im grossen Kriege.
+
+Im grossen Kriege / anno 1458. Dinstagsnacht nach Assum= Geschicht
+ptionis Mariae / erstiegen des Ordens Volck / Fritz von Robeneck vnd weg eines
+Jörg von Schleben / die Stadt Newburg. Dis gaben etliche H: Bundes.
+Heinrich von Staden dem Dantzker schuldt / das er es verraten het= Junc: Ehr:
+te / vnd schlug zu Dantzig Peter Braun einen Reimen an den Hoff
+also lautent:
+
+Es ist schande / In diesem Lande /
+Herr Heinrich von Staden / Hest die Newburg verraten.
+
+Dieser zog aus der Stadt / Herr Heinrich ward gesacht / doch
+kam er los / denn er es nicht verraten / sondern nur versehen hatte /
+Denn er hielte es mit den Frawen / vnd achtet nicht der warnungen.
+
+In selbigen Jahr Omnium Sanctorum / kamen die Dantzker Sim: Grun.
+mit 12. Weisseltanen vnd Espinq / jhre Wahr nach Thorn zufüh= Trad: 17.
+ren / die wurden alhier ausgesprenget / doch behielten die Dantzker den cap. 12.
+Sieg / vnd verbranten der Stadt / alle Speicher vnd Scheunen.
+
+Belagert. Anno 1464. nach Jacobi / beranten die Preussen vnd Po= bidem.
+len die Stadt / zu welchen des Ordens Leute herauser wüscheten / cap: 16.
+deren 80. gefangen wurden / vnd die Stadt belagert. Der Hoe=
+meister schickt hilff / ward aber abgeschlagen / Auff aller heiligen abent
+kam Heinrich Reus / sie zu entsetzten / Aber sie hatten sich desselbigen
+tages ergeben / vnd die Königschen schon eingelassen.
+
+Neiwendorff O. 17. Altstadt Königsberg gehörig.
+Newendorff W. 7. Bein. Stum gelegen.
+
+Newhaus N. 17. Auff Samlandt / ist des Thum= Gebawet.
+herrn von Königsperg Lusthaus gewesen / vnd gestanden im Gar=
+ten / da nur der Finckenherder ist. Gebawet anno 1292. ligt aber
+nun an`,
+    english: `[Page 334 -- Neuenburg continued; indulgences disaster; Great War events; Newhaus on Samland]
+
+[Continued from previous page] ...Master so greatly that he marched with all his forces against [Neu]enburg, plundering and burning it, and carrying [everything] away. He also ravaged his [Mestwin's?] land, so that he had to send [word] to the Order and sue for peace.
+
+[Year 1392 -- Indulgence catastrophe] In 1392, the Grey Monks [Grawe Munche, i.e., Franciscans] held a church consecration [Kirchweihe] there on the Sunday after Corpus Christi, with great indulgences [Ablas] to be obtained -- namely, forgiveness of sins, from both punishment and guilt [peen vnd schulde]. Therefore the people came in great numbers. At Stangenwald, some 300 persons set out on a raft [Flosse] to cross the Vistula [Weissel]. The current drove them onto a snag [Rahnen], so that the raft broke apart and all the people drowned [versoff]. Therefore the Hoemeister Conrad von Jungingen [Grand Master, r. 1393-1407] abolished this and other indulgences that existed in Prussia. (Sim. Grun. Tra. 14, c. 2.) [A remarkable early instance of an authority curbing indulgences after a disaster.]
+
+[In the Great War (Thirteen Years' War)]
+
+[Year 1458 -- Capture of Neuenburg] In 1458, on the Tuesday night after the Assumption of Mary [Assumptionis Mariae], the Order's forces under Fritz von Robeneck and Jorg von Schleben scaled the walls and took the town of Neuenburg. Some blamed Heinrich von Staden, [saying] that he had betrayed [the town] to the Danzigers. At Danzig, Peter Braun posted a rhyme [Reimen] on the court [Hoff], reading:
+
+'It is a disgrace / In this land / Lord Heinrich von Staden / Has betrayed Neuenburg.'
+
+[Heinrich von Staden exonerated] He left the town. Lord Heinrich was sought [gesacht], but was cleared, for he had not betrayed it but merely been negligent [versehen] -- for he had been occupied with the ladies [Frawen] and paid no heed to the warnings.
+
+[Year 1458 -- Danzig merchants attacked] In that same year, on All Saints' Day [Omnium Sanctorum], the Danzigers came with 12 Vistula barges [Weisseltanen] and cargo boats [Espinq] to bring their wares to Thorn [Torun]. They were attacked here [at Neuenburg], but the Danzigers prevailed and burned all the town's granaries [Speicher] and barns [Scheunen]. (Sim. Grun. Trad. 17, cap. 12.)
+
+[Year 1464 -- Siege of Neuenburg] After the Feast of St. James [Jacobi], the Prussians and Poles stormed the town. The Order's forces sallied out [herauser wuscheten], but 80 were captured, and the town was besieged. The Hoemeister sent relief, but it was repulsed. On All Saints' Eve, Heinrich Reus came to relieve them, but they had surrendered that very day and already admitted the King's forces. (ibidem, cap. 16.)
+
+[Place entries]
+Neiwendorff O. 17. Belonging to the Altstadt [Old Town] of Konigsberg.
+Newendorff W. 7. Near Stum [Sztum].
+
+[Newhaus on Samland] N. 17. On Samland, this was the pleasure house [Lusthaus] of the cathedral canons [Thumherrn] of Konigsberg, standing in the garden where now only the finch-catcher's hut [Finckenherder] is. Built in 1292, but now lies at...`,
+  },
+  "p352": {
+    original: `nun an einem andern orte / nicht weit daruon /
+daran einen herrlichen Thiergarten / neben e= l. 335.
+garten.
+
+Anno 1553. den 29. Aprilis / Marggraff Albrecht Marg: Al=
+Fridrich Hertzog in Preussen / vnser Gn. Herr zum Newenhaus ald= brcht
+geboren worden. Fried:
+
+Anno 1593. ist im Newenhausischen ein Wolff gefangen /
+hat 152. pfundt gewogen.
+
+Newhaus in Schalaunen oder Schalmeysen / wird auch das Schalau=
+Schalaunisch Fischhaus genant / nicht weit vber die Tilse / da der nisch Fis=
+Berg noch zusehen ist. Anno 1293. gebawet. haus.
+
+Ein Barte so auff Rangenit wonet / kam zum Könige in vortzeler
+Littawen / verhies jhm dis Schloß zuerratten / dem gab der König
+viel Volcks / kontens aber nicht gewinnen / da doch nur 2. Brü=
+der darauff waren / derhalben brandten die Feinde die Vorburg ab /
+vnd zogen daruon.
+
+Newhaus auff der Curischen Nerunge / Ist gebawet anno Gebawet.
+Jeroschin. 1283. Denn die Samaitten pflagen vber die Nerung auff Sam=
+landt einzufallen / da bawete der Orden das Schlos den einsal zu=
+wehren. Der Berg ist noch zusehen / nicht weit hinter Newstadt dem
+Dorsse / den man noch heist Pulicoppst / das ist auff Deutsch Schloß= pulicopst.
+berg.
+Newhoss T. 21. Newkirch R. 11.
+Newbrugk P. 12. auff der Dantzker oder Frischen Ne=
+rung / gegen Braunsperg vber.
+Newbrugk c. 5. zwischen dem Colm vnd Reden.
+
+Newmarckt b. 10. Polnisch Notromiasto genant. Ist Gebawet.
+Gebawet anno 1329. vnter Wernero von Orselen dem Hoemeei= Sim: Grun.
+ster / von Otto von Lauttenberg / Landt Compthur im Colmischen Tr: 13. c: 1
+Lande / etliche wollen von Rudigero Wolckenstein. Daub. Cr.
+T: 11. c: 12
+Anno 1410. Nach der Tannenbergischen Schlacht / hat si= Wordt. Cr.
+sich dem König von Polen mit geding ergeben. dem König
+ergeben.
+
+Im grossen Krieg.
+
+Sim: Grun. Anno 1454. nach der Schlacht vor der Conitz / ergab sie sich dem Orde
+Tract: 17. widerumb an den Orden. Wur anno 1455. vom Orden besetzt. ergeben.
+cap: 3. besetzt.
+
+Anno 1458. Des Ordens Volck aus dem Newmarckt vnd hole viel
+Lessen / zogen in Döbern / holeten viel Viehes / branten viel Dörffer Viehs
+Grun: Cr. ab / wie sie auch zuuor im Winter gethan hatten. in Döbe=
+rn
+
+Im Polnischen Krieg.
+
+Anno 1521. Biß Fastnacht sie sich nach wenig schiessen an Ergeben
+polstist E den Hoemeister Marggraff Albrechten ergeben / dis ward jhr aber flis=
+Daup: E hernach im Vertrag vom Könige verziehen. sig.
+Job: Seur
+Neumarckt Wr. 8. Newmühl a. 7.
+Newstade`,
+    english: `[Page 335 -- Newhaus continued; Newhaus in Schalaunen; Newhaus on the Curonian Spit; Neumarkt/Nowe Miasto]
+
+[Newhaus continued] ...now at another place, not far from there, with a splendid game park [Thiergarten] and garden beside it.
+
+[Year 1553 -- Birth of Margrave Albrecht Friedrich] On April 29, 1553, Margrave Albrecht Friedrich, Duke in Prussia, our gracious Lord, was born at Newenhaus.
+
+[Year 1593 -- Large wolf] In 1593, a wolf was caught in the Newenhaus district, which weighed 152 pounds.
+
+[Newhaus in Schalaunen / Schalmeysen] Also called the Schalaunisch Fischhaus [Schalavian fishing house], not far across the Tilse [Tilsit/Neman tributary]. The hill [Berg] can still be seen. Built in 1293.
+
+[Treachery against the castle] A Barte [a native Prussian/Bartian] who lived at Ragnit [Neman] went to the King of Lithuania and promised to betray this castle to him. The King gave him many soldiers, but they could not take it, even though there were only 2 Brothers [of the Order] inside. Therefore the enemy burned the outer fortification [Vorburg] and withdrew.
+
+[Newhaus on the Curonian Spit] Built in 1283 (Jeroschin). Since the Samogitians [Samaitten] were accustomed to crossing the Spit [Nerung] to invade Samland, the Order built the castle to prevent such incursions. The hill can still be seen, not far behind the village of Neustadt, which is still called Pulicoppst -- in German, 'Schlossberg' [Castle Hill].
+
+[Place entries]
+Newhoss T. 21. Newkirch R. 11.
+Newbrugk P. 12. On the Danziger or Frische Nehrung [Vistula Spit], across from Braunsberg [Braniewo].
+Newbrugk c. 5. Between the Culm [Chelmno] and Reden [Radzyń Chełmiński].
+
+[Neumarkt / Nowe Miasto Lubawskie] b. 10. Polish: Notromiasto [Nowe Miasto]. Built in 1329 under [Grand Master] Werner von Orseln, by Otto von Lauttenberg, Landkomtur [Provincial Commander] in the Culm land. Some attribute it to Rudiger von Wolckenstein. (Sim. Grun. Tr. 13, c. 1; Daub. Cr. T. 11, c. 12; Wordt. Cr.)
+
+[Year 1410 -- After Tannenberg] After the Battle of Tannenberg [Grunwald], it surrendered to the King of Poland on terms [mit geding].
+
+[In the Great War (Thirteen Years' War)]
+
+[Year 1454] After the Battle of Konitz [Chojnice], it returned to the Order. In 1455, it was garrisoned by the Order. (Sim. Grun. Tract. 17, cap. 3.)
+
+[Year 1458] The Order's forces from Neumarkt and Lessen [Łasin] marched into Dobern [Dąbrówno], seized much cattle, and burned many villages -- as they had also done previously in winter.
+
+[In the Polish War (War of 1519-1521)]
+
+[Year 1521] By Shrovetide [Fastnacht], after little shooting, they surrendered to Hoemeister Margrave Albrecht. But this was later forgiven them in the [peace] treaty by the King.
+
+Neumarckt Wr. 8. Newmuhl a. 7.
+Newstade...`,
+  },
+  "p353": {
+    original: `auss der Curischen Nerung.
+
+T. 7. Ein Stedtlein im grossen Werder / Sim: Grun.
+Flus Schwente genant / anno 1329. ge= Trad: 12.
+bawet. Zur selbig= Frieden vnd gute Jahre / das Getreyde cap: 4.
+wuchs wol / vnd holten die Pawren zum theil zu Marckte / vnd
+kunte das Volck für den wagen / in Stetern weder aus noch ein ko=
+men / derhalben der Hoemeister viel Stedte bawen lies / mit den ge=
+fangenen Judenütschen.
+
+Anno 1400. Ward es angelegt vnd drancz aus. Sim: Grun.
+Tr14. c. 4.
+
+Im grossen Kriege.
+
+Anno 1454. Donnerstag nach Letare / als die Dantzker Geschicht
+dem Orot für Marienburg geschlagen waren / ergab sich Newenteich wider an weg eines
+an den Orden. Hoemeister Chronica sagt / sie sey eröbert wor= Bundes.
+den / vnd viel Dantzker erschlagen. Hom: Cr.
+
+Donnerstag nach Natiuitatis Mariae / als die Dantzker zum Geschicht
+andern mal für Margenburg im Warnaischen Walde lagen / weg eines
+zogen die Margenburger aus / vnd lagerten sich für das Lager. Bundes.
+Schickten etliche Reisigen gen Newenteich / diese wolten sie nicht ein=
+lassen / da brachten sie einen Wagen mit Getreyde für das Thor / der=
+halben wichen die Bürger / vnd des Ordens Volck erstigen das
+Stedtlein / plünderten es / brachten auff Margenburg viel Gerehts /
+vnd 20. gefangene / aber das Gut das in die Kirchen geflest war /
+dem theten sie nichts.
+
+Anno 1457. als der Orden die Stadt Margenburg wider= Sivert Fus.
+umb hatte eingekrigt / vnd Herr Berns von Zinnenberg sahe / das Trad: 17.
+er dem Schloß nichts anhaben konte / zeucht er auff S. Michels tag cap: 3.
+mit 600. Reisigen vnd 800. Fuszknechten durch den Nagott / denn
+er war damals sehr klein / vnd nam Newenteich vnd das gantze Wer=
+der ein.
+
+Niden G. 20. Nickelshagn X. 12.
+Niclaswalde R. 7. Im Seewerder / oder wie man es
+itsunder nennet / auff der Dantzker Neerung.
+
+Newstücks= Zur zeit als Conradt von Jungingen Hoemeister war / wo= Nic: Grub=
+ger. net ein Pawer alda / der hette die gantze gegent innen / welche wenig Tra: 14.
+Jahr zuuohren anno 1395. vom Wasser verderbet war worden / Alt: Metr.
+Der selbige muste (wie man schreibet) fünff Last Putter auff das Chronik.
+Schlos Margenburg zinsen / noch hette er ein grosses Geldt von
+jungem Viehe / vnd auch von Weid gelde / von den Dantzker Fleisch=
+hawern Ochsen gesamlet.
+
+Es begab sich das viel auslandische Herrn gen Margenburg Geschicht
+kamen / so dis Landt höchlich lobeten / vnd das es reiche Pawren wege eines
+müste haben / sintemal sie viel silbern Geschmeide trugen. Da sa= Bundes.
+get Heinrich Reus von Plawen: Er wüste einen Pawren / von
+dem sein`,
+    english: `[Page 336 -- Neustadt (Nowy Staw) in the Grosse Werder; Great War events; Niclaswalde; a wealthy peasant]
+
+[Neustadt] ...from the Curonian Spit.
+
+T. 7. A small town [Stedtlein] in the Grosse Werder [Great Vistula Delta], on the river called Schwente [Schwente/Swieta], built in 1329. (Sim. Grun. Trad. 12, cap. 4.) At that time there was peace and good harvests; the grain grew well, and the peasants brought so much to market that people could not get in or out of the towns for all the wagons. Therefore the Hoemeister had many towns built, using captive pagans [Judenütschen = Sudovians?/prisoners].
+
+[Year 1400] In 1400, it was laid out and drained [drancz aus = drained the marshland]. (Sim. Grun. Tr. 14, c. 4.)
+
+[In the Great War (Thirteen Years' War)]
+
+[Year 1454 -- Neuenreich returns to Order] On Thursday after Laetare [the fourth Sunday in Lent], when the Danzigers had been beaten by the [Order's forces] before Marienburg [Malbork], Neuenteich [Nowy Staw] surrendered back to the Order. The Hoemeister Chronicle says it was captured and many Danzigers were slain. (Hom. Cr.)
+
+[Marienburg campaign and Neuenteich plundered] On Thursday after the Nativity of Mary [September 8], when the Danzigers were encamped for the second time before Marienburg in the Warnaische Wald [forest], the Marienburgers marched out and positioned themselves before the [Danzig] camp. They sent some mounted troops [Reisigen] to Neuenteich, but the town would not admit them. They then brought a wagon of grain before the gate [Thor], which distracted the citizens, and the Order's forces scaled the little town, plundered it, and brought much equipment and 20 prisoners to Marienburg. But the property that had been stored in the church, they left untouched.
+
+[Year 1457 -- Berns von Zinnenberg takes the Werder] In 1457, when the Order had recaptured the town of Marienburg, and Lord Berns von Zinnenberg saw that he could do nothing to the castle, he marched on Michaelmas [September 29] with 600 cavalry and 800 infantry through the Nogat [Nagott] -- which was then very shallow -- and took Neuenteich and the entire Werder [delta island]. (Sivert Fus. Trad. 17, cap. 3.)
+
+[Place entries]
+Niden G. 20. Nickelshagn X. 12.
+Niclaswalde R. 7. In the Seewerder [coastal delta], or as it is now called, on the Danziger Nehrung [Vistula Spit].
+
+[The wealthy peasant of Neuenteich] At the time when Conrad von Jungingen was Hoemeister [Grand Master, r. 1393-1407], there lived a peasant [Pawer] there who possessed the entire area, which a few years before, in 1395, had been ruined by flooding [vom Wasser verderbet]. This man had to pay five Last [a large unit of measure, roughly 2-3 tons] of butter to Marienburg Castle in tribute [zinsen], and yet he still had a great sum of money from young cattle, and also from pasture fees [Weid gelde], and from Danzig butchers' cattle that he had accumulated. (Nic. Grub. Tra. 14; Alt. Metr. Chronik.)
+
+[The story of Heinrich Reus von Plauen and the peasant] It happened that many foreign lords came to Marienburg and praised this land highly, saying it must have rich peasants, since they wore much silver jewelry [silbern Geschmeide]. Then Heinrich Reus von Plauen [a Teutonic Knight, later Grand Master] said: He knew a peasant, from whom his...`,
+  },
+  "p354": {
+    original: `dem sein Gesinde sagte / das er eilff Tunnen vol=
+aber jederman hielt es für vnwarheit. In des l. 337.
+saget / wie jetzunder derselbige Pawer zu Schlos=
+fürkommen / vnd er bekante auff des Hoemeister Wenn er itz=
+ste wol / verleugnete Gut gehörete den Herren / eilff Tunnen
+vol Geldes hette / vnd die zwölffte Tunne wereschon vber die helffte.
+Da verschuff der Hoemeister / das man jhm die aus des Hoemeister's Ein from=
+Schat muste füllen / auff das er sagen möchte / er hette einen Pan= mer boes=
+reng der ein Last Goldes vermöchte / vnd ist zwar das ein frommer meister.
+Hoemeister gewesen. Die Tonnen waren alle new / vnd in der
+grösse als jetzunder die sein / da man das grobe Saltz ein thut / das Pawer ist
+Geldt waren Pfennig / Schilling vnd Groschen. Kein Goldt wolt karg.
+er nemen. War karg / wenn er ein mal wolte zum Bier gehen /
+nam er drey Rees / wenn er die vertruncken hett / gieng er zu haus /
+sagt / er möchte das liebe Geldt nicht anrühren / litt ehe fummer.
+
+Nicklausdorff b. 9. Sanct Nicolai Y. 22.
+Niemersatt B. 20. Niemersdorff Q. 24.
+Nodems M. 13.
+Norberkitten P. 22. alij Narkitten / Ein Festung ge= Gebawet.
+bawet anno 1381. Ist nun nur ein Edelhoff Albrecht Rathenhö=
+fers / mit einer Kirchen darbey / zugehörig.
+
+Nordenburg R. 22. Ein Schlos gebawet anno 1305. Gebawet.
+Daubman Ist schier gar mit der Schwene vmbflossen gewesen / wieder Berg al=
+fegt 1405. da noch zusehen ist. Das Schlösgen aber ligt jetzunder nidriger
+näher der Stadt.
+
+Anno 1564. drey wochen nach Ostern / ist das Stedtlein ausgebrant.
+ausgebrant.
+
+Nouauol N. 20. Notzendorff V. 8.
+
+Sim: Grü: Noitto ein Schlos zwischen Panlo vnd Crono / von Brut= Bruteno ein
+Tr: 2. c: 1. teno oder Widiwuto gebawet / vnd alda bewonet / hernachmals Neit= Schlos
+SimGrun. tenburg geheissen / da denn ein Preusch Fürst Swaino gewonet / Ist des König.
+Tr: 8. c: 5 aber vom Orden verbrant vnd verwüstet worden. Widiwuti.
+
+Nußbergk W. 17.
+
+O.
+
+Oberadt L. 14. Ist ein kleines Dörfflein auff pralgen
+Samlandt bey S. Lorentz / nach Poweten werts / darinnen ei= ein Tyran.
+ner Pralgen genandt / sein Höfflein gehabt / welcher zuuohren
+lang Hauptmannschaft verwaltet / vnd ein wildes Tirannisches leben
+geführet hat. Dieser ist alda ermordet / vnd mit dem haus verbrant Ende eines
+worden. Der Mörder so sein Furman gewesen / ist in das Bisch= Tyrannen.
+thum Heilsperg entwichen.
+
+Ob Mit Pralgen`,
+    english: `[Page 337 -- The miserly peasant with 11 barrels of coin; Nordenburg; Noitto/Neidenburg castle; Oberadt and the tyrant Pralgen]
+
+[Continued: The miserly peasant] ...whose servants said he had eleven barrels full [of money], but everyone considered it a lie. Then it was said that this very peasant had come before the castle [Schloss, i.e., Marienburg], and he confessed before the Hoemeister: 'If I now have -- well, property hidden belongs to the lords -- eleven barrels full of money, and the twelfth barrel is already more than half full.' Then the Hoemeister ordered that [the barrel] be filled from the Hoemeister's treasury, so that he [the Hoemeister] could say he had a tenant [Panreng] who possessed a Last of gold [an enormous sum]. And indeed this was a pious Hoemeister. [A generous and noble-minded Grand Master.]
+
+The barrels were all new, and of the size used today for coarse salt [grobe Saltz]. The money was in Pfennig, Schilling, and Groschen [small denominations]. He would accept no gold. He was miserly [karg]: when he wanted to go for a beer, he took three Rees [a small coin]; when he had drunk those up, he went home, saying he could not bear to touch the dear money, and would rather suffer want [fummer = Kummer]. [A vivid portrait of extreme peasant frugality in the medieval Vistula Delta.]
+
+[Place entries]
+Nicklausdorff b. 9. Sanct Nicolai Y. 22.
+Niemersatt B. 20. Niemersdorff Q. 24.
+Nodems M. 13.
+
+[Norberkitten / Narkitten] P. 22. A fortress [Festung] built in 1381. Now only a manor [Edelhoff] belonging to Albrecht Rathenhofer, with a church nearby.
+
+[Nordenburg / Krylovo] R. 22. A castle built in 1305. It was almost completely surrounded by the [river] Schwene [Sventoji?]. The hill [Berg] can still be seen. But the little castle [Schlösgen] now sits lower, nearer to the town. (Daubman, fogt 1405.)
+
+[Year 1564] Three weeks after Easter, the small town burned down [ausgebrant].
+
+Nouauol N. 20. Notzendorff V. 8.
+
+[Noitto -- Widewuto's castle] A castle between [the waters of] Panlo and Crono, built by Bruteno or Widewuto [the legendary Prussian king and high priest] and inhabited there. Later called Neitenburg [Neidenburg on the Spit]. A Prussian prince named Swaino [Svanno] lived there. But it was burned and destroyed by the Order. (Sim. Grun. Tr. 2, c. 1; Tr. 8, c. 5.)
+
+Nussbergk W. 17.
+
+[Section: Letter O]
+
+[Oberadt] L. 14. A small village [Dorfflein] on Samland near St. Lorenz, toward Poweten, wherein one called Pralgen had his small estate [Hofflein]. He had long administered a captaincy [Hauptmannschaft] and led a wild, tyrannical life. He was murdered there and burned together with the house. The murderer, who had been his coachman [Furman], escaped into the Bishopric of Heilsberg [Lidzbark Warminski]. [The end of a tyrant.]
+
+Ob [Concerning] Pralgen...`,
+  },
+  "p355": {
+    original: `sein Hunde verbrant / denn sonsten niemande l. 338.
+se ist / Knochen hat man gefunden / doch hat= Knito
+sen ob sie von jhm / oder vom Hunde gewesen. kompt
+
+ie Höflin in das Schürtztuch genommen / vnd in der
+Mist begrabe i das begrebtnis gewesen / wie solchen gehöres /
+doch wollen etliche sagen / man hab den Hirnschedel gefunden.
+
+Ohr R. 5.
+Oletsko V. 27. Ist zuuohren nur ein Jägerpuben ge=
+Glotko. wesen. Aber nun helt der Heuptman im Stradaunischen haus
+alda / vnd ligt gericht vber den See des namens / gegen Margra=
+bowa / nach Lukawiken werts sol nun herüber zur Stadt Marggra=
+bowa gebawet sein worden.
+
+Daubman Oliua R. 4. Ist anno 1178. 15. Calend: Daubman
+Jeroschin. Mech: lib.
+Aprilis fundirt worden / durch Semborium Pomerischen Fürsten / 3. cap. 25.
+etliche sagen Sobeslaum Schwantipols Grosuatern / anno 1170. Rattenb.
+so erstlich ein Heyde gewesen / vnd alhier begraben ligt. D. Wolffs.
+Jos.
+Ist Ordinis Sancti Bernhardi / hat auch darzu gegeben 7. Dör= Daubmas
+ffer / mit anderen zugengen. Mech: lib:
+
+zum erste Anno 1224. kamen die vngleubigen Preussen / namen alle 3. cap: 32.
+mal öbrüst. Güter / verbranten das Closter in grundt / marterten vnd tödten Dantz: Cr.
+die Münche gar schendtlich. Rattenb:
+
+II. Anno 1234. kamen die Preussen widerumb vnd verbranten die Dantz: Cr.
+verbrant. Oliua. Dazumal sie 6. Münche vnd 34. Knechte mit dem Schwere Rattenb:
+vnd Fewer vmbrachten.
+
+III. Anno 1243. zur zeitten Schwantipols / ward das Closter Daubmas.
+verbrant. vom Orden in grunde verbrandt. Dantz: Cr.
+Rattenb.
+
+IIII. Anno 1247. ward es zum andern mal vom Orden verbraut / Daubman
+verbrant. vnd jhnen alles Viehe genommen. Mal: Chr.
+
+V. Anno 1252. ward es zum dritten mal vom Deutschen Orden Daubmas
+verbrant. mit allen Gebeuden verbrant / vnd aller Güter beraubet. Johann
+Diano: Co
+
+Als die Dantzker vnter dem Hoemeister Carolo Pessart die Sim: Gru.
+Stadt den Feinden eingerumpt hatten / kam Heinrich Plotzko Gros Tr: 12. c: 8
+Comptur / erstach viel Dantzker / vnd als viel in letzten zügen lagen /
+Rüdiger war in der Oliua ein fromer Abt in dem Closter Rüdiger genant /
+ein fromer der hiess von einem zum andern / höret sie Beichte vnd berichtet sie /
+Apt. jhunder warten sie fressens / sauffens / vnd etc.
+
+Anno 1350. am stillen Freytag / als die Münche im Rese= Sim: Grun.
+torio sassen / Wasser vnd Brot assen / wolten die Küchen Buben den Trad: 12.
+Schornstein ausbrennen / das er rein würde / aber die flammen schlu= cap: 24.
+gen sehr aus / vnd wurd das Fewer durch einen grossen Westen wind Alt: Metr.
+in die Kirchen getrieben / dadurch das gantze Closter verbrandt / das Chronik.
+nur die Mawren stehen blieben / ward aber dasselbige Jahr widerumb
+durch den Hoemeister vnd Preusche Bischoffe gebawet.
+
+Vnter`,
+    english: `[Page 338 -- Pralgen's remains; Oletsko/Olecko; Oliva monastery -- multiple destructions]
+
+[Continued: Pralgen's death] ...his dogs were also burned, for otherwise nobody [was found]. Bones were discovered, but it was uncertain [hat man gefunden] whether they were from him or from the dog.
+
+[The small estate] ...was taken up in an apron [Schurtztuch] and buried in the dung heap [Mist] -- that was the burial, as such a one [tyrant] deserved. Yet some say the skull [Hirnschedel] was found.
+
+Ohr R. 5.
+
+[Oletsko / Olecko] V. 27. Previously only a hunter's lodge [Jagerpuben]. But now the Hauptman [captain/administrator] resides in the Stradaunisch [Stradaunen] house there, situated across the lake of that name, toward Marggrabowa [Olecko]. It is said to have been recently built toward the town of Marggrabowa near Lukawiken.
+
+[Oliva / Oliwa] R. 4. Founded on April 15 [15. Calend. Aprilis], 1178, by Semborius [Sambor], a Pomeranian prince. Some say Sobeslaus, Schwantipol's [Swietopelk's] grandfather, in 1170, who was at first a pagan and is buried here. (Daubman, Jeroschin, Mech. lib. 3, cap. 25; Rattenb.; D. Wolffs. Jos.)
+
+It is of the Order of St. Bernard [Cistercians]. He also donated 7 villages, with other additions. (Daubmas Mech. lib. 3, cap. 32.)
+
+[I. -- First destruction, 1224] In 1224, the unbelieving Prussians came, took all the goods, burned the monastery to the ground, and tormented and killed the monks most shamefully. (Dantz. Cr.; Rattenb.)
+
+[II. -- Second destruction, 1234] In 1234, the Prussians came again and burned Oliva. At that time they killed 6 monks and 34 servants with sword and fire. (Dantz. Cr.; Rattenb.)
+
+[III. -- Third destruction, 1243] In 1243, during the time of Schwantipol [Swietopelk II], the monastery was burned to the ground by the [Teutonic] Order. (Daubmas.; Dantz. Cr.; Rattenb.)
+
+[IV. -- Fourth destruction, 1247] In 1247, it was burned a second time by the Order, and all their cattle taken. (Daubman; Mal. Chr.)
+
+[V. -- Fifth destruction, 1252] In 1252, it was burned a third time by the Teutonic Order, with all buildings, and robbed of all property. (Daubmas; Johann Diano. Co.)
+
+[Abbot Rudiger's piety] When the Danzigers under Hoemeister Karl von Trier [Carolo Pessart?] had surrendered the city to the enemy, Heinrich Plotzko, Grosskomtur [Grand Commander], came and killed many Danzigers. And as many lay in their last agony, there was in Oliva a pious abbot [Abt] named Rudiger, who went from one [dying man] to the next, heard their confession and gave them the sacrament. Now [in contrast, the current monks] only care about eating [fressens], drinking [sauffens], etc. (Sim. Gru. Tr. 12, c. 8.)
+
+[Year 1350 -- Fire on Good Friday] In 1350, on Good Friday [stillen Freytag], when the monks were sitting in the refectory [Resetorio] eating bread and water, the kitchen boys [Kuchen Buben] wanted to burn out the chimney [Schornstein] to clean it. But the flames burst forth, and a strong west wind drove the fire into the church, burning the entire monastery so that only the walls [Mawren] remained standing. But it was rebuilt that same year by the Hoemeister and the Prussian Bishops. (Sim. Grun. Trad. 12, cap. 24; Alt. Metr. Chronik.)
+
+Under...`,
+  },
+  "p356": {
+    original: `Vater Conradt Zöllnern / dem Hoemer= l. 339.
+Sim: Gru. teürung / da theilet man in diesem Closter P= VI.
+Trad: 15. uren / teglich den armen aus. Da kam ein Ja= D. wer.
+cap: 20. Schuknechte vnd von Below bürtig war / w= aus H.
+hey / nam auch Almosen für diesem Closter / als zugemuß aß er
+aus / den Conent gos er in seine Flaschen / das Brot steckt er in sei=
+nen busem / gehet nach Dantz zu. Da begegnet jhm ein armes Obratius.
+Weiblein / tregt ein Kind auff den Armen / ein ander kleines leufft jr Erbarm Kin=
+nach / schreiet vnd weinet sehr nach Brot / die weib bittet gar inbrünstig vnd der Kinr
+sehr vmb Gottes willen / den Jacobs Bruder vmb ein wenig Brot der Kinr
+dem Kinde zugeben. Er sagets er hette keines / sie sagten: Ach se= weinen.
+he ich doch wol / das jhr Brodt im Busem habt. Er aber saget nein /
+denn er nur einen stein darinnen hette / für die hunde / die damit zu= Miracul8
+werffen / gehet fort / vnd als er hernacher hungert / wil er von dem Brot wird
+Brot essen / da ist das Brot zu harten stein worden / des erschrickt stein.
+er / lesst zu rücke bekennet es für jederman / hengt zum zeichen den
+stein in dieses Closters Kirchen / welcher für wenig Jahren noch sol
+alda gehangen haben.
+
+Sim: Grus Anno 1400. ward das Closter angelegt / vnd brant aus bis VII.
+Tr: 14. c: 4 auff die Kirchen. ausgebrast
+
+Sim: Grun. Anno 1460. im grossen Kriege / solte die Oliua auff S.
+Trad: 17. Bartholomei tag dem Orden verraten werden / dis erfahren die Po=
+cap: 12. len / vnd besetzten sie mit 800. Reisigen. Als der Orden kam /
+wüschten die Polen zu jhnen heraus / vnd schlugen sich 5. stunden
+lang mit des Ordens Volck / das also von beyden seiten 500. Reisi=
+gen alda blieben.
+
+Dantz: Cr. Anno 1433. kamen die Ketzer aus Behemen / verbranten VIII.
+Dantz: Cr. dis Closter / mit allen andern so in Pomerellen waren. verbrant.
+J. Brand. Chronica.
+
+Dantz: Cr. Anno 1520. Als das Deutsche Volck so dem Hoemeister sol=
+te zuhliff kommen / von Dantzig wider hinweg zoge / lagerte es
+sich in die Oliua vnd durchbrachen die Mawren / jhr Geschütz aus=
+zulegen.
+
+Sim: Grun. Anno 1577. als die Dantzker mit Stephano dem Könige von Dori
+Jobriot: in Polen in vneinigkeit gerathen / fielen die Dantzker den 15. Febru: geschla=
+J. Brand. in die Oliua / namen alles was sie funden / fürttens in die Stadt / a= gen.
+ber den 18. Febr: branten sie es aus / den 22. Febr: schleifften sie das
+Closter / auff das sich der König nicht hinein lagerte. Musten es
+aber hernacher wider bawen.
+
+In diesem Closter ist Apt gewesen Caspar Geischklaw / so zu= Historia
+D. Laurent. vor lang Lipfik fundiert gehabt / aber hernacher sich gegen das Euan wo Caspr
+Malch: E gelion gar vbel angelassen / das mancher guter restlicher Man vnd Geischklaw
+Hissle: Cr. Pfarher wol erfahren vnd befunden hat. Dieser / als er am grü= Apt in O=
+nen Donnerstage des 1584. Jahrs / seinen Conuents Brüdern liua sch
+mit Fusswalchen ministriret gehabt / vnd sich auff solche arbeit / mit geben hab.
+seinen gewöhnlichen Zechbrüdern / widerumb ergetzen wollen / hat er
+einen Ahl mit einem vmbgeschlagenem in Maluasier geneiztem tuch /
+Vo ij zu der`,
+    english: `[Page 339 -- Oliva continued: miracle of the bread turned to stone; further destructions; Abbot Caspar Geischklaw's debauchery]
+
+[VI. -- Under Conrad Zollner von Rotenstein] Under Father [Hoemeister] Conrad Zollner [von Rotenstein, r. 1382-1390], during a time of famine [teürung], this monastery distributed food [Puren?] daily to the poor. A young man [Ja...], a cobbler's journeyman [Schuknechte] from Below, also took alms from the monastery. He ate the vegetable stew [zugemuß], poured the broth [Conent] into his flask, and tucked the bread into his shirt [busem], heading for Danzig.
+
+[The miracle of the bread turned to stone] On the way, a poor woman met him, carrying a child in her arms, with another small child running after her, crying and weeping much for bread. The woman begged most fervently, for God's sake, that the brother [Jacobs Bruder = pilgrim/fellow] give a little bread to the child. He said he had none. They said: 'But we can see that you have bread in your shirt!' But he said no -- he only had a stone in there, to throw at the dogs. He went on his way. And when he later grew hungry and wanted to eat the bread, the bread had turned to hard stone [zu harten stein worden]. He was frightened, turned back, confessed it openly to everyone, and hung the stone as a sign in this monastery's church -- where it reportedly still hung a few years ago. [A classic medieval miracle tale warning against refusing charity.]
+
+[VII. -- 1400 fire] In 1400, the monastery was set alight and burned, except for the church. (Sim. Grus. Tr. 14, c. 4.)
+
+[1460 -- Battle at Oliva] In 1460, during the Great War [Thirteen Years' War], Oliva was to be betrayed to the Order on St. Bartholomew's Day [August 24]. The Poles learned of this and garrisoned it with 800 horsemen. When the Order came, the Poles sallied out and fought for 5 hours, so that 500 horsemen fell on both sides. (Sim. Grun. Trad. 17, cap. 12.)
+
+[VIII. -- 1433 Hussite destruction] In 1433, the Hussites [Ketzer = heretics] from Bohemia came and burned this monastery along with all others in Pomerelia. (Dantz. Cr.; J. Brand. Chronica.)
+
+[1520 -- German troops in Oliva] In 1520, when the German forces that were supposed to reinforce the Hoemeister withdrew from Danzig, they encamped in Oliva and broke through the walls to position their artillery.
+
+[1577 -- Danzig-Stefan Batory conflict] In 1577, when the Danzigers had fallen into conflict with King Stephen [Stefan Batory] of Poland, the Danzigers attacked Oliva on February 15, took everything they found, and carried it into the city. On February 18 they burned it. On February 22 they demolished [schleifften] the monastery, so that the King could not use it as a base. But they had to rebuild it afterward. (Sim. Grun.; J. Brand.)
+
+[Abbot Caspar Geischklaw's story] In this monastery there was an abbot named Caspar Geischklaw, who had previously founded [a church at?] Lipfik [Leipzig?], but afterward turned strongly against the Gospel [Euangelion], as many a good and honorable man and pastor well knew and experienced. On Maundy Thursday [grunen Donnerstage] of 1584, after he had ministered the foot-washing [Fusswalchen] to his convent brothers, and wanting to refresh himself with his usual drinking companions [Zechbrudern] after such labor, he took an eel [Ahl] wrapped in a cloth soaked in Malmsey wine [Maluasier]...`,
+  },
+  "p357": {
+    original: `ben / von fern vmbgeschütten glüenden Kolen / l. 340.
+e gebraten / vnd demnach sich etliche in der
+ssen / er twere nicht genug gebratten: Hat er
+ein stattliches Wermutten öli / so er mit aus
+alte Francfreich den M= Heinrich gebracht / das soite woi helssen con=
+coquiren. Vnd wie er denn ein Alchunust mit sein wolts / befall er
+seinem Diener dem Schaller von Eisleben / das er das Gleslein mit
+dem Wermutten öl an dem orte / vnd vnter dem numero / wie er jhm
+verzeichnete / holen soite. Ob aber nun der Schaller in der Reye
+geschickt / oder der Apt hierauohren selbst ein ander schädlich öl / an
+dieselbige stet vnd numerum gesetst / vnd daselbst vergessen / daruon
+kan niemande reden. Aber als der Apt das Gleslein mit dem ver=
+meinten Wermut öl bekommen / hat er zum ersten in seine / darnach
+in der anderen Trinckgeschir etliche tropffen / nach seiner weise desfel=
+bigen öles gegossen / vnd haben also sämptlich wol von dem öle gezecht /
+Apt am das der Apt den dritten tag / neben einem Apoteker von Dantz gestori=
+dritten tag ben / vnd also volgents in der Osterwochen / sampt zwölffen seiner
+gestorben Mitzzecher begraben worden. Denn weil sie mit heuchelten / mus=
+sen zwölff sten sie auch gleichen lohn mit empfangen.
+begraben.
+
+Oppen V. 15. Oppolnitz d. 18.
+Oschetko d. 9.
+
+Osterrode Z. 13 Ein Schlos vnd Stadt / gebawet Sim: Grun.
+Gebawet. anno 1302. Etzliche wollen als Taubmans / anno 1270. Hat Tr: 13. c: 1
+ein Conuent gehabt. Daub. Cr.
+
+vom Don= Anno 1400. hat der donner eingeschlagen / Stadt vnnd Sim: Grun.
+ner auge= Schlos ausgebrant. Trad: 14.
+brant. cap: 4.
+eingenome Anno 1410. Nach der Tannenbergischen Schlacht / wurd es ibidem.
+von Wittoldo eingenommen. cap: 12.
+Das Ge= Im ersten Jar der Regierung Michel Küchenmeister / das Hom: Cr.
+biete ver= ist anno 1414. kam der König von Polen / mit Wittoldo durch die
+heeret. Masaw / vnd verhecreten des Gebiete Osterrodt.
+
+Im grossen Kriege.
+
+Ergeben. Anno 1454. balde nach der Schlacht vor der Conitz / er= Sim: Grun.
+gab sich Stadt vnd Schlos wider an den Orden. Trad: 17.
+cap: 3.
+Weyer.
+Geschicht
+Im Polnischen Krige. wege eines
+Bundes.
+Anno 1520. war der Querin Schlick Graff zu Passaw / Addirio in
+Herr zu Weißkirchen vnd Elbogen Compthur zu Osterrode. Weyer.
+Balde nach dem Newenjahrstage nam er die Deutsche Eylau ein /
+vnd gegen Herbst die Liebenmühl.
+
+Osterwick S. 6. Osterwein Z. 18.
+Ostrocoln Y. 27. Ostrometzke d. 3.
+Ostrowite Deusch Schiltern a. 8.
+
+Orlei`,
+    english: `[Page 340 -- Abbot Geischklaw's death by poisoned oil; Osterode/Ostroda]
+
+[Continued: Geischklaw's death] ...roasted [the eel] over glowing coals poured around it from a distance, and since some complained it was not roasted enough, he produced a fine wormwood oil [Wermutten oli] which he had brought from France via [a man named?] Heinrich, saying it would aid digestion [concoquiren]. And since he fancied himself something of an alchemist [Alchunust], he ordered his servant, Schaller von Eisleben, to fetch the small bottle [Gleslein] with the wormwood oil from the place and under the number [numerum] he had marked.
+
+[The fatal mix-up] Whether the Schaller [servant] made an error in the row [Reye], or whether the Abbot himself had earlier placed a different, harmful oil in that same spot and under that number and then forgotten it -- of this, no one can speak. But when the Abbot received the bottle with the supposed wormwood oil, he poured several drops first into his own [drink], then into the other drinking vessels, in his usual manner. And so they all drank heartily of the oil.
+
+[Deaths] The Abbot died on the third day, along with an apothecary from Danzig. And so, in the following Easter week, the Abbot together with twelve of his drinking companions were buried. Since they had joined in the hypocrisy [heuchelten], they also received equal reward. [A darkly moralistic tale -- 12 companions dying with their leader, echoing the Last Supper in grotesque inversion.] (D. Laurent.; Malch. E.; Hissle. Cr.)
+
+[Place entries]
+Oppen V. 15. Oppolnitz d. 18.
+Oschetko d. 9.
+
+[Osterode / Ostroda] Z. 13. A castle and town, built in 1302. Some, following Taubman, say 1270. It had a convent [Conuent]. (Sim. Grun. Tr. 13, c. 1; Daub. Cr.)
+
+[Year 1400 -- Lightning strike] In 1400, lightning [Donner] struck; town and castle burned down. (Sim. Grun. Trad. 14, cap. 4.)
+
+[Year 1410 -- After Tannenberg] After the Battle of Tannenberg [Grunwald], it was taken by Witold [Vytautas]. (ibidem, cap. 12.)
+
+[Year 1414 -- Polish-Lithuanian devastation] In the first year of the reign of [Grand Master] Michael Kuchmeister [r. 1414-1422], that is in 1414, the King of Poland with Witold came through Masovia and ravaged the district of Osterode. (Hom. Cr.)
+
+[In the Great War (Thirteen Years' War)]
+
+[Year 1454] Shortly after the Battle of Konitz [Chojnice], the town and castle surrendered back to the Order. (Sim. Grun. Trad. 17, cap. 3; Weyer.)
+
+[In the Polish War (War of 1519-1521)]
+
+[Year 1520] Querin Schlick, Count of Passau [Passaw], Lord of Weisskirchen and Elbogen [Loket], was Komtur [Commander] of Osterode. Shortly after New Year's Day he took Deutsch Eylau [Ilawa], and toward autumn [he took] Liebemühl [Miłomłyn].
+
+[Place entries]
+Osterwick S. 6. Osterwein Z. 18.
+Ostrocoln Y. 27. Ostrometzke d. 3.
+Ostrowite Deutsch Schiltern a. 8.
+
+Orlei...`,
+  },
+  "p358": {
+    original: `Orlei 2. 15. Orloff l. 341.
+Oscheroua c. 3.
+
+Orttelsburg Z. 18. Polnisch G= Gebawet.
+ist Anno 1266. gebawet.
+
+Sim: Gru: Dem ersten Heinrich Reussen Hoemeister amen Söldener / von Söld=
+Tr: 15. c: 6 böse Buben / versetzten endtlich jhm die Schisser wie Droben im Lick ner Were
+Geschichte zusehen. jagt.
+
+Im grossen Kriege / Anno 1455. Hat sichs widerumb an Ergeben.
+Malt: Cr. den Orden ergeben.
+
+Im Polnischen Kriege.
+
+Joh: Seur. Anno 1520. Für Pfingsten als die Feinde Soldaw hatten ein= Belagert.
+bekommen / zogen sie ein theil für Orttelsburg / belagerten dasselbige
+auch hart.
+
+Anno 1581. Hat Marggraff Georg Friderich viel schöner
+Gemecher da machen lassen.
+
+Jeroschin. Osseck Ist eine Festung gewesen am Drausen / da die Osseck.
+Weekste hinein felt. In der andern vernewerung / gewonnen die
+Preussen diese Festung / verbrandten vnd erschlugen alles / was sie von Preus
+ankamen. fenkbrant
+
+P.
+
+Packolm W. 9 Paislacken S. 20.
+Palangen B. 20. Palschaw T. 6.
+Panaria W. 13.
+
+Pappaw d. 5. Ein Schlos im Colmischen Lande / Gebawet.
+Sim: Grun gebawet Anno 1375.
+Trad: 14.
+cap: 14. Anno 1410. Nach der Tannenbergischen Schlacht / ist es von Eingenom=
+den Polen eingenomen worden. men.
+
+Sim: Grun Anno 1414. Vnter Michel Küchenmeister / ists vom Polni= Eingenom=
+Tr: 15. c: 8 schen Könige widerumb eingenomen worden. men.
+Malt: Chr.
+
+Geschicht Anno 1454. Als die Landtschafft wegen des Bundes / den sie Bund wil
+wege eines gemacht: das Vrtheil verlohren / vnd den Bunde weder fürm Papst / einen tag
+Bundes. noch Keyser erhalten konten / da begert man einen Landtag zu Tho= zu Thorn
+Suntz: Cr. ren zuhalten / hieuon zu handelen. Auff etzlicher bitte / schicket der halten.
+Hoemeister Bruder Kilian Eichsdorff den Marschalck / Bruder
+Wilhelm von Elsenstein / Compthur zu Graudentz / etc. Da sie
+nun von Pappaw ausgezogen waren: wardt jhnen angezeiget / wie
+das viel auff sie hielten / sie zufahen / Derhalben sie widerumb zu=
+rück / auff das Schlos zogen. Da folgten solche nach / nemlich
+Otto Machewitz / etc. mit den Thörnern vnd Colmern / steigen ab vnd
+begerten auff das Schlos / denn sie hetten in freundtschafft etwas mit
+dem Marschalck zu reden / versicherten sie auch.
+
+Aber da`,
+    english: `[Page 341 -- Orttelsburg/Szczytno; Osseck fortress; Letter P begins; Pappaw/Papowo castle; the Prussian Confederation's treachery]
+
+[Place entries]
+Orlei 2. 15. Orloff [?].
+Oscheroua c. 3.
+
+[Orttelsburg / Szczytno] Z. 18. Polish G[...]. Built in 1266.
+
+[Mercenaries cause trouble] Under the first Heinrich Reuss, Hoemeister [Grand Master Heinrich von Plauen, r. 1410-1413?], the hired soldiers [Soldener] -- wicked fellows [bose Buben] -- finally pawned the weapons [Schisser], as can be seen above in the Lyck [Ełk] entry. (Sim. Gru. Tr. 15, c. 6.)
+
+[In the Great War] In 1455, it surrendered back to the Order. (Malt. Cr.)
+
+[In the Polish War (War of 1519-1521)]
+
+[Year 1520 -- Siege] Before Pentecost [Pfingsten], when the enemy had taken Soldau [Dzialdowo], they marched partly against Orttelsburg and besieged it hard as well. (Joh. Seur.)
+
+[Year 1581] Margrave Georg Friedrich [of Brandenburg-Ansbach, administrator of Prussia] had many fine rooms [Gemecher] built there.
+
+[Osseck] A fortress on the [Lake] Drausen [Druzno], where the Weeske [Wąska River] flows in. During the second [Prussian] revolt, the Prussians took this fortress, burned it, and slaughtered everything and everyone who came [vor Preus fenkbrant = burned by Prussians]. (Jeroschin.)
+
+[Section: Letter P]
+
+[Place entries]
+Packolm W. 9. Paislacken S. 20.
+Palangen [Palanga] B. 20. Palschaw T. 6.
+Panaria W. 13.
+
+[Pappaw / Papowo] d. 5. A castle in the Culm land [Colmisches Lande], built in 1375. (Sim. Grun. Trad. 14, cap. 14.)
+
+[Year 1410 -- After Tannenberg] After the Battle of Tannenberg, it was taken by the Poles.
+
+[Year 1414] Under [Grand Master] Michael Kuchmeister, it was again taken by the Polish King. (Sim. Grun. Tr. 15, c. 8; Malt. Chr.)
+
+[Year 1454 -- The Prussian Confederation's treachery at Pappaw] When the Landschaft [estates/nobility] had lost their case regarding the Bund [Prussian Confederation, formed 1440], and could not uphold the League before either the Pope or the Emperor, they requested a Landtag [diet/parliament] at Thorn [Torun] to discuss the matter. At some [members'] request, the Hoemeister sent Brother Kilian Eichsdorff, the Marshal [Marschalck], and Brother Wilhelm von Elsenstein, Komtur [Commander] of Graudenz [Grudziądz], etc.
+
+When they had departed from Pappaw, they were informed that many [men] were lying in wait to capture them. Therefore they turned back to the castle. Then [the conspirators] followed -- namely Otto Machewitz [Machewicz], etc., with the Thorners [citizens of Torun] and Culm [Chelmno] men -- dismounted and requested entry to the castle, saying they wished to speak with the Marshal in friendship, and gave assurances [of safe conduct].
+
+But then...`,
+  },
+  "p359": {
+    original: `gelassen wurden / vnd freundlich empfangen / l. 342.
+ten / auch den Pfleger vnd Kellermeister alda /
+da sie sie auff das Rathaus gefangen satzten /
+den entsag Brieff gen Marienburg.
+
+vomGrod Anno 14= Erstiegen des Ordens Hoffleute / zum Col= Geschicht
+erstiegen. men liegende / das Schlos. wege eines
+Bundes.
+vom Kö= Aber auff Margarethe / gewan es der König von Polen / ibidem.
+ig gewon= mit 20000. Man / vnd 600. Lättern widerumb / vnd zerstöret Sim: Grun.
+nen vnd es / denn er hatte 1100. Man daruor verloren. Trad: 17.
+zerstöret. cap: 10.
+
+Paradeis X. 12. Parent T. 6.
+Paris S. 20.
+
+Passenheim. Z. 17. Ein Stadt in Galinden / Gebawet.
+Anno 1388. gebawet. Sol den namen daruon haben / das sie zum
+wo der g erften zu weit angefangen gewesen / da aber der Oberste kommen / es
+name. zu besehen / hat er sie kleiner wollen haben / vnd gesagt: bas / oder pas
+hinein / daraus jhr der nam sol geblieben sein / Passenheim.
+
+vom Kön: Anno 1414. Im ersten Jahr der regierung Michael Küchen= Hom: Cr.
+eingenome meisters / ist die Stadt vom König zu Polen eingenomen worden.
+
+Im grossen Krieg.
+
+Anno 1458. Im grossen Kriege / wardt den Polen zuge= Sim: Grun.
+verratere? schrieben / jhrer solten mehr heimlich in die Stadt kommen / vnd des T: 17. c: 11
+Ordens alda wartten: Darnach ward dem Orden geschrieben vom Geschicht
+Bürgermeister vnd seinem Compan / das sie der Polen mutwillen / wege eines
+den sie jhnen zutrieben / nicht lenger erdulden köndten / sie solten Bundes.
+kommen / vnd die Stadt einnemen. Derhalben kam Heinrich Reus /
+mit viel Volcks / vnd wolten hinein gehen: Denn er wuste nicht von
+der Verreterey. Aber die Hoffleut widerriettens / schickten Georg
+Löbel Heuptman zu Wartenburg / zu Fus / mit 22. Man hinein / es
+zubesichtigen. Aber das Schoßgatter wardt hinter jnen abgelassen /
+vnd dieselbigen wurden gefangen / die andern kamen widerumb gen
+Allenstein. Dis setset Herburtus in das 59. Jahr. lib. 16. cap. Herbur: li
+12. setzet auch für 22. Fussgenger / 300. Reutter. 19. ca. 12.
+
+Historia von einem Geitzbauch / vnd sei=
+nem ende.
+
+Als Marggraff Friederich von Meissen Hoemeister / aus Sim: Grun.
+dem Lande gezogen war / da war ein Pfleger zu Passenheim / den die Trad: 16.
+Vnterihanen / vmb seines schneidens halben den Geitzbauch nenneten / cap: 6.
+vnd was dieser erschunde / schicket er gen Nürenbergk / für Harpisch
+vnd Rüstung / denn er gedachte das Landt widerumb zugewinnen.
+
+Auff das`,
+    english: `[Page 342 -- Pappaw treachery concluded; Passenheim/Pasym founded; Great War betrayal; the Miser of Passenheim]
+
+[Continued: Pappaw treachery] ...[they] were admitted and received in a friendly manner. [They then seized] the Pfleger [castle warden] and the cellar-master [Kellermeister], took them captive to the town hall [Rathaus], and sent a letter of defiance [entsag Brieff] to Marienburg [Malbork].
+
+[The Order retakes Pappaw] In 14[54/55], the Order's men-at-arms [Hoffleute], stationed at Culm, scaled [erstiegen] the castle.
+
+[The King reconquers it] But on [the Feast of] St. Margaret [July 13], the King of Poland took it back with 20,000 men and 600 ladders [Lattern], and destroyed it -- for he had lost 1,100 men before it. (Sim. Grun. Trad. 17, cap. 10.)
+
+[Place entries]
+Paradeis X. 12. Parent T. 6.
+Paris S. 20.
+
+[Passenheim / Pasym] Z. 17. A town in Galindia [Galinden], built in 1388. It supposedly got its name from the fact that [the town] was begun too large at first. When the Oberste [the superior/official] came to inspect it, he wanted it smaller and said: 'bas, oder pas hinein' ['more narrow, or squeeze it in'] -- from which the name Passenheim supposedly remained. [A folk-etymological explanation.]
+
+[Year 1414 -- Polish conquest] In the first year of the reign of [Grand Master] Michael Kuchmeister, the town was taken by the King of Poland. (Hom. Cr.)
+
+[In the Great War (Thirteen Years' War)]
+
+[Year 1458 -- Betrayal at Passenheim] In the Great War, [a message] was written to the Poles that more of them should come secretly into the town and wait there for the Order's [forces]. Then the Burgermeister and his companion wrote to the Order that they could no longer endure the Poles' outrages [mutwillen] against them, and [the Order] should come and take the town.
+
+Therefore Heinrich Reus [von Plauen] came with many forces, intending to enter. For he did not know about the treachery [Verreterey]. But his men-at-arms [Hoffleut] advised against it and sent Georg Lobel, Hauptman [captain] of Wartenburg [Barczewo], on foot with 22 men to reconnoiter. But the portcullis [Schossgatter] was dropped behind them, and they were captured. The others retreated to Allenstein [Olsztyn]. Herburtus places this in the year [14]59, lib. 16, cap. 12; he counts 300 mounted troops [Reutter] instead of 22 foot soldiers. (Sim. Grun. T. 17, c. 11; Herbur. li. 19, ca. 12.)
+
+[Historia of a Miser and his end]
+
+When Margrave Friedrich von Meissen [Grand Master Friedrich von Sachsen, r. 1498-1510?] had departed from the land, there was a Pfleger [warden] at Passenheim whom the subjects called the 'Geitzbauch' [Miserly-belly / Greed-gut] because of his extortionate ways [schneidens = fleecing/cutting]. Whatever he squeezed [erschunde] out of the people, he sent to Nuremberg [Nürenbergk] for harness [Harpisch] and armor [Rüstung], for he thought to reconquer the land.
+
+Thereupon...`,
+  },
+  "p360": {
+    original: `Auff das er aber seine Fischer desto scherer sch= Jöter l. 343.
+den Bawren / so für alters freiheit / vnd gerecht= heit= Fischerey
+für jhren Tisch zu fischen / die Fischerey / Zürge= so für doch.
+Ackers nicht darbey wartten / so geben sie au=
+kontten jhm auch seine Fischer / wo sie Fischot o nicht mehr
+erwerben. Die Pawren baten / sie bey jhr= sen gerechtigkeit
+zulassen / vnd zu gönnen / was jhr Gott / vnd die vorige Herrschafft
+gegünnet hatte / seine Fischer hetten stets den Zins gegeben / vnd zum geret
+wol geben können / da man billiges von jhnen genommen / nun hette zer
+man sie aber also übersetzt / das es jhnen vnmüglich were / solchen
+Zins zugeben.
+
+Dis verdros dem Pfleger / drewet jhnen mit dem Galgen / wo
+sie weiter im See fischen würden. Im abschiede beretten sich die
+Bawren vnd beschlossen es / sie wolten Fischen / dieweil der Hoe=
+meister nicht im Lande were / so kündte er sie darumb auch nicht
+würgen: Denn dis war gahr ein löblich ding / ins Ordens theil gehal= Ein herr=
+ten / wie ein Recht: das die Amptes Brüder niemandts dorffsten töd= lich recht.
+ten lassen / ohne des Hoemeister's zulaß. Auff dis verliessen sie
+sich / vnd Fischten nach dem laut jhrer Handtfest. Dis wardt der
+Pfleger innen / schicket hin sie zu fahen / die Pawren wehrten sich / Nota.
+vnd erschlugen einen / der sie fahen soite / vmb des willen straffet sie der
+Pfleger / nam jhnen die beste Pferde vnd Ochsen / damit sie den Hals
+lösten / musten sich auch aller Gerechtigkeit vber die Fischerey ver=
+zeihen. Aber von diesem tage an / vermocht der Pfleger mit sei=
+nem Garn nicht einen Fisch zu fangen / welches er der Weydelen /
+vnd nicht Gottes straffe / zuschrieb. Gab den Weibern schuldt / sie
+hetten jhm Garn vnd Fische bezaubert / setzte sie ein / lies sie durch
+den Hencker fragen / sandt doch nichts an jhnen.
+
+Da war zu Königsperg einer Gablatus genandt / ein Frant= Gablatus
+ke / der kundt lange vnter dem Wasser bleiben / den lies er holen / venator /
+der nam ein geringes / vnd sprang aus dem Kan hinein / blieb drey ein vnters
+stunden lang darinnen / vnter des lies der Pfleger mit viel Garnen teucher.
+darinnen ziehen / fieng nichts / Gablatus kam wider heraus / saget
+das viel Fische darinnen weren / wusten sich aber gahr meisterlich für
+den Garnen zuhütten. Das halff auch nicht / denn er hielte jhn für
+einen leichtsertigen Menschen / vnd von Pawren mit Gelt bestochen.
+
+Weil aber dieser See jhm am meisten hatte einbracht / dencket getzbawch
+er jhm weiter nach vnd da erschret er wie eine Weiderinne we= gahr ver=
+re / die könnte es benemen / was andere bezeubert hetten / Diese blendet.
+rathfraget er / Sie aber saget jhm: das es von Gott here keme /
+der straffet jhn vmb seiner vngerechtigkeit halben / gegen den armen
+Leutten / vnd würde auch nicht gehöret noch gehessert / denn er stür=
+be zuuoren / mit allen Fischen im See. Darnach wurde der See /
+wiederumb auch Fischreich werden.
+
+Aber der`,
+    english: `[Page 343 -- The Miser of Passenheim continued: fishing rights, witchcraft accusations, the diver Gablatus, and the wise woman's prophecy]
+
+[The fishing rights dispute] ...so that he [the Pfleger/Miser] would press his fishermen even harder against the peasants [Bawren], who from ancient times had the freedom and right [freiheit vnd gerechtigkeit] to fish for their own table. [He took away] the fishery. The peasants could not tend their fields [Ackers] and also manage his fishermen wherever they found fish, and could no longer earn [a living].
+
+The peasants begged to be allowed to keep their rights [gerechtigkeit] and to be granted what God and the previous lords [vorige Herrschafft] had granted them. His fishermen had always paid the tribute [Zins] and could still pay it, if only a fair amount were demanded. But now they had been so overburdened [ubersetzt] that it was impossible for them to pay such a tribute.
+
+[The Pfleger's threat] This angered the Pfleger. He threatened them with the gallows [Galgen] if they fished in the lake any further. On departing, the peasants conferred and resolved: they would fish, since the Hoemeister was not in the land, and therefore he [the Pfleger] could not execute them. For this was a truly praiseworthy rule [loblich ding], upheld in the Order's territories as a form of law: that the district brothers [Amptes Bruder] were not permitted to execute anyone [todten lassen] without the Hoemeister's approval. [A notable example of legal protections within the Teutonic Order's state.]
+
+Relying on this, they fished according to their charter [Handtfest]. The Pfleger learned of it, sent men to seize them. The peasants resisted and killed one of those sent to arrest them. For this the Pfleger punished them: he took their best horses and oxen as a ransom for their necks [Hals lösten], and they had to renounce all their rights to the fishery.
+
+[The fish vanish -- divine punishment] But from that day on, the Pfleger could not catch a single fish [nicht einen Fisch] with his net -- which he attributed to sorcery [Weydelen] rather than God's punishment. He blamed the women [Weibern], saying they had bewitched [bezaubert] his nets and fish. He had them arrested [setzte sie ein] and interrogated by the executioner [Hencker], but found nothing against them.
+
+[Gablatus the diver] There was in Konigsberg a man called Gablatus, a Frenchman [Frantke], who could stay underwater for a long time. [The Pfleger] sent for him. He [Gablatus] took a small [fee?], jumped from the boat [Kan] into [the lake], and stayed underwater for three hours. Meanwhile the Pfleger had many nets dragged through it, catching nothing. Gablatus came back out and said there were indeed many fish inside, but they knew how to avoid the nets most skilfully. This did not help either, for [the Pfleger] considered him a frivolous person [leichtsertigen Menschen], bribed by the peasants with money.
+
+[The wise woman's prophecy] Since this lake had been his greatest source of income, [the Miser] pondered further. Then he heard of a wise woman [Weiderinne] who could remove what others had bewitched. He consulted her. But she told him: 'This comes from God, who punishes you for your injustice toward the poor people. And it will not be remedied or improved, for you will die first, along with all the fish in the lake. After that, the lake will become rich with fish again.'
+
+But the [Miser]...`,
+  },
+  "p381": {
+    original: `rppen / der ander Meister Deut=
+schen Herrn Son / von Karppen / etliche
+r Man / etliche ein junger Man / gewe=
+ürgers Son von Bremen. Ein Gotts=
+fürchtig. seine / oder inbrünstig geliebet / den armen elens
+den frand / mit grossem fleis gereimet / selber visitiret / gewartet / vnd
+mit aller noturft versorget. Er hat seinem Orden ein Sigel gege=
+ben / so teglich gewesen / da innen die Maria reutent / auff einem Esel
+sitzend / das Kindlein Jesum in armen haltent / den Joseph darbey mit
+einem Stab gehende vnnd den Esel leitent / mit der Vmbschrifft:
+Das ist das Siegel des Meister Ampts / des Deut=
+schen Hauses zu Jerusalem. Vnd dieses Siegel hat der
+Orden lang auch alhie in Preussen gebraucht.
+Bey dieses Meisters zeiten / Anno 1204. ward auch der
+Brüder in Schwerdt Brüder Orden in Lifflandt gestifftet / welche hernacher bey
+Herman von Saltza zeitten den Deutschen Orden auch annamen /
+vnd blieben darinnen bis zu vnser zeit / Vnd weil bey dieses Hoeme=
+isters zeiten / nemlich Anno 1203. auch der Orden S. Dominici / oder
+Prediger Mönch seinen anfang nam / vnd man solche für gar Gottes=
+fürchtige Leute hielte / hat er den seinen Beicht Vätter vnd Caplan
+daraus genommen. Als er aber 6. Jahr regieret hatte / starb er Anno
+1206. den 4. Julii zu Ackers / vnd ist alda begraben.
+
+Herman Bart ein junger Man / Daubman
+vnd Hasenödters Chron: sagen: er sey ein Edelmann aus Holstein
+von gewesen. Merten Windtmüllers Chron: sagt / er sey des Hertzogen
+von Barts Bruder Son gewesen. Hoemeistrs Chr: sagt / er wer des
+Hertzogen Son von Bart. Ist gar ein Gottsfürchtiger Man gewesen /
+der die armen krancken / vnd Pilgrim mit gantzem trewen gemeinet hat /
+ist auch gar ein milder Man gewesen / gegen jederman. Es sind aber
+diese vorige drey Meister nicht Hoemeister / sondern nur Meister ge=
+nant worden / auch der vierde ein zeitlang. Haben damals nicht so viel
+mit Leuten / Landen / Hunden vnd Sperbern / sondern mit Hospitalen
+vnd krancken / die sie selber visitirt haben / vnd jhnen allerley noturft ift
+gereichet / vmbgangen.
+Bey dieses dritten Meisters zeiten / war das Land zu Preussen
+noch gar Heydnisch / niemands vnterthan noch gehorsam / denn sie
+mechtig von Volck waren / derhalben sie nicht allein Cölmer vnd Lö=
+bawer Landt / sondern auch die Masam verherete / rückten dazu hinaus
+gen Cracawda niemandt widerstandt thun konnte / verwüsteten
+das Laut mit Fewer vnd Brande / wie sie nur wolten / denn jhnen
+auch niemandt wiederstunde / denn die Polen waren damals ohne
+Regiment / vneinig / wider einander / kriegeten vnter sich selbst.
+Derhalben hatten die Preussen gut thun.
+König Heinrich zu Jerusalem gab diesem Meister das Gülde=
+ne Creutz zum zier vnd gedechnis in den Schilt.`,
+    english: `[Page 364 -- The Second and Third Masters of the Teutonic Order]
+
+[The Second Master -- Otto von Karppen] ...the second Master of the German [Teutonic] Lords, son of Karppen [von Kerpen]. Some [say he was] a Man, some a young Man, a citizen's son from Bremen. A God-fearing [man], he loved [the poor] fervently, cared for the wretched poor with great diligence, visited [the sick] himself, attended [to them], and provided all necessities. He gave his Order a seal, used daily, showing Mary riding on a donkey, holding the infant Jesus in her arms, with Joseph beside her walking with a staff and leading the donkey, with the inscription: 'This is the Seal of the Master's Office of the German House at Jerusalem.' And this seal was used by the Order here in Prussia for a long time.
+
+[Sword Brothers founded] During this Master's time, in 1204, the Sword Brothers Order [Schwertbruderorden] was also founded in Livonia, which later, during Herman von Saltza's time, also joined the Teutonic Order and remained therein until our time. And since during this Grand Master's time, namely in 1203, the Order of St. Dominic, or Preaching Friars [Dominicans], had its beginning, and these were considered very God-fearing people, he took his confessors [Beichtvatter] and chaplains from them. After he had ruled for 6 years, he died in 1206 on July 4th at Acre, and is buried there.
+
+[The Third Master -- Herman Bart] Herman Bart, a young man. Daubman and Hasenodter's Chronicle say he was a nobleman from Holstein. Merten Windmuller's Chronicle says he was the Duke of Bart's brother's son. The Hoemeister's Chronicle says he was the Duke's son of Bart. He was a very God-fearing man who cared for the poor sick and pilgrims with complete faithfulness, and was also a very generous man toward everyone.
+
+[Note on titles] These first three Masters were not called Hoemeister [Grand Masters] but only Meister [Masters], and the fourth also for a time. In those days they did not deal so much with soldiers, lands, dogs, and hawks, but with hospitals and the sick, whom they visited themselves and provided all manner of necessities.
+
+[Prussia still pagan] During this third Master's time, the land of Prussia was still entirely pagan [Heydnisch], subject and obedient to no one. For they were mighty in population, and therefore they ravaged not only the Culm [Chelmno] and Lobau [Lubawa] lands, but also Masovia, pushing out as far as Cracow, where no one could resist them. They laid waste to the land with fire and burning as they pleased, for no one opposed them -- the Poles at that time were without government [Regiment], disunited, warring among themselves.
+
+Therefore the Prussians had an easy time of it.
+
+[Golden Cross] King Henry of Jerusalem gave this Master the Golden Cross as an ornament and memorial for the [Order's] shield.`,
+  },
+  "p382": {
+    original: `Der dritte Meister Herr
+
+[Woodcut portrait of the Third Master in armor, seated between ornamental columns, holding a sword and shield with the Teutonic cross]
+
+Zu Jerusalem gewaltiglich /
+War ich König Heinerich /
+Dem Orden ich ein gülden Creutz gab /
+Das er darbey mein gedencken mag.
+
+Als er nun 4. Jahr wol vnd löblich regiret hatte / starb er anno
+1210. 15. Cal: Aprilis / das ist den 20. Martij / auff S. Benedicti
+abent / vnd ist zu Ackers in des Ordens Kirchen ehrlich begraben
+worden.
+
+Dieser Herr Herman von Saltza der anno
+1210. erwehlet / vnd ein Herr von Saltza aus Türingen gewesen /
+wie Petrus Albinus in seiner Meisnischen Cronica schreibet / der er
+Herrschafft Wappen est ein weis Wider Horn / in ein roiten Felde / so
+von etliche Cornu Hammonis genennet wurd / aber jetzund gemeiniglich Wappen=
+geel gemahlt wird / ist auch ein zeitlang nur Meister etc. genandt / Weil
+aber der Orden vnter seiner Regierung viel heuser vnd Lender bekom=
+men / vnd einem alles zu regiren vnmüglich war / ordnete er Landmeis=
+ster / vnd ward er fort Generalis Magister / Hoemeister genant.`,
+    english: `[Page 365 -- The Third Master (continued); Herman von Saltza, the Fourth Master]
+
+[Header] The Third Master Lord
+
+[Woodcut portrait: A full-page woodcut showing the Third Master of the Teutonic Order seated in armor between two ornamental Renaissance columns, holding a sword and a shield bearing the Teutonic cross. Above the figure are heraldic emblems.]
+
+[Verse inscription beneath the portrait:]
+At Jerusalem mightily,
+I was King Henry [Heinrich],
+To the Order I gave a golden cross,
+That thereby he may remember me.
+
+[Death of the Third Master] After he had ruled well and laudably for 4 years, he died in 1210, on the 15th Calends of April -- that is, March 20th -- on the eve of St. Benedict's Day, and was honorably buried at Acre in the Order's church.
+
+[Herman von Saltza -- the Fourth Master, elected 1210] This Lord Herman von Saltza, elected in 1210, was a Lord von Saltza from Thuringia [Turingen], as Petrus Albinus writes in his Meissen Chronicle. His family coat of arms [Herrschafft Wappen] is a white ram's horn [Wider Horn] on a red field, which some call Cornu Hammonis [horn of Ammon], but is now commonly painted heraldic yellow [Wappengeel]. He was also called only Meister [Master] for a time. But since the Order under his rule acquired many houses and lands, and it was impossible for one man to govern everything, he appointed Landmeister [Provincial Masters], and henceforth he was called Generalis Magister [General Master], Hoemeister [Grand Master].`,
+  },
+  "p383": {
+    original: `Saltza / der dritte Meister
+Hoemeister worden.
+
+[Woodcut portrait of Herman von Saltza in armor standing between ornamental columns, holding a sword and shield]
+
+Denn bey seinen zeiten erstlichen der Orden so gar gering war /
+das er saget / Er wolte gern seiner augen eins entperen / wo jhme
+Gott helffen wolte / das er 10. Ritter Brüder mit jren Waffen wi=
+der die Feinde haben möchte / welches er zwar reichlich von GOtt
+erlanget / denn da er starb / verlies er nach sich 1000. Ritter Brü=
+der in seinem Orden. Doch weil man sie in gemein alle von an=
+fang für Hoemeister rechnet / wollen wir es auch thun / vnd diesen
+nun vor den vierden Hoemeister zelen.
+
+Dieser Herman von Saltza ist gar ein frommer Gottsfürch=
+tiger / kluger vnd bescheidener Herr / vnd ein trefflicher Kriegsman
+gewesen / wie er denn solches anno 1232. in terra Sancta, mit den sei=
+nen gnugsam bewiesen / derhalben er von grossen Potentaten hoch
+vnd sich gehalten ward / denn er auch Keyser Friderichen II. vnd
+Bapst Honorium III. in grossem zwist / welches sonsten niemandt
+vermocht hatte / vertrug / derwegen jhn auch Keyser Fridericus in
+Bulla aurea / einen Manne so potens in sermone & opere sey / genandt
+hatt. Auch darüber vom Bapst vnd seinen Successoribus den grö=
+sten / vnd`,
+    english: `[Page 366 -- Herman von Saltza becomes Grand Master]
+
+[Header] Saltza, the third Master [who] became Grand Master.
+
+[Woodcut portrait: Herman von Saltza depicted in full armor standing between two ornamental Renaissance columns, holding a sword and a shield bearing the Teutonic cross.]
+
+[The Order's humble beginnings] For in his early times the Order was so very small that he said he would gladly give up one of his eyes if God would help him to have [just] 10 Knight Brothers with their weapons against the enemies. This he indeed obtained richly from God, for when he died, he left behind 1,000 Knight Brothers [Ritter Bruder] in his Order. Yet since all are commonly counted as Grand Masters from the beginning, we shall do the same and count this one now as the fourth Grand Master.
+
+[Character of Herman von Saltza] This Herman von Saltza was a very pious, God-fearing, wise, and prudent Lord, and an excellent warrior [Kriegsman], as he proved sufficiently with his men in 1232 in the Holy Land [terra Sancta]. Therefore he was highly esteemed by great potentates. For he also reconciled Emperor Frederick II and Pope Honorius III in a great dispute [zwist], which no one else had been able to do. For this reason, Emperor Frederick also called him in the Golden Bull [Bulla aurea] 'a man so potens in sermone et opere' [powerful in word and deed]. Also from the Pope and his successors [he received] the greatest... and`,
+  },
+  "p384": {
+    original: `sten vnd meisten Ablas / von dem Keyser
+uilegien / derer sehr viel vnd wichtig sindt /
+wie den auch derselbige Keyser des Ordens
+Reichs Adeler gezieret.
+
+Es erlanget auch dieser Hoemeist
+nedig / mit sonst vielen heusern / in Armen
+Landen. Jhm ward auch in Preussen d
+Conrado Hertzogen in der Masaw / an
+Lobausche aber / ward in einem Testam r dem Bi=
+men vermacht / wie folio 26). zusehen / vnd folgen.
+
+die Schwerdt Brüder in Lifflandt vnter jhn / verbu
+den / vnd namen diesen an / Blieben auch darbey /
+zeit dieses Ordens in Preussen / da kaufften sie sich
+wie diese Deutsche Reymen lautten:
+
+Die Schwerdtbrüder in Lifflande /
+Habn sich vom Orden abgewant.
+Geschach beis letzten Hoemeistrs zeit /
+Marggraff Albrecht zelet sie queit.
+
+Vnd als er nun in das 31. Jahr gantz löblich regiret hatte /
+starb er anno 1240. den 24. Julij / war S. Christinen tag / zu
+Barletto in Apulien / da er auch baldt begraben ist worden.
+
+Conradus Landgraff in Türingen vnnd
+Hessen / ist des Landgraffen Ludowigs S. Elisabethen Mans Bru=
+der gewesen / ist zu Marpurg in Hessen mit andern mehr Herrn ein=
+gekleidet worden / wiewol er zuuohren ein weltlicher Herr / vnd eine
+Stadt Fritschelen genant / ober haupt gewonnen / vnd was vnbarm=
+hertzig mit jhnen vmbgangen / so ists jhm doch hertzlich leidt gewesen /
+da er den Orden hat annemen wollen / auch sich nicht geschemet of=
+fentliche Kirchenbuß zuthun. Sol aber ein solcher fromer Herr ge=
+wesen sein / das er auch einem hat ansehen können / wenn jemandt
+mit groben Sünden beflecket / vnd auch solche an seinem Hoff nicht ge=
+litten.
+
+Einer offentlichen Sünderin / die jhm gelobet abzulassen / wo
+sie sonsten jre noturft haben mochte sich zuerhalten / der hat er zu jren
+tagen so viel einkomens gegeben / das sie sich erneten hat können. Die
+seine in Preussen habe viel zuschaffen vn zukriegen gehabt mit Schwā=
+tipolt Pomerellischem Hertzoge / der jm auch die Preussen abfellig ma=
+chte / dadurch dem Orde grosser schade geschach / doch behielt der Orden
+endlich den sieg / Poppo von Osterna vnd Heinrich von Vida sind seine
+Landtmeister in Preussen gewest / so sehr viel zu thun gehabt / Er hat`,
+    english: `[Page 367 -- Herman von Saltza continued; Sword Brothers in Livonia; Conrad of Thuringia, 5th Grand Master]
+
+[Privileges from Emperor and Pope] ...the greatest and most [papal] indulgences, from the Emperor [many] privileges, of which there are very many and important ones, and the same Emperor adorned the Order's [shield with the] Imperial Eagle [Reichs Adeler].
+
+[Acquisitions] This Grand Master also obtained [Venice] [i.e., a house in Venice], along with many other houses in poor [i.e., distant] lands. To him was also [given] in Prussia [the Culm land] by Duke Conrad of Masovia [Masaw]... the Lobau [district], however, was bequeathed in a testament by the Bishop, as can be seen at folio 26 and following.
+
+[Sword Brothers join the Teutonic Order] The Sword Brothers in Livonia [joined] under him, allied themselves, and accepted this [Order]. They also remained with it [throughout] the time of this Order in Prussia, [until] they bought themselves [free], as these German rhymes say:
+
+[Verse:]
+The Sword Brothers in Livonia
+Have turned away from the Order.
+This happened in the last Grand Master's time,
+Margrave Albrecht released them.
+
+[Death of Herman von Saltza] And after he had ruled most laudably for 31 years, he died in 1240, on July 24th, which was St. Christina's Day, at Barletta in Apulia [southern Italy], where he was also soon buried.
+
+[Conrad, Landgrave of Thuringia and Hesse -- 5th Grand Master] Conrad, Landgrave of Thuringia and Hesse, was the brother of Landgrave Ludwig [IV], St. Elisabeth's husband [Ludwig IV of Thuringia, husband of St. Elisabeth of Hungary]. He was invested [into the Order] at Marburg in Hesse, with several other lords. Although he had previously been a secular lord and had captured a town called Fritschelen [Fritzlar?] by force and dealt mercilessly with them, he was heartily sorry for it. When he wished to join the Order, he was not ashamed to do public church penance [offentliche Kirchenbuss]. He is said to have been such a pious lord that he could see when someone was stained with gross sins, and he did not tolerate such [sinners] at his court.
+
+[The reformed sinner] To a public sinner [woman] who promised him to give up [her ways], if she could otherwise support herself, he gave her enough income for her days that she could feed herself.
+
+[Wars in Prussia] His [men] in Prussia had much to do and fight with Swantopolk [Swietopelk II], the Duke of Pomerelia, who also made the Prussians revolt [abfellig] from him, causing great damage to the Order. Yet the Order eventually prevailed. Poppo von Osterna and Heinrich von Vida [Wida] were his Provincial Masters [Landtmeister] in Prussia, who had very much to deal with. He...`,
+  },
+  "p385": {
+    original: `andtgraff in Düringen /
+der V. Meister.
+
+[Woodcut portrait of Conrad, Landgrave of Thuringia, seated in armor between ornamental columns, holding a sword and shield]
+
+jhnen Volck verschaffet vnd auch selbest viel in dem gelobten Lande
+zuthun gehabt / vnd als der Soldan die Christen in Egypten hart
+schlug / viel gefangen nam / die sich lösen musten vnd Damiatham
+widergeben / da wurd König Ludwig von Franckreich auch
+loß / zog gen Ackers / besichtiget da alles / vnd verehr. t da dem Hoe=
+meister anno 1250. den 20. Augusti die vier Lilien in seinen
+Schildt / neben 2000. Gülden / wie die Deutschen Reymen lautten.
+
+Jch König Ludwig von Franckreich /
+Hab gegeben willigleich.
+Von meim Wappen die Lilgen vier /
+Diesem Schildt zu grosser zier.
+Vnd nach dem der Hoemeister dem Orden 12. Jahr fürgestanden
+hen / ist er zu Marpurg in Hessen verschieden / vnd alda bey oder
+geben S. Elisabethen begraben.
+
+Poppo`,
+    english: `[Page 368 -- Conrad of Thuringia, 5th Grand Master (continued); French lilies added to shield]
+
+[Header] Landgrave of Thuringia, the 5th Master.
+
+[Woodcut portrait: Conrad, Landgrave of Thuringia, depicted seated in armor between two ornamental Renaissance columns, holding a sword and shield with the Teutonic cross.]
+
+[Support for the Holy Land] ...he procured troops for them [his forces in Prussia] and also himself had much to do in the Holy Land [gelobten Lande]. And when the Sultan [of Egypt] struck the Christians in Egypt hard, took many prisoners -- who had to ransom themselves and give back Damietta [Damiatham, the Egyptian port city captured during the Fifth Crusade] -- then King Louis [Ludwig IX / St. Louis] of France was also released, went to Acre [Ackers], inspected everything there, and presented the Grand Master in 1250, on August 20th, with the four lilies [Lilien, fleurs-de-lis] for his shield, along with 2,000 Gulden, as the German rhymes say:
+
+[Verse:]
+I, King Louis of France,
+Have given willingly
+From my coat of arms the lilies four,
+To this shield as great adornment.
+
+[Death of Conrad] And after the Grand Master had led the Order for 12 years, he died at Marburg in Hesse and was buried there beside or near [the tomb of] St. Elisabeth [of Hungary, his sister-in-law, canonized 1235, whose shrine at Marburg was a major pilgrimage site].
+
+Poppo [von Osterna, the next Grand Master follows]`,
+  },
+  "p386": {
+    original: `Poppo von Osterna der V.
+
+[Woodcut portrait of Poppo von Osterna in armor standing between ornamental columns, holding a sword and shield]
+
+Poppo von Osterna ist zuuohren vnter den
+Hoemeistern Herman von Saltza / vnd Conraden Landgraffen aus
+Türingen / sieben Jahr lang Landmeister in Preussen gewesen. Hoem:
+Chronica sagt 13. Jahr / es sein auch die andere sehr vngleich in der
+Wahl / Regierung vnd auch ende vnd begrebnis.
+Er ist aber ein
+sehr streitbarer Man gewesen / vnd sehr viel bey diesen Lendern ge=
+than / das er sich auch entlich von der Landmeisterey schwacheit hal=
+ben abbattte / vnd hinaus auff seine Gütter zog / doch wurd er vmb
+seiner geschickligkeit willen / noch zum Hoemeister erwehlet / Regirt
+diese Lender durch Landmeister.
+
+Bey seiner zeit ist der Odoaccr / so hernacher Behemischer
+König worden / mit grossem Volck im Lande gewesen / vnd Samlaude
+helffen bestreitten / dem Königsperg zu Ehren gebawet ist worden.
+Von seinem Todt schreiben jhr viel / das er von Tattern für der Lig=
+nitz erschlagen sey / wie denn auch Mechovius lib: 3. capt 38. vnd
+sey zu Breslau zu S. Jacob in der grawen Mönch Kirchen begra=
+ben. Auch Cromerus lib. 8. wie denn auch andere mehr. Des=`,
+    english: `[Page 369 -- Poppo von Osterna, the 6th Grand Master]
+
+[Header] Poppo von Osterna the V[I]. [6th Grand Master]
+
+[Woodcut portrait: Poppo von Osterna depicted in full armor standing between two ornamental Renaissance columns, holding a sword and a shield bearing the Teutonic cross.]
+
+[Career as Landmeister] Poppo von Osterna had previously been Landmeister [Provincial Master] in Prussia for seven years under Grand Masters Herman von Saltza and Conrad, Landgrave of Thuringia. The Hoemeister's Chronicle says 13 years; the other [chronicles] disagree considerably about the election, rule, and also the end and burial.
+
+[Military career] He was a very warlike man [streitbarer Man] and did a great deal in these lands [Prussia/Livonia], until he finally resigned the Provincial Mastership [Landmeisterey] due to weakness [schwacheit] and withdrew to his estates. Yet because of his skill [geschickligkeit] he was still elected Grand Master. He governed these lands through [subordinate] Provincial Masters.
+
+[Ottokar of Bohemia] During his time, Ottokar [Odoaccr/Otakar II Premysl] -- who later became King of Bohemia -- was in the land with a great force and helped conquer Samland, in whose honor Konigsberg [Koenigsberg] was built. [However, Konigsberg was actually named after Ottokar.]
+
+[Death accounts] Many write of his death that he was slain by Tatars [Mongols] at Liegnitz [the Battle of Legnica/Liegnitz, 1241], as Maciej Miechowita [Mechovius] writes in book 3, chapter 38, and that he was buried at Breslau [Wroclaw] at St. Jacob's in the Grey Friars' [Franciscan] church. Also Marcin Kromer [Cromerus], book 8, and many others. [However, this conflates different people -- Poppo von Osterna died around 1256, well after the Battle of Legnica in 1241.]`,
+  },
+  "p387": {
+    original: `der Cronica setzt das er da erschlagen / vnd
+echt bey den Prediger Mönchen ehrlich be=
+es reumpt sich gantz vnd gar nicht mit der
+gelebet hat. So vermupt man
+ich draussen auch wider Hares halben
+tat person hernacher gestorben sey.
+
+Hanno von Sangerhausen der VII.
+Hoemes: er Teutsches Ordens.
+
+[Woodcut portrait of Hanno von Sangerhausen in armor standing between ornamental columns, holding a sword and shield]
+
+Hanno etliche Anno oder Hans von San=
+gerhausen / was Geschlechtes er sonderlich gewesen sey / findet man
+zwar nicht in den Preuschen Cronicken / aber in Petri Albini Meis=
+nischer Chronica ist es leichtlich zumercken / denn da schreibet er von
+den Braunschweigischen Hertzogen / wie sie sich in etliche Herrschafften
+getheilet haben / vnd das Fridericus der Gestrenge die Stadt vnd
+Ampt Sangerhausen / von Hertzogen Magno von Braunschweig /
+als jhn der Hertzog von Meckelburg / oberwunden hatte / erkauffst /
+auch das der Sangerhausischen Herrschafft Wappen / sollen sein
+drey lauffende Lewen / vber einander / im rothen Schild / oder drey
+auffgelesner / oben zwen neben einander / vnten aber nur einer /
+in vorigen Büchlen von Orden etc. ist dy Wappe recht gesch-
+So gedruckt.`,
+    english: `[Page 370 -- Poppo von Osterna's death (continued); Hanno von Sangerhausen, the 7th Grand Master]
+
+[Poppo's death, continued] ...the chronicle states that he was slain there and was honorably buried by the Preaching Friars [Dominicans]... it does not at all match up with [the account that he] lived [longer]. So one presumes... he also died abroad later on account of illness [Hares halben = perhaps 'Alter' or illness]... [the person] died afterward.
+
+[Header] Hanno von Sangerhausen the VII. Grand Master of the Teutonic Order.
+
+[Woodcut portrait: Hanno von Sangerhausen depicted in full armor standing between two ornamental Renaissance columns, holding a sword and shield.]
+
+[Origins] Hanno, some [say] Anno or Hans von Sangerhausen -- what particular family [Geschlechtes] he belonged to is not found in the Prussian Chronicles, but in Petrus Albinus's Meissen Chronicle it is easy to discern. For there he writes about the Dukes of Brunswick [Braunschweig], how they divided themselves into various lordships, and that Frederick the Severe [Fridericus der Gestrenge, i.e., Frederick of Meissen] purchased the town and district [Ampt] of Sangerhausen from Duke Magnus of Brunswick after the Duke of Mecklenburg had defeated him.
+
+[Coat of arms] Also, the Sangerhausen lordship's coat of arms [Wappen] should be three running lions, one above the other, on a red shield -- or three rampant [lions], two side by side above and only one below. In the earlier booklet about the Order, etc., the coat of arms is correctly printed.`,
+  },
+  "p388": {
+    original: `So gedenckt M. Heinricus Bünting in seine
+gischen Cronicken / Hertzog Magnussen zu Sauge=
+dieser sich nicht einen Hertzogen geschrieben
+breuchlich gewesen / vnd haben sich ande
+Lande Brüder genent / vnd hat ein g
+doch hat man sie am Wappen oder Sch
+no von Sangerhausen / solches rechtes
+Sangerhausen geführt / welches er als
+than hette / wo er nicht des Geschlechts
+
+Dieser Hoemeister war auch zuuohren in Lislande Hermeis
+ster gewesen / vnd sehr wol vnd löblich regiret / wie er denn auch sol=
+ches im Hoemeister Ampt thet / vnd namen bey seinen zeitten diese
+Lande sehr zu / denn er war ein sehr weiser Sinnreicher Man vnd
+herrliche person.
+Bey seinen zeiten starb Schwantipol der Po=
+merelischer Fürst / welcher zuuohren seine Söne gar hart vermahnet /
+das sie mit dem Orden Frieden halten solten / denn er hette 11. Jahr
+lang mit grosser macht vnd Hinterlist mit jhnen gekriget / hette jnen
+nichts anhaben können / sondern hett alleziet abgenommen / daran
+er gespüret / das Gott mit jhnen müsse sein / darumb solten sie mit
+dem Orden zu frieden sein. Aber Mestowin der Elteste vergas
+seines Vattern lehre / fieng Krieg mit jhnen an / aber er musste baldt
+ablassen / mit grossem schaden.
+
+Als er 12. Jahr löblich regiret hatte / ist er in Deutschlande
+gestorben. Etzliche sagen zu Trier / als Ranis / Müsselts Chro:
+Daubmans. Etzliche wollen zu Marpurg / IX. Idus Iulij sagt
+Jeroschin.
+
+Dieser Hoemeister Graff Hardman von
+Heldrungen / war gar ein fromer vnd Gottesfürchtiger Man thet
+seinem Orden viel guttes / hielte haus zu Venedig / doch war er auch
+viel in Deutschen Landen / Volck auff zubringen / wider die Feinde
+Christliches namens.
+Als anno 1279. der Hoemeister zu
+Marpurg in Hessen war / kam jhm zeitung wie der Meister in Liff=
+lande Ernst von Raschburg mit 71. Brüdern erschlagen were worden /
+nebsnst vielem Adel vnd gutten Leuten.
+So kam auch zeitung
+das der Landmeister in Preussen Conrade von Tyrenberg der alte
+auch mit todt were abgangen.
+Derhalben hielte er Capittel / vnd
+vmb mehrer sterck willen beschlossen sie / in beiden Landen nur einen
+Landtmeister zuhaben / vnd weil auch von beiden orten Gesandten
+waren / vnd zugleich vmb Conrade von Feuchtwangen baten / ward
+er jhnen gegeben / beide Lender zu regiren.
+
+Der Hoemeister lies anno 1281. den Zanther abbrechen /
+vnd Margenburg draus bawen. Zog vber Meer gen Ackers /
+visitirte also seinen Orden / als er wider gen Venedig kam / vnd acht`,
+    english: `[Page 371 -- Hanno von Sangerhausen continued; Hartmann von Heldrungen, the 8th Grand Master]
+
+[Sangerhausen coat of arms, continued] M. Heinrich Bunting [the chronicler] mentions in his chronicles that Duke Magnus of Sangerhausen... did not style himself a Duke, as was customary, and they called themselves 'Brothers of the Land'... yet by their coat of arms or shield, [Hanno] von Sangerhausen carried this same rightful [arms] of Sangerhausen, which he would [not] have done had he not been of that family.
+
+[Hanno as Hermeister in Livonia] This Grand Master had previously been Hermeister [Master] in Livonia and had governed very well and laudably, as he also did in the Grand Master's office. Under his rule these lands [Prussia/Livonia] grew greatly, for he was a very wise, ingenious man and an excellent person.
+
+[Death of Swantopolk] During his time, Swantopolk [Swietopelk II], the Pomeranian Prince, died, who had previously admonished his sons very earnestly to keep peace with the Order. For he had warred against them for 11 years with great power and cunning, and had been unable to harm them; rather, he had always lost ground. From this he had perceived that God must be with them, and therefore they should be at peace with the Order. But Mestwin [Mszczuj], the eldest, forgot his father's teaching, began war with them -- but had to desist quickly, with great losses.
+
+[Death of Hanno] After ruling laudably for 12 years, he died in Germany. Some say at Trier, as Ranis and Musselt's Chronicle and Daubman's [state]. Some say at Marburg. IX Idus Julii [July 7th], says Jeroschin [the chronicler Peter von Dusburg/Nicolaus von Jeroschin].
+
+[Hartmann von Heldrungen -- 8th Grand Master] This Grand Master, Count Hartmann von Heldrungen, was a very pious and God-fearing man. He did much good for his Order, kept house [i.e., had his seat] at Venice, yet was also often in German lands to raise troops against the enemies of the Christian faith.
+
+[Year 1279 -- Bad news] In 1279, when the Grand Master was at Marburg in Hesse, news came to him that the Master in Livonia, Ernst von Raschburg [Ratzeburg], had been slain along with 71 Brothers [at the Battle of Aizkraukle, 1279], together with many nobles and good men. News also came that the Landmeister in Prussia, Conrad von Tyrenberg [Thierberg] the elder, had also died.
+
+[Unification of command] Therefore he held a Chapter [Capittel] and, for the sake of greater strength, they resolved to have only one Provincial Master for both lands [Prussia and Livonia]. And since envoys from both regions were present and together requested Conrad von Feuchtwangen, he was given to them to govern both lands.
+
+[Marienburg founded] The Grand Master had the Zantir [an older fortress] demolished in 1281 and Marienburg [Malbork, the future great castle of the Order] built from it. He traveled overseas to Acre, inspected his Order, and when he returned to Venice, after eight [years]...`,
+  },
+  "p389": {
+    original: `Graff von Heldrungen der VIII.
+Hoemeister anno 1275. erwelet.
+
+[Woodcut portrait of Hartmann von Heldrungen in armor standing between ornamental columns, holding a sword and shield]
+
+Jahr regieret hatte / ist er im Augusto / auff S. Bernhardts abent
+gestorben zu Venedig / vnd leit alda begraben.
+Doch schreibet
+Gerstenberger wider die andern alle / er hab 12. Jahr regiret / sey zu
+Nürnberg gestorben / vnd zu Marienbu. begraben / das denn nicht
+sein kan.
+
+Dieser Hoemeister Burckhart von Schwande
+sol ein weiser vnd kluger Herr gewesen sein / anno 1283. erwelet. Hat
+das Ampt 7. Jahr gehalten / etzliche sagen in das achte. Bald im
+anfang seiner Regierung wurden die Preussen / mit denen der Ord=
+den schon 53. Jahrlang gekrieget hatte / gedempfft vnd bezwungen.
+Da fieng sich der Krieg mit den Littawen an.
+Er sol in seinem
+fünfften Jahr ein gros Capittel zum Elbingen gehalten haben / Ist
+darnach wider nach Venedig gezogen / vnd alda 40. Deutscher Brü=
+der / vnd sehr viel guttes Volcks mit sich vber das Meer gen Ackers go=
+nomen / da er denn sehr willkom vnd mit einer Process / auch herrli=
+chem Schmuck empfang an / angenomen vnd eingeholet ist worden / denn
+sie hofften /`,
+    english: `[Page 372 -- Hartmann von Heldrungen continued; Burchard von Schwanden, the 9th Grand Master]
+
+[Header] Count von Heldrungen the VIII. Grand Master, elected in 1275.
+
+[Woodcut portrait: Hartmann von Heldrungen depicted in full armor standing between two ornamental Renaissance columns, holding a sword and shield.]
+
+[Death of Hartmann] After he had ruled [8] years, he died in August, on St. Bernard's eve [August 19th], at Venice, and lies buried there. However, Gerstenberger [a chronicler] writes contrary to all others that he ruled 12 years, died at Nuremberg, and was buried at Marienburg -- which cannot be true.
+
+[Burchard von Schwanden -- 9th Grand Master] This Grand Master Burchard von Schwanden [Schwanden in Switzerland] was said to be a wise and clever lord, elected in 1283. He held the office for 7 years, some say into the eighth.
+
+[Prussians finally subdued] Soon at the beginning of his rule, the Prussians -- with whom the Order had been at war for 53 years -- were suppressed and subjugated. Then the war with the Lithuanians began.
+
+[Chapter at Elbing] In his fifth year he is said to have held a great Chapter [Capittel] at Elbing [Elblag].
+
+[Journey to Acre] Afterward he traveled back to Venice and took 40 German Brothers and a great many good soldiers with him across the sea to Acre [Akkon]. There he was very warmly received, with a procession [Process] and splendid ceremony [herrlichem Schmuck], for they hoped...`,
+  },
+  "p390": {
+    original: `Der IX. Hoemeister / Burck=
+von Schwanden.
+
+[Woodcut portrait of Burchard von Schwanden in armor standing between ornamental columns, holding a sword and shield, marked C.F.]
+
+sie hofften / er würde jhnen mit seiner weisheit sehr behülfflich sein
+wider den Egyptische Soldan / mit dem sie damals viel zu thun hatten.
+Aber an dem dritten tage hielte er mit seinem Orden ein Capittel / le=
+get Ampt / Orden / vnd Habit ab / wider aller hoffnung / vnd ob jhn
+schon sein Orden nicht allein / sondern auch Fürsten vnd Herrn höch=
+lich darfür baten / er wolte es nicht thun / auch jhn die andere zwene
+Meister / des Joanniter vnd Templirer Ordens / auff die Knie fallent
+baten / Er wolte doch die gelegenheit vnd gresse vorfallende gefahr mit
+de Soldan ansehe / Aber es halff alles nicht / sondern zeucht gen
+Rodis / zum Joanniter Orden / 6. Jahrlang / letzlich begert er den Or=
+den widerumb / den man jhm abschlug / starb balde darnach zu Rodis /
+ist alda in der Johanniter Ordens Kirchen begraben / neb. n Jo=
+hannis Baptistæ Grab.
+
+Doch beschreibet Caspar Schütz die Historiam viel anders /
+nemlich / wie er eine Schlacht verlohren solte haben / vnd darumb
+gen Rodis gestossen / alda von vielen wunden gestorben / vnd be=
+graben sein worden.
+
+Der`,
+    english: `[Page 373 -- Burchard von Schwanden, the 9th Grand Master (continued)]
+
+[Header] The IX. Grand Master, Burchard von Schwanden.
+
+[Woodcut portrait: Burchard von Schwanden depicted in full armor standing between two ornamental Renaissance columns, holding a sword and shield. The initials 'C.F.' appear on the image.]
+
+[Resignation at Acre] ...they hoped he would be very helpful to them with his wisdom against the Egyptian Sultan [Soldan], with whom they had much trouble at that time. But on the third day he held a Chapter [Capittel] with his Order, laid down his office [Ampt], Order, and habit [Habit] -- against all expectations. And although not only his own Order but also princes and lords urgently begged him not to do so, he would not relent. Even the other two Masters -- of the Hospitaller [Joanniter] and Templar [Templirer] Orders -- fell on their knees and begged him, asking him to consider the circumstances and the great impending danger from the Sultan. But nothing helped.
+
+[Retirement to Rhodes] Instead, he went to Rhodes [Rodis], to the Hospitaller Order, [and stayed] for 6 years. Finally he requested [readmission to] the [Teutonic] Order, which was refused. He died shortly afterward at Rhodes and is buried there in the Hospitallers' Order Church, beside the tomb of John the Baptist [Johannis Baptistae Grab].
+
+[Alternative account] However, Caspar Schutz [the Prussian chronicler] describes the history very differently -- namely, that he [Burchard] lost a battle, and therefore was driven to Rhodes, where he died of many wounds and was buried.`,
+  },
+  "p391": {
+    original: `ehende Hoemeister / Conrade von
+Feuchtwangen.
+
+[Woodcut portrait of Conrad von Feuchtwangen in armor standing between ornamental columns, holding a sword and shield]
+
+Dieser Hoemeister Conrad von Feuchtwangen /
+hat grosse Freundschafft in Teutschlandt gehabt / des hat der Orden
+auch viel genossen. In seinem andern Jahr ist die Stadt Ackers /
+vom Soldan Mulech aus Egypten belagert / mit 150000. gerü=
+sten Mennern / Merten Wintmüller saget 6. mal hundert tausent /
+vnd gewonnen worden / vnd der Orden vnd Christe / vmb alle güter im
+H. Lande komen. Hernacher als Keyser Adolphus von Nassaw / mit
+den Venedigern / Neapolitanern / vnd Engellendern zu thun hatte / vnd
+der Keyser alle jhre Heimligkeit erfuhr / gaben sie solches den Deut=
+schen Orden schuldt / muste derhalben der Orden bey Sonnenschein /
+Venedig ihr Heupthaus vbergeben / kamen auch vmb alle jhre güter /
+im Königreich Neapols vnd Engellandt.
+
+Darnach zog der Hoemeister in Preussen / blieb ein Jahr darin=
+nen / gab gutten rath / wie man den Feinden begegnen solte / zog dar=
+nach gen Prag in Böhmen / starb alda / ward zu Drogowis oder Drib=
+nitz / als er 7. Jar das Hoemeisterampt getragen hatte / begraben.`,
+    english: `[Page 374 -- Conrad von Feuchtwangen, the 10th Grand Master]
+
+[Header] The tenth Grand Master, Conrad von Feuchtwangen.
+
+[Woodcut portrait: Conrad von Feuchtwangen depicted in full armor standing between two ornamental Renaissance columns, holding a sword and shield bearing the Teutonic cross.]
+
+[Friendships in Germany] This Grand Master Conrad von Feuchtwangen had great connections [Freundschafft] in Germany, from which the Order also benefited greatly.
+
+[Fall of Acre, 1291] In his second year, the city of Acre [Ackers] was besieged by Sultan al-Ashraf Khalil [Soldan Mulech] from Egypt with 150,000 armed men -- Merten Wintmuller says 600,000 [6 mal hundert tausent] -- and was conquered. The Order and the Christians lost all their possessions in the Holy Land.
+
+[Loss of Venice] Afterward, when Emperor Adolf of Nassau [Adolphus von Nassaw] had dealings with the Venetians, Neapolitans, and English, and the Emperor learned all their secrets, they blamed the Teutonic Order. Therefore, by broad daylight [bey Sonnenschein], the Order had to surrender its headquarters [Heupthaus] in Venice. They also lost all their properties in the Kingdom of Naples and England.
+
+[Move to Prussia and death] Then the Grand Master moved to Prussia, stayed there for one year, gave good counsel on how to meet the enemies, then traveled to Prague in Bohemia, died there, and was buried at Drogowis or Dribnitz [possibly Droboviz/Tropovice], after he had held the Grand Mastership for 7 years.`,
+  },
+  "p392": {
+    original: `Von der Belagerung vnnd zerstörung
+der schönen Stadt Ptolemais / A
+Deutsch Ackers genande /
+meilen vber Jerusa=
+lem gelegen.
+
+Bey zeiten des Bapsts Nicola III. Als
+Adolphus von Nassaw zum Keyser erwehlet worden / vnd Albertus
+von Osterreich / auch Keyser sein wolte / da Herr Identity von
+Feuchtwangen Deutschen Ordens Hoemeister war / hatte der Sol=
+dan aus Babylonia / Jerusalem / vnd das gantze Heilige Lande
+in seiner gewalt / ohne allein die Stadt Ackers / neben etlich wen
+Stedten / welchede Christen noch innen hatten / darinnen denn waren
+der König vnd Patriarch von Jerusalem / der Hoemeister des
+Ordens vom Tempel / der Hoemeister von S. Johannes Orden /
+vnd der Hoemeister Deutsches Ordens / mit sonst vielen Fürsten vnd
+Herrn / so aus Jerusalem / vnd dem Heiligen Lande vertrieben wor=
+den / welche die Stadt zubewaren / vnd vor den Heyden zu erhalten /
+bedacht waren.
+
+Diese Stadt war mit einer herrlichen / vnd von lautter geha=
+wenen Werckstücken geführten Mauren vmbgeben / darauff ein
+Thurm nach dem andern / eines Steinwurffs von einander / vnnd
+zwischen zwen Thürmen eine Pforten gebawet war.
+Die Maur vmb die Stadt war so dicke / das man einen Wa=
+gen darauff vmb̃wenden mochte / lag von einer seitten am Meer /
+gleich wie Colten am Rein / an der andern seitten war sie noch viel
+fester / vnd mit Zinnen schr wol gezieret.
+
+Auch so waren viel schöne breite / vnd gantz reine Gassen darin /
+deren die meiste theil oben mit Gewande oder Lacken / nach eines je=
+den vermügen / vor der Sonnen hitze / wol bedecket war. An alle en=
+den oder orten der gassen / stunde ein Thurm mit eisernen Pforten /
+alle Heuser waren des meisten theils gleiche hoch / vnd oben schlecht
+vnd eben / gleich der Mauren / darauff waren schöne Gärten / von
+Rosen / vnd andern wolriechenden Kreuttern / Grasbencken artlich
+zugerichtet / das Wasser war künstlich / durch mancherley Wasser=
+röhren hinauff geleitet / die Heuser alle mit gehawenen Steinen durch=
+mauret schöne Glasfenster nach aller lust / als immer jemandt hette
+aus visiren / oder erdencken mögen / nach jhrer weis.
+
+Sowoneten in der Stadt alle Fürsten vnd Herrn / auff schönen /
+grossen wolbefesten Burgen vnd Pallastèn / neben andern Hertzogen /
+Graffen / Freyherrn / Rittern / vn reichen Bürgern / so den Heyden jhr
+Lande vnd gut abgewonnen / welche auch alda woneten / vnd jhre
+Heuptheuser alda hetten / Vnd waren die fürnembsten Herrn diese.
+
+Der`,
+    english: `[Page 375 -- The Siege and Destruction of Acre (Ptolemais)]
+
+[Title] On the Siege and Destruction of the Beautiful City of Ptolemais, in German called Acre [Ackers], [situated several] miles from Jerusalem.
+
+[Historical context] In the time of Pope Nicholas III [actually Nicholas IV at the time of the fall of Acre in 1291], when Adolf of Nassau [Adolphus von Nassaw] had been elected Emperor, and Albrecht of Austria also wanted to be Emperor -- when Lord [Conrad] von Feuchtwangen was Grand Master of the Teutonic Order -- the Sultan from Babylon [Cairo/Egypt] held Jerusalem and the entire Holy Land in his power, except only the city of Acre, along with a few other towns that the Christians still held. Therein were the King and Patriarch of Jerusalem, the Grand Master of the Order of the Temple [Templars], the Grand Master of the Order of St. John [Hospitallers], and the Grand Master of the Teutonic Order, along with many princes and lords who had been expelled from Jerusalem and the Holy Land, who were intent on defending the city and holding it against the heathens [Heyden].
+
+[Description of Acre's fortifications] This city was surrounded by a magnificent wall built entirely of hewn stone blocks [Werckstucken], with one tower after another, a stone's throw apart [eines Steinwurffs von einander], and between every two towers a gate [Pforten] was built.
+
+The wall around the city was so thick that one could turn a wagon [Wagen] upon it. On one side it lay along the sea, like Cologne [Colten/Koln] on the Rhine; on the other side it was even more strongly fortified and very well adorned with battlements [Zinnen].
+
+[Streets and buildings] There were also many beautiful, broad, and very clean streets [Gassen] therein, most of which were covered above with cloth or canvas [Gewande oder Lacken], according to each person's means, as protection from the sun's heat. At every end or corner of the streets stood a tower with iron gates. All houses were for the most part of equal height, with flat roofs -- level as the walls -- upon which were beautiful gardens of roses and other fragrant herbs [Kreuttern], with turf benches artfully arranged. Water was skillfully channeled up through various water pipes [Wasserrohren]. The houses were all built through with hewn stone, with beautiful glass windows, as fine as anyone could devise or imagine, in their fashion.
+
+[Residents] In the city dwelt all [manner of] princes and lords in beautiful, large, well-fortified castles and palaces, alongside dukes, counts, barons, knights, and wealthy citizens who had won their lands and goods from the heathens. They also dwelt there and had their headquarters [Heuptheuser] there. And the most prominent lords were these.`,
+  },
+  "p393": {
+    original: `arch von Jerusalem / der König von Hierusalem /
+in Franckreich Bruder / der Fürst von Galilea /
+der Hertzog von Casarien / der Graff von
+pola / der Edle Herr von Ener / der
+er von Sagetten / der Herr von Jblin /
+Fürst von Deus war aus Indien dahin
+anders weges zuwonen. Alle diese jetzt vnd
+obgenandte n vnd Herrn / ritten sehr köstlich / mit Seiden vnd
+Gülden Still gekleidet / mit Goldt vnd Silber / vberaus gezieret /
+jeglicher mit seinen Rittern vnd Soldnern / wie sie auff das aller
+lustigste vnd reichligste möchten / einer für dem andern / nach Königs=
+licher manier / vnd alles was zur Ritterschafft gehöret / als Thur=
+nieren / Rennen / Stechen vnd Jagen / vnd was mehr solcher handt=
+tierung / trieben sie alletage.
+
+So kamen auch dahin viel Fürsten vnd Herrn / aus allen
+Landen / die Stadt zubesehen / verschreten alle jhr Gutt / vnd ein
+jeglicher Herr der da wonet / hatte vor seinem Pallast oder Burg /
+eine sonderliche freiheit / die beschlossen war.
+
+Insonderheit / so hetten diese grosse Herrn jhre Heuptheuser in
+der Stadt Ackers / mit schönen Gottesheusern / vnd starcken Palläste
+gezieret / Der Hoemeister des Ordens vom Tempel von Jerusalem /
+war alda / mehr denn mit 3000. Herrn vnd Soldnern.
+Der Hoe=
+meister von S. Johannes Orden / von Jerusalem / mit 1000. Herrn
+vnnd Soldnern / der Hoemeister Deutsches Ordens / vnser lieben
+Frawen von Jerusalem / mehr denn mit 3000. Herrn vnd Sold=
+nern / die sie aus Deutschlandt / Preussen vnd Lifflandt hingeschickt
+hatten. Der Meister von S. Lazarus Orden / von Jerusalem /
+mit 1000. Herrn vnd Söldnern. Der Meister von S. Thomas /
+von Canttelbergs Orden / mit 5000. Soldnern / welche der
+König von Engelland geschickt hatte / ohne das ander Volck / welches
+noch teglich aus allen orten der Welt / jhnen zuhülffe kam / den
+Soldan zu bestreitten.
+
+Auch so woneten in dieser Stadt sehr reiche Kauffleut / aus al=
+len Landen / von allerley Nationen / dahin denn alle tage / Fürsten
+vnd Herrn / Pilgram vnd frembde Kauffleute / aus allen orten der
+Welt / vmb Kauffmanschafft willen kamen / auch waren alda aller=
+ley seltzame Wunder / so irgent in der Welt / von Bestien / Büche /
+Thieren / vnd von allen Künstlern mochten gefunden werden.
+
+Es waren auch sehr reiche Bürger darinnen / die sich in allen
+dingen viel köstlicher hielten / denn die Römer / auch wonete alda die Ed=
+len Longobarden / Bürger von Pisa / von Genua / die sich auch sehr prech=
+tig / einer vor dem andern hielten / einer wolle allzeit besser sein das
+der ander / vnd sie waren mechtiger in der Stadt / denn alle die
+Herrn / die hieotz geschrieben stehen.
+
+Vnd aus`,
+    english: `[Page 376 -- The great lords and military orders at Acre; wealthy merchants]
+
+[Lords at Acre] ...the Patriarch of Jerusalem, the King of Jerusalem [actually Henry II of Cyprus, titular King of Jerusalem], the brother [of the King] of France, the Prince of Galilee, the Duke of Caesarea [Casarien], the Count of [Tri]poli, the noble Lord of Ener [Ibelin?], the Lord of Sagette [Sidon/Saida], the Lord of Ibelin [Jblin/Jaffa], the Prince of Deus [?] was from India and had come there to dwell. All these aforementioned [princes] and lords rode very splendidly, dressed in silk and golden brocade [Gulden Still], adorned extravagantly with gold and silver, each with his knights and soldiers, as magnificently and richly as possible, one before the other, in kingly manner. And everything that belongs to knighthood -- tournaments [Thurnieren], jousting [Rennen], tilting [Stechen], and hunting [Jagen] -- and other such pastimes they practiced every day.
+
+[Visiting nobles] Also, many princes and lords from all lands came to see the city, spending all their wealth. And every lord who dwelt there had before his palace or castle a special liberty [freiheit, a privileged zone] that was enclosed.
+
+[Military Orders' headquarters and forces] In particular, these great lords had their headquarters [Heuptheuser] in the city of Acre, adorned with beautiful churches and strong palaces.
+
+- The Grand Master of the Order of the Temple [Templars] of Jerusalem was there with more than 3,000 lords and soldiers.
+- The Grand Master of the Order of St. John [Hospitallers] of Jerusalem, with 1,000 lords and soldiers.
+- The Grand Master of the Teutonic Order, of Our Blessed Lady of Jerusalem, with more than 3,000 lords and soldiers whom they had sent from Germany, Prussia, and Livonia.
+- The Master of the Order of St. Lazarus of Jerusalem, with 1,000 lords and soldiers.
+- The Master of St. Thomas of Canterbury's Order [the English Order of St. Thomas of Acre], with 5,000 soldiers whom the King of England had sent.
+
+Besides all the other troops who came daily from all parts of the world to their aid, to fight the Sultan.
+
+[Wealthy merchants] Also dwelling in this city were very wealthy merchants [Kauffleut] from all lands and all nations. Every day princes and lords, pilgrims and foreign merchants came from all parts of the world for trade. There were also all manner of strange wonders [seltzame Wunder] -- whatever could be found in the world, of beasts, books, animals, and from all artisans.
+
+[Wealthy citizens] There were also very rich citizens therein who in all things lived more splendidly than the Romans. Also dwelling there were the noble Lombards [Longobarden], citizens of Pisa and of Genoa, who also held themselves very magnificently, each before the other, each wanting always to be better than the other. And they were more powerful in the city than all the lords written about above.
+
+And from [this wealth and pride...]`,
+  },
+  "p394": {
+    original: `Vnd aus solchem stoltz vnd hochmut / wurden
+parteyisch / vnd geriethen in grossen zwist / derdurch
+der schöne mechtige Stadt verloren / vnd von
+worden / Denn in solchem hochmut vnd
+parteien in Longobardia / zwischen den
+denen von Pisa vnd Genua / derer ein
+wolte denn der ander. Dadurch letztlich
+de mit dem Soldan gebrochen worden.
+
+Welches / das es Bapst Nicolaus IIII. vernaw e / müchte
+jhn solches sehe / wegen des Heiligen Landes / schickete derwegen
+gen Ackers zwölff Tausent Soldener / Welche als sie dahin kamen /
+nicht viel gutes stiffteten / denn es von allerley losem Gesinde / ein
+zu hauffgesamletes Volck war / welche nichts anders theten / denn in
+den Tabernen doppelten / spielten vnd soffen / vnd das Volck / als
+Pilgram vnd Kauffleute / auff der strassen beraubeten.
+
+Zu der zeit war Soldan / Mulech Sapherapes / ein weiser
+Man / dieser / als er vermerckte / das jhn niemandt mehr wider=
+standt thet / vmb der parthey vnd zwietracht willen / so in der Stadt
+war / vnd das die Christen / den mit jhme auffgerichteten frieden nicht
+hielten / auch jhn noch darzu verachteten / da beruffet er zu sich aus
+allen seinen Landen / aus Egipten / Babylonien / Alexandria / Si=
+rien / etc. Die klügesten vnd erfahrnesten / jhnen klagende / wie die
+Christen zu Ackers / den mit jhm gemachten frieden gebrochen / da
+denn geschlossen worden / ein solches an jhnen zu rechen / vnd son=
+derlich an der Stadt Ackers / daraus der gröste schade geschach.
+
+Derwegen er mit grosser macht vnd Heeres krafft / vor die Stadt
+zöge / verderbete vnd verwüstete alle Wein vnd Baumgärten / das
+doch die in der Stadt nichts achteten / denn eine parthey die ander
+muthwillig verderben / vnd zu nichte machen lies.
+
+Die Meister vom Tempel Orden / war ein frommer vorsich=
+tiger Man / hatte sonderliche Freundschafft mit dem Soldan / wardt
+ausgeschickt zu dem Soldan / vmb gnade / des friedens halben so ge=
+brochen / zu bitten / vnd theidigst mit anderer freunde hülffe / bey dem
+Soldan / das jeglicher binnen Ackers / solte geben einen Venedischer /
+damit solte der friede widerumb gemacht / vnd auffgerichtet sein.
+
+Als nun der Meister vom Tempel Orden / solchen frieden
+erworben hette / kam er frölich wider in die Stadt / all das Volck
+in des Heiligen Creutzes Kirchen beruffende / vnd jhnen vermeld=
+dente / wie starck vnd mechtig der Soldan von Volck were / vnd wie
+grossen schaden er der Stadt zufügen kundte / danebenst jhnen auch
+vorhaltende / wie sie dem Soldan den friede ohne vrsach gebrochen /
+vnd mit was grosser mühe / vnd gutter freunde hülffe / er den wider
+zu wegen gebracht hette / vnd mit jhm a so verretragen were / das ein`,
+    english: `[Page 377 -- Pride and division at Acre; the Sultan's response; the Templar Master's peace mission]
+
+[Pride causes the fall] And from such pride and arrogance [stoltz vnd hochmut], they became partisan and fell into great strife, through which the beautiful, mighty city was lost... For in such arrogance, the factions [parteien] in Lombardy -- between those of Pisa and Genua -- each wanted to be [greater] than the other. Through this, eventually the [peace] with the Sultan was broken.
+
+[Pope Nicholas IV sends troops] When Pope Nicholas IV [Nicolaus IIII] learned of this, he was greatly concerned for the Holy Land's sake. Therefore he sent 12,000 soldiers [Soldener] to Acre. But when they arrived, they did nothing good, for they were a rabble [Gesinde] gathered from all sorts of low folk, who did nothing but gamble [doppelten] in the taverns [Tabernen], drink, and rob the people -- pilgrims and merchants -- on the streets.
+
+[Sultan al-Ashraf Khalil] At that time the Sultan was Mulech Sapherapes [al-Ashraf Khalil ibn Qalawun], a wise man. When he perceived that no one resisted him anymore, because of the factions and discord in the city, and that the Christians did not keep the peace made with him, and even despised him, he summoned from all his lands -- from Egypt, Babylon [Cairo], Alexandria, Syria, etc. -- the wisest and most experienced [counselors], complaining to them how the Christians at Acre had broken the peace made with him. It was then resolved to take revenge on them, and especially on the city of Acre, from which the greatest harm had come.
+
+[Siege begins] Therefore he marched with great power and military force before the city, destroyed and laid waste all the vineyards and orchards [Wein vnd Baumgarten]. Yet those in the city paid no heed, for one faction let the other be willfully ruined and brought to nothing.
+
+[Templar Master's peace mission] The Master of the Temple Order was a pious and prudent man [frommer vorsichtiger Man]. He had a special friendship with the Sultan and was sent to the Sultan to beg for mercy regarding the broken peace, and negotiated with the help of other friends. [The terms were] that everyone within Acre should give one Venetian [gold coin], and thereby the peace would be restored and reestablished.
+
+[The Templar Master's report] When the Master of the Temple Order had obtained such a peace, he returned joyfully to the city, summoned all the people to the Church of the Holy Cross, and informed them how strong and mighty the Sultan was in troops, and how great the damage he could inflict on the city. He also reminded them how they had broken the peace with the Sultan without cause, and with what great effort and good friends' help he had brought it about again, and had negotiated with him [the Sultan] that each [person should pay]...`,
+  },
+  "p395": {
+    original: `er Stadt Ackers / solte dem Soldan einen Vene=
+jme vnkosten / vnd damit solte der gantze haus
+er Stab wider auffgerichtet sein.
+
+Volck solches hörete / schrien sie alle
+hen / vnd stunde der Meister in sol=
+vndere grob were erschlagen worden.
+
+Di antwortt / thet der Tempel Meister dem Soldan
+widerumb / nemb en / der belager halbe die Stadt darauff / vnnd
+thet darauff aussen bren / schützig bleiben / vnd sonsten auch viel
+grosser Werck / vnd lies die Stadt viertzig Tage vnnd viertzig
+Nacht lang Stürmen / mit Steinen / mit Geschütz / mit Fewer /
+auff mancherley manier / vnnd es war ein Ritter in der Stadt /
+auff einem Thurn / der wolte mit einen Wurff Spies vnter die
+Heyden schiessen / aber der Spies warde jhme in der Handt zu
+stücken geschossen / ehe er jhn von sich brachte / vnnd hatte / wie
+man daruon redet / damals der Soldan in seinem Heer vber sechs
+hundert Tausent Man von Heyden.
+
+Diese sechs hundert Tausent Man / theileten sich in drey
+theil / also / das auff ein mal hundert Tausent Mann die Stadt
+sturmeten / vnnd wenn die müde waren / so giengen die andern
+hundert Tausent zu Wercke. Vnnd zwo hundert Tausent Mann
+waren vor der Pforten / ob jemandt hinaus kommen wolte / die
+Heyden zubestreitten / aber die ander zwey hundert Tausent Man
+wären bey den Gezelten geblieben.
+
+Vnd waren binnen der zeit solcher Belagerung / die Pforten
+zu der Stadt nicht geschlossen / vnnd alle tage zog der Meistre von dem Tem=
+pel / der Meister von Sanct Johannes Orden / der Meister von dem
+Deutschen Orden / der Meister von Sanct Lazari Orden / vnd
+der Meister von Saint Thomas Orden / auch die Reutter so von
+des Bapsts wegen da waren / desgleichen der König von Jeru=
+salem / aus der Stadt / stritten wider die Heyden / vnd schlu=
+gen jhnen offt viel Volcks ab / also / das sie mehrmals mit gros=
+sem Sieg vnd freude widerkamen / aber das geschahe / ehe die Hey=
+den begundten zu sturmen / vnnd ehe sie so nahe vor die Stadt
+kamen.
+
+Die Bürger aber / welche so mechtig in der Stadt waren /
+theten nicht viel darzu / sondern ein jeglicher verwachte seine Stras=
+se ist vnnd starck / gedenckende dieselbige zuerhalten / eine jeg=
+liche Gasse ward beschlossen / mit Thürmen vnnd Eisernen Pfor=
+ten / vnnd es einer Parthen waren / die hielten es mit einander /
+acht nichts achtende / das jhres gegenparts Strassen / Wohnunge oder
+Pallast verderbet wurden.`,
+    english: `[Page 378 -- The siege of Acre intensifies; the Sultan's 600,000 troops; daily sorties]
+
+[The people reject peace] ...every [citizen] of the city of Acre should [pay] the Sultan one Venetian [gold coin] for his expenses, and thereby the whole government [haus] of the city would be restored. [But] when the people heard this, they all cried out... and the Master [of the Temple] stood in such [danger]... [he] would have been killed.
+
+[The Sultan's response] Then the Temple Master sent answer back to the Sultan... [The Sultan] thereupon besieged the city, and had it burned from outside, kept up shooting [schutzig], and also [did] much other great works [of siege warfare]. And he had the city stormed for forty days and forty nights [viertzig Tage vnnd viertzig Nacht] with stones, artillery [Geschutz], fire, in every manner.
+
+[A knight's lance shattered] And there was a knight in the city, on a tower, who wanted to hurl a javelin [Wurff Spies] at the heathens, but the spear was shattered in his hand before he could release it.
+
+[Size of the Sultan's army] And as people report, the Sultan had in his army over six hundred thousand [600,000] heathen men.
+
+[Organization of the assault] These 600,000 men divided themselves into three parts, so that at any one time 100,000 men stormed the city, and when they were tired, the next 100,000 went to work. And 200,000 men were before the gates, in case anyone should come out to fight the heathens, and the other 200,000 men remained by the tents [Gezelten].
+
+[Daily sorties from the city] During the time of the siege, the gates of the city were not closed. Every day the Master of the Temple, the Master of the Order of St. John, the Master of the Teutonic Order, the Master of the Order of St. Lazarus, and the Master of the Order of St. Thomas -- also the cavalry [Reutter] who were there on the Pope's behalf, and likewise the King of Jerusalem -- went out of the city, fought against the heathens, and often killed many of their troops, so that they returned many times with great victory and joy. But this happened before the heathens began their [full] assault and before they came so close to the city.
+
+[The citizens' inaction] But the citizens [Burger], who were so powerful in the city, did not do much about it. Rather, each one guarded his own street, strong and firm, thinking to defend only that. Every street was enclosed with towers and iron gates. Those who were of one faction held together, caring nothing that their opponents' streets, dwellings, or palaces were destroyed.`,
+  },
+  "p396": {
+    original: `Vnd als auff eine zeit der Soldan mit seinen
+neher an die Stads Maurer begunte zu machen /
+toi wolte / sagte der Landtmeister von Preu
+Compthur zu Ackers / zu dem Marsch
+zu allen Brüdern seines Ordens / o
+Deutsche Orden auff die zeit aldar be
+machtiger ewiger Gott vnd Vatter
+chen / vnd schöne mechtige Stadt / die
+abgewinnen lassen / ehe wollen wir bi
+setzen / Vnd zog also vor eine Pforten / da die Heyden hinein fallen wolten /
+schlug mit seinen hauffen darauff / trieb die Heyden aus den
+Pforten / folgete jhnen mit viel Volcks / einen ziemlichen Weg aus
+der Stadt / schlug auch der Heyden eine merckliche anzahl zu tod /
+neben zweyen des Soldans Heuptleuten / Aber die aus der Stadt /
+kamen jhnen langsam zuhülffe also / das die Heyden vnter des /
+dem Landtmeister aus Preussen / Mangoldt genanet / den Weg
+verrenneten / das er mit seinem Volcke die Pforten nicht wider=
+umb erlangen kundte.
+
+Da denn er mit sampt dem Gros Compthur von Ackers /
+dem Marschalck von Lifflandt / nebenst vierdhalb hundert Rit=
+tern vnd Knechten / vnd andern gutten Volck / so dem Orden
+zu dienste gekommen / vnnd von abgeschriebenen Deutschen Or=
+densherrren / dargebracht worden / ohne die andern / so vmb Ackers
+wonhafftig / vnd mit an die Feinde gezogen / allesampt erschla=
+gen / vnd also zu Marterern des Christlichen Glaubens ge=
+worden. Weren aber die aus der Stadt jhnen zu hülffe gekommen /
+so hetten sie mit hülffe Gottes des Allmechtigen / die Stadt wol
+errettet.
+
+Wie nun die Schlacht geschehen / wolte forthin niemands
+mehr aus der Stadt ziehen / mit dem Feinde zu streiten / in
+anschung / das keine Parthey der andern trawete. Vnd die
+Heyden streckten sich immerdar / das der Soldan
+endlich mit grosser macht / gahr an die Stadt kam / Stürmete
+sie auch mit gantzer Gewalt / blieben der Heyden auch viel Todt
+darüber / aber es halff alles nicht / denn ob schon der Heyden in die
+zehen Tausent erschlagen wurden / kamen doch wider zwantzig Tau=
+sent an die stett / Vnd were dennoch die Stadt durch keine gewalt /
+oder macht erobert worden / wo es nicht aus Gottes verhengnis
+vnnd Strasse geschehen were / wenn sie nur getreülich einander
+gescholssen hetten.
+
+Denn wenn die Heyden an die Stadt Stürmeten / vnnd
+scharmutzleten / so lies dieweil eine Partey der andern / jhr Haus
+vns Höff zerreissen / die ander part lies seines Widerpards strassen /
+welche ziemlich fest vnnd starck waren / mit willen einnemen / vnd ge=
+winnen / vnnd war ein jeglicher Bürger an seinem ort / vnd bey`,
+    english: `[Page 379 -- The Teutonic Landmeister Mangold's sortie and death; the city's doom]
+
+[The Landmeister's sortie] And when at a certain time the Sultan with his [forces] began to approach the city walls closer... the Landmeister [Provincial Master] from Prussia, [along with] the Komtur [Commander] of Acre, [spoke] to the Marshal, to all the Brothers of his Order, [and said]: '[May] the Teutonic Order at this time here... Almighty eternal God and Father... [this] beautiful mighty city... let [it] not be taken -- rather we shall... [fight to the death].' And so he rode out before a gate where the heathens wanted to break in, struck at them with his company, drove the heathens from the gate, pursued them with many soldiers a considerable distance from the city, and also slew a notable number of heathens, together with two of the Sultan's captains [Heuptleuten].
+
+[Cut off and slain] But those from the city came slowly to their aid, so that the heathens meanwhile cut off the Landmeister from Prussia -- named Mangold [Mangold von Sternberg] -- blocking the way so that he and his troops could not reach the gates again.
+
+Then he, together with the Gross-Komtur [Grand Commander] of Acre, the Marshal of Livonia, along with 350 [vierdhalb hundert] knights and soldiers, and other good people who had come to serve the Order -- brought there by the aforementioned Teutonic Order lords -- besides the others who lived around Acre and had marched out against the enemy: all were slain and thus became martyrs of the Christian faith [Marterern des Christlichen Glaubens]. Had those from the city come to their aid, they could have saved the city with the help of Almighty God.
+
+[No more sorties] After this battle had occurred, henceforth no one was willing to go out of the city to fight the enemy, since no faction trusted the other.
+
+[The Sultan's final assault] And the heathens kept pressing forward, until the Sultan finally came against the city with full force, storming it with all his power. Many heathens also fell dead, but it availed nothing. For even when 10,000 heathens were slain, 20,000 more came to take their place. And yet the city would not have been conquered by any force or power, had it not happened by God's dispensation [Gottes verhengnis] and punishment -- if only they had faithfully stood together.
+
+[Internal treachery] For when the heathens stormed and skirmished at the city, one faction meanwhile let the other's houses and courts be torn apart. The other faction let their opponents' streets -- which were quite strong and well-fortified -- be willingly taken and captured. And every citizen was at his own place and...`,
+  },
+  "p397": {
+    original: `Die auslaendischen Herrn vnd der Orden allein /
+sie theten das beste vnd meiste vor den Bürgern
+thr / von vielen Tausenden waren / denn diese
+vnd mechtigste Stadt / in der gantzen
+feste / vnnd seher vnüberwindlichen
+liche Parthen vnd zwitracht / sonder=
+lich er / d dahin gekommen / verloten / vnd
+in des Soldan ge arben.
+
+Vnd als nun die Heyden in die Stadt kamen / durchbrachen
+sie die Mauren / bey der Burg des Königs von Jerusalem / vnd
+ob wol die Bürger die Feinde vor augen sahen / noch wolte keine
+Parthey der andern zuhülffe kommen / vnd beystandt thun / son=
+dern ein jeglicher wehret sich an seinem ort vnd Strassen / vnd het=
+ten die Heyden viel mehr mühe vnd arbeit von binnen / die Stadt
+zugewinnen / denn sie draussen dafür gehabt hetten / so gar wun=
+der feste waren alle Strassen gebawet vnd verwaret.
+
+Da die Fürsten vnnd Herrn vermerckten / das die Stadt
+verlohren / vnd hetten es die Bürger so weit kommen lassen / das
+es nu mehr / dieselbige zuerhalten vnmüglich were / weil sie zum
+theil verbrandt / auch sonsten sehr verderbet wardt / zog der Kö=
+nig sampt dem Patriarchen von Jerusalem / nebenst einem der
+zeit alda wesenden Cardinal / mit sonst viel grossen Fürsten / Herren
+vnd Ritterschafft / welche alle aus frembden Landen / nur
+die wunderschöne Stadt zubesehen / dahin gekommen / viel Tausent
+starck / zu Schiffen in Cypern / eine Inselen / gegen Ackers vber
+gelegen.
+
+Derselbige König von Cypern / vnd der König von Sicilien /
+hetten des Königs von Jerusalem / zwen Töchter zur ehe / vnd als
+er starb / gebrauchten sich die zwene ein jeder des Tittels / König
+zu Jerusalem / bis auff den heutigen tag.
+
+Man liset auch / das erstlich vmb der Bürger bosheit wil=
+len / die Lufft gantz nebelicht vnd finster geworden / also / wenn eines
+Bürgers Pallast in einer Strassen zu brennen anhub / man es in
+der nechsten Strassen nicht sehen kundte / vnd wardt ein jemmer=
+liches würgen / vnd erst wolten sich die Bürger nebenst jhrem wi=
+derparth / gerne gewehret haben / aber es war zu lange geharret /
+denn sie nicht zusammen funden / vber das so krieget auch das
+Fewr mit jhnen / das jhrer viel mit all dem jhrigen verbraudten /
+Desgleichen auch die Erde / welche jhr Bludt tranck / vnd auch
+das Waffer / welches / wiewol es damals im Meymonat war / da
+es gemeiniglich gahr stille zu sein pfleget / dennoch so vngestüm ge=
+wesen / das kein Schiff auff dem Meer segeln fundte / doch flohe
+das Volck mit grossen hauffen in die Schiffe / also / das vber hundert
+Tausent Menschen in Cypern entkamen.
+
+Es waren`,
+    english: `[Page 380 -- The fall of Acre: foreign lords fight alone; the city breached; flight to Cyprus]
+
+[Foreign lords fight alone] The foreign lords and the Order alone -- they did the best and most [fighting] before the citizens... of many thousands [defenders]. For this, the [greatest] and mightiest city in the whole [world], [the most] fortified and nearly impregnable [vnuberwindlichen], [was lost] through factions and discord [Parthen vnd zwitracht]... [those who] had come there... lost [everything], and [fell] into the Sultan's [power].
+
+[The walls breached] And when the heathens entered the city, they broke through the walls near the castle [Burg] of the King of Jerusalem. And although the citizens saw the enemies before their eyes, still no faction was willing to come to the other's aid or give assistance. Rather, each one defended himself at his own place and street. And the heathens had far more trouble and labor conquering the city from within than they had had from without -- so wonderfully fortified were all the streets built and guarded.
+
+[The lords flee to Cyprus] When the princes and lords perceived that the city was lost, and the citizens had let it come so far that it was now impossible to hold it -- since it was partly burned and otherwise severely damaged -- the King, together with the Patriarch of Jerusalem, a Cardinal who was present at the time, along with many great princes, lords, and knights who had all come from foreign lands only to see the wonderfully beautiful city -- [numbering] many thousands strong -- [sailed away] by ship to Cyprus [Cypern], an island situated opposite Acre.
+
+[Kings of Cyprus and Sicily] The same King of Cyprus and the King of Sicily had married the two daughters of the King of Jerusalem. And when he [the King of Jerusalem] died, the two each assumed the title 'King of Jerusalem,' [which they used] until the present day. [The title 'King of Jerusalem' was claimed by both the Lusignan kings of Cyprus and the Angevin kings of Sicily/Naples.]
+
+[Divine portents] One reads also that at first, because of the citizens' wickedness, the air became completely foggy and dark, so that when one citizen's palace in one street caught fire, it could not be seen from the next street. And there was a terrible slaughter [jemmerliches wurgen]. And only then did the citizens, alongside their opponents, want to defend themselves -- but they had waited too long, for they could not find each other [in the smoke and confusion]. Moreover, the fire also fought against them, so that many were burned along with all their [possessions].
+
+Likewise the earth, which drank their blood, and also the water -- which, although it was May [Meymonat], when it is usually very calm -- was nonetheless so turbulent that no ship could sail on the sea. Yet the people fled in great throngs to the ships, so that over 100,000 people escaped to Cyprus.`,
+  },
+  "p398": {
+    original: `Es waren sehr viel Edler Jungfrawen / vnd
+mit jhren Töchtern / welche am Vfer des Meeres /
+berntz vnd güldene Kleinodien im Schoß
+fürüber fahrenden Schiffleuten zuschrie
+haben / vnd eine vnter jhnen welche jhr
+er / darum sie nur mit jhnen hinweg
+das vngestümen stürmenden gewasse
+leutten zu jhnen kommen.
+
+In solchem schreien vnd wehkla der Frawen vnnd
+Jungfrawen / so gantz hülff vnd trostlos von jederman gelassen /
+kam vngefehr ein grosses Schiff / darein der Schiffman alle Fra=
+wen vnd Jungfrawen / derer bey 500. waren / zu sich name / vnd
+sie also in Cypern fu er / nicht das geringste von jhnen nemente /
+von dannen sich denn das Schiff widerumb kehrete Woher aber
+oder von wannen / vnd wohin es kommen sey / oder wem es zuge=
+hörete / das kontte niemandt wissen oder erfahren.
+Doch wurden
+in der Stadt sehr viel Frawen vnd Jungfrawen todt geschlagen /
+vnd war ein solcher jammer darinnen / der nicht wol müglich aller
+zubeschreiben.
+
+Als nun die Heyden die Stadt eingekrigt hatten / waren so
+viel Todte darinnen / so auff beiden seitten vmbkommen / das man
+als vber eine Brücken darüber gehen konte / Die Christen aber so
+lebendig geblieben / flohen auff der Tempelierer Burg / welche sehr starck
+vnd fest war / dafür liessen die Heyden / vnd da die Stadt sampt allem
+dem jenigen darinnen / was nur brennen konnte / verbrähnt war / waren
+doch noch alle Türme voller Volcks gar wol verwaret / welche die Hey=
+den alle sampt belagerten / das niemand aus der Stadt kommen moch=
+te / doch wurd den Heyden ein sehr grosser abbruch gethan von den
+Thürmen / also das die anderen Heyden welche vor der Tempelierer
+Burg lagen / eine schirme zwischen den Thürmen machen / vnd die
+Stadtmaur durchbrechen musten / damit sie aus vnd ein kommen
+möchten / wenn sie wolten.
+
+Endlich begunten auch die Thürme zubrechen / aber die / von
+binnen mochten / das sich die Thürme auswarts neigten / vnd also
+die Heyden / ehe sie dessen gewar wurden / daruon vberfallen wur=
+den / das der besten vnd Edelsten so in dem Heer waren / ein grosse
+summa todt bliben.
+
+Als aber der Soldan / so ein kluger vnd listiger Man war / den
+teglichen grossen Abbruch seines Volcks vermerckte / gebrauchte er die=
+se List / gebietende den seinen / mit denen auff der Tempelierer Burg
+vnd auff den andern Thürmen friede zuhalten / ward auch gethedingt /
+das sie die Burg vnd alle Thürme reumen vnd auffgeben solten / mit
+zugehauer`,
+    english: `[Page 381 -- Women rescued by a mysterious ship; the Templar castle as last refuge; towers collapse on besiegers]
+
+[Noble women at the shore] There were very many noble maidens [Jungfrawen] and [women] with their daughters at the shore of the sea, [holding] amber and golden jewels [Kleinodien] in their laps, crying out to passing ships... and one among them who [offered]... [begging] only to be taken away... [but] the raging, storming waters [prevented] boatmen from reaching them.
+
+[The mysterious ship] In such crying and lamenting of the women and maidens -- so utterly helpless and forsaken by everyone -- there came by chance a great ship, into which the shipmaster took all the women and maidens -- of whom there were about 500 -- and brought them to Cyprus, taking not the least [payment] from them. Then the ship turned back again. But whence it came, where it went, or to whom it belonged, no one could know or discover. [A quasi-miraculous rescue.]
+
+[Slaughter in the city] Yet in the city very many women and maidens were slain, and there was such misery [jammer] therein that it is not possible to describe it all.
+
+[The dead fill the streets] When the heathens had taken the city, there were so many dead therein -- fallen on both sides -- that one could walk over them as over a bridge.
+
+[Last stand at the Templar castle] The Christians who remained alive fled to the Templars' castle [Tempelierer Burg], which was very strong and well-fortified. The heathens let [them go there]. And when the city, together with everything in it that could burn, had been burned, yet all the towers were still full of people, well defended. The heathens besieged them all so that no one could leave the city. Yet from the towers, great damage was done to the heathens, so that the other heathens who lay before the Templar castle had to build screens [schirme] between the towers, and break through the city wall so that they could come and go as they wished.
+
+[Towers collapse outward] Finally the towers also began to break, but those inside [the defenders] managed to make the towers lean outward, and thus the heathens -- before they were aware of it -- were overwhelmed [by the falling towers], so that a great number of the best and noblest in the army were killed.
+
+[The Sultan's ruse] But when the Sultan -- who was a clever and cunning man [kluger vnd listiger Man] -- perceived the daily great losses of his troops, he used this stratagem: he commanded his men to make peace with those in the Templar castle and on the other towers. It was also negotiated that they should evacuate and surrender the castle and all towers, with [safe passage]...`,
+  },
+  "p399": {
+    original: `eissūng / jhnen jhr leib vnd leben / Haab vnd gut
+jhnen die Stadt widerumb zubehauen / vnd wie
+h vmb einen gewissen Zins / den sie Jehre
+en) zuuergünstigen. Dis namen die
+oben an / vnd gaben die Burg vnd
+on herunter kamen / lies sie der Sol=
+dannung jemmerlichen hinrichten vnd
+Babylonien vnd Alcapren in schends
+liche Dienstb. rkeit.
+
+Die Heyden müssen allein in eroberung der Stadtmauren
+40. gantzer tage zubringen / vnd 52. tage / ehe sie binnen die Gas=
+sen vnd Strassen gewonnen. Vor der Tempelirer Burg aber / vnd
+vor d. n Pallasten vnd Thürmen / lagen sie zwen Monat lang.
+
+Es ist aber diese gewaltige Stadt Ackers erobert vnd zer=
+störet worden / anno 1291. auff Cantate nach Ostern / dardurch
+der gantzen Christenheit ein vnaussprechlicher schade geschehen / bei=
+des an fürtrefflichen vnd hohen personen / so wol auch an Keyserli=
+chen Schetzen / gewaltigen vnd vberaus köstlichen Gebeüden / denn
+diese Stadt ein schlüssel gantz Syrien vnd Arabien etc. war / vnd
+ein Kleinot aller Stedte in gantz Orient / welche alle dahin jhre
+zuflucht hatten.
+
+Vnd als das Christen Volck in anderen Stedten als zu
+Tyro / Sydon vnd Joppe höreten / das die mechtige Stadt Ackers
+vom Soldan gewonnen war / zog das Volck des meisten theils dar=
+aus / flohen in die Insel Cypern / liessen jhre schöne Stedte wüste
+stehen / dardurch denn Cypern sehr zugenommen vnd zu grossem
+flor gekommen.
+
+Wie nun die Stadt Ackers gantz vnd gar erobert vnd ein=
+genommen worden / vnd das geschrey in Siriam kam / trugen alle
+Frawen in gantz Orient schwartze Trawrkleider / vnd beklagten die
+Stadt mit kleglichen Liedern vnd Trawrgesanegen / welcher Gesang
+sie sich auch noch gebrauchen / wenn jemandes aus jhrer Freundt=
+schafft stirbet / zu ewigem gedechnis der herrlichen Stadt. Wurden
+darauff die Christen des gantzen heiligen Landes beraubt.
+
+Es sollen aber in belagerung vnd zerstörung dieser Stadt /
+vn sechzig vber hundert vnd sechtzig Tausent Christen / vnd der Heyden vber
+drey hundert tausendt vnd 30000. Man vmbkommen sein / das
+sich also die Summa von beiden seitten vber vier hundert vnd
+drey siebentzig Tausent Menschen erstrecket / vnnd sollen noch zum
+warzeichen so viel Todten bein vor dieser Stadt liegen / als man
+irgent an einem orte finden mag.
+
+Vnd vnlangst hernach / als die Todten Cörper so wegendes
+grossen gestancks vnmüglich zubergraben / verweser / vnd von den Thie=
+ren vnd`,
+    english: `[Page 382 -- The Sultan's treachery; the fall of Acre completed; mourning across the Orient]
+
+[The Sultan's broken promise] ...[promising] them their life and limb, possessions and goods, [and] to rebuild the city for them, and to grant them [the right to live there] for a certain annual tribute [Zins]... This the [Christians] accepted and surrendered the castle and [towers]. [But] when they came down, the Sultan had them wretchedly [jemmerlichen] executed and [sent others] to Babylon [Cairo] and Alcapren [?] into shameful servitude [schendliche Dienstbarkeit]. [The Sultan al-Ashraf Khalil broke his word and massacred or enslaved the garrison.]
+
+[Duration of the siege] The heathens needed 40 full days just to conquer the city walls, and 52 days before they won the streets and lanes within. Before the Templar castle, however, and before the palaces and towers, they lay for two months.
+
+[Date of the fall] This mighty city of Acre was conquered and destroyed in the year 1291, on Cantate Sunday after Easter [the fourth Sunday after Easter, May 18, 1291]. Through this, an unspeakable loss [vnaussprechlicher schade] befell all Christendom -- both in excellent and high-ranking persons, as well as in imperial treasures, mighty and exceedingly splendid buildings. For this city was a key [schlüssel] to all Syria and Arabia, etc., and a jewel [Kleinot] of all cities in the entire Orient, to which all [others] had looked for refuge.
+
+[Other cities abandoned] And when the Christian people in other cities -- such as Tyre [Tyro], Sidon [Sydon], and Joppa [Joppe] -- heard that the mighty city of Acre had been captured by the Sultan, the people mostly withdrew, fled to the island of Cyprus, and left their beautiful cities standing empty. Through this, Cyprus grew greatly and came to great prosperity [flor].
+
+[Mourning in the Orient] When the city of Acre was completely conquered and taken, and the news came to Syria, all the women in the entire Orient wore black mourning garments [schwartze Trawrkleider] and lamented the city with mournful songs and dirges [Trawrgesaengen]. This singing they still use when someone of their kindred dies, in eternal memory of the magnificent city. Thereupon the Christians were stripped of the entire Holy Land.
+
+[Casualty figures] In the siege and destruction of this city, over 160,000 Christians and over 300,000 and 30,000 [330,000] heathens are said to have perished, so that the total from both sides exceeds 470,000 [vier hundert vnd drey siebentzig Tausent] people. And as a memorial [warzeichen], so many dead men's bones are said to lie before this city as one might find anywhere in one place.
+
+[Aftermath] And shortly afterward, since the dead bodies -- because of the great stench -- could not possibly be buried, [they] decomposed, and [were consumed] by the animals and...`,
+  },
+  "p400": {
+    original: `ren vnd Vogeln verzeret worden / kam der Soldan wid
+Ackers / in willens die Thürme vnd Mauren gantz zu
+brechen / damit man sie nicht widerumb auffbar
+er Grabs wider auffgerichtet sein.
+
+denn viel Jahr brachen vnd arbeiteten / so
+etzlichen örtern nicht vber einen Man hoch
+sie also stehen lassen. Aber die köstlichen
+Pallaste / wurden nicht so gar verwüst /
+zuhellsen gewesen / wo es nicht aus Gott / als erst straff als
+jhrer Sünde willen geschehen were.
+
+So hielte der Soldan alle zeit 50. er 80. Söldener wel=
+che da woneten / vnd die Stadt bewacheten dieselbige hatzen mit den
+Christen so dahin kamen oder durchwanderten / ein grosses mitlei=
+den / stelleten sich sehr freundlichen / truncken auch mit jhnen Weins
+so er jhnen doch sonsten verbotten war.
+
+Der Tempel Orden zoch in Franckreich auff jhre Gütter /
+Die Johannitten bekamen endlich Rodis / von do sie hernachmals
+vom Türcken vertrieben / vi die Insel Maltam gekrigt. Die Deutsche
+aber derer wenig müssen gewesen sein / in jhre Lender / als Preussen /
+Lifflandt / etc.
+
+Diese Historiam hab ich alhier setzen wollen / weil der Orden
+für dieser Stadt angefangen / seen sitz vnd Heupthaus erstlich darin
+gehabt / da auch etzliche Meister gewonet / gestorben vnd begraben
+ligen. Weil auch etzliche schreiben dörffen / das der Orden
+langst zuuohren vnter Herman von Saltza / vmb alle Gütter im
+gelobten Lande gekommen sey / so doch solches vnter dem zehenden
+Hoemeister erst geschehen ist.
+
+Wie viel Volcks im grossen Krige in Preussen sey vmbkom=
+men / setzet Simon Grunaw neulich 263495. Man.
+
+Der eilffte Hoemeister Gottfried Graff von
+Hohenlohe. Dieser Hoemeister hat zweene namen gehabt / Gottfried
+war sein Tauffnam / Heinrich aber war er genant worden / als er den
+Orden hatte angenommen / der erste in Cronicken / der ander aber
+wurd in Briesfen gebraucht / wurd Hoemeister anno 1297. Er
+kam mit 50. Brüdern in das Land zu Preussen / welche er zum theil
+den Lifflendern zu hülffe schickte. Bawet Margenburg zum Heupt=
+haus. Er hielte anno 1302. als 1303. ein gros Capittel zum
+Elbingen / vnd setzet alda dem Orden schwere Ordenungen / aber der
+Orden war nicht mit zufrieden / appellirte wider dieselbigen / vnd wol=
+ten sie nicht annemen / derhalben er auch vbel zufrieden wurde / vnd
+sprach / weil ich für ewre Seelen muß rechenschafft geben / hab ich
+solche Ordenung gemacht / dieweil ich aber euch nicht gut genug bin /
+zugebieten / so seit jhr mir auch nicht gut genug / das ich ewer Hoemeis=
+ter sein solle / A B C. Ewer Hoemeister bin ich nicht meh / setzt sich
+auff sein Pierdt / rit in Teutschlandt.`,
+    english: `[Page 383 -- The Sultan demolishes Acre; the military orders disperse; Gottfried von Hohenlohe, the 11th Grand Master]
+
+[Sultan demolishes Acre] ...devoured by animals and birds, the Sultan came back to Acre, intending to break down the towers and walls completely, so that they could never be rebuilt... For they broke and labored many years, yet at some places [the walls could] not [be reduced to] less than a man's height, so they left them standing. But the splendid palaces were not so completely destroyed... [and this] could have been remedied, had it not been from God, as punishment for their sins.
+
+[Sultan's garrison] So the Sultan kept at all times 50 or 80 soldiers [Soldener] who dwelt there and guarded the city. These had great sympathy [mitleiden] with the Christians who came or passed through, behaved very friendly, and even drank wine with them -- though it was otherwise forbidden to them [as Muslims].
+
+[Dispersal of the Orders] The Temple Order [Templars] withdrew to France, to their estates. The Hospitallers [Johannitten] eventually obtained Rhodes, from which they were later driven by the Turks and acquired the island of Malta. The Germans [Teutonic Knights], of whom few must have remained, [went] to their lands -- Prussia, Livonia, etc.
+
+[Hennenberger's note] I have chosen to set down this history here because the Order began before this city [Acre], had its seat and headquarters [Heupthaus] there first, and several Masters lived, died, and were buried there. Also because some dare to write that the Order had already lost all its possessions in the Holy Land long before, under Herman von Saltza, when in fact this happened only under the tenth Grand Master.
+
+[Casualties in the Great Prussian War] How many people perished in the Great War in Prussia: Simon Grunau recently sets [the figure at] 263,495 men.
+
+[Gottfried von Hohenlohe -- 11th Grand Master] This Grand Master had two names: Gottfried was his baptismal name; Heinrich was the name given to him when he joined the Order. The first [name] was used in chronicles, the second in letters. He became Grand Master in 1297.
+
+[Career] He came with 50 Brothers to the land of Prussia, some of whom he sent to help the Livonians. He built Marienburg [Malbork] as the headquarters [Heupthaus].
+
+[Chapter at Elbing] He held a great Chapter [Capittel] at Elbing in 1302 or 1303, and there imposed strict ordinances [schwere Ordenungen] on the Order. But the Order was not satisfied, appealed against them, and refused to accept them. Therefore he also became angry and said: 'Since I must give account for your souls, I have made such ordinances. But since I am not good enough for you to command, then you are also not good enough for me to be your Grand Master. A-B-C [i.e., that's that]. I am no longer your Grand Master.' He mounted his horse [Pierdt] and rode to Germany.`,
+  },
+  "p361": {
+    original: `[Printed page 344, continuation]
+
+...ger meiner / sie were auch vberlauffe / vnd ritt wie
+nicht lange hernacher wil der Pfleger jagen / stöst
+ein grawsamen Beeren / sich auffrichtet / dar=
+erschrickt / vnd nimpt den lauff / vnd der Pfle=
+ger der Zaun zuriss / vnd leufft für vnd für
+mit dem Pfleger im gemelten See / darinnen Pferde vnd man
+versoff / auff den andern tag / fande man die Fische darinnen auch
+todt / vnd auff dem Wasser schwimmen. Vnd dasselbige Jar war
+kein Fisch im selbigen See / hernacher aber / waren fische genug
+darinnen / wie zuuor. Simon Grunaw kenne zwar den See
+nicht / doch haben mir die Passenheimer gesagt / es solle der Leisse=
+ner sein.
+
+Doctor Joachimus Mörlin / Seliger Gedächtnis / da er
+noch Pfarherr im Thum war / gedacht er ein mahl nach einer ge=
+haltenen Deposition / wie Fürst Durch: in Preussen / in einem gar ge=
+ringen Flüslein / nicht weit von Königsperg / so jederman frey vnd
+gemein war / hätten fischen lassen / vnd so viel Schmerling darinnen
+gefangen / das sichs jederman verwundert hatte. Derhalben ersli=
+che die Räthe jhrer Fr: Dt: gerathen / das sie das flüslein verbötten /
+das niemands forthin / denn allein ihre Gnaden / darinnen möchten
+fischen lassen / so würde darnach ihre Gnaden / wenn sie nur wolten /
+Schmerling stets genug daraus bekommen. Aber nach dem ver=
+bot / war auch der Fisch darinnen vergangen / das da man hernacher
+Schmerling für ihre Gnaden hat haben wollen / ihrer zwene einen
+gantzen halben tage gefischet / vnd doch kaum gefangen / das man ei=
+ner person hätte mögen fürsetzen / vnd weren darzu das meiste theil
+Stechbüttel gewesen. Denn vnser lieber HErr Gott / als ein gü=
+tiger Vatter / seinen Segen jedermenniglichen gibt vnd günnet / es ge=
+felle jhm auch der Teufflische neidt gar nicht / das einer allein alles
+wil haben. Doch geschicht auch viel vnter der Herrn namen / wie
+sich auch alles vnglück in Gottes namen ansehet.
+
+Einer vom Adel / welchem wol zugleuben stehet / hat mir gesa=
+get / wie im Walgischen ein sehr Fischreiches Flüslein sey / darinnen
+vmb ein theil ein zanck entstanden / vnd ein Todtschlag daraus gefol=
+get / Dasselbige theil / darumb der zanck gewesen / hab hernacher kein
+Fisch gehabt / vnd noch nichts / so doch im selbigen Flüslein / droben
+vnd hierunten fische genug gefangen werden.
+
+Einer verbot seinen armen Vnterthanen / die Krebse niemand
+als jhm zuuorkeuffen / Er aber wenn sie gros waren / vnd jhm gefielen /
+nur einen groschen für das schock gab / so doch die Bürger oder
+ander reisende / gern 4. oder 5. groschen darfür gaben. Gefelen sie
+jhm nicht / müsten sie solche wider zu Haus tragen. Nun ist alda
+der Krebs also verschwunden / das man lange muste fischen / bis man
+ein kleines gerichtlein fing / so man doch zuuor die menge krigte.
+
+Einer verbot ein vmbliesstein / war nicht 4. Seyl lang / dar=
+vmb das`,
+    english: `[Page 344 -- Continuation of fish/lake stories; morality tales about greed and God's blessing]
+
+[Lake monster story, continued] ...she [the lake] had also overflowed, and rode as [the Pfleger, i.e. the district administrator] was not long after hunting, he encountered a fearsome bear [Beeren], which reared up. He was frightened and took to flight, and the Pfleger [fell] as the fence broke, and [both] ran into the aforementioned lake, where horse and man drowned. The next day, the fish in the lake were also found dead, floating on the water. And that same year there were no fish in the lake; afterward, however, there were fish enough again as before. Simon Grunau [the chronicler] did not know the lake by name, but the people of Passenheim [Pasym] told me it should be the Leissener [lake].
+
+[Doctor Joachimus Morlin on fishing rights] Doctor Joachimus Morlin [Joachim Morlin, 1514-1571, Lutheran theologian and Bishop of Samland], of blessed memory, when he was still pastor at the Cathedral, recounted after a deposition how the Prince of Prussia [Duke Albrecht] had once allowed fishing in a very small stream not far from Konigsberg, which was open to everyone. They had caught so many loach [Schmerling] there that everyone marveled. Thereupon some councilors [Rathe] advised His Grace to reserve [verbieten] the stream for himself alone, so that His Grace could always have plenty of loach whenever he wished.
+
+But after the prohibition, the fish also disappeared from the stream. When they later wanted loach for His Grace, two men fished for half a day and barely caught enough for a single serving, and most of those were sticklebacks [Stechbuttel]. For our dear Lord God, as a gracious Father, gives and grants His blessing to everyone; and the devilish envy that one person should have everything alone does not please Him at all. Yet much is done in the lords' names, just as all misfortune appears in God's name.
+
+[Quarrel over fishing stream] A nobleman, quite credible, told me that in the Walgischen [region] there was a very fish-rich stream in which a quarrel arose over a portion, and a manslaughter [Todtschlag] resulted. That part of the stream over which the quarrel had occurred has had no fish since, and still has none, though above and below plenty of fish are caught.
+
+[Crayfish monopoly] One [lord] forbade his poor subjects to sell their crayfish [Krebse] to anyone but him. But when they were large and pleased him, he gave only one Groschen per shock [sixty], while burghers or other travelers would gladly pay 4 or 5 Groschen. If they did not please him, the subjects had to carry them back home. Now the crayfish have so disappeared there that one must fish a long time to catch even a small dish, though formerly they were caught in abundance.
+
+[Monopoly on a small pond] One [lord] reserved a small pond [Vmbliesstein], not even 4 ropes [Seyl] long, because...`,
+  },
+  "p362": {
+    original: `[Printed page 345]
+
+vmb das die Armut was kleiner Plötzlein darin
+fieder ist nichts darinnen gesehen worden / Erst
+armut auch nichts. Ist aber dis nicht ein T.
+gleichswol gutte Christen sein / wird der HE=
+rren Gericht auch sagen: Du hast mich ges=
+
+Einer nam seinem alten vnd trewen Seelsorger die Fische=
+rey / so alle seine Vorfahren gehabt / vnd darüber auch auff des Pfar=
+here stücken oder Huben / ohne vrsachen. Aber Christus spricht:
+Mit dem mass da jhr mit messet / wird man euch wider messen. Der=
+selbige Christus mass jhm auch wider also zu / das er wenig glücks
+im selbigen Teiche hatte / auch dasselbige Jahr / in dreien Teichen
+die Fische im Sommer also sturben / das man stands halben nicht
+wol zum Teichen kommen kondte. Hundt / Sew / Kreen vnd Raben
+gnugsam hinweg zuschleppen Kriegten. Aber man bessert sich sol=
+cher Gottes straffen wenig genug.
+
+Et quod non capit Christus, Hoc rapit Fiscus.
+Es heist nicht rapite, sed date & dabitur vobis.
+
+Wo man aber den armen auch was günnet / da segnet auch
+der Himlische Vater / darumb GOtt im Gesetz gebot / nicht zu ge=
+naw den Weyn zu lesen / vnd zu Ougsten: sondern den armen vnd
+frembdlingen / auch was zulassen. Es ist ein Flus zu Mühlhausen /
+auff Natangen / das ist so Fischreich / das man es billig ein Gülden
+Flüs nennen möchte / denn man des Jahrs so viel Fische daraus fe=
+het / das es einer nicht wol gleuben solte / das so viel fische darinnen
+könten sein. Allein der Teufflische Haß vnd Neidt / verursachet zu
+zeiten auch / das vnser lieber HErr Gott seinen Segen entzeucht /
+denn bösbuben allerley mutwillen am Fischzeuge brauchen.
+
+Wüchs Laub vnd Gras /
+Als Geitz / Neidt / vnd Has /
+So esse mansche Kuh deste bas.
+
+Historia / vnd eine erschreckliche Straff Gottes /
+vber einen bösen Buben / so seine Eltern vbel ge=
+halten hat.
+
+Es ist zu Passenheim ein böser vngezogener mutwilliger Son
+gewesen / der seine Eltern / Vater vnd Mutter / nicht allein mit scheldt
+vnd schmehe worten / seines gefallens angegriffen / sondern sie auch
+zum öfftermahl jemmerlich geschlagen / vnd weil die Obrigkeit mit der
+gebührlichen straffe / die sie wider den Buben einwenden sollen /
+einhelt / vnd durch die Finger sihet: Greifft Gott selbest zur straffe /
+vnd lest sein Gericht vber den bösen Buben ergehen / jhe doch lang=
+sam / wie des frommen Gottes art vnd weise ist. Aber alte schuldt ro=
+stet bey jhm nicht / Der Bube lernet ein falscher Handtwerck / wan=
+dere darauff aus / siehet sich ein Jahr etliche in der Welt vmb / kompt
+zu seiner zeit wider / vnd da er Vater vnd Mutter noch beim leben
+findet /`,
+    english: `[Page 345 -- Continuation of fishing morality tales; a terrible punishment from God upon a wicked son at Passenheim]
+
+[Monopoly tale, continued] ...because the poor [caught] some small roach [Plotzlein] in it, nothing has been seen in it since; and the poor [also get] nothing. Is this not a [sign]... though they claim to be good Christians, the Lord's judgment will also say: 'You have [not fed] me...'
+
+[Fishing rights taken from a pastor] One [lord] took the fishing rights from his old and faithful pastor [Seelsorger] -- rights that all his predecessors had enjoyed -- and also [encroached] on the pastor's plots [Huben], without cause. But Christ says: 'With the measure you use, it will be measured back to you.' [Matthew 7:2] The same Christ measured back to him [the lord] accordingly, so that he had little luck in that pond; and that same year in three ponds the fish died in summer so badly that one could hardly approach the ponds for the stench. Dogs, pigs, crows, and ravens had plenty to drag away. But people rarely improve from such punishments of God.
+
+[Latin maxim] Et quod non capit Christus, Hoc rapit Fiscus. [And what Christ does not take, the tax collector seizes.] It should not be 'rapite' [seize], but 'date & dabitur vobis' [give and it shall be given unto you -- Luke 6:38].
+
+[Generosity brings blessing] But where one also grants something to the poor, there the Heavenly Father also blesses. Therefore God commanded in the Law not to glean the vineyard or harvest too closely, but to leave something for the poor and strangers [Deuteronomy 24:19-21]. There is a river at Muhlhausen [Mlynary] in Natangen that is so rich in fish that one might rightly call it a Golden River [Gulden Flus], for so many fish are caught from it yearly that one would scarcely believe so many could be in it. Only the devilish hatred and envy causes at times that our dear Lord God withdraws His blessing, for scoundrels [Bosbuben] commit all manner of mischief with the fishing equipment.
+
+[Verse] If leaves and grass grew / As [fast as] greed, envy, and hate, / Many a cow would eat all the better.
+
+[A terrible punishment from God upon a wicked son]
+
+[Story from Passenheim / Pasym] There was at Passenheim [Pasym, Masuria] a wicked, unruly, willful son who attacked his parents -- father and mother -- not only with curses and insults [Scheldt und Schmehe Worten] as he pleased, but also beat them pitifully on many occasions. And because the authorities [Obrigkeit] held back the proper punishment they should have applied against the rogue, and looked the other way [durch die Finger sihet]: God Himself took up the punishment, and let His judgment fall upon the wicked boy -- slowly, as is the manner of the merciful God. But old debts do not rust with Him. The rogue learned a dishonest trade [falscher Handtwerck], wandered abroad, spent some years seeing the world, then returned in time and found his father and mother still alive...`,
+  },
+  "p363": {
+    original: `[Printed page 346]
+
+ge eben rote vor / mit scheltworten / vnd schlagen /
+vnd wil auch ein mal sein eigener Herr werden /
+eine eigene Haushaltung an / welches gesche=
+het lang nach der Hochzeit / kompt Gottes
+s vnd die grewliche / scheusliche / vnd abscheu=
+liche / vererbliche seuche der Frantzosen / verzehret jhn inwendig vnd
+auswendig / Er begibt sich in der Erquirung / aber keine Artzney wil
+bey jm zur gesundheit mehr tröstlich sein / sonder die kranckheit nimpt v=
+ber handt / en fresset jn dermassen / das er gar ein Aas begint zu stincken /
+vnd jhm auch niemande stancks halben / bey sich leiden kondte / auch
+sein eigen Weib nicht / Mus derwegen aus seinem eigenen Hause /
+vnd auch aus der gantzen Stadt Passenheim / sich hinaus begeben /
+in eine wüste Brachstuben / da hat er gantz jemmerlich gelegen / auff
+der Erden / vnter den Flachsscheissten / matt vnd krafftlos / vnd ist jm
+von seinem Weibe vnd andern / essen vnd trincken zugetragen worden /
+welches er doch wenig genossen. Da er nu so albereit halb todt in
+Schlange der Brachstuben liget / sind vnter jhm Schlangen gantz heuffig ge=
+wachsen / die vnter jhm / neben jhm / vnd vber jhm hergekrochen.
+Vnter andern aber / ist eine grosse vngeheure Schlange gewesen /
+die ist sonderlich offt herfür gekrochen / vnd hat jn an die rechte handt /
+mit welcher er hatte Vatter vnd Mutter pflegen zuschlagen / gebissen
+vnd gestochen / welches viel Leut die jhn haben besucht / mit jhren
+augen gesehen / er es auch selbst andern Leutten gesaget / vnd darbey
+gesprochen: das jhn Gott derhalben so schrecklichen straffe / das er
+seine liebe Eltern geschlagen / vnd sie auch sonst mit seinem mutwil=
+len vnd vngehorsam betrübt / etc. Vnd ist also entlich jemmerlich
+vnter den Schlangen gestorben / welche grewliche Würme / sich
+auch / als baldt er dahin gewesen / verloren / das man sie hernacher
+nicht wider gesehen.
+
+Das ist / das Gott den vngehorsamen Kindern drewet / Deut:
+27. Verflucht sey / wer seinem Vatter vnd Mutter flucht. Exod:
+21. Wer Vater vnd Mutter flucht / der sol des Todts sterben / Wer
+sein Vatter vnd Mutter schleger / der sol des Todts sterben.
+
+Anno 1583. Mitwochen nach Reminiscere / das ist den 27.
+Februarij / Ist Passenheim von eigenem Fewer ausgebrande / bis
+auff Schertwitzschen Höff vnd 9. Heuser.
+
+Das Passenheim 8. 23. Hoendorffs Höff.
+Passerge Q. 12. Paters ort. P. 14.
+Paterswaldt P. 20.
+
+Pautzke P. 2. Stadt vnd Schlos / Anno 1378.
+gebawet / Caspar Schütz Erzb. setzt / das Pautzke sey gebawet wor=
+den / vom Pomerischen Fürsten Bugislaff / von jhm den namen be=
+komen / Bugislave / Buguslavice / itzund Puntze / oder Puntzerwitze. fol:
+35. müste aber lang zuuor geschehn sein / hat nur ein halbes Conuente
+gehabt.`,
+    english: `[Page 346 -- Continuation of the Passenheim story; the wicked son consumed by syphilis and serpents; Passenheim fire of 1583; Pautzke]
+
+[Wicked son story, continued] ...he carried on as before, with curses and blows, and wanted to be his own master, setting up his own household. Which happened [shortly] after the wedding. Then God's [punishment came]: the horrible, hideous, and abominable hereditary disease of the French [Frantzosen, i.e. syphilis] consumed him inside and out. He sought cures, but no medicine could restore his health; rather the disease grew worse, devouring him so that he began to stink like carrion [Aas], and no one could bear to be near him for the stench -- not even his own wife. He therefore had to leave his own house and the entire town of Passenheim [Pasym], and take himself to a desolate flax barn [Brachstuben]. There he lay most wretchedly on the ground among the flax chaff [Flachsscheissten], weak and powerless, and food and drink were brought to him by his wife and others, though he could consume little of it.
+
+[The serpents] When he was already lying half dead in the flax barn, serpents [Schlangen] grew abundantly beneath him, crawling under him, beside him, and over him. Among others, there was one great monstrous serpent that particularly often came forth and bit and stung him on the right hand -- the very hand with which he had been accustomed to beat his father and mother. Many people who visited him saw this with their own eyes; he himself told others about it, saying that God was punishing him so terribly because he had struck his dear parents, and had otherwise grieved them with his willfulness and disobedience, etc. And so he finally died wretchedly among the serpents, and the horrible worms [Wurme] also disappeared as soon as he was dead, so that they were never seen again afterward.
+
+[Biblical citations] This is what God threatens against disobedient children. Deuteronomy 27: 'Cursed be he who curses his father and mother.' [Deut. 27:16] Exodus 21: 'Whoever curses father and mother shall surely die; whoever strikes his father and mother shall surely die.' [Exodus 21:15,17]
+
+[Passenheim fire] In the year 1583, on Wednesday after Reminiscere [the second Sunday in Lent], that is the 27th of February, Passenheim burned from its own fire [i.e. an accidental fire], except for the Schertwitz estate and 9 houses.
+
+[Gazetteer entries] Passenheim 8. 23. Hoendorff's estate. / Passerge [Pasleka river] Q. 12. Paters ort P. 14. / Paterswaldt P. 20.
+
+[Pautzke / Puck] Pautzke P. 2. Town and castle, built in 1378. Caspar Schutz [the Prussian chronicler] states that Pautzke was built by the Pomeranian Duke Bugislaff [Bogislaw], from whom it received its name: Bugislave, Buguslavice, now [called] Puntze or Puntzerwitze [modern Puck, Poland]. Folio 35 [of Schutz]. But it must have happened long before [1378]; it had only half a convent [i.e. a small garrison of Teutonic Knights].`,
+  },
+  "p364": {
+    original: `[Printed page 347]
+
+Im grossen Kriege.
+
+Anno 1460. Waren 6. Bürger zu Pau=
+tzke des Ordens Volck / so zur Lawenburg lage
+des morgens frü / da noch die Dantzker dar... en so stein / welche zum
+theil in die Böte fielen / nach Dantzig fuhren / vnd funden sich 60 Rei=
+sige vnd 100. Man todt liessen. Die auff dem Schlos resignigten sich
+ab / vnd zogen heim. Denselbigen tag wurden auch die Verräther ges=
+viertheilet / denn sie jhnen zugesagt hatten / das sie keinen Man verlieren
+solten / da sie doch 3. Brüder grosses Adels verloren / B. Günther
+von Hinchaw / B. Wernern von Westerburg / vnd B. Wolffgang
+von Jaraw / darzu zwey vnd zwentzig Knechte / vnd sie plunderten die
+gantze Stadt aus.
+
+Anno 1462. auff Dorothea / beraubten 160. Reysige vnd
+200. Fußknecht von Dantzig / den Pautzker winckel / solche Reuter im
+heimziehen treibt Fritz von Robeneck / auff einen See so gefroren war /
+vnd erschlug jr 36. vnd 65. fing er / vnd krigt auch den raub widerumb.
+
+Schlacht im Pautzker winckel.
+
+Anno 1462. nach dem Fest Natiuitatis Mariae / zog durch Dantz=
+ke Herr Donim / Herr Schranck / mit 600. Pferden / vnd 400. Dra=
+ben / zu denen zogen die von Dantzig vnd Dirschaw 300. Reysiger /
+vnd 400. Fußknecht / vnd auch der vierte Man von Dantzke / zoge
+also bis ein meil von Zernowits / dem Nonnen Closter / brandten alle
+Höff vnd Dörffer hinweg / bis an die See / legten sich also bey einem
+Dorff Schwettin genande / in jhre Wagenburg. Auff Lamperti des
+morgens / kamen des Ordens Volck / mit jhrer Wagenburg / aus ei=
+ner Heyden hinzugerackt / Caspar Nostitz Heuptman zu Conitz / Fritz
+Robenecke Heuptman zur Mewe / Stargardt / vnd Pautzke / Caspar
+Wernersdorff / Heuptman zur Lawenburg / Fritz Hoenest / Heuptman
+zur Nawburg vnd Schönet / vnd der von Kitschaw / in die 1500.
+Reysiger / 400. Fustknecht / 1300. Pawren / jene aber kamen diesen
+zuuoren / denn ehe diese recht aus der Wagenburg kamen / waren jene
+schon fertig / vnd schlugen flugs darein / vnd brachten sie in die flucht /
+erschlugen jhrer in die 1000. Man / Darunter der tewre vnd frew=
+dige Heldt Fritz von Robeneck / so dem Orden grosse trew gethan /
+mit 30. vom Adel bleib / fiengen auch 70. Hoffleut. Von des ö
+Bundes seiten / blieben nicht vber hundert todt / doch wurden 200. ge=
+wundt / deren auch noch viel zu hause sturben / vnd brachten die
+Dantzker vber 100. Wagen mit raub beladen zu haus. Ein Dantz=
+ker Chronica sagt: das damals 1000. Reysige vom Ordens Volck
+erschlagen / vnd 80. gefangen sein. Herburtius setzet / 2000. er=
+schlagen / vnd 600. gefangen.
+
+Anno 1463. kamen für Crusi / etzliche von Dantzke / wolten da
+vmb rauben / aber die Pautzker / fiengen jhrer wol in die 60.`,
+    english: `[Page 347 -- The Great War (Thirteen Years' War, 1454-1466): battles around Pautzke (Puck)]
+
+[In the Great War]
+
+[Year 1460] In the year 1460, six burghers of Pautzke [betrayed] the Order's forces stationed at Lauenburg [Lebork]. Early in the morning, while the Danzigers were still... some [fell] into the boats and sailed to Danzig [Gdansk], and they found 60 cavalry [Reisige] and left 100 men dead. Those in the castle surrendered [resignigten] and went home. That same day the traitors were quartered [geviertheilet], for they had assured them that they would lose no man -- yet they lost three Brothers [Teutonic Knights] of high nobility: Brother Gunther von Hinchaw, Brother Werner von Westerburg, and Brother Wolfgang von Jaraw, plus twenty-two soldiers [Knechte], and they [the enemy] plundered the whole town.
+
+[Year 1462 -- Dorothea's Day raid] In 1462, on [the feast of] Dorothea [February 6], 160 cavalry and 200 infantry from Danzig raided the Pautzke corner [Pautzker Winckel]. Fritz von Robeneck [a Teutonic Order commander] drove the retreating raiders onto a frozen lake, slew 36 and captured 65, and also recovered the plunder.
+
+[Battle of the Pautzke Corner] In 1462, after the Feast of the Nativity of Mary [September 8], Lord Donim and Lord Schranck marched through Danzig with 600 horses and 400 foot soldiers [Draben]. Those from Danzig and Dirschau [Tczew] added 300 cavalry and 400 infantry, plus every fourth man from Danzig. They marched to within one mile of Zernowitz [Zarnowiec], the convent of nuns, burning all estates and villages to the sea, and encamped by a village called Schwettin [Swiecino] in their wagon fort [Wagenburg].
+
+On [the morning of] Lampert's Day [September 17], the Order's forces arrived with their wagon fort from a heath [Heyden]: Caspar Nostitz, commander at Conitz [Chojnice]; Fritz Robeneck, commander at Mewe [Gniew], Stargard, and Pautzke; Caspar Wernersdorff, commander at Lauenburg; Fritz Hoenest, commander at Nauburg and Schonet; and the [lord] of Kitschau -- about 1,500 cavalry, 400 infantry, and 1,300 peasants.
+
+But the enemy [the Danzig coalition] moved first: before the Order's troops could properly deploy from their wagon fort, the enemy was already in position and struck immediately, routing them and slaying about 1,000 men. Among the fallen was the brave and valiant hero Fritz von Robeneck, who had served the Order with great loyalty, along with 30 nobles; they also captured 70 courtiers [Hoffleut]. On the [Prussian] Confederation's side, not more than a hundred died, though 200 were wounded, many of whom later died at home. The Danzigers brought home over 100 wagons loaded with plunder.
+
+[Source discrepancies] A Danzig chronicle says 1,000 of the Order's cavalry were slain and 80 captured. Herburtius [Jan Herburt, Polish chronicler] puts it at 2,000 slain and 600 captured.
+
+[Year 1463] In 1463, some from Danzig came before Crusi [?] intending to plunder, but the Pautzke men captured about 60 of them.`,
+  },
+  "p365": {
+    original: `[Printed page 348]
+
+Auff Georgij / zogen die Dantzker zu Wasser
+Pautzke vnd lagen 22. Wochen darfür / vnd
+en Man. Auff Michaelis teidigten des Or=
+en jagen / vnd das man keinem Knechte / noch
+Bürger 1 ü dr.. fson. Weichs da geschach.
+
+Im Polnischen Krige.
+
+Anno 1520. Vmb Martini / kamen dem Orden 10000. zu
+fus / vnd 4000. zu Ros / darüber Wolff von Schönberg Heupt=
+man war / zogen am dritten tage von Dantzke / in die Oliua / da ka=
+men etliche von Pautzke gaben jhnen Schlos vnd Stadt ein / da sie
+auch ein zeitlang innen lagen / vnd darnach die Stadt vnd das Landt
+plunderten / doch brandten sie nicht / vnd zogen durch Pomern wi=
+der hinaus.
+
+Anno 1544. Im Herbst wolte Herr Koste der Schesser zu
+Marienburg / Pautzke auslösen / von den Dantzkern / vnd vorhult den
+Dantzkern jre Brieff / so jnen zu trewer handt gehörten / die auff Pautz=
+ke lauteten. Vnd zogen fort mit Polnische Edelleute / vnd wolte Pautzke
+einnemen / aber die Dantzker schickten eilends vber 200. Man vnd
+Bürger / Pautzke zubewaren / vnd woltens Herrn Koßka dasmal
+nicht einlegen / musten derhalben abziehen / Doch auff jerner Kön:
+May: schreiben / reumeten sie es Koßken hernachmals ein.
+
+Peutschendorff Y. 21.
+Pella oder Gros Lauren L. 13. Alda wonen sehr viel
+Fischer / bisweilen etliche hundert.
+Pelckitten R. 18. Pellen Q. 14.
+Pecken X. 6. Persaw T. 7.
+Perßle P. 15. Ein Kirchdorff bey Brandenburg.
+
+Als Anno 1556. Etzliche Fenlin Landtsknecht / jr lager auff dem
+Haberberge hatten / da kam ein Pfarrher von Pereten / aus Königs=
+perg / durchs lager / wolt nach Haus / die Landtsknecht rufften jhn ein /
+sprech / weil er denn auch gern tranck / lies er sich nicht nötigen / kundtschafft
+mit jnen zu machen / zecht wol mit jnen / vnter des lassen sie jhm ein vierte=
+eil fleisch vom Rinde aus dem Sacke neme / steckt jn ein todtes Weib in
+die stett / als er zu haus kam / das todte weib fandt / seret er wider mit dem
+todten zu rücke / da wil niemandt vom toden Weib / noch fleisch wissen /
+wil er frieden haben / mus er sie widerumb zu ruck nemen / zusagen sie
+jn sein Kirchspiel zubegrabn. Mus spot vnd schandt zu lon haben.
+
+Pesselen W. 8. Ist ein Heidnische Burg / vom Marg=
+graffen von Meissen zerstöret worden / itzst ists ein Kirchdorff.
+Pettersaw Y. 10. Pettersdorff O. 23.
+Pettershagen S. 16. Bey Landsberg.
+Pettershagen S. 8. Im grossen Werder vnter Neutcich.
+Petterswaldt S. 14. Vnter Meelsack in Ermlandt.
+Petterswaldt W. 8. Bey dem Stum. Daselbst ist auff
+jrem Felde / vom Orden ein seine Wasserkunst gebawet / das Milwaß=
+er gen Marienburg zu fördern.`,
+    english: `[Page 348 -- Continuation of Pautzke/Puck in the Great War and Polish War; gazetteer entries; anecdote about a parson tricked by Landsknechte]
+
+[Siege of Pautzke, 1463 continued] On [the feast of] St. George [April 23], the Danzigers sailed to Pautzke by water and besieged it for 22 weeks... On Michaelmas [September 29] they negotiated the terms of the Order's [surrender], that no soldier or burgher [should be harmed]. Which came to pass.
+
+[In the Polish War -- the War of the Priests, 1520]
+
+In 1520, around Martinmas [November 11], 10,000 foot and 4,000 horse came to the Order, under the command of Wolff von Schonberg. On the third day they marched from Danzig to Oliva [Oliwa monastery]. Some from Pautzke then surrendered their castle and town to them. They occupied it for some time, then plundered the town and country -- though they did not burn it -- and withdrew through Pomerania.
+
+[Year 1544 -- Dispute over Pautzke] In the autumn of 1544, Lord Koste [Koscka/Kostka], the Schosser [tax collector] at Marienburg [Malbork], wanted to redeem Pautzke from the Danzigers and withheld from the Danzigers their letters [documents] that were held in trust and pertained to Pautzke. He proceeded with Polish noblemen to take possession of Pautzke, but the Danzigers hastily sent over 200 men and burghers to secure Pautzke, and would not hand it over to Lord Kostka at that time. They had to withdraw. However, upon further writing from the King's Majesty, they eventually surrendered it to Kostka.
+
+[Gazetteer entries] Peutschendorff Y. 21. / Pella or Gros Lauren L. 13 -- many fishermen live there, sometimes several hundred. / Pelckitten R. 18. Pellen Q. 14. / Pecken X. 6. Persaw T. 7. / Persle P. 15 -- a parish village [Kirchdorff] near Brandenburg [Ushakovo].
+
+[Anecdote: A parson tricked by Landsknechte, 1556] In 1556, when some companies [Fenlin] of Landsknechte [mercenary soldiers] had their camp on the Haberberg [a hill near Konigsberg], a parson [Pfarrher] from Pereten [?] was coming from Konigsberg through the camp, heading home. The Landsknechte called him in, and since he was also fond of drink, he needed no persuading to make their acquaintance and drank heartily with them. Meanwhile, they let him take a quarter of beef [Rinde] from a sack -- but [secretly] put a dead woman [todtes Weib] in it instead. When he got home and found the dead woman, he brought [the body] back, but no one would claim knowledge of the dead woman or the meat. If he wanted peace, he had to take her back and promise to bury her in his own parish. He earned only mockery and shame for his trouble.
+
+[Gazetteer entries] Pesselen W. 8 -- a heathen [Old Prussian] fortress, destroyed by the Margrave of Meissen; now a parish village. / Pettersaw Y. 10. Pettersdorff O. 23. / Pettershagen S. 16, near Landsberg. / Pettershagen S. 8, in the Great Werder [Zulawy Wislane] below Neuteich [Nowy Staw]. / Petterswaldt S. 14, below Mehlsack [Pieniezno] in Ermland [Warmia]. / Petterswaldt W. 8, near Stuhm [Sztum]. There, on their fields, the Order built a fine waterworks [Wasserkunst] to convey the millwater [Milwasser] to Marienburg [Malbork].`,
+  },
+  "p366": {
+    original: `[Printed page 349]
+
+Petterswalde V. 15. bey der Gut
+Petterwitz b. 15. bey Neydenburg
+Petterwitz 4. 9. bey Bischoff
+Petzdorff Z. 14. Peu=
+Pfaffendorff s. 5
+Pial Z. 26. sonsten ar. o Sec genant / hat ei=
+nen grossen Ochsen Marckt.
+Pickle W. 7. Picktupeen K. 25.
+Pillaw O. 13. Ist itzunder alda die Pfundt vnd
+Wache Puden auff einer höhe.
+Pillekaln N. 28. Pillepeen O. 29.
+Pilsen Q. 16.
+Piltzen V. 20. hat zuuohren ein Schlos gehabt /
+vnd ist zwischen Fr. Drht. in Preussen / vnd dem Bischoff von
+Ermlandt die Grentze alda.
+Pinttoua d. 7. Pintztoua Y. 5.
+Pistckeim W. 19. Pissanitzen X. 28.
+Pittelsaw R. 12. Sol von den eltesten Kirchen eine
+in dem Lande sein / vnd ist zwar altfrenckisch gnugsam anzusehen.
+
+Im grossen Krige anno 1463. vmb Francisci / hatten sich
+140. Bawren in diese Kirchen gegeben / worden aber darinnen von
+den Polen verbrant.
+
+Pladia g. 14. Plancken V. 17.
+Plancken g. 14. Plastwig S. 13.
+Plausen T. 19.
+Plautten S. 15. zwischen Landtsperg vnd Meelsack.
+Anno 1325. bawet der Probst von Ermlandt das haus Plaut=
+ten / ist nun wüste / der Schlosberg ist aber noch zusehen.
+Anno 1517. brante dieses Dorff aus durch die Reuterey / etc.
+Plautten Y. 9. bey der Freystadt.
+
+Plewisste O. 22.
+Ein erschreckliche geschicht wie ein Bawer
+vom Teuffel weggefüret worden / so im Kruge
+grewlich auff seinen Pfarherrn gescholten.
+
+Anno 1577. vmb die zeit Mariae empfengnis / ist zu Plewissten
+ein Meilwegs von Taplaucken / ein Bawersman aus dem Kruge /
+da er denn sehr grewlich vnd schrecklich auff seinen Pfarherrn ge=
+scholten / nach hause gangen / vnd nach dem er für sein haus komen /
+ist er vom Teuffel mit grossem vorhergehendem geschrey / hinweg
+gefüret worden / das man jhn nach wenig tagen im Gestreuch ge=
+funden / sein Leib vnd Kleider sind durch die Dorner / also zerzauset
+vnd zerrissen worden / das man jhn nicht hat kennen mögen / ohn al=
+lein an den Kleidern welche auch in stücklein hin vnd wider an
+streuchen zerzauset gehangen.`,
+    english: `[Page 349 -- Gazetteer entries P-Pl; massacre at Pittelsaw church 1463; a peasant carried off by the Devil at Plewissten]
+
+[Gazetteer entries] Petterswalde V. 15, near the estate. / Petterwitz b. 15, near Neidenburg [Nidzica]. / Petterwitz 4. 9, near Bischoff[stein, Bisztynek]. / Petzdorff Z. 14. / Pfaffendorff s. 5. / Pial Z. 26, otherwise called [Ar...o] Lake, has a large cattle market [Ochsen Marckt]. / Pickle W. 7. Picktupeen K. 25. / Pillau [Baltiysk] O. 13 -- the pound-house [customs weighing station] and guard booths [Wache Puden] now stand there on a height. / Pillekaln N. 28. Pillepeen O. 29. / Pilsen Q. 16. / Piltzen V. 20 -- formerly had a castle, and the border between the Princely Authority [Fr. Drht., i.e. the Duke] in Prussia and the Bishop of Ermland [Warmia] runs there. / Pinttoua d. 7. Pintztoua Y. 5. / Pistckeim W. 19. Pissanitzen X. 28.
+
+[Pittelsaw] Pittelsaw R. 12 -- said to be one of the oldest churches in the land, and indeed it looks sufficiently old-Franconian [altfrenckisch, i.e. archaic in style].
+
+[Massacre at Pittelsaw, 1463] During the Great War, in 1463, around the feast of [St.] Francis [October 4], 140 peasants [Bawren] had taken refuge in this church but were burned alive inside it by the Poles. [A grim episode of the Thirteen Years' War.]
+
+[Gazetteer entries] Pladia g. 14. Plancken V. 17. / Plancken g. 14. Plastwig S. 13. / Plausen T. 19. / Plautten S. 15, between Landsberg [Gorowo Ilaweckie] and Mehlsack [Pieniezno]. / In 1325, the Provost of Ermland built the manor [haus] of Plautten; it is now deserted, but the castle hill [Schlosberg] can still be seen. / In 1517, this village burned down through the cavalry [Reuterey], etc. / Plautten Y. 9, near the Freistadt.
+
+[Plewissten -- a peasant carried off by the Devil]
+
+A terrifying story of how a peasant was carried away by the Devil after cursing his parson horribly in the tavern [Kruge].
+
+In 1577, around the time of the feast of the Conception of Mary [December 8], at Plewissten [Plewiszten?], one mile from Taplaucken [Tapiau/Gvardeysk], a peasant man [Bawersman] was walking home from the tavern, where he had cursed and reviled his parson [Pfarherr] most horribly and terribly. After he reached his house, the Devil carried him away with a great preceding cry [geschrey], so that he was found a few days later in the undergrowth [Gestreuch]. His body and clothes had been so torn and ripped [zerzauset und zerrissen] by thorns that he could not be recognized -- only by his clothing, which also hung in shreds here and there on the bushes.`,
+  },
+  "p367": {
+    original: `[Printed page 350]
+
+jemmerlichen geschrey aber sol sein Volck zum
+Hen sein / zuerkündigen was das für ein geschrey
+geschen noch gefunden / denn nur des jetztge=
+nn / vnd ein Spieslein auff der Erden li=
+gent / so... sch getragen.
+
+Doctor Ambrosius Lobwasser von Seuffern.
+
+Ein trunckenboldt / Ist niemandr holdt /
+Vnd weil er a.s. chy Nur dient dem Bauch /
+Gottes er vergiß / Nur seufft vnd feist /
+Solchs vnuerdewt / Offt wider speit /
+Ist jhm dort Schweffel vnd Pech bereit.
+
+Plußtofonts d. 7.
+
+Pobeten L. 15. Es hat noch einen Waldt alda /
+den sie vorzeiten für heilig gehalten haben / ist newlich abgehawen.
+
+Vnter Helmerich dem VI. Landmeister in Preussen / hat der
+Orden die Burg zu Pobeten eingenomen.
+
+Zu Pobeten war ein Kemerer Bonse genant / dieser wolte
+zwey Weyber haben / das wolten jhm die Ordens Brüder nicht zu=
+geben / derethalben beredt er die Preussen / besonderlich die Pogeza=
+nen / zum dritten Absfall / darumb er mit dem Schwerdt vmbgebracht
+wardt / auch wurden damals die Pogezenen / so viel schadens gethan
+hatten / gedempfft.
+
+Anno 1283. wardt dis Gepiete von 800. Littawen schent=
+lich verheeret.
+
+Vnter dem Hoemeister Gottfriedt von Hoenlohe / wurden
+viel Samen auffruhrisch / weil Bodowo vnd andere jhrer Freundt /
+schafft so zum Auffruhr gerathen hatten / waren gehangen worden.
+
+Auch weil ein Pfarrer jhr viel vmb Decens willen hatte lassen
+einsetzen / sie widerum viel Pfarherrn schendhlich ermordten vnd vmb=
+brachten. Aber die von Pobeten schickten jhren Pfarherrn gen
+Königsperg / vnd liessen dem Orden sagen. Sehe / bewar dei=
+nen GOtt das / wir können jhn nicht beschützen.
+Aber der Orden vertrieb die Mörder / musten in Littawen entliken.
+Jedoch wardt alda geordnet / das die jre Priester nicht erschlagen
+hetten / solten jhrem Pfarherrn ein jedere person nur 12. Pfennig
+ein Jahrlang geben / vnd nicht mehr / vnd solches ist lange zeit bey
+jhnen geblieben / vnd geben die Preussen zwar noch sehr geringe De=
+cem / auch wol die Deutschen / denn da man zuuoren ein Scheffel
+Rocken vnd ein scheffel Habern gegeben hat / gibt man jetzunder für
+beydes nicht gern 6. Groschen. Das mancher trewer Seelsorger /
+so mit strafft / sich in allem Kummer behelffen mus. Vnd gehet
+den zu=`,
+    english: `[Page 350 -- Continuation of Plewissten story; Pobeten: sacred grove, Prussian rebellions, murder of pastors, tithe decline]
+
+[Plewissten story, continued] ...pitiful cries, but his household came to investigate what manner of cry it was, and found nothing but the [dead man's remains?] and a small spear [Spieslein] lying on the ground... which he had carried.
+
+[Verse by Doctor Ambrosius Lobwasser] Doctor Ambrosius Lobwasser [1515-1585, German jurist and poet, famous for his Psalter translation] von Seuffern [i.e. 'on drunkards']:
+
+A drunkard / is nobody's friend, / And since he... / Serves only the belly, / Forgets God / Only drinks and grows fat, / Such undigested [fare] / He often spits back up, / For him sulfur and pitch are prepared [in Hell].
+
+[Gazetteer] Plustofonts d. 7.
+
+[Pobeten] Pobeten [Romanovo] L. 15. There is still a forest there that they [the Old Prussians] formerly held as sacred; it has recently been felled.
+
+[Conquest of Pobeten] Under Helmerich [Heinrich von Weida?], the sixth Landmeister [Provincial Master] in Prussia, the Order captured the fortress of Pobeten.
+
+[Bonse's rebellion] At Pobeten there was a Kemerer [chamberlain/elder] named Bonse who wanted to have two wives. The Order's Brothers would not allow this, so he persuaded the Prussians, especially the Pogesanians [Pogezanen], to revolt for the third time. For this he was put to the sword, and the Pogesanians, who had done much damage, were also subdued.
+
+[Year 1283] In 1283, this district was shamefully ravaged by 800 Lithuanians.
+
+[Under Grand Master Gottfried von Hohenlohe, r. 1297-1303] Under Grand Master Gottfried von Hohenlohe [Hochmeister, r. 1297-1303], many Samians [Sambians, people of Samland] became rebellious, because Bodowo and other friends who had incited the rebellion had been hanged.
+
+[Murder of pastors] Also because a parson had had many [Prussians] imprisoned for [non-payment of] tithes [Decens/Dezem], they in turn murdered and killed many parsons shamefully. But the people of Pobeten sent their parson to Konigsberg and sent word to the Order: 'See, protect your God['s servant] yourself -- we cannot protect him.'
+
+The Order drove out the murderers, who had to flee to Lithuania. However, it was then decreed that those who had not killed their priests should pay their parson only 12 Pfennig per person per year, and no more. This [low rate] remained with them for a long time. And the Prussians still give very small tithes, as do the Germans, for where previously one gave a bushel [Scheffel] of rye and a bushel of oats, now one barely gives 6 Groschen for both. So that many a faithful pastor who does not [supplement his income through] punishment must make do in utter poverty [Kummer]. And it goes...`,
+  },
+  "p368": {
+    original: `[Printed page 351]
+
+den zuhörer auch. Quod non capit Christus, b
+Was man Gott nicht gönnet / mus man den
+
+Historia wie die Samen eine
+oder geopffert habe.
+
+Es hat vnser lieber fromer Gott ein zeitlang Fische die fülle
+bescheret / was theten aber gottlose vndanckbare Buben: Henckten die
+Fische mit den schwentzen auff / berüpten sie sprechende: jhr solten so bald
+nicht wider kommen. Was geschicht: Gott entzeucht jhnen seinen
+gnedigen Segen nicht / endlich / das sie der Fische wenig genug fin=
+gen / derhalben hetten sie den Segen Gottes gern wider gehabt /
+suchten jhn aber nicht recht / Sondern es schlugen sich sechs Dörffer
+im Pobetischen Kirchspiel zuhauff / vnd wehlen anno 1553. einen
+Wortslaiter / nach alter Preuscher gewonheit / keuffen zwölff tonnen
+Bier / nemen eine fette Saw / darüber der Wortslaite etliche Abgöt=
+tische Gebete thut / jhre Abgötter anruffet / jhnen wider glück zu=
+geben / darnach schlachtet er die Saw in heissen des Volcks beyder=
+ley Geschlechts / solcher sechs Dörffer / brattens / fressen / fauffen
+bis in den siebenden tag. Das Eingeweide / Knochen / vnd was
+sonsten vbrig / verbrannen sie wie ein fewer. Das kam für die Herr=
+schafft / derhalben wurd dem Vogt zu Schackaw N. vom Drabe
+befohlen solche einzuziehen / vnd hart zustraffen / wie denn auch ge=
+schach.
+
+Ein Kinde mit zweyen Köpffen.
+
+Anno 1583. den 18.
+Aprilis / zwischen acht vnd
+neun / nach der abent Mal=
+zeit / ist zu Pobeten ein Hin=
+in gewesen / die hat jre rech=
+te zeit vnd wetagen ge=
+krigt / derhalben sie wol 14.
+Nachbars weiber zu sich ge=
+fordert / das Kindt ist aber
+wider jhren willen mit den
+Füssen kommen / ein seiner
+wolgestalter leib eins Megd=
+leins / aber der Kopff hat
+keines weges fort gewolt / derhalben sie mit gewalt darzu gethan / vnd
+ist der Leib im Helsgen vom Kopffe abgerissen / welchem / das man jn
+von der Mutter brechte / den hirnschedel gar verbrechen müssen / denn
+es wie zwey Köpffe gleichsam hinten zusammen gewachsen / zwey antlitz=
+ke / doch nur zwey Ohren / weit herabe gehabt hat / ist gen Königs=
+berg geschicket worden / von menniglich / auch Fürstlichen personen be=
+sehen / entlich / auff den Steindahm begraben / wie im offentlichen
+Truck vermeldet worden.
+
+Robuniken R. 17. Podollen sich Treifaltigteit.
+Pogansteen.`,
+    english: `[Page 351 -- Pagan sacrifice by Sambians at Pobeten in 1553; a child born with two heads at Pobeten in 1583]
+
+[Continuation] ...the parishioners too. Quod non capit Christus [what Christ does not receive]... What one does not grant God, one must [give to the tax collector].
+
+[How the Sambians made a pagan sacrifice]
+
+Our dear, pious God had for some time provided fish in abundance. But what did the godless, ungrateful rogues [Buben] do? They hung the fish up by their tails, plucked them, saying: 'You shall not come back so soon!' What happened: God withdrew His gracious blessing from them -- so completely that they caught very few fish. Therefore they wanted God's blessing back, but did not seek it rightly.
+
+[Pagan ceremony, 1553] Instead, six villages in the parish of Pobeten banded together, and in the year 1553 they elected a Wortslaiter [a traditional Old Prussian priest/ceremony leader], following ancient Prussian custom. They bought twelve barrels [Tonnen] of beer, took a fat sow [Saw], over which the Wortslaiter said certain idolatrous prayers [Abgottische Gebete], invoking their idols to give them good fortune again. Then he slaughtered the sow in the name of the people of both sexes [beyderley Geschlechts] from the six villages, roasted it, and they ate and drank [fressen / fauffen] for seven days. The entrails, bones, and whatever was left over they burned like an offering [fewer = Feuer, fire]. This came to the attention of the authorities [Herrschafft], and the Vogt [bailiff] at Schaaken [Nekrasovo] was ordered by the Drabe [?] to arrest them and punish them severely, which was done. [A remarkable late survival of Old Prussian paganism, over 300 years after the Teutonic conquest.]
+
+[A child with two heads]
+
+[Woodcut illustration of a child's head with two faces]
+
+In the year 1583, on the 18th of April, between eight and nine [o'clock], after the evening meal, at Pobeten, a woman [Hin = Hinne?] was in labor, who had gotten her rightful time and pains. She summoned about 14 neighbor-women [midwives]. The child came feet-first [breech birth], a fine well-formed body of a girl [Megdlein], but the head would not come out at all. They therefore used force, and the body was torn from the head at the neck [Helsgen]; to extract [the head] from the mother they had to break the skull completely, for it was as though two heads had grown together at the back, with two faces but only two ears, set far down. [The remains] were sent to Konigsberg to be viewed by everyone, including princely persons, and finally buried at the Steindamm [a district of Konigsberg], as was reported in public print [offentlichen Truck].
+
+[Gazetteer] Robuniken R. 17. Podollen -- see Dreifaltigteit [Trinity]. Pogansteen.`,
+  },
+  "p369": {
+    original: `[Printed page 352]
+
+A. 21. stehet aber in der Mappa Era=
+auch also heisset.
+lich Krücken.
+
+sein gewesen / da jetzst Brandenburg das
+Schlos sp... E. 12n. weit daruon / vnd ist ein Schlacht alda
+geschehen / die in Natangia beschrieben ist.
+
+Pogesania oder Pogesantz. Deutsch Hochter=
+Landt / liget zwischen Wassern / Frischen Haff / Passerge / Weyhse /
+Drauszen vnd Elbing / hat seinen namen vom Fürsten Pongo / so
+gewohnet hat auff dem Berge Tolcko / ietzunder Schafftsberg / hat
+keinen Son / sondern nur drey Töchter gehabt.
+
+Mita nam einen Man / wonet auff des Vattern Festung /
+Cadina nam auch einen / wonet auff einem anderen Berge / den sie
+nach jhrem namen nante. Pogia blieb Jungfraw / wonet im
+Eichwaldt beim Elbing / ein Weidkottin / Heinen Geschlechts / gar
+würdig gehalten. Auch wird dis Landt jhrethalben Pogesania
+geheissen. Anno 1422. ist ihr Börtigen zum Elbingen im Non=
+nen Closter gefunden worden / so einer halben Elen weit gewesen ist.
+
+In diesem Land hat man auch für zeitten Silber Ertze gegraben /
+aber es hat einen guten Meister haben wollen / hat nicht viel einge=
+bracht / auch sein die Leut der arbeit baldt vberdrüssig worden. Doch
+bey Kniprods zeiten sol man viel gefunden haben. So sol da=
+mals die Marck lötiges silbers 11. fierdung Preuscher Müntz gegol=
+ten haben.
+
+Vmbs Jahr 1279. Nam Br. Ditterich der Rodt Cont=
+phur zu Christburg / von Wepurn vnd Pilgrims 100. Man / zog
+damit in Pomezanien / raubte vnd brennet. Als er aber wider zu
+haus kerte / hette sich ein mächtiger hauff Pogezenen versamlet / die
+jhm nachreiteten / da aber die Brüder sahen / das sie jhnen nicht ent=
+kommen konten / wanten sie sich vnd schlugen manlich darein / vnd
+Gott halff / das der Pogezenen mechtig viel / von wenig Deutschen
+erschlagen / darzu auch viel gefangen wurden / welche da sagten / sie
+hetten in der lufft / eine schöne Jungfrawen / mit des Ordens Fah=
+nen gesehen / die hätte sie so hart erschreckt / das sie sich nicht hätten
+wehren können.
+
+Anno 1273. als die Pogezeten auff Lipparts Mühlen
+für dem Elbing so meineydiq gehandelt hetten / kamen die Ordens
+Brüder dasselbig zurechen / zogen die quer vnd lenge durch das
+Landt / erwürgten alles was Mänlich war / Weib Kindt vnd Vihe
+fureten sie hinweg / da wurd ein weil friede.`,
+    english: `[Page 352 -- Pogesania (Pogezanien): regional description, origins, silver mining, Teutonic Order campaigns]
+
+[Top of page, continuation] A. 21 -- it also appears on the map as Era[...], also called [...] Krucken [crutches?].
+
+...it used to be where the castle of Brandenburg [Ushakovo] now stands, E. 12n, far from there, and a battle took place there which is described under Natangia.
+
+[Pogesania or Pogesantz] Pogesania or Pogesantz [Pogezanien, one of the Old Prussian tribal territories, roughly modern Elblag region]. In German: Hochterland [Highland]. It lies between waters -- the Frisches Haff [Vistula Lagoon], the Passarge [Pasleka river], the Weiße [Wąska?], the Drausensee [Lake Druzno], and the Elbing [Elblag river]. It takes its name from the prince [Furst] Pongo, who dwelt on the hill of Tolcko, now [called] Schafftsberg [Schlossberg?]. He had no son, but only three daughters.
+
+[The three daughters] Mita took a husband and lived on her father's fortress. Cadina also took a husband and lived on another hill, which she named after herself. Pogia remained a maiden [Jungfraw] and lived in the oak forest [Eichwaldt] near Elbing [Elblag], a Weidkottin [a noble Prussian woman?] of the Heinen clan, held in great esteem. The land is named Pogesania after her. In 1422, her portrait [Bortigen] was found at Elbing in the convent of nuns, and it was half an ell [about 30 cm] wide.
+
+[Silver mining] In this land, silver ore [Silber Ertze] was also mined in former times, but it required a good master [craftsman]; it did not bring in much, and the people quickly grew tired of the work. However, in the time of [Grand Master Winrich von] Kniprode [r. 1351-1382], much is said to have been found. At that time, a mark of refined silver [lotiges Silbers] was reportedly worth 11 Vierdung [quarters] of Prussian coin.
+
+[Year 1279 -- Teutonic campaign] Around the year 1279, Brother Dietrich der Rote [Dietrich the Red], Komtur [Commander] of Christburg [Dzierzgon], took 100 men from Wepurn [?] and pilgrims, and marched into Pomesania, plundering and burning. But as he was returning home, a mighty host of Pogesanians assembled and pursued him. When the Brothers saw they could not escape, they turned and struck manfully, and God helped so that very many Pogesanians were slain by the few Germans, and many were also captured. The captives said they had seen in the sky a beautiful maiden [Jungfrawen] bearing the Order's banner, who had so terrified them that they could not fight. [A classic miraculous-vision narrative from Teutonic Order historiography.]
+
+[Year 1273 -- Punitive campaign] In 1273, after the Pogesanians had dealt treacherously at Lippart's Mill before Elbing, the Order's Brothers came to avenge it, marching through the land in every direction, killing everything male [Mannlich], and driving away women, children, and livestock. Then there was peace for a while.`,
+  },
+  "p370": {
+    original: `[Printed page 353]
+
+wurden sie von einem Potsilde gewarn / ledig 9
+für / fiengen sie / den anderen erschlugen sie
+von. Damals stillet der Vogt von S=
+Natangers / vnd Ermers / so schon auch zu=
+ten / das sie stille sassen / vnd zufrieden w=
+die Pogezenen / welche damals nicht in Littawen e... n. a. / alle er=
+schlagen.
+
+Anno 1311. Kam der König von Polen Loctecus / vnd ver=
+wüstet dis Landt / neben andern mehr Leuben.
+
+Wie es diesem Lande im Grossen Kriege / b. d auch in dem
+Polnischen ergangen sey / mag man bey den Steden dieses Landes=
+sehen.
+
+Polecken Y. 14.
+
+Pölplin W. 6. Ein reiches Closter Ordinis Sancti
+Bernhardi / auff Pomerellen / von Semiboro Schwantipolis Sohne
+etliche sagen Bruder gesiifftet / vnd reichlich begabet / vnd also ge=
+nant nach seinem Weibe oder Amasa / so alda mit der Geburt geble=
+ben ist. Ein alte Chronica Schlubuttens sage von Mestwino
+anno 1274. Doctor Wolffgang Jost setzt anno 1174.
+
+Zur zeit Conradi Zölners des Hoemeistters / wurd ausstössig
+ein Ritter Abraham Sipuski genant / mit Johan Grapidola Cona=
+wischen Bischoffe / derenthalben er dem Bischoff einsaget / thet auch
+grossen schaden / darneben auch dieses Closters Gütern / so mit des
+Bischoffs Landen gren tzeten. Die Mönch klagtens wol / aber
+niemandt wolte Rechts helffen / denn sie förchteten sich für dem Ritter.
+Da war ein Leyenbruder zu Pölplin / Br. Gregorius Jierhart ge=
+nant / der sich mit etlichen Bawren denen schad geschehen war / auff=
+machte / vnd mit viel schlegen den Ritter fingen / füreten jhn auff
+das wüste Schlos Sartowitz oder Schertowitz / die Polen ehrten
+viel darumb / halb nichts / vnd muste sich gleichwol verschreiben / den
+Bawren das jhre wider zuerstatten / vnd thets auch / so viel er könte.
+Das heist Vim vi repellere licet.
+
+Anno 1433. Im Ketzer Krige ward dis Closter von den
+Böhemen vnd Polen sehr beschediget.
+
+Polomein V. 26. Ist ein schöner Hoff Fr. Drht. in
+Preussen zugehörig. Im Oletzckischen Ampte / am flus Hasen ge=
+nant / bringe aber den vnkosten nicht wol ein.
+
+Pomerellen das ist klein Pomern. Ist ein sonder=
+liches Landt / ausserhalb dem Preusserland / vngefehrlich 15. Mey=
+len lang / vnd 8. breit / auch wol weniger / ha + t denn die Ströme ge=
+hen die da grentzen. Von Preussen scheidet es die Weisfel / von Po=
+len oder der Crohan / der flus Bra / gegen Pomern oder Cassuben die
+Laiwo / vnten die offenbare See. Etliche haben das Haff vnd Na=
+goit zu=`,
+    english: `[Page 353 -- End of Pogesania; Polplin (Pelplin) monastery; Pomerellen (Pomerelia) introduction]
+
+[Pogesania, continued] ...they were warned by a Potsilde [lookout?], freed [some captives?], caught some, and slew the others. At that time the Vogt [bailiff] of [Schaaken?] pacified the Natangians and Ermers [Ermlaenders?], who had also been [restive], so that they sat still and were content, [while] the Pogesanians, who had not at that time [fled] to Lithuania, were all slain.
+
+[Year 1311] In 1311, King Lokietek [Wladyslaw I Lokietek, 'the Elbow-High', King of Poland r. 1320-1333] came and devastated this land, along with other [territories].
+
+[Reference] How this land fared in the Great War [Thirteen Years' War] and also in the Polish [War] can be seen under the entries for the towns of this land.
+
+[Gazetteer] Polecken Y. 14.
+
+[Polplin / Pelplin] Polplin [Pelplin, in modern Pomerania] W. 6. A rich monastery of the Order of St. Bernard [Cistercians], in Pomerellen [Pomerelia], founded by Semiboro [Sambor II], the son (some say brother) of Swantipolk [Swietopelk II, Duke of Pomerania, d. 1266], and richly endowed. It was named after his wife or [a woman named] Amasa, who died there in childbirth. An old chronicle of Schlubutten [?] says [it was founded] by Mestwin [Mestwin II, Duke of Pomerania] in 1274. Doctor Wolfgang Jost dates it to 1174.
+
+[Conflict with a knight] In the time of [Grand Master] Conrad Zollner [von Rotenstein, r. 1382-1390], a knight named Abraham Sipuski [?] fell into conflict with Johan Grapidola [?], the Bishop of Konawitz [?]. He renounced [obedience to] the Bishop, and did great damage, including to this monastery's estates, which bordered the Bishop's lands. The monks complained, but no one would help with legal proceedings, for they feared the knight.
+
+Then there was a lay brother [Leyenbruder] at Polplin, Brother Gregorius Jierhart by name, who together with some peasants who had been harmed, rose up and with many blows captured the knight. They brought him to the abandoned castle of Sartowitz [Sartowice] or Schertowitz. The Poles made much fuss about it, [but it] was half for nothing, and [the knight] still had to give a written guarantee to compensate the peasants for their losses, and did so as far as he could. This is called 'Vim vi repellere licet' [It is lawful to repel force with force].
+
+[Year 1433 -- Hussite Wars] In 1433, during the Hussite War [Ketzer Krige = Heretics' War], this monastery was badly damaged by the Bohemians [Hussites] and Poles.
+
+[Gazetteer] Polomein V. 26 -- a fine estate [Hoff] belonging to the Princely Authority [Fr. Drht.] in Prussia, in the Oletzko [Olecko] district, on the river called Hasen [Hare]; but it does not cover its costs.
+
+[Pomerellen / Pomerelia] Pomerellen, that is Little Pomerania [Klein Pomern]. It is a separate land, outside of Prussia proper [Preusserland], approximately 15 miles long and 8 wide, or less, as the rivers that form its borders [dictate]. From Prussia it is separated by the Vistula [Weisfel/Weichsel]; from Poland or the Crown [Crohan/Krone] by the river Bra [Brda/Brahe]; toward Pomerania or Kashubia [Cassuben] by the Laiwo [Leba?]; and below [to the north] the open sea [Baltic]. Some [writers] count the Haff [lagoon] and Nagoit [?] as...`,
   },
 };
