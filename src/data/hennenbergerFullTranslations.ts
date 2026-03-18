@@ -1,5 +1,5 @@
 // Auto-generated from hennenberger_full_translations.jsonl
-// Generated: 2026-03-18T18:57:25.626Z
+// Generated: 2026-03-18T19:21:38.629Z
 // Run: node integrate_hennenberger_translations.js
 
 export const hennenbergerFullTranslations: Record<string, { original: string; english: string }> = {
@@ -28960,5 +28960,3270 @@ In 1521, on Thursday after Oculi [3rd Sunday in Lent], the Grand Master Margrave
 [Gazetteer] Tolcks 8. 18. / Tolcksdorff T. 20, near Rastenburg [Ketrzyn]. / Tolcksdorff S. 13, near Mehlsack [Pieniezno]. / Trampen T. 4. / Transporn, see Preussisch Marck.
 
 [Response to a critic] When I had my booklet on Old Prussia [von Alten Preussen] printed, someone appeared calling himself Christian Pfaff -- who may well be no [real] priest [Pfaff] of Christ -- who wrote me a rude [vnwisken] letter, sent it by unknown means, and I did not know where it came from; the date read 'Agathopolis' [City of the Good, a pseudonymous location]. In it he praised my work and said it was well worth reading, if only I had not [been] so harsh...`,
+  },
+  "p531": {
+    original: `gefl. P. 16. Zu Zintthen.
+Sar. fl. V. 14. Strengel See T. 25.
+Strige See P. 25. Strige See X. 19.
+Strumpki See Y. 19. Sinne See c. 16.
+
+Szaren See R. 28. Szaren heist Schwartz / nicht weit von Jarcken.
+Szaren See a. 16. bey Gedwabenen.
+Szaren See vber Ariss X. 24.
+Szaren See b. 16. vber Neidenburg.
+Szaren fl. a. 16.
+
+Szerung See Y. 14. vnd dieser See sol was weiter vom Hoenstein / vnd neher Schönfelt ligen / denn es versehen ist.
+Sezubil See L. 22. Ist anderthalb Meilen lang.
+Sezubilitte See L. 22. 1 halbe Meilen lang.
+Szuss fl. D. 24.
+Szweruppe fl. N. 23. felt durch viel kleiner fliesgen in die Deme.
+
+T.
+
+Tabe fl. K. 21. Kompt aus der Gilge / felt in das Curisch Haff.
+Tacke fl. L. 19.
+Tange fl. C. 21. Entspringt in Samaitten aus einem Gebruch / vmbleusst erstlich die Stadt Memmel / darnach auch das Schlos / felt in das Curisch Haff nicht weit von der offenbaren See.
+
+Tazastzagis fl. G. 21. Ist mit dem H verzeichnet / Ist ein Arm aus der Russe.
+Thabor See Y. 15. Tharn See Y. 17.
+Tenne fl. T. 9. Klein Tenne fl. T. 9.
+
+Theuppe fl. H. 21. Ist mit dem E verzeichnet in der Mappen.
+
+Tieffe das Erste O. 15. Dis Tieff ist gewesen hart bey dem Schlos Lochstete / do dann ein + in der Preuschen Mappen verzeichnet ist / vnd ist gar ein schönes Tieff gewesen. Aber anno 1311. vnter Seyfried von Feuchtwangen / waren 3 greulicher Sturmwinde / einer im Aust / der ander auff Donati / der dritte auff Michaelis / vnnd erfüllete dis Tieffe. Milselts Cronica sagt es sey Anno 1311. Im Aust vnter Carolo Pessart geschehn. Doch saget auch Simon Grunaw Tr. 14. ca. 2. das es sey Anno 1395. vnter Conrado von Jungingen dem Hoemeister geschehn / vnd ein newes tiegen Rosenberg vber 9 Fadem tieff ausgerissen sein.
+
+Das ander Tieff genant P. 15. Als sich nun das Erste / oder das Lochstettische Tieffe erfüllete / da erfüllet sich auch das fliss zwischen dem Vogler vnd Schmeergruben. Vnnd riss das andere`,
+    english: `[Gazetteer entries, letter S continued, then T begins]
+
+[Various lakes and rivers] Strengel See T. 25. Strige See P. 25, X. 19. Strumpki See Y. 19. Sinne See c. 16.
+
+Szaren See R. 28 -- 'Szaren' means 'Black' [Schwartz], not far from Jarcken [Yarkino]. / Szaren See a. 16, near Gedwabenen. / Szaren See beyond Arys [Orzysz] X. 24. / Szaren See b. 16, beyond Neidenburg [Nidzica]. / Szaren River a. 16.
+
+Szerung See Y. 14 -- and this lake should lie farther from Hohenstein [Olsztynek] and closer to Schonfelt than shown.
+Sezubil See L. 22 -- one and a half miles long.
+Sezubilitte See L. 22 -- half a mile long.
+Szuss River D. 24.
+Szweruppe River N. 23 -- flows through many small streams into the Deme [Deyma River].
+
+[Letter T]
+
+Tabe River K. 21 -- comes from the Gilge [a branch of the Neman/Memel], flows into the Curonian Lagoon [Curisch Haff].
+Tacke River L. 19.
+Tange River C. 21 -- rises in Samogitia [Samaitten] from a bog, flows first around the town of Memel [Klaipeda], then also the castle, and empties into the Curonian Lagoon not far from the open sea.
+
+Tazastzagis River G. 21 -- marked with 'H' [on the map]; is a branch of the Russe [Rusne River].
+Thabor See Y. 15. Tharn See Y. 17.
+Tenne River T. 9. Klein Tenne River T. 9.
+
+Theuppe River H. 21 -- marked with 'E' on the map.
+
+[The Tief -- the deep-water channels of the Vistula Lagoon]
+
+Tieffe [the First Deep] O. 15. This Deep [channel] existed near the castle of Lochstedt [Lochstadt/Pawlowo], where a cross (+) is marked on the Prussian map, and it was a very fine channel. But in 1311, under [Grand Master] Siegfried von Feuchtwangen, there were 3 terrible storms -- one in August, another on [the feast of] Donatus, the third on Michaelmas [September 29] -- and they filled up this channel. Milselt's Chronicle says this happened in 1311 in August under Carolus Pessart [Karl von Trier?]. But Simon Grunau (Tr. 14, ch. 2) says it happened in 1395 under Conrad von Jungingen, the Grand Master, and a new [channel] was torn open opposite Rosenberg, over 9 fathoms [Fadem] deep.
+
+[The Second Deep] P. 15. When the First, or Lochstedt Deep, filled up, the channel between the Vogler and Schmeergruben also filled, and the second [deep channel] was torn open...`,
+  },
+  "p532": {
+    original: `andere Tieff / gegen der Balge vber / so man fort bi nennet.
+
+Anno 1455. den 15. Aprilis / Ist ein Fisch gefangen beim Balgischen Tieff / auff seiner seitten / vnd todt an das Land der Frischen Nerung angebracht worden.
+
+Dieser Fisch ist 66 Schu lang gewesen / hat stumpffe Zeene gehabt / von Farben grawweiss. Den Fisch haben sie ausgelegt / weil er gros / werde ein grosser Lerm im Lande werden / als denn geschach zwischen den Städten Königsberg 14. wochen lang / bald darnach Auffruhr zu Thorn / da dann 72 Personen enthauptet wurden / wie auch zu Dantzigk in Vierten Roggen Auffruhr. Das er tod ankommen / solte der Orden das Land / bis an denselbigen ort verlieren / vnd die lenge 66 Schue / so solte der Krieg bis in das 66 Jar weren / vnd darnach auffhören / wie dann auch geschehen.
+
+Im grossen Kriege.
+
+Anno 1456. acht tage nach Ostern im grossen Kriege wardt die Tieffe binnen vnd baussen Haffes mit grossen vnkosten versüllet / Dann es ein Tieff von 15 Ellen war / aus der See bis mitten in das Haff den Königspergern / Elbingern / Braunspergern / Frawenburgern / vnd Tolckemieten gar müglich. Dis gedachten die Dantzker jnen zubenehmen / vnd allen handel gen Danzig zu bringen / brachten es auch dartzu / das es nur 3 Ellen tieff wasser hatte.
+
+Im Polnischen Kriege.
+
+Im Polnischen Kriege Anno 1520. auff Gertrudis / kamen die Dantzker vnd verpfheleten das Balgische oder Alte Tieffe / vnd versenckten es mit einem alten Holtz / einer Bartschen / vnd mit zweyen alten Böten mit steinen beladen.
+
+Darnach im selbigen Jahram 9 Junij / ward es binnen Haffes versencket mit 5 Weisselbahnen / darinnen waren Rasten geschürtz von grossen Rahnen / vnd mit steinen gefüllet / solches haben die Dantzker gethan / in einem versiegelten beyfrieden / als der Hoemeister bey dem König zu Thorn ware.
+
+Anno 1561. schlug ein Junger Walfisch zwischen dem Alten Tieffe / vnd der Scheute zu Land / vnnd blieb auff dem Sand ligen / war Fünff Klafftern dicke vnnd Neun Klafftern lang / wurd davon zwölff Last in das Saltz gehawen / ohne das Fette / vnnd was sonsten im Wasser verdarb.
+
+Das itzige Tieff O. 15. Anno 1510 auff Sancti Eusemis tag / ward ein gar grosser sturm aus dem Norden / warff viel Giebel vmb / vnd riss ein new Tieff / zwischen den vordrigen zweyen`,
+    english: `[Page continues -- the Tief channels of the Vistula Lagoon]
+
+...the other Deep, opposite the Balga [Veslovo], which is still called [the Balga Deep].
+
+[Prophetic fish, 1455] In 1455, on April 15th, a fish was caught at the Balga Deep, on its side, and brought dead to the land of the Frische Nehrung [Vistula Spit].
+
+This fish was 66 Schuh [feet] long, had blunt teeth, and was grey-white in color. They interpreted the fish [as an omen]: because it was large, there would be great unrest in the land -- as indeed happened between the cities of Konigsberg for 14 weeks, and soon after an uprising at Thorn [Torun] in which 72 persons were beheaded, and also in Danzig the 'Fourth Rye Uprising.' That it came ashore dead meant the Order would lose the land as far as that place; and the length of 66 feet meant the war [the Thirteen Years' War] would last 66 years and then cease -- as indeed happened.
+
+[In the Great War (Thirteen Years' War)]
+
+In 1456, eight days after Easter, during the Great War, the Deep was filled up [versullet] both inside and outside the lagoon at great expense. For it was a channel of 15 ells [Ellen] depth, from the sea to the middle of the lagoon, and was very useful to the Konigsbergers, Elbingers, Braunsbergers [Braniewo], Frauenburgers [Frombork], and Tolkemiters [Tolkmicko]. The Danzigers intended to deprive them of this and bring all trade to Danzig; they managed to reduce it to only 3 ells of water depth.
+
+[In the Polish War]
+
+In the Polish War, in 1520, on [the feast of] St. Gertrude [March 17], the Danzigers came and blocked the Balga or Old Deep, sinking an old timber vessel, a barge [Bartschen], and two old boats loaded with stones.
+
+Then in the same year, on June 9th, [the channel] was blocked within the lagoon with 5 Weichsel-barges [Weisselbahnen], loaded with frames [Rasten] from great rafts [Rahnen] and filled with stones. The Danzigers did this during a sealed truce, while the Grand Master was with the King at Thorn.
+
+[Whale, 1561] In 1561, a young whale stranded between the Old Deep and the Scheute, remaining on the sand. It was 5 fathoms [Klafftern] thick and 9 fathoms long; 12 Last [about 24 tons] were cut into salt [i.e., salted down], besides the fat and whatever else spoiled in the water.
+
+[The Current Deep] O. 15. In 1510, on St. Eusemius' day, a great storm came from the north, toppled many gables, and tore open a new Deep between the two previous ones...`,
+  },
+  "p533": {
+    original: `gehen / vnd dem vnter Lochstetten : war erstlich drey ff / doch nam es mit der zeit sehr ab / Bis das Balgische in den Dantzkern gantz versüllet wurdt: Do ward dis darnach besser / vnnd ist fort ein gar gutes Tieffe. Also geschicht was Gott wil / Deo dante, liuor nihil obstat. Der gnedige Gott kan dem schnöden Neide wehren.
+
+Im Polnischen Krieg.
+
+In der Osterwochen Anno 1520 kamen die Dantzker das Newe Tieff der Königsberger zuerpfeelen / vnd versencken. Do schickt der Hoemeister Volck hinaus / vnd die 3 Städte auch 100 Man / wiewol vngerne: Do wurd den Dantzkern / so das Tieff verpfödten 2 Jagt in den grund geschossen / auch etzliche andere Schiff zerschossen / So kamen etzliche auch durch das vngewitter vmb / so hat man auch 2 mit Fewer sehen verbrennen. Am Freytag hernach liess man die Tieffe besehen / vnnd man sand sie beyde rein / dann der strom das Alte auch gereiniget hatte / vnd man sand zwischen beyden Tieffen am rande 3 Prome mit Kasten verschüttet vnd 5 Jagte so zuschossen vnd zu Lande getrieben waren. So halff vnser lieber Herre Gott das die Feinde / mit grossem schaden abziehen musten.
+
+Anno 1577. als der Dantzker Krieg war / hat der Fürst aus Preussen / durch sein Kriegs Obersten / Landsknechte angenommen / dieselbige auff Schiffe gesetzt. Im Tieffen vnd der Pillaw gehalten / dieselbigen ort zubeschützen.
+
+Thim See a. 14. Tilenen See X. 25.
+Timber fl. M. 22. Tlorzilaw See Y. 27.
+
+Trauppel See Z. 9. Ein schöner See in dem Schönbergischen / vmb welches willen der Herr von Schönberg / vnnd der von Bretchen lang im Zanck gelegen haben: Denn der H. von Bretchen wil auch einen ort darinnen fischen / aber der vom Schönberge wil es nicht zu geben.
+Troye fl. O. 23.
+Truckelin See X. 25. Trumantz Y. 10.
+
+V.
+
+Vbeling See W. 24. Verloren wasser S. 9.
+Vidimin See V. 24. der Oel See genant.
+Vincent fl. b. 25. Ist ein grentz flies an der Masaw / Im Johannsburgischen.
+Vlass S W. 25.
+Vlnis fl. G. 22. mit dem I. vorzeichnet.
+Vnre fl. R. 26.
+Vrstkoffski See V. 27.
+Dpale See X. 25.
+
+Wadung`,
+    english: `[Page continues -- the Tief channels continued; Polish War naval action; gazetteer V]
+
+...and [the channel] below Lochstedt: it was at first three [fathoms deep], but diminished with time, until the Balga [channel] was completely filled by the Danzigers. Then this [newer channel] improved and became a very good Deep. Thus happens what God wills -- Deo dante, livor nihil obstat [With God giving, envy cannot hinder]. The gracious God can overcome base envy.
+
+[In the Polish War]
+
+In Easter week of 1520, the Danzigers came to block and sink the New Deep of the Konigsbergers. The Grand Master sent forces out, and the 3 cities [also sent] 100 men, though reluctantly. Then 2 yachts [Jagt] of the Danzigers who were blocking the Deep were shot to the bottom, and several other ships were shot to pieces. Some also perished through the storm, and 2 were seen burning by fire. On Friday afterward, the Deeps were inspected, and both were found clear, for the current had also cleaned out the Old [Deep]. Between the two Deeps, at the edges, 3 ferries [Prome] with crates were found scuttled, and 5 yachts shot through and driven ashore. Thus our dear Lord God helped so that the enemy had to withdraw with great losses.
+
+In 1577, during the Danzig War [War of the City of Danzig against King Stephen Bathory], the Prince of Prussia [Duke Albrecht Frederick] had his war captain recruit Landsknechte [mercenary infantry], placed them on ships, and stationed them at the Deep and the Pillau [Baltiysk] to protect those positions.
+
+[Gazetteer continued]
+Thim See a. 14. Tilenen See X. 25. / Timber River M. 22. Tlorzilaw See Y. 27.
+
+Trauppel See Z. 9 -- a fine lake in the Schonberg [district], over which the lord of Schonberg and the lord of Bretchen [Barczen?] have long quarreled: for the lord of Bretchen also wants to fish in part of it, but the lord of Schonberg will not allow it.
+Troye River O. 23.
+Truckelin See X. 25. Trumantz Y. 10.
+
+[Letter V]
+
+Vbeling See W. 24. Verloren Wasser [Lost Water] S. 9.
+Vidimin See V. 24 -- called the Oil Lake [Oel See].
+Vincent River b. 25 -- a border stream on the Masuria [Masaw] frontier, in the Johannsburg [Pisz] district.
+Vlass S W. 25.
+Vlnis River G. 22 -- marked with 'I' [on the map].
+Vnre River R. 26.
+Vrstkoffski See V. 27.
+Dpale See X. 25.
+
+[Page ends with 'Wadung' -- continued on next page]`,
+  },
+  "p534": {
+    original: `VV.
+
+Wadung See X. 16. Wadang fl. X. 16.
+Waliste See T. 25. Walpusch Se. Z. 19.
+Walpusch flus b. 19.
+
+Walischa fl. T. 14. Entspringet aus des Herrn Truchsessen Münter See / leufft auff Plauten / Meelsack / vnd zu Wusen felt sie in die Passerge.
+
+Wangop See X. 19.
+Wangrappien fl. wurde offtmals in alten schrifften gedacht / ich achte es für die Angerap.
+Warsaw See Z. 24 vnd 25.
+Warsen fl. K. 23.
+Watste See I. 24.
+Warsskunide fl. S. 12. Ein grentz flies.
+
+Weeste oder Wesera fl. T. 12. entspringt aus den Weestschen Seen / leufft auff Holland / felt in den Drausen / vnd scheidet das Land Pomesau / vom Land Pogezan / das ist das Hockerland.
+
+Weeste See V. 13. Weiss See Y. 20.
+
+Weissel Lateinisch Vistula, Mechouius lib. 1. ca. 2. nent sie Vislam, Istulam vnd Vandalum. Iodocus Ludouicus Decius in vetustatibus Polonorum fol. 2. Vistulam Vandalum Istulam & Iustulam, wie auch Bilibaldus Pirckheimerus sie also nent / Joachimus Vadianus super Pomponii Mela / nennet sie Visula Iustula Iustilla / Istulam & Vistulam, vnd ist ein herlicher Strom / so auch Preussen von Pomerellen scheidet / Hat 3. Ostia / das eine theil kompt durch den newen Graben / wie mans nennet auff Dantzke / in den Codanum. Das ander theil scheidet sich zum Heupt ab / leufft hinten in das frische Haff / an zweyen enden. Das dritte theil scheidet sich vber Marienburg ab / heist der Nagot / leufft auff Marienburg / vnd weitter herab / im Werder vnten theilet er sich auch / vnd kompt in das frische Haff / wie in der Mappen zusehen ist.
+Wo die Weissel entspringt / vnd was sie für flisser zu sich neme / was für Stedte vnd Schlösser daran ligen / mag man in Cromeri Polonia / fol. 25. lesen.
+
+Anno 1430. den 1. Aprilis / brach die Weissel aus / vnd liess ins Werder vnd Mottlaw / vnd bis an die Stadt Dantzke.
+
+Anno 1518. den 13. December / war die Weissel so gros / das beyde Werderer acht tage darbey musten ligen / auff etzlichen enden must man drey Delen hoch vber den Tham bringen / da brach sie aus / bey der Nerung / vnd thet grossen schaden.
+
+Anno 1526.`,
+    english: `[Page -- Letter W gazetteer; the Vistula River (Weissel/Wisla)]
+
+[Letter W / VV]
+
+Wadung See X. 16. Wadang River X. 16.
+Waliste See T. 25. Walpusch See Z. 19.
+Walpusch River b. 19.
+
+Walischa River T. 14 -- rises from the Herr Truchsess' Munter See [lake], flows via Plauten and Mehlsack [Pieniezno], and at Wusen falls into the Passarge [Pasleka River].
+
+Wangop See X. 19.
+Wangrappien River -- frequently mentioned in old writings; I take it to be the Angerapp [Wegorapa River].
+Warsaw See Z. 24 and 25.
+Warsen River K. 23.
+Watste See I. 24.
+Warsskunide River S. 12 -- a border stream.
+
+Weeste or Wesera River T. 12 -- rises from the Weeste lakes, flows via Holland [Paslek], falls into the Drausen [Druzno Lake], and divides the land of Pomesania from the land of Pogesania [Pogezania], which is the Hockerland [hilly country].
+
+Weeste See V. 13. Weiss See Y. 20.
+
+[The Vistula -- Weissel] In Latin Vistula. Mechowius (lib. 1, ch. 2) calls it Visla, Istula, and Vandalum. Jodocus Ludovicus Decius in Vetustatibus Polonorum (fol. 2) calls it Vistula, Vandalum, Istula, and Iustula, as does Bilibald Pirckheimer. Joachimus Vadianus, commenting on Pomponius Mela, calls it Visula, Iustula, Iustilla, Istula, and Vistula. [Hennenberger cites multiple humanist authorities for the river's names.]
+
+It is a splendid river that also divides Prussia from Pomerelia [Pomerellen]. It has 3 mouths [Ostia]: one part comes through the 'new ditch' [Neuer Graben], as it is called, toward Danzig into the Codanum [Baltic]. The second part branches off at the main [channel], flowing into the Frische Haff [Vistula Lagoon] at two points. The third part branches off above Marienburg [Malbork], called the Nogat, flows past Marienburg and further downstream, dividing again in the lower Werder [lowland delta] and emptying into the Frische Haff, as can be seen on the map.
+
+Where the Vistula rises, what rivers it takes into itself, what cities and castles lie along it -- one may read in Cromer's Polonia, fol. 25. [Marcin Kromer's De origine et rebus gestis Polonorum.]
+
+[Vistula floods]
+
+In 1430, on April 1st, the Vistula broke out [flooded] and ran into the Werder and Mottlau [River], reaching the city of Danzig.
+
+In 1518, on December 13th, the Vistula was so high that both Werders [Great and Small Werder delta lowlands] had to endure it for 8 days. In some places, boards 3 planks high had to be placed over the dam [Tham/Damm]. Then it broke through near the Nehrung [Vistula Spit] and caused great damage.
+
+[In 1526 -- continued on next page]`,
+  },
+  "p535": {
+    original: `War grosser Schnee / da brach die Weissel Freytag etal in grossen Werder / bey dem Schönenberge aus / an orten / thet grossen schaden / wardt Anno 1527. mit grossen vnkosten wider gemachet.
+
+Anno 1528. vmb den Dominick aus / war ein grosses Schwartzes Wasser / in der Weissel bey Dantzke / wolt an vielen orten vberlauffen / thet auch oben im Lande grossen schaden.
+
+Weissel so vbergelauffen / das sie an dreyen enden vber die themme gieng / vnd brach aus für Dantzke / in das kleine Werder / thet grossen schaden / vnd das Wasser liess in die Mottlaw / welche so gros wardt / das man in den Speichern / das Saltz auss die Söller muste bringen.
+
+Anno 1538. war gahr klein Wasser in der Weissel / das also viel guts droben bleiben muste.
+
+Anno 1539. den 22. Februarij brach die Weissel aus in das kleine Werder / bey dem Kesemarck / versensst viel Vihes / vnd liess in die Mottlaw für Dantzke stundt bis auss den Fischmarck / versensst viel Saltz in Speichern / man kont von den Speichern mit Böten bis ins Werder fahren / wardt das Jahr noch wider gestopsst / kostet aber gros Geldt. Im Sommer aber ward die Weissel so klein / das man bey Graudents mit Pferden hindurch konte reitten.
+
+In Collectaneis D. Seuerini Göbelij stehet also geschrieben / welches ich mit itzgemelts für einen ausbruch halte. Anno 1540. Den Sontag für Matthiæ Apostoli brach die Weissel aus bey dem Kesemarck / vnd erseufft 17. Dörffer / vnd stundt das Wasser bis an die Techer an Heusern vnd versoff viel Vihes an Pferden / Kühen vnd Schweinen / vnd andern Vihe / vnd flos dis Wasser vber den Langen Garten / das man mit Kanen fahren muste / die Mottlaw stundt gleich hoch der langen Brücke / verdarb viel Saltz in Speichern / vnd stundt dis Wasser 14. tage lang.
+
+Anno 1542. vorm Dominick kam so gros Wasser die Weissel herab / das gleich dem Thamm stundt / 3. wochen lang / Da must man viel Volck aus Dantzke den Bawren im kleinen Werder zu hülff schicken.
+
+Anno 1543. Da brach die Weissel aus im kleinen Werder / gegen Ratzeffen vber / vnd liess bis in die Mottlaw / vnd stundt gleich der langen Brücken.
+
+Anno 1465. auff S. Elisabethen tag vnd die Nacht / hat sich ein so grosser windt erhaben / mit einem getümel vnd brausen / aus der See bey Dantzke vnd dem Haff bey Elbing / vnd vber die Temme gelauffen grausamen schaden gethan an der Münde / an Schiffen in der Mottlaw / in Speichern / an Saltz vnd anderer wahr / die lauge Gärten sein gar beslossen gewesen / die Weissel ist in dreien enden ausgerissen / vnd ist solch grausam gewesser nie erhöret worden / so lang Dantzke gestanden.
+
+Hernacher`,
+    english: `[Page -- Vistula floods continued, 1526-1465]
+
+[1526/1527] There was great snow; the Vistula broke out on Friday into the Great Werder near the Schonenberg, at [several] points, and caused great damage. It was repaired in 1527 at great expense.
+
+[1528] Around St. Dominic's Day [August 5], there was great black water [Schwartzes Wasser] in the Vistula near Danzig, threatening to overflow at many points and causing great damage in the upper country.
+
+[The Vistula overflowed] so that it went over the dams at three points and broke out toward Danzig into the Small Werder [Zulawy Malborskie], causing great damage. The water ran into the Mottlau, which rose so high that in the warehouses [Speichern] the salt had to be carried up to the lofts [Soller].
+
+[1538] There was very low water in the Vistula, so that much goods had to remain upriver.
+
+[1539] On February 22nd, the Vistula broke out into the Small Werder near Kesemark [probably a Werder village], drowning much livestock, and ran into the Mottlau before Danzig, reaching as far as the Fish Market [Fischmarck]. Much salt was ruined in the warehouses; one could travel by boat from the warehouses into the Werder. It was plugged again that year, but at great expense. In summer, however, the Vistula was so low that one could ride across it on horses at Graudenz [Grudziadz].
+
+[1540] In the Collectanea of D. Severinus Gobelius it is written (which I take to be the same flood): In 1540, on the Sunday before St. Matthias the Apostle [February 24], the Vistula broke out near the Kesemark and flooded 17 villages. The water stood up to the rooftops of houses; much livestock drowned -- horses, cattle, pigs, and other animals. The water flowed over the Langer Garten [Long Garden, a Danzig suburb], so that one had to travel by canoe. The Mottlau stood level with the Long Bridge [Lange Brucke]. Much salt was ruined in the warehouses, and the water stood for 14 days.
+
+[1542] Before St. Dominic's Day, such great water came down the Vistula that it stood level with the dam for 3 weeks. Many people from Danzig had to be sent to help the peasants in the Small Werder.
+
+[1543] The Vistula broke out in the Small Werder opposite Ratzeffen, and ran into the Mottlau, standing level with the Long Bridge.
+
+[1465] On St. Elizabeth's Day [November 19] and through the night, such a great wind arose with tumult and roaring from the sea near Danzig and the lagoon near Elbing, and ran over the dams, causing terrible damage at the Munde [river mouth], to ships in the Mottlau, in the warehouses, to salt and other goods. The Long Gardens were completely flooded. The Vistula broke through at three points, and such terrible flooding had never been heard of as long as Danzig had stood.
+
+[Thereafter -- continued]`,
+  },
+  "p536": {
+    original: `Hernacher ist wieder gros Wasser in der Weichsel ein vnnd bey Ratroben in das klein Werder gelauffen in die Mottlaw zu Dantzigk Holtz / Klapholtz vnnd Wagenschos hinweg grossen schaden gethan.
+
+Weill vergangenen Winter ein so vielfeltiger vnd tieffer Schnee gefallen / hat man sich auffs Vorjaw eines grausamen Wassers vnd Schadens zubeforchten gehabt / doch ist es gnedig im Fürstenthumb Preussen abgangen. Es ist aber im Königischem theil grosse noth gewesen / dann den 17. Martij / das ist der Freytag nach Fastnacht / nach vnsern Alten Calender / wie Hans Grosse schreiber / ist die höchste Themme beim Eddrichtes Hoffe durchgebrochen / vnd ist ein grausames vnuorbliches Wasser allda vber Themme. Das Land geworden / ist kein hülff noch retten alda gewesen / vnd ist der Nagot nicht allein in das gros Werder sondern auch in den Ellerwaldt sehr eingebrochen / dartzu hat sich ein starcker Nordenwinde erhaben / welcher die Wasser so da ausser der Weissel vnd Nagot strom gekommen / mit Gewalt herauffer getrieben / vnd hat in die Sechste Wochen gewehret / vnd sein die sehr vbel daran gewesen / so keine Böthe vnd Kähne beim Heusern gehabt / oder jhnen das Eis solche hinweg gerissen / vnd kein Brot noch Futter gehabt haben / vnd so lang auch das Eis gewehret / hat einer zum andern nicht wol kommen können / haben sich zu öberst vnter dem Dache erhalten / Innerhalb fünff Wochen kein Fewer machen können / damit sie etwas kochen / oder wermbde zu ihrer vnd ihrer Kinder Notturfft haben möchten / viel Viehes von Hunger vmbkommen / sintemal die Futterung vngleublich thewer gewesen / vnd letzlich vmb kein Gelt zukommen gewesen. Ein Schock Gersten Krumstroh ist willig für 6. Floren bezalet worden / ein Korn sack vol grob vntüchtig Hew für fünff Groschen. Ein Fuder Hew welches nicht fast gros für 22. Marck kauffet. Do hat man die richts wege vber Walle / Themme / vnd Land mit Böthen segelen können.
+
+Caspar Göbel schreibet seinem Bruder D. Sauerino das Margenburg in jhrer Osternacht das ist in vnserm 18 Martij / gegen der Stadt Margenburg vber das Wasser Nagot durch den Tham einen Riss 50. Ruthe lang / die Ruthen auff 15 schu gerechnet / ins Gros Werder genommen hab / grausamen Schaden gethan. Auch sein noch zweene grosse ausbrüche der Weissel im Grosse Werder vnter Dirschaw zu Parent geschehn / Einer 100 der Ander 50. Ruthen lang / grausamen schaden an Leuten / Viehe / Dörffern / Heusern / sonderlichen vnter Weyer / Ladekopff / Tyge / Schonesee / Margenaw gethan / vnd hat Heuser / Menschen / Küsten / Tisch / Bette vnnd ander Hausgeräthe mit ins Haff geführet / doch sollen sich etzliche auff dem Eis geborgen haben / vnnd rechnet solchen Schaden so Röm. May. Jährlichen einkommen an in die 40000. Floren geschehn.
+
+Emb`,
+    english: `[Page -- Vistula floods continued; catastrophic flood at Marienburg/Malbork area]
+
+[Continued] Thereafter, great water again entered the Vistula and at Ratroben ran into the Small Werder and the Mottlau at Danzig, carrying away wood, barrel-staves [Klapholtz], and wainscot [Wagenschos], causing great damage.
+
+[Major flood narrative] Because the previous winter had brought such deep and manifold snow, people feared a terrible flood in the spring -- and in the Royal [Polish] part of Prussia it was indeed severe. On March 17th, the Friday after Carnival [by the old calendar], as Hans Grosse the scribe reports, the highest dam near the Eddrichtes Hof broke through, and terrible, indescribable water poured over the dams. The land was flooded; there was no help or rescue. The Nogat [River] broke not only into the Great Werder but also into the Ellerwald. A strong north wind arose, driving the waters from the Vistula and Nogat upstream with force, and this lasted six weeks.
+
+[Suffering of the inhabitants] Those who had no boats or canoes at their houses, or whose ice had torn them away, and who had no bread or fodder, suffered terribly. As long as the ice lasted, one could barely reach one's neighbor. They took refuge under the rooftops. For five weeks they could make no fire to cook or warm themselves and their children. Much livestock perished from hunger, as fodder became unbelievably expensive and eventually unobtainable at any price. A shock [60 sheaves] of barley straw was willingly paid at 6 Floren; a sack of coarse, worthless hay for 5 Groschen; a cartload of hay (not even a large one) was bought for 22 marks. One could sail with boats over the roads, dams, and land.
+
+[Caspar Gobel's report] Caspar Gobel writes to his brother D. Severinus [Gobelius] that at Marienburg [Malbork], on their Easter night (that is, our March 18th), opposite the city of Marienburg, the Nogat tore a breach 50 Ruthen [rods] long through the dam (each Ruthe being 15 feet), flooding into the Great Werder with terrible damage. Also two more great breaches of the Vistula occurred in the Great Werder below Dirschau [Tczew] at Parent -- one 100, the other 50 Ruthen long -- causing terrible damage to people, livestock, villages, and houses, especially at Weyer, Ladekopff, Tyge, Schonesee, and Margenaw. Houses, people, chests, tables, beds, and other household goods were carried into the lagoon [Haff]. Some reportedly saved themselves on the ice. The damage is reckoned at up to 40,000 Floren of annual income to the Roman Imperial Majesty.
+
+[Continued...]`,
+  },
+  "p537": {
+    original: `hat man das Wasser wider gefangen / auch an etzlichen dremb Geisten hinein gesessen / vnd sol sehr wol siehen. Ser Herr Gott behüt ferner.
+
+Weissen See X. 24.
+
+Wengen See X. 21. Klein vnd gros. Das flies aus dem grossen Wengen sol einen guten Weg vnter der Erden lauffen / vnd darnach herfür kommen. vnd in Wirsbona fallen.
+
+Wentschen See W. 23. Wentschen fl. X. 23.
+Wewirsche fl. 6. 3. Weyer See c. 12.
+Wusse fl. I. 24. Miartel See a. 24.
+Wide fl. R. 25.
+
+Wickeraw fl. a. 13. Entspringt zwischen Diel vnd Margenwalde / felt in Domeraw / Pantzer / Kommen / Ribno vnnd Weyer See / Ist zuuorn in die Masaw gelauffen / Aber von den Creutzherrn vermauret worden / vnnd zu rück auff Lautenburg / vnd Bretchen / in die Deibentz gezwungen.
+
+Widder See W. 20. Wilcki fl. I. 26.
+Wilkuski See Z. 25. Wippe fl. L. 21.
+Wirbel See V. 20. Wirsbona See X. 21.
+Wirtzbincken Y. 24. Wistett fl. Q. 28.
+
+Wistitten See Q. 29. Ein herrlicher schöner vnd klarer See an Littawen / so klar das man auch in zimlich tieffem Wasser einen Pfenning auffm grund ligen sehen kan / vnnd gehet die Königliche Grentze / mitten hindurch / doch hat F. D. in Preussen den Nutz der Fischereyen allein / vnd hat dieser See gar wolschmeckende Pressem. Es hat dieser See auch einen feinen bequemen ort zur Pressem leiche / do vngefehrlichen das Wasser eines halben Mannes tieff ist / mit biesem bewachsen / wenn die Pressem nun streichen / oder leichen wollen / treten sie aus dem See / in denselbigen ort / da sie vom Biesem eine schöne bequemigkeit haben / dann sonsten der See rein ist / wenn man sie nun darinnen vermerckt / kan man das ort gegen dem See / mit Schützen sein teicht versetzen / das nicht mehr Wasser folge. Hierauff hat erts einen Ablass / do man denn eine Schützen auffzeugt / do entgehet jhnen das wasser / das man also / die herrlichsten Wildnis Pressem / mit Henden / grosse hauffen aufflesen mag.
+
+Wolffs flis c. 13. Wollitte P. 14.
+Womsen See c. 9. Worinisch See O. 18.
+Wolping Y. 18. Wusen See O. 19.
+
+Z.
+
+Zain See T. 19.`,
+    english: `[Page -- Gazetteer W continued; Wistitten Lake; beginning of Z]
+
+...the water was recaptured [contained], and [people] have also settled at some of the breached points, and it is reportedly doing very well. May the Lord God continue to protect [them].
+
+Weissen See X. 24.
+
+Wengen See X. 21 -- small and large. The stream from the large Wengen [Lake] reportedly runs a good distance underground and then resurfaces, falling into Wirsbona [Lake/River].
+
+[Gazetteer entries] Wentschen See W. 23. Wentschen River X. 23. / Wewirsche River 6. 3. Weyer See c. 12. / Wusse River I. 24. Miartel See a. 24. / Wide River R. 25.
+
+Wickeraw River a. 13 -- rises between Diel and Margenwald, flows into Domeraw, Pantzer, Kommen, Ribno, and Weyer See. It formerly flowed into Masuria [Masaw] but was dammed [vermauret] by the Teutonic Knights and forced back toward Lautenburg [Lidzbark] and Bretchen, into the Dreibantz [Drweca River].
+
+[More entries] Widder See W. 20. Wilcki River I. 26. / Wilkuski See Z. 25. Wippe River L. 21. / Wirbel See V. 20. Wirsbona See X. 21. / Wirtzbincken Y. 24. Wistett River Q. 28.
+
+[Wistitten Lake] Wistitten See Q. 29 -- a splendid, beautiful, and clear lake on the Lithuanian border, so clear that one can see a Pfennig lying on the bottom even in quite deep water. The royal border runs through the middle, yet His Princely Grace [F.D.] in Prussia has the sole use of the fisheries. This lake has very delicious Pressem [a freshwater fish, likely bream or similar]. The lake also has a fine convenient place for Pressem spawning, where the water is about half a man's depth, overgrown with rushes [Biesem]. When the Pressem want to spawn, they come out of the lake to this spot, where the rushes give them fine shelter (as the lake itself is [otherwise] clear). When one notices them there, one can block the outlet toward the lake with sluice-gates [Schutzen], cutting off the water. Then [one opens] a drain, pulling out the sluice so that the water flows away from them -- and thus one can pick up the most splendid wild Pressem by hand in great heaps. [A remarkable description of a traditional fish-trapping method.]
+
+[More gazetteer] Wolffs Flis c. 13. Wollitte P. 14. / Womsen See c. 9. Worinisch See O. 18. / Wolping Y. 18. Wusen See O. 19.
+
+[Letter Z]
+
+Zain See T. 19.`,
+  },
+  "p538": {
+    original: `Zaim fl. T. 19. Entspringt aus dem Seemen / nimpt zu Lennenburg den Guber zu sich / felt zu peil in die Alla.
+
+Zelo Morrast. P. 18. Ist ein sehr grosses Morrast oder Gebrüch dieses Friedland / auff welchem im Sommer die Kraniche jungen ziehen / deweil man nicht zu Fus auch hinauss kommen kan. Man helts dafür das es zuuorn ein See gewesen solle sein / dann man sol noch alte Schiffe darauff gefunden haben / ist aber ger zeit gar bewachsen.
+
+Zammert ein See im Hollandischen Ampt / dieser See ist nicht gesetzt. Dann als ich vmbzoge das Land zu besichtigen / wurd ich an etzlichen örtern auff F. D. befelch / von den Hauptleuten / denen ich danck weis / wol gefürdert / an etzlichen Örtern aber nicht sonderlich / derhalben was ich nicht zusehen konte kriegen / oder sonsten auch keinen guten bericht haben könte / must ichs also bleibenlassen.
+
+Mancherley Fische so in Preussen gemein / vnd allda gefangen werden.
+
+A.
+Ael.
+Wildnis Ael.
+Aelruppen.
+Aland.
+B.
+Barbe.
+Braunfisch.
+C.
+Charussen.
+D.
+Dobeln.
+E.
+Elleritzen.
+Eschen.
+F.
+Flundern.
+Foreln.
+Rote Foreln.
+G.
+Giben.
+Gisen.
+Gisitzen.
+Geserig.
+H.
+Hering / Strömling.
+Hessling.
+Hornfisch.
+Hechte / dreyerley.
+Miergisch Hecht.
+Gras Hecht.
+Pocken Hecht.
+K.
+Krabben.
+Krebs.
+Karpen.
+Kaulpersse.
+L.
+Lachse.
+Lachsfahren.
+M.
+Murenen.
+Müller.
+Meerschwein.
+Muldus.
+N.
+Neunaugen.
+P.
+Persten.
+Pisker.
+Plotzen.
+Pomocheln.
+Porreln.
+Pressem.
+Steinpisker.
+Q.
+Quappen.
+R.
+Rappen.
+Rotaugen.
+S.
+Schleyen.
+Schmerling.
+Schneppel.
+Seehanen.
+Seehunde.
+Steinbotten.
+Stindt.
+Steckbötel.
+Störe.
+T.
+Tabellen.
+Tobias Fische.
+V.
+Vckeley.
+W.
+Waalfisch.
+Welssen.
+Z.
+Zande.
+Zerten.
+Zigen.
+Zoppen.
+
+Zum Beschlus.`,
+    english: `[Page -- Final gazetteer entries Z; complete list of Prussian fish species]
+
+Zaim River T. 19 -- rises from the Seemen [lake], receives the Guber [River] at Lennenburg, and falls into the Alle [Lyna River] at Peil.
+
+Zelo Morrast [Marsh] P. 18 -- a very large marsh or bog in this Friedland [area], in which cranes raise their young in summer, since one cannot even reach it on foot. It is believed to have formerly been a lake, for old ships have reportedly been found in it; but it is now completely overgrown.
+
+Zammert -- a lake in the Holland [Paslek] district; this lake was not plotted [on the map]. For when I traveled around the land to survey it, I was at some places well supported by the captains [Hauptleute] on His Princely Grace's [F.D.] orders -- for which I give them thanks -- but at some places not particularly [well supported]. Therefore what I could not manage to see, or otherwise could not get a good report about, I had to leave out. [A candid admission by Hennenberger about the limitations of his survey.]
+
+[Section:] Various Fish that are common in Prussia and are caught there.
+
+[An alphabetical list of fish species:]
+A. Ael [Eel]. Wildnis Ael [Wild Eel]. Aelruppen [Burbot]. Aland [Ide fish].
+B. Barbe [Barbel]. Braunfisch [Porpoise/brown fish].
+C. Charussen [Crucian carp].
+D. Dobeln [Chub].
+E. Elleritzen [Minnow]. Eschen [Asp].
+F. Flundern [Flounder]. Foreln [Trout]. Rote Foreln [Red/Brook trout].
+G. Giben. Gisen. Gisitzen. Geserig.
+H. Hering/Strömling [Herring/Baltic herring]. Hessling. Hornfisch [Garfish]. Hechte, dreyerley [Pike, three kinds]: Miergisch Hecht, Gras Hecht [Grass pike], Pocken Hecht.
+K. Krabben [Crabs]. Krebs [Crayfish]. Karpen [Carp]. Kaulpersse [Ruffe].
+L. Lachse [Salmon]. Lachsfahren [Salmon-trout/Sea trout].
+M. Murenen [Lamprey/Moray]. Muller. Meerschwein [Porpoise]. Muldus.
+N. Neunaugen [Lamprey, lit. 'nine-eyes'].
+P. Persten [Perch?]. Pisker. Plotzen [Roach]. Pomocheln. Porreln. Pressem [Bream]. Steinpisker [Stone loach].
+Q. Quappen [Burbot].
+R. Rappen [Asp]. Rotaugen [Rudd/Red-eye].
+S. Schleyen [Tench]. Schmerling [Loach]. Schneppel [Whitefish/Coregonus]. Seehanen [Sea cock/Gurnard?]. Seehunde [Seals]. Steinbotten [Turbot]. Stindt [Smelt]. Steckbotel. Store [Sturgeon].
+T. Tabellen. Tobias Fische [Tobias fish / Sand eel].
+V. Vckeley [Bleak].
+W. Waalfisch [Whale]. Welssen [Catfish/Wels].
+Z. Zande [Zander/Pike-perch]. Zerten [Vimba bream]. Zigen. Zoppen.
+
+[To the Conclusion -- Zum Beschlus]`,
+  },
+  "p539": {
+    original: `Zum Beschlus.
+
+Von der Winter Fischeryen in diesen Mitnächtischen Lendern.
+
+Zu Winterszeiten wenn alle Teich vnd See wol zugefroren sein / Ist in diesen Mitnächtischen Lendern die beste Fischerey. Denn in allen Seen vnd Teichen wissen sie wo die besten Züge sein / so nicht hasste haben / da hawen sie dann eine gute vierkantige Wuhne / oder Loch durch das Eis / darnach vff beyden seiten hawen sie widerumb kleine Wuhnen weit herumbher nach dem Lande werts / so weit von einander / das man sie mit einer zimlichen langen stangen von einem Loch zum andern erreichen mag. Wan sie fast nach dem Lande werts kommen / lencken sie sich mit der kleinen Wuhnen zusammen / wenn sie schier zusammen gekommen / also das sie mit der langen stangen einander abreichen mögen / haben sie in der mitten widerumb ein grosse Wuhne oder Loch gemacht / das Garn allda aus zu nemen. In der Ersten vnd grösten Wuhnen gibt man ein / Erstlich die lange Stangen / auff jegliche Seiten eine / daran seind lange Bastene starcke Leinen / die wie an die flügel des Garns gebunden sein / Auff jeglicher seiten hat einer eine Gabel / oben daran ein Creutz / damit er sie vnter die Arme fasset / mit dieser scheubet er die Stange von einem Loch zum andern / Vorn aus gehet einer der hat ein gar krummen Haecken / vnd vorn ein Nagel daran / wo die Stange nicht recht zum Loche kompt / suchet er sie mit demselbigen Haecken vnd bringet sie damit in das Loch das sie der ander mit der Gabeln zum andern Loch weiter fort schiebe / hinter diesen seind andere so vmb das ander Loch die Strenge vnnd das Garne nacher ziehen / welchs vff beyden seiten geschiehet / bis sie zu der letzten vnnd andern grossen Wuhne kommen / da ziehen sie eines nach dem andern heraus / bis sie endlich das Garn auch heraus ziehen. darinnen man offtmals gar gute vnd ein grosse Menge Fische sehet / Vnd ist dis die beste Fischerey.`,
+    english: `[Final section of the book proper:] To the Conclusion.
+
+On Winter Fishing in these Northern Lands.
+
+[Detailed description of ice-fishing technique] In wintertime, when all ponds and lakes are well frozen over, the best fishing occurs in these northern lands [Mitnachtischen Lendern = midnight/northern lands]. For in all lakes and ponds they know where the best fishing runs [Zuge] are. Where there is no current [hasste], they chop a good square opening [Wuhne] or hole through the ice. Then on both sides they chop smaller holes [Wuhnen] in a wide arc back toward the shore, spaced so that one can reach from one hole to the next with a fairly long pole.
+
+When they have gone nearly to the shore, they curve the small holes together; when they have almost met, so that they can reach each other with the long poles, they have made another large hole in the middle, from which to take out the net [Garn].
+
+[The technique in detail] In the first and largest hole, they put in first the long poles, one on each side, to which are tied long strong linden-bast ropes [Bastene Leinen] attached to the wings of the net. On each side, one man has a forked pole with a crossbar at the top, which he holds under his arms. With this he pushes the pole from one hole to the next. In front goes another man with a very crooked hook with a nail on the end; wherever the pole does not come correctly to the hole, he seeks it with the hook and brings it to the hole so the other man can push it forward with the fork to the next hole. Behind these are others who pull the ropes and the net through the other holes -- this happens on both sides -- until they reach the last large hole, where they pull out one [section] after another, until finally they pull out the net itself, in which one often finds a very good and large quantity of fish. And this is the best kind of fishing.
+
+[The page ends with a decorative ornamental tailpiece/vignette below the text, marking the end of the main body of the book.]`,
+  },
+  "p540": {
+    original: `Register etzlicher fürnemer Tugenden vnd Lastern / sampt der selbigen belonungen vnd straffen / nach ordnung der Zehen Gebot ausgetheiler / zu nutz armen Pfarherrn / so die grossen Promptuaria Exemplorum nicht zu zalen haben.
+
+D. Wo es für der zahl stehet / bedeut das ander Tractetlein.
+
+Zum ersten Gebott.
+
+Gottesdienst vnd reine Lehre fordern vnd erhalten.
+
+Fürstliche Durchleuchtigkeit schicket reine Lehrer ins Lande. 176.
+Lest durch ein Disputation die Widerteufer vnnd Sacramentirer dempffen. 393.
+Lest D. Mörlinum vnd D. Venecum widerholen / machet Bischoffe daraus. 224.
+Herlichs Priuilegium des Fürstenthums Preussen / das nur Augustana Confessio gelten solle. 355.
+
+Falsche Lehre abschaffen.
+Hoemeister wil newe Rotten nicht leiden. 284.
+
+Synodus gehalten worden.
+Repetitio Corporis Doctrinae gestellet / Osiandristen Lehre / vnd Kirchenordnung abgeschaffet. 223.
+
+Schulen stifften vnd erhalten.
+Schule zu Marienburg gehalten. 191.
+Vniuersitet zu Königsperg auffgerichtet. 214. 386.
+Priuilegiret. 385.
+Stipendia den Professoribus gebessert. 244. 336.
+Drey Fürsten Schulen angerichtet. 260. 386.
+
+Clöster in bessern brauch bringen.
+Verendert / vnnd Spiteal daraus gemachet. 237. 238.
+
+Bibliotheken anrichten.
+Ein Herrliche Bibliotheck zu Königsperg auff dem Schlos / die man Jerlich bessert. 477.
+
+Abgöttereien fürkommen / vnd abgeschafft.
+
+Lesset die Ostien consumieren. 62. 431.
+Abschaffen. 323.
+Heim hinweg bringe zu Rickocot. 461.
+Zum Heiligenpeil. 156.
+Ablas vnd Walfart zu Dantzke zu S. Elisabeth.
+Zur Newenburg.
+Zur Linden.
+Falsche Lehr lest sich schwerlich abschaffen. 184. 261. 256. 410.
+Der Heidnischen Preussen Abgöttereien in Beumen. 464. 156. 416.
+
+Walde. 350. 410.
+Fewer. 407.
+Berg / Rambtn. 389.
+Samen sein sonderlich Abgöttisch gewesen. 412.
+Wasser Götter. 327. o. 11.
+
+Ihre opfferung sein gewesen.
+Lebendige Leut / Hirschhals. 319.
+B: Marquardus. 409.
+B: Gothardt von Galmaw / Landts Compthur.
+B: Heidenreich / Elinger / vnd B: Wilhelm von Koburg. 407.
+B: Gerhard Rode. 408.
+Samen opffern eine Saw / das sie wider Fisch fangen mögen. 351.
+
+Papistisch Abgötterey vnd Ablas.
+Nottefewer auff Johannis. 323.
+Lottich. ibidem.
+Zur Gudenaw S. Jacob. 388.
+Juden Kirche S. Maria. 364.
+Zur Arnaw S. Katharinen. 23.
+Georgenaw S. Maria. 163.
+Frawendorff S. Anna.
+Glottaw. 141.
+Wiesen.
+Launitz. 467.
+Zur Linden. 261.
+Heilige Leichnam fürm Elbing. 113.
+Zu S. Albrecht. 19.
+Mülhausen.
+Zu Dantzke im S. Elisabeth Spital. 67.
+Zu S. Albrecht.
+Newenburg. 334.
+Bapst handelt mit odienboth.`,
+    english: `[Beginning of the Register/Index -- organized by the Ten Commandments]
+
+Register of some notable Virtues and Vices, with their rewards and punishments, arranged according to the Ten Commandments, for the benefit of poor parsons [Pfarherrn] who cannot afford the great Promptuaria Exemplorum [collections of sermon examples].
+
+D. [Where 'D.' appears before the number, it refers to the second treatise.]
+
+[First Commandment]
+
+[Promoting and maintaining worship and pure doctrine]
+The Prince sends pure teachers into the land. 176.
+Suppresses Anabaptists and Sacramentarians through a disputation. 393.
+Recalls Dr. Morlin and Dr. Venecum, makes them bishops. 224.
+Splendid Privilege of the Duchy of Prussia, that only the Augsburg Confession shall be valid. 355.
+
+[Abolishing false doctrine] The Grand Master will not tolerate new sects. 284.
+
+[Synods held] The Repetitio Corporis Doctrinae established; Osiandrist doctrine and church order abolished. 223.
+
+[Founding and maintaining schools] School at Marienburg maintained. 191. / University of Konigsberg established. 214, 386. / Privileged. 385. / Stipends for professors improved. 244, 336. / Three princely schools established. 260, 386.
+
+[Converting monasteries to better use] Changed, and hospitals made from them. 237, 238.
+
+[Establishing libraries] A splendid library at Konigsberg Castle, improved yearly. 477.
+
+[Preventing and abolishing idolatry] Has the communion wafers [Ostien] consumed. 62, 431. / Abolished. 323. / Carried away to Rickocot. 461. / To Heiligenpeil. 156. / Indulgences and pilgrimages to Danzig to St. Elizabeth. / To Neuenburg. / To Linden. / False teaching is hard to abolish. 184, 261, 256, 410. / The heathen Prussians' idolatries in trees. 464, 156, 416. / In forests. 350, 410. / Fire. 407. / Hills, Rambtn. 389. / The Samogitians were especially idolatrous. 412. / Water gods. 327, o. 11.
+
+[Their sacrifices] Living people, Hirschhals [stag's neck]. 319. / Brother Marquardus. 409. / Brother Gothardt von Galmaw, Land-Commander. / Brother Heidenreich, Elinger, and Brother Wilhelm von Koburg. 407. / Brother Gerhard Rode. 408. / The Samogitians sacrifice a sow so they can catch fish again. 351.
+
+[Papist idolatry and indulgences] St. John's bonfires [Nottefewer]. 323. / Lottery [Lottich]. ibid. / At Gudenaw, St. Jacob. 388. / Jewish Church of St. Mary. 364. / At Arnau, St. Catherine. 23. / Georgenau, St. Mary. 163. / Frawendorff, St. Anna. / Glottau. 141. / Wiesen. / Launitz. 467. / At Linden. 261. / Holy Corpus Christi before Elbing. 113. / At St. Albrecht. 19. / Muhlhausen. / At Danzig in St. Elizabeth's Hospital. 67. / At St. Albrecht. / Neuenburg. 334. / The Pope deals with [excommunication]...`,
+  },
+  "p541": {
+    original: `Register.
+
+ia mis Pfründen vnnd Ablas Stiessen. 449.
+
+Ablasholern / wie gegangen.
+Zu S. Albrecht gefangen vnd weggefüret. 19. Versauffen jhrer in die hundert bey Stangen walde. 334.
+
+Walfarten vnd Ablas abgeschaffet.
+Dantzke. 67. Zu Newenburg. 334. vnd im gantzen Fürstenthum.
+Reisete Goet. Mortsen. 396. Tümpe 12. Apostel zu Cassel zu Riftsel jm Jude / sein Lehr / Mirackel / wardt stedeglich eingeholen. 397.
+Ward zu Rastenburg gefangen / zu Königsperg gestrafft / stelt in Prussiculam / sehet gen Himmel an den Galgen. 397.
+
+Gottesdienst im Bapstumb.
+Closterbawen. 53. 237. Bruder Post geben / vnd Bruderschafft gewinnen Hernholtz belehretzt. 86. Opffern. 164. Procession halten. 232.
+
+Teuffel ein Fürst der Welt.
+Erzeiget sich in gestalt gehangener Diebe. 259. Eines Hunde. 453. Seiner Bulschafft / wie ein feiner Gesell. 188.
+Spückt in Schlössern vnd Heusern. 46. 47. Auff Christburg / Wondorff. 489. Auff einem Werder im Spirding. o 21. 435. In trachten Heusern. 465.
+
+Führet die Menschen hinweg.
+Einen Schneider Gesellen. 149. Einen Schuster Jungen. 234. Ein Medlein am Sontags morgens lesen. 435. Einen vollen Bawren so vbel auff seinen Pfarrern geschimpfet. 246. Fürt seinen Bulen vnd den Kungt. 111. Verblender also die leute. 324. Treibet mitzuths. 168. Lonet seinen Dienern vbel / Machet sie eineuwig. 327. Feucht jhm die Stiffelen vbel aus. 168. Ladet sie widerumb zu Gast. 255. Kompe zu gaste. 255. Bringt von Sinnen. 233. Frolockt vb der Mentschen vnglüc. 337. Rau meusse Pferde niche leide. 137. Marke Christ Bahr vb Adlerc. 226.
+
+Zum andern Geboe.
+
+Die Sünde mit worten gestraffet / Pfarher zu Landesberg. 246. Der Pfarherr zur Tilse. 460. Sünder wollten vnbestraffet sein / sondern verfolgen sie 246. 460. Veriagen se 175. 219. 220. Samen viel ermorden. 350. S. Albrecht. 21. Weglagere. 461. Welche aber gelobet werden. 163.
+
+Vber trewen Predigern / Gott vnd frome Christen halten.
+
+Gott hilfft D. Morlino vnd Venecio / wider zu Lande / werden Bischoffe. 223. 224. Aus grossen nöten geholffen. 460. Edelmans Pferde wil nicht fort. 461. Kneiphöfster Weiber vnd Kinder bitten für jren Pfarherrn. 219. Fallen sich wol bey ihren Kirchendienern. 224. Poberster schicken jhren Pfarherrn dem Orden wider. 350. Kirchen Vatter wil sein Leben beim Pfarherrn lassen. 164. Dantzker beim Herrn Pancratio. 95.
+
+Gottes lesterung vnd falscher Lehre beyfall.
+
+König Witte bey Woplauten. 459. Zweier Mönche zanck. 455. Wiederteufer vnd Sacrament schender. 392. Mönchs zu Torn Ketzerey. 453. Caspi: Geschk. Apostata. 397. Vollen Pfaffen lesterung zu Thorn.
+
+Strasse zubesehen.
+
+Osiandristen schendlich vmbkommen. 181. Mönchs Ketzerey. 455. Pfaffen lesterung. 453. Lesterer. 453. Geschkn. 339. Flucher. 269. Lande Gottes marter gehasten. 265. Wedlern verbrande. 189. Drey Weissiesisch verbrande. 219. Kapelleisch. 219. Spiegelseher. 236. Wird betrogen. ibidem.
+Vermeinte Schaggreber. 53. Schaggreber sehen jederman für Teuffels gespenste an. 45. Betrigen die Herrschafft. ibidem.
+
+Strasse.
+Schaggreber werden verbrandt. 48. Teuffel erschroecke sie / vnd spaltet vbel mit jhnen. 469. Verdrehet einem den Hals. 454. Falscher Schaggreber.
+
+Teuffels`,
+    english: `[Register continued -- Second Commandment]
+
+[Indulgences and pilgrimages] ...with benefices and indulgences. 449.
+
+[How it went for indulgence-sellers] At St. Albrecht, captured and led away. 19. About a hundred of them drowned near Stangenwald. 334.
+
+[Pilgrimages and indulgences abolished] At Danzig. 67. At Neuenburg. 334. And in the whole Duchy.
+
+[A false prophet] Goet Mortsen [traveled to] 396. [A false preacher claiming] 12 Apostles at Kassel at Riftsel as a Jew; his teaching, miracles, were steadily exposed. 397. Was captured at Rastenburg, punished at Konigsberg, [exhibited] in Prussicula, looked toward heaven at the gallows. 397.
+
+[Worship under the Papacy] Monastery-building. 53, 237. Giving Brother Post and winning brotherhoods. 86. Sacrificing. 164. Holding processions. 232.
+
+[The Devil as Prince of the World] Appears in the form of hanged thieves. 259. Of a dog. 453. Of a lover [Bulschaft], like a fine fellow. 188. / Haunts [Spuckt] in castles and houses. 46, 47. At Christburg, Wondorff. 489. On an island in the Spirding [Lake]. o 21, 435. In farmhouses. 465.
+
+[The Devil carries people away] A tailor's journeyman. 149. A shoemaker's apprentice. 234. A girl on a Sunday morning. 435. A drunken peasant who insulted his parson. 246. Carries his lover and the servant. 111. Blinds people. 324. Drives [them] to mischief. 168. Rewards his servants badly. 327. Pulls the boots off badly. 168. Invites them back as guests. 255. Comes as a guest. 255. Drives [people] mad. 233. Rejoices in human misfortune. 337.
+
+[Second Commandment]
+
+[Sin rebuked by words] Parson at Landesberg. 246. The parson at Tilsit. 460. Sinners would not be rebuked, but persecute [the rebukers]. 246, 460. Chase them away. 175, 219, 220. The Samogitians murder many. 350. St. Albrecht. 21. Highwaymen. 461. But which [preachers] are praised. 163.
+
+[God and pious Christians support faithful preachers] God helps Dr. Morlin and Venecius back to the land; they become bishops. 223, 224. Helped out of great distress. 460. A nobleman's horse will not move [the miraculous horse at Tilsit]. 461. Kneiphof women and children plead for their parson. 219. / The Poberster [people of Pobethen?] send their parson back to the Order. 350. A churchwarden will risk his life for the parson. 164. Danzigers at Lord Pancratius'. 95.
+
+[Blasphemy and false doctrine] King Witte at Woplauten. 459. Two monks' quarrel. 455. Anabaptists and Sacrament-desecrators. 392. Monks' heresy at Thorn. 453. Caspar Geschk, apostate. 397. Drunken priests' blasphemy at Thorn.
+
+[Punishments] Osiandrists came to a shameful end. 181. Monks' heresy. 455. Priests' blasphemy. 453. Blasphemers. 453. Cursers. 269. / Fortune-tellers burned. 189. Three [persons] burned. 219. / Conjurors [Spiegelseher, mirror-seers]. 236. Were deceived. ibid. / Supposed treasure-diggers [Schaggreber]. 53. / Treasure-diggers are burned. 48. The Devil frightens them and treats them badly. 469.`,
+  },
+  "p542": {
+    original: `Register.
+
+Teuffels Beschwerer Exorcisten.
+Teuffelsbeschverer vnd jhre Teuscherey 48. Zwölff Teuffelsbeschwererin / wie es jhnen ergangen sey. 172.
+Teuffel bringet auch den vmb / der den Teuffelsbeschverer begrub. 453.
+Einen mit schwulsten beschüttet. 127.
+Schwartzkünstlers drey schüsse gerathen vbel. 169.
+
+Wunderzeichen so falsch.
+Falsche wunderzeichen. 34. Todten aufferwecket / aus dem Fewer gesprungen. ibidem.
+Gros vneinigkeit vnter den Theologen. 224.
+
+Gebet erhöret.
+Schaffet böse wurm ab. 316. Obs bie langsam / deste besser. 219.
+
+Zum dritten Gebote.
+
+Thürngebawet. 209. Hoemeister vnd Marggrefisch Begrebnis darin. 209.
+Hundertgülden Jerlich vertestamenti. 209. 411. Schöner Tauffstein an Dantzke. 96. Erste Orgel in Preussen. 455. Grosse Orgel im Thum. 232. Predigstuhl. ibidem.
+Schön Altar. 233. Schön Tauffstein. 236.
+
+Erste Euangelische Prediger im Lande.
+
+Prelosmianitz der erste ins Kneiphöff. 213.
+Amandus in der Altenstadt / wardt vertriben. 175.
+
+Kirchendiener Scharwercken.
+Werderischepfaffen sollen bey den Tammen wachen. 474. Pfaffen stellen sich seltzam / werden vbel tractiert. 47.
+Im grossen Werder Beusens sich ab. ib.
+Im kleinen Werder müssens tämmen. ib.
+
+Missbrauch des Sacraments.
+Ein Judelehret einen Fischer die geseegneten Ostien in ein flösse zu spannen. 431.
+Darumb darff kein Jude in Preussen wonnen. ibidem. Fischer gibt sich ans Wasser / verseufft. ibidem. Feinde nemen die Consecrirte Ostien / legens auffes Altar. 130. Werden vom Hoemeister gekriget vnd geraubrecht. 131.
+
+Verechter der Sacrament.
+Littawische Renber ebun in die Tauffe. 438. König Witte trit die Consecrirte Ostien mit Füssen. 489.
+
+Sabbats Missbrauch / wie gestraffet.
+Auff den Sontag spazieren rette bricht der Teuffel den hals.
+Tantzer vnd seufer am Sontag / dea gehen edts. 469. Schneidet fist am Sonnabende geflssen Teuffel geführet. 194.
+
+Sabbats arbeit gestra.
+Drey Bawren auff einen Sonta Rodtacker vom Donner erschl.
+Ein Hew hauff am Sontag zusa bracht / vom Wetter vorbrand.
+Getreide am Sontag eingeführet / get der Donner ein / verbrannet a. 110. 451. Fischen jrer vier am Sontag zusammen / versauffen jrer drey. 2. Biener steiget am Ostertage zu Bieden / verlahmet / verstumet / stirbet balde. 139. Ein Medlein sol am Sontag des Morgens Kracke lesen / wird ein zeitlang verlohren / saget darnach seltzam ding. 435.
+
+Gute Werck des Sabbats / Arme im Spittal versorgen.
+Fürstlich Testament. 240. Jehrlich zwey fürstliche Speisung. ibidem.
+Der Fürstinnen zwey Speisung. ibidem.
+Altstetter vnd Kneiphöster Raths gabe. ibidem. Andreas Kernigarts Stifftung. ibidem. Anderer Bürger vnnd Landt leute. ibidem. Meines Gnediger Herr: verbesserung. 240. 386. Hoemeister hilffe den Armen bawen. 264.
+Solches wirdt jhnen der Sohn Gottes reichlich vergelten / die zeitlich vnd dort ewiglich.
+
+Zum vierden Gebot.
+Von guthertziger Obrigkeit.
+
+Winrichs`,
+    english: `[Register continued -- Second/Third/Fourth Commandments]
+
+[Devil's exorcists] Exorcists and their deceptions. 48. Twelve exorcist-women, how it went for them. 172. The Devil also kills the one who buried the exorcist. 453. Covered one with swellings. 127. A sorcerer's [Schwartzkünstler] three shots went badly. 169.
+
+[False miracles] False miracles. 34. [Supposedly] raised the dead; [someone] leaped from the fire. ibid. Great discord among the theologians. 224.
+
+[Prayer answered] Drove away evil worms. 316. The longer it takes, the better. 219.
+
+[Third Commandment]
+
+[Church building] Tower built. 209. Grand Master's and Margrave's burial therein. 209. Hundred Gulden yearly by testament. 209, 411. Beautiful baptismal font at Danzig. 96. First organ in Prussia. 455. Great organ in the cathedral. 232. Pulpit. ibid. Beautiful altar. 233. Beautiful baptismal font. 236.
+
+[First Evangelical preachers in the land] Prelosmianitz, the first in the Kneiphof [district of Konigsberg]. 213. Amandus in the Altstadt, was driven out. 175.
+
+[Church servants' forced labor / Scharwerck] The Werder priests were to keep watch at the dams. 474. Priests behave strangely, are badly treated. 47. In the Great Werder, they excuse themselves. ibid. In the Small Werder, they must help with the dams. ibid.
+
+[Misuse of the Sacrament] A Jew teaches a fisherman to put the consecrated wafers [Ostien] in a fishing net. 431. Therefore no Jew may live in Prussia. ibid. The fisherman throws himself in the water, drowns. ibid. Enemies take the consecrated wafers and lay them on the altar. 130. Are captured and punished by the Grand Master. 131.
+
+[Despisers of the Sacrament] Lithuanian robbers [enter] baptism. 438. King Witte tramples the consecrated wafers underfoot. 489.
+
+[Sabbath-breaking punished] Riding for pleasure on Sunday -- the Devil breaks [one's] neck. / Dancers and drinkers on Sunday. 469. / Three peasants on a Sunday, plowing -- struck by lightning. / A haystack gathered on Sunday -- burned by a storm. / Grain brought in on Sunday -- lightning strikes, burns it. 110, 451. / Four fishing on Sunday -- three drown. / A beekeeper climbs to [his] bees on Easter Day -- becomes lame, mute, soon dies. 139. / A girl supposed to gather sticks on Sunday morning -- disappears for a time, then tells strange things. 435.
+
+[Good works of the Sabbath -- caring for the poor in hospitals] Princely testament. 240. Two annual princely feedings. ibid. The Princess's two feedings. ibid. Altstadt and Kneiphof Council gifts. ibid. Andreas Kernigart's foundation. ibid. Other citizens and country people. ibid. My Gracious Lord's improvements. 240, 386. The Grand Master helps the poor build. 264. All this the Son of God will richly repay, in this life and eternally.
+
+[Fourth Commandment -- On good-hearted authorities]`,
+  },
+  "p543": {
+    original: `Register.
+
+schweretz vnd die vntertha haben: 292. Desset wil se auch mit scha vber schweren. 204. Kiste lö die vneertanen. 211.
+
+426. Richtenberger straffet part zu viel namen. 201. B: Dionisius von Andelaw regirete wol. 410.
+Frommer Bürgermeister wil ehe leiden / der mit vnrechte klagen. 279.
+Hauptn in zu Marienburg gütig. 126.
+Last ju ehen 140. 413.
+wer sti: zur Demüdigkeit. 293.
+er eingelöset schulden bezalet. 307.
+r vnd bawee das Lant. 198. 386.
+37.
+
+Von milder Obrigkeit.
+
+des Zölner hilfft den Natangen wider auff. 330. Conrade von Jungingen fället dem reichen Bawren die zwelffste tonne mit gelt. 337.
+von Kunheim der Elter bedenckt arme vnterthauen. 322.
+ie gute werck. 178. 190.
+
+Der Diener vnd Vntertanen.
+Schreiffes. Ein Weisfrau ib.
+Die Stedte dem Orden trew. 58. 59. 66. Comitzerslob. 61. Syrene ein gefangener. 46. Einer vom Baum. 440. Albrecht Sparnbel bösen Ladtraw den Orden zu gut. 246. Altstetter vnd Löbenichter nöm balde ire Obrigkeit wider an. 271. Bürger warnet den Bischoff. 40. Elbinger gehorchen Königlichem Mandae. 124.
+
+Vngehorsame oder vntrewe.
+Vntrewe Bawren in Tenmen. 310. Nadrawen vntrew. 416. Lessen frembde ein. 66. Nemen frembde Herrschaft an mit geding. 73. 271. 456.
+Vnterthauen entsagen der Obrigkeit. 271. 308. Vnterthauen verseuffen jhre Obrigkeit. 291. Soldener verflussen Marienburg. 275.
+
+Der Tolck ein Schalck. 411. Orden wil dem Hoemeister nicht folgen. 280. 383.
+
+Landsknecht böss Gesindlein.
+Handeln vbel mit den Bürgern zur Gutstadt. 145. Halten sich vbel gegen jrem Herrn den Hoem. 150.
+Landsknecht art. 150. Wollen Gele haben. 21. 146. 150. 277. 317. Vnterwinden sich des Schlosses Marienburg. 274. Treiben den Hoemeist: grossen vnwillen zu. 274.
+War ihnen den Eide erlassen. 274.
+
+Wollen von der Stedte huldigung haben. ibidem. Vlrich Zirmonski. 275.
+Soldaten versetzen die Schlösser auss der Greutze. 260. Teuschen die Leut. 222.
+
+Strasse.
+Guttstetter Landsknecht etzliche gehangen. 146. König verbeut den Soldaten so jhm Marienburg versaufft / das gantze Landt. 275.
+
+Scharwerck.
+Scharwerck nimpt zu. 426. Vnleidentlich. ibid. Nichts abschlagen. ibid. Wie gebeten. 426.
+
+Eltern Bosheit gegen jhren Kindern / auch Straff.
+Ein böser Vater so sein eige Kindt einem Juden verkeufft / gehangen. 189.
+Ein böse Mutter / so jhrem Son zu viel böfem geholffen. 468.
+
+Böse Kinder vnd jhre straff.
+Hans Briger Vater mörder. 80.
+Junger Gesel ermorde seinen stiff Vatter vnd rechte Mutter mit einer mörser Keulen. 216. Wurde mit zangen zerrissen / vnd auffs Rade gestossen. 216. Ein Geselle hele Vatter vnd Mutter vbel / schleget sie auch. 345.
+Ven straffet Gott grewlich. 346.
+Eleern schlager geschöpffer. 294. Ein böser bub teuschet seinen blinden Vatter. 490. Eines Sohnes vnrechter berichtt / vom Vater wol gestraffet. 478. Ein Bub wil nicht studieren / leuft hinweg / macht grausame vnruhe. 225.
+
+Kinder zucht.
+Eltern sollen auff jhre Kinder sehen / sie zu Gottes wort halten. 375.
+
+Böse Bawren.
+waren zu grosse Lichtenaw / hengen einen Mönch im Hopffensack in rauch / braten einen Jacobs Bruß / stecken einen Kesselbüsser in ein todte Pferde / Pfarherr sol jhnen eine volle Saw berichten. 257. 258. 259. Hangen den Compthur mit den Barte auff / müssen den Butterthurm bawen. 260.
+Schickt Copski ein fas vol Buttermilch / müssens im Gefengnis selbst aussauffen. 266.
+
+Zum fünfften Gebot.
+Frieden gemacht.
+Frid gemacht. 57. 102. 104. 301. Friden zwischen Casimiro 2. vnd den Hoem. Ludolpho Kön: gemacht. 287. 315.
+Ewiger`,
+    english: `[Register continued -- Fourth Commandment: authorities, servants, children, peasants; Fifth Commandment begins]
+
+[On authority, obedience, and disobedience -- index entries with page numbers]
+
+...oaths and the subjects. 292. / Richtenberger punishes those who take too many [titles]. 201. Brother Dionisius von Andelaw governed well. 410. / A pious Burgermeister would rather suffer than lodge unjust complaints. 279. / The Captain at Marienburg [was] kind. 126.
+
+[On mild authority] The tax collector [Zollner] helps the Natangens [a Prussian tribe] recover. 330. Conrad von Jungingen fills the rich peasant's twelfth barrel with money. 337. Von Kunheim the Elder looks after poor subjects. 322.
+
+[Servants and subjects] The cities [remain] loyal to the Order. 58, 59, 66. / A prisoner [shows loyalty]. 46. / Albrecht Sparnbel [serves] the Order well. 246. / Altstadt and Lobenicht [citizens] soon accept their authority again. 271. / Citizens warn the Bishop. 40. / Elbingers obey the royal mandate. 124.
+
+[Disobedient or disloyal] Disloyal peasants in Tenmen. 310. Nadrawians disloyal. 416. / Subjects renounce their authority. 271, 308. / Subjects drink away [the revenues of] their authority. 291. / Mercenaries drink away Marienburg. 275.
+
+[The interpreter is a rogue] 411. The Order will not follow the Grand Master. 280, 383.
+
+[Landsknechte, bad rabble] Treat citizens of Gutstadt badly. 145. Behave badly toward the Grand Master. 150. Want money. 21, 146, 150, 277, 317. Seize Marienburg Castle. 274. Cause the Grand Master great displeasure. 274.
+
+[Punishment] Some Gutstadt Landsknechte hanged. 146. The King forbids the soldiers who drank away Marienburg from the whole land. 275.
+
+[Forced labor / Scharwerk] Forced labor increases. 426. Intolerable. ibid.
+
+[Parents' wickedness toward children] A wicked father who sold his own child to a Jew -- hanged. 189. A wicked mother who helped her son in too much evil. 468.
+
+[Wicked children and their punishment] Hans Briger, father-murderer. 80. A young man murders his stepfather and real mother with a mortar-pestle. 216 -- torn with tongs and broken on the wheel. 216. / A wicked lad deceives his blind father. 490. / A boy won't study, runs away, causes terrible unrest. 225.
+
+[Child-rearing] Parents should watch over their children and keep them in God's word. 375.
+
+[Wicked peasants] Were too [violent] at Lichtenau: hung a monk in a hop-sack in the smoke, roasted a Brother Jacob, stuck a tinker in a dead horse, [demanded that] the parson deliver them a full sow. 257-259. Hung the Commander by his beard, had to build the Butter Tower. 260. Sent Copski a barrel of buttermilk; had to drink it themselves in prison. 266.
+
+[Fifth Commandment -- Peace made]
+Peace made. 57, 102, 104, 301. Peace between Casimir II and the Grand Master Ludolph made. 287, 315.`,
+  },
+  "p544": {
+    original: `Register.
+
+Ewiger friden gemacht. 456. Confirmiret. 156. Nach dem grossen Kriege friden gemacht. 208. 458. Zwist entscheiden / zwischen dem Keyser vnnd Bapst. 366. Zwist zwischen den Baum entscheiden. 175. Zum frieden geraten vnd geholffen. 209. 387. 377. 371. Gassold gutter rath. 458.
+
+Vneinigkeit.
+Zwist für Marienburg. 273. 277.
+Zwist in der Hoemeister wahl. 281. 306.
+Zwist zwischen den Hoemeister vnd Bischoffen. 449. Wil die Landschafft nicht wie zuuoren schweren. 301.
+Zwist zu Ackers. 370. 377. 378. Zwist wegen der Thornischen Niderlag. 458.
+
+Friedfertig.
+Hertzog Friderich wil armen Leuten nit vnruhe machen. 206. Frieden im Lande. 385. Friedliebender Fürste. 386. 387. Littawen friedsam. 161.
+Viel wonen zusammen friedlich. 161.
+Böse wort bringen todtschlag. 50.
+
+Tyrannen der Heidnischen Preussen.
+
+Halten nicht glauben / würgen / vnnd schneiden einem den Nabel aus / must die Derme vmb einen Baum auwinden. 244. Preusche eücke auss Lentzenburg. 252. Preussen erschlagen den Packmor. 27. Pfleger zwischen zwey Rolhauffen gebraten. ibid. Samen heis Wasser ins maul gegossen. 46.
+Ein Weib frist jhres eigenen Mannes Fleisch. 441. Tyrannei der Obersten in Galinden / gegen jhre Weiber. 135. Tartterische Tyrannei. 141.
+
+Bapsts Tyrannen.
+Bapst thut die Preussen in Bann / weil sie jhm nicht Gele wolten geben. 28.
+Hetzet den Keyser wider sie. ibidem.
+Thut Preussen 14. Jahrlang in Benn / vmb Peters Pfennigs willen. 57.
+Preussen müssen dem Bapst geldt geben. 28. 57. Bapsts leichtfertiger Bann. Bapst lohnet mit Ablas. 449. Bann verachtet. 293.
+
+Obrigkeit Tyranney.
+Zweene Münch im Brun erschuffet. 25.
+Grewliche Tyranney zu Dantzke / an Lenkawen vnd / etc. 69.
+Tyranney zu Königsperg: vmb böse Weiber willen. 170. Heinrich Reus lest ein Pferdt köpffen. 268.
+
+Der Wircke verbre.
+Vnbarmhertzige Ty boff. 144.
+merer zu E. herziger. Tyrannei des Ordens im Dominick. 63. 206. zu Bartein vnb.
+Wie ein Herr von Behemen Ty. ster. 12.
+
+Tyr vnd Ausse.
+Kralgen ermorder vnd verbrant.
+Galinder Weiber gerochen. 126.
+lach Zweyfsel gerichter. 130.
+Marcialis von Helffenbach erschl. 411. Grausamer Tyran siher verbrandt. 430. Nachte Obrigkeit / so nur das Jagen tet erschlagen. 315. 409.
+Tyrannen Regiment kurtz. 297.
+
+Auffruhr.
+Auffruhr. 27. Dantzker wollen das Schlos stürmen. 70. Wegenscrt von der Hecke. ibid. Dantzker wollen nicht zum Hoemeister. 71.
+Auffruhr zu Dantzke wider den Ras. 75.
+Auffruhr wider die Gemeine. 91. 92.
+Aufflauf in der Altenstadt Königsperg. 171. Auffruhr im Lager. 329. Auffruhr zu Thorn / brechen die Zeiskammer auff. 457.
+Pogezener auffruh. 352. Bawren Krieg. 165. Zu Marienburg auff dem Schlos. 71. 273. Aufflauf den ein Pole anrichtet / zu Dantzke. 103. Empörung zum Elbing. 120. bis ins 124. Grosser lerm auff Marienburg / vnter dem Orden. 270. Grosser lerm zu Königsperg bey der nacht. 221.
+
+Auffruhr gestraffet.
+Gestraffet. 27. 70. 93. Mereen Rogge mit seiner rotte zu Dantzke geköpffet. 76. Natanger werden auffruerisch vnd geköpffet. 329. Auffruerische Pogezenen geschlagen. 352. Auffruerische Bawren entweder am Leib oder vmb Geldt gestraffet. 166.
+Sundt / Horst / Schnel geköpffet. 223.
+Moneo an weg gehangen / mit eigener Wehr durchstochen. 320.
+Auffruhrs anstiffter gehangen. 27.
+Aufrührer nach gelegener zeit mit gute gestillet in Bartener Lande. 27.
+
+Grawsa`,
+    english: `[Register continued -- Fifth Commandment: peace, tyranny, uprising]
+
+[Peace] Eternal peace made. 456. Confirmed. 156. After the great war, peace made. 208, 458. Disputes resolved between Emperor and Pope. 366. Good counsel. 458.
+
+[Discord] Dispute at Marienburg. 273, 277. Dispute in the Grand Master's election. 281, 306. Dispute between Grand Master and bishops. 449. The Landschaft [Estates] will not swear as before. 301. Dispute at Ackers. 370, 377, 378. Dispute over the Thorn staple right [Niederlage]. 458.
+
+[Peacefulness] Duke Frederick does not want to cause unrest among poor people. 206. Peace in the land. 385. Peace-loving prince. 386, 387. Lithuanians peaceful. 161. Many live together peacefully. 161. Evil words bring manslaughter. 50.
+
+[Tyranny of the heathen Prussians] Do not keep faith; strangle [people]; cut out one's navel, must wind his entrails around a tree. 244. Prussian atrocities from Lentzenburg. 252. Prussians kill the Packmor. 27. A steward roasted between two log-fires. ibid. Samogitians pour hot water into [someone's] mouth. 46. A woman eats her own husband's flesh. 441. Tyranny of the chieftains in Galindia against their wives. 135. Tartar tyranny. 141.
+
+[Papal tyranny] The Pope puts the Prussians under the ban because they will not give him money. 28. Sets the Emperor against them. ibid. Puts Prussia under the ban for 14 years over Peter's Pence. 57. The Pope's frivolous ban. Indulgences as payment. 449. Ban despised. 293.
+
+[Tyranny by authorities] Two monks drowned in a well. 25. Terrible tyranny in Danzig against the Lenkawen. 69. Tyranny at Konigsberg over wicked women. 170. Heinrich Reus has a horse beheaded. 268. Unmerciful tyranny. 144. Tyranny of the Order. 63, 206.
+
+[Tyrants punished] Kralgen murdered and burned. Galindian women avenged. 126. Marcialis von Helfenbach killed. 411. A cruel tyrant burned. 430. A wicked authority who only hunted -- killed. 315, 409. Tyrants' rule is short. 297.
+
+[Uprising / Aufruhr] Uprising. 27. Danzigers want to storm the castle. 70. Danzigers will not go to the Grand Master. 71. Uprising at Danzig against the Council. 75. Uprising against the Commune. 91, 92. Riot in the Altstadt Konigsberg. 171. Uprising in the [military] camp. 329. Uprising at Thorn, break open the treasury. 457. Pogezanian uprising. 352. Peasants' War. 165. At Marienburg Castle. 71, 273. A Pole causes a riot at Danzig. 103. Revolt at Elbing. 120-124. Great alarm at Marienburg among the Order. 270. Great alarm at Konigsberg by night. 221.
+
+[Uprising punished] Punished. 27, 70, 93. Mereen Rogge and his gang beheaded at Danzig. 76. Natangers become rebellious and beheaded. 329. Rebellious Pogesanians beaten. 352. Rebellious peasants punished in body or by fines. 166. Sundt, Horst, Schnel beheaded. 223. Moneo hung on the road, pierced with his own weapon. 320. Uprising instigator hanged. 27. Rebels in Bartener Land pacified in due time. 27.`,
+  },
+  "p545": {
+    original: `Register.
+
+Mörderyen. Pfarherr zu Richaw ertruncken. 305.
+D. Leander für Marienwerder in einer Leimkaulen gefunden. 310. Michael Beer / Pfarherr zur Mednaw erfroren. 245. Ditwan der pocher erschossen. 428. Ein Hirt vnnd Stein auffm felde erfroren. 433.
+Eines Beutlers Weib im Mülteich ertruncken. 195. Donner erschlaget ein Edelfraw mit der Magt. 469.
+Item 2. Nonnen. 85. Geitzbauch erseufft im See. 344. Heinrich Moneo gehangen vnd erstochen. 329. Bischoff von Samlandt erschlagen. 202. 440. Caspi: Geschke bekompt Gifft für Wermutöly. 339. Hoemeister Werner von Urselen erstochen. 267. 285.
+Hans Sundt kompt auff dem Balckofen vmb. 232. 140 Bawren in der Küchen verbrandt. 349.
+Ein Grass mit sechs Knechten erhawen. 270. 21. erstochen. 271. Elliff ermorde Kinder gefunden.
+Viel in Hurenkästen im Schlaff vmb bracht. 80. Philip Thelschners Todt vnbewust. 40. Mönch ersticht de Apte vmbs Rabe wille. 54.
+Bar Nickel mit Wagen vnd Pferd in Pregel gefahren. 191. Wunderlich Weib / schendlich vmbkomen. 197. Gardian von seinem Paten vmbgebracht. 79.
+
+Mit Gifft vergeben.
+Bischoff vom Trometer vergeben. 153.
+Johannes Wernerus vergibt sich selber. 246. 248. Ein Rage bringe viel Leut vmb. 401.
+
+Mordtbrenner.
+Brennen viel Karbenshöff hinweg. 269.
+Worden gekrigt / bekanten auff Kaufleut / so sie mit Gelde darzu erkaufet. ibidem.
+Bawer schleget einen Teuffel todt. 456.
+Man findet in der Larven vnd Kleidern nur stinckende Aschen. ibidem.
+
+Rach.
+Samen rechen sich an Priestern / schlagen ihnen die Zähne aus / zerknitzschen jhnen die Häupter zwischen 2. Bretern. 27.
+
+Offentliche Feindtschafft.
+Greger Matern der Dantzker feind. 82.
+Simon Materne. 85. Hans Zillebrat der Elbinger feinde. 86. 116. 117.
+Abraham Sypilski. 353.`,
+    english: `[Register continued -- Fifth Commandment: murders, poisonings, arsonists, revenge, feuds]
+
+[Murders / various deaths] Parson at Richau drowned. 305. D. Leander found at Marienwerder [Kwidzyn] in a clay-pit. 310. Michael Beer, parson at Mednau, frozen to death. 245. Ditwan the braggart shot. 428. A herdsman and a stone [?] frozen in the field. 433. A purse-maker's wife drowned in the mill-pond. 195. Thunder kills a noblewoman with her maid. 469. Also 2 nuns. 85. A miser drowns in the lake. 344. Heinrich Moneo hanged and stabbed. 329. The Bishop of Samland killed. 202, 440. Caspar Geschke receives poison instead of wormwood oil. 339. Grand Master Werner von Orseln stabbed. 267, 285. Hans Sundt dies at the baking oven. 232. 140 peasants burned in the kitchen. 349. A nobleman with 6 servants cut down. 270. 21 stabbed. 271. Eleven murdered children found. Many killed in their sleep in a brothel [Hurenkasten]. 80. Philip Thelschner's death unknown. 40. A monk stabs the abbot for the sake of [his] raven. 54. Bar Nickel driven with wagon and horse into the Pregel [River]. 191. A strange woman came to a shameful end. 197. A guardian [Gardian/warden of a Franciscan house] killed by his godchild [Paten]. 79.
+
+[Poisoning] A bishop poisoned by the trumpeter. 153. Johannes Wernerus poisons himself. 246, 248. A rage kills many people. 401.
+
+[Arsonists / Mordtbrenner] Burn many Karbenshof [estates] down. 269. Were caught; confessed that merchants had paid them to do it. ibid. A peasant strikes a devil dead. 456. One finds in the masks and clothes only stinking ashes. ibid.
+
+[Revenge] The Samogitians take revenge on priests: knock out their teeth, crush their heads between 2 boards. 27.
+
+[Open feuds / Offentliche Feindschaft] Greger Matterne, enemy of the Danzigers. 82. Simon Materne. 85. Hans Zillebrat, enemy of the Elbingers. 86, 116, 117. Abraham Sypilski. 353.`,
+  },
+  "p546": {
+    original: `Register.
+
+Woher verursachet.
+Können nicht zu recht kommen. 116.
+Warde jhnen nichts geholffen. ibidem.
+
+Solcher ende.
+Greger Materne verretherisch vmbgebracht. 84. Simon im Thurn gehangen. 88. Sipiloki gefangen vnd gezwungen / schade auff zurichten. 353.
+
+Feinde nicht zuerachten.
+Hoemeister verachtet die Polen / vbergiebt allen vortheil. 446. Verachtet die Hulffe. 447. Warde geschlagen. 447.
+Polen verachten führ der Commig die Deutschen / werden aber vbel geschlagen von Deutschen. 60. Jung wil dem alten nicht volgen / werden geschlagen. 15.
+
+Krieg in Gottes furcht anzufangen.
+Wenig Christen ruffen Gotean / vnd erschlagen viel vngleubigen. 56.
+Sborowski vermanet sein Volck zum Gebet. 99. Dantzker wolten nicht beten / darumb wurden viel von wenigen geschlagen. 100.
+Der König lies jhns für der Schlacht auff dem Tannenberge / drey Messen lesen. 130. vnd 446. als zwo Messen.
+
+Neidt.
+Neidt wider die Seudenten. 180.
+Dantzker neide / den Königspergern das Tieff zuuersenken. o 23. Zum andern mahl. ibidem. Zum dritten mal ibidem. Item im Polnischen Kriege. o 24.
+
+Neidt gestraffet.
+Ein Stecher fellet in Brunnen. 180.
+Dantzker kommen vbel zu mas. o 24.
+
+Stratagemata Kriegs behendigkeit oder Practicken.
+Puciwerus chut mit wasser dem Orden grossen schaden. 407. Zerbrechen die Kindelbehemme. 409. Meelsacker mit Dantzker Bier. 312.
+Practicka auff Schlochaw. 423.
+Stargarde. 437. Der von Baysen kompt gen Thorn in schein des Hoemeistrs. 257. Einer verkleidet als ein Christlich Weibes person. o 16.
+Nicolaus von Tungen kompt in das Schlos Heilsperg. 149. Feinde bekrigen einander. 437.
+
+Trew gege. sten Hoemeister / gegen den. Bische Heilsperg / verbindet sich mit hilfft jhn. 149.
+Kneiphöffer den Dantzkern trew.
+
+Dargegen.
+Vbergab der Bischoff den Hoemeister. 349. Dantzker wollen nur erfüllung des Tieffen / den Kneiphöffern vbel zahlen. o 23. vnd 24.
+
+Ein Edelmen aus dem sonderlichen Gericht Gottes gehangen. 256.
+Herrlichs recht im Lande / das Ampts Brüder meimandts eddten dörfften / ohne vorwissen des Hoemeisters. 343.
+
+Zum sechsten Gebot.
+
+Exempel der Keuschheit.
+Barthol Brühan von Osterreich. 170.
+Hoemeister Conrade von Erlingshausen. 306. Einer Witwen mit jhrer Tochter. 406. Littawen im Fürstenthumb zu Preussen. 161.
+
+Des Ehestandes.
+Marg: Albrecht der Hoemeist: legt den Orden ab / warde weiblich / vnd gibt sich in Ehstande. 176. 208. Secunda. 179. Priester ehestande in diesen vmbligenden Lendern / noch bey des Ordens zeiten gewesen. 361.
+Glücke eines armen Gesellen zum Ehestand. 49.
+
+Exempel der Ehebrüche vnd jhrer straffe.
+Ehebruch eines Masurischen Fürsten / so darob erstochen. 466. Ape n. einen Edelmans Weib entlauffen / vnd lebendig begraben worden. 34. Polnischer Hauptman bey der Wirtin im Bette erstochen. 259. Pfarherr Eo hebrech.`,
+    english: `[Register continued -- Fifth/Sixth Commandments: feuds, war, envy, stratagems, chastity, marriage]
+
+[Causes of feuds] Cannot obtain justice. 116. No one helped them. ibid.
+
+[Their end] Greger Matterne treacherously killed. 84. Simon hanged in the tower. 88. Sipiloki captured and forced to make reparation. 353.
+
+[Do not despise enemies] The Grand Master despises the Poles, gives up every advantage. 446. Despises the [offered] help. 447. Was defeated. 447. Poles despise the Germans before the battle, but are badly beaten by the Germans. 60. The young will not follow the old -- are defeated. 15.
+
+[War to be undertaken in the fear of God] Few Christians call upon God and defeat many unbelievers. 56. Sborowski exhorts his people to pray. 99. The Danzigers would not pray, therefore many were defeated by few. 100. The King had 3 masses read before the battle at Tannenberg. 130, 446.
+
+[Envy] Envy against the students. 180. Danzigers' envy -- sinking the Konigsbergers' Deep. o 23. A second time. ibid. A third time. ibid. Also in the Polish War. o 24.
+
+[Envy punished] A duellist [Stecher] falls into a well. 180. The Danzigers fare badly. o 24.
+
+[Stratagems / Stratagemata -- war cunning or tricks] Puciwerus does great damage to the Order with water. 407. Breaking the Kindelbehemme. 409. Mehlsack [incident] with Danzig beer. 312. Stratagem at Schlochau [Czluchow]. 423. Stargard. 437. The von Baysen comes to Thorn in the guise of the Grand Master. 257. One disguised as a Christian woman. o 16. Nicolaus von Tungen gets into Heilsberg Castle. 149. Enemies betray each other. 437.
+
+[Loyalty] The Kneiphof [citizens] loyal to the Danzigers.
+
+[Against that] The Bishop betrays the Grand Master. 349. The Danzigers want only to fill up the Deep and treat the Kneiphofers badly. o 23-24.
+
+A nobleman hanged by a special judgment of God. 256. Splendid law in the land that Order Brothers might not execute anyone without the Grand Master's knowledge. 343.
+
+[Sixth Commandment]
+
+[Examples of chastity] Barthol Bruhan of Austria. 170. Grand Master Conrad von Erlingshausen. 306. A widow with her daughter. 406. Lithuanians in the Duchy of Prussia. 161.
+
+[Marriage] Margrave Albrecht, the Grand Master, lays down the Order, becomes secular, and enters marriage. 176, 208. [His] second [wife]. 179. Priestly marriage in these surrounding lands existed even in the Order's time. 361. Fortune of a poor fellow in marriage. 49.
+
+[Examples of adultery and punishment] Adultery of a Masurian prince, stabbed for it. 466. A nobleman's wife ran away and was buried alive. 34. A Polish captain stabbed in bed with the innkeeper's wife. 259.`,
+  },
+  "p547": {
+    original: `Register.
+
+Vnfletige Meuter / vnd wie gestraffet.
+
+Trehersche hat gar ein vnfletiges maul. 189. Sturtzet autim Fischmardte wird sprachlos / stirbt kürtzlich. ibi.
+Pfaff redet ergerlich / kümpt schendlich vmb. 453.
+
+Gesehe.
+Wie sich die Weiber gegen jhren Männern verhalten sollen. 128. Vnd wie sie zu straffen: 128. Böse Weiber 483. Wie das Weib den Man im sterben vbel tröstet. 431.
+
+Müssiggang.
+Müssiggäher werden zur arbeide gezwungen. 170. Müssigganger auff einen Wagen gesetzer / vnd zur arbeidt gezwungen. ibidem. Faulentzer kommen schendlich vmb. 174.
+
+Hoffart auch durch Mirackel gestraffet.
+
+Grosse hoffart. 164. 193. 198. Foller andern zum Exempel abgenommen. 235. Solle warnen für grossen Krösen / Weitschen Hosen / vnnd Beuchen. 235. Ein verrückter schreyet vber die grossen Kröse vnd Beuche. 236. Ein Kalb mit Krösen. 125. Ein Fischblasen / mit zweyen Krösen. 359. Ein Ferckel mit einem Kröse. 430.
+Hoffart gestraffet. 164. 278. Prachts machet schele augen. 211.
+Schlechte Kleider. 161. 162. Bastene Schuhe. 162.
+
+Ordnung in Kleidung vnd Köstung gemacht. 233. Hoffart gestraffet. 164. 193.
+
+Fressen vnd Sauffen.
+Einem versoffnen Edelman wie ergangen. 255. Versoffne Pfaffen. 453.
+Fürm Sauffen sich hütten. 256. Ein feiner Man starbe in trunckenheit. 485. Trunckenheit ist schedlich. 254. Was aus trunckenheit kome. 255. Trunckene Polen zu Johans burg erschlagen. 162. Meellsack eingenomen. 312. Lessen durch voll sauffen / versehen / das der König mit gewalde nicht hat können einnemen. 254. Viel truncken Preussen für Bartenstein erschlagen. 28.
+Pfarherr wil nicht mit den Bawren sauffen. 259. Pfarherr gehet in Krug wird erschlagen. 244. Wie lang mit den Bawren zu zechen. 320.
+Littawen ein versoffen Volck. 160.
+
+Hörung`,
+    english: `[Register continued -- Sixth Commandment: filthy talk, women, idleness, vanity, gluttony and drinking]
+
+[Filthy speakers and punishment] Trehersche has a very filthy mouth. 189. Collapsed at the fish market, became speechless, soon died. ibid. A priest speaks scandalously, comes to a shameful end. 453.
+
+[Laws] How wives should behave toward their husbands. 128. And how they are to be punished. 128. Wicked women. 483. How the wife poorly consoles the husband in dying. 431.
+
+[Idleness] Idlers forced to work. 170. An idler put on a wagon and forced to work. ibid. Lazy people come to a shameful end. 174.
+
+[Vanity punished even through miracles] Great vanity. 164, 193, 198. [Examples] taken away as warning to others. 235. Should warn against large ruffs [Krosen], wide breeches [Weitschen Hosen], and bellies [Beuchen]. 235. A madman cries out against the great ruffs and bellies. 236. A calf [born] with ruffs. 125. A fish-bladder with two ruffs. 359. A piglet with a ruff. 430. Vanity punished. 164, 278. Finery [Pracht] causes envy. 211. Simple clothes. 161, 162. Bast shoes. 162.
+
+[Sumptuary regulations] Order in clothing and feasting established. 233.
+
+[Gluttony and drinking] How it went for a drunken nobleman. 255. Drunken priests. 453. Warning against drinking. 256. A fine man died in drunkenness. 485. Drunkenness is harmful. 254. What comes from drunkenness. 255. Drunken Poles killed at Johannsburg [Pisz]. 162. Mehlsack [Pieniezno] taken [because the garrison was drunk]. 312. Through drinking, they lost what the King could not take by force. 254. Many drunken Prussians killed before Bartenstein [Bartoszyce]. 28. A parson will not drink with the peasants. 259. A parson goes to the tavern, is killed. 244. How long to carouse with the peasants. 320. Lithuanians, a drunken people. 160.`,
+  },
+  "p548": {
+    original: `Register.
+
+Hörung auffden pfingst Abrndt. 163.
+Böse Fastnacht der Pfaffen zum Elbing. 113. Böse Fastnachtspiel zu Dantzke auff dem Marckt. 90. Böse Fastnacht so aus einem Freystechen gekommen. 270.
+
+Verschwendung in Köstung.
+Stadtliche Köstung. 94. Brüder Köste. 86. Grosser pracht in dem ehreutisch. 295. Eine Malzeit zu Marienwerder / was sie gekoest. 311.
+
+Zum siebenden Gebott.
+
+Ordnung in mas vnd Gewichten. 281.
+Ordnung in keuffen vnd verkeuffen. 292.
+Landes Ordnung. 292. Drey Niderlage im Lande geordnet. 112. 292.
+Thörner Niderlag erlange / darob die ander vbel zufrieden. 459. Wurde ander wege gemacht. ibidem.
+
+Richters klugheit.
+Wie ein Richter hinter eine falsche anklage gekommen sey. 231. 232.
+Wie der alte Burgraff C. V. K. hinter einen Diebstal kommen / den man mit keiner pein auss fragen hat können. 230.
+
+Diebstall.
+Grosser Diebstall zu Marienburg aus dem Tressellthurm. 267. Ein grosser Beutel Dieb gehangen. Koemeister warde bestolen. 201. Ein behender Dieb / verriet einen Pfarherrn / vmb das Pferd. 254. Ein Dieb so mit Kraue vnd ein Senckellstifft / alle Schlösser konte auffmachen / vnd aus vielen Gefängnissen entkomen. 468. Brugman gehangen. 88. Krom gehangen. 173.
+Küchemeister gehangen. 190.
+Zweiffel geköpffet. 190. Johannes Wernerus vnterm Galge begraben. 249.
+Landsknechte stelen einem Pfarherrn ein viertheil vom Ochsen / thun ein todes Weib an die stelle. 348.
+
+Starcke Bettler. 480.
+
+Babsts Geitz.
+Bapsta Geitz. 23. Begert von Geistlichen in Preussen Decimas. 28. 293.
+Hetzet den Kaiser wider den Orden. 28. 293.
+Orden mus jhnen Geldt geben. ibidem.
+Orden vierzehen Jar in Bann vmbs Peters Pfennigs willen. 57.
+Bapst lohnet seinen Dienern mit Ablas. 449.
+
+Almusen / w. vmb Almusen / w. aus. 51.
+
+Kirchenreuber.
+Zu Conradtewalde ein Silbern Bilein mit 2. gesegneten Ostien gelen. 62. Bischoff Kirchen Kleinot versucht. 449. Erschreckliche Exempel Kirchenraubs. 171. Vielne Pfenninge verrathen einen Kirchendieb. 462. Kirchengut gedeyer nicht. 265. Man sol sich für der armen vnd Kirchengütern hüten. ibidem. Gebet gemeinglich durchs fewer hinweg. ibidem.
+Ausgelassene Diebe halten sich vbel. 79. 113.
+
+Mordtbrenner.
+Etzliche brennen der Brauneberger vor Rade ab. 39. Verbrennen zu Marienburg / vnd sonsten dem Orden viel Kornhäusser ab. 268.
+Sturmbüffel verbrande. 442.
+Dantzker Therhoff angezünder. 80.
+
+Seereuber vnd jhre straffe.
+Lübecker nennen 70. Schiff für Dantzke / vnd vierzehen verbrennen sie. 87.
+Werden ein vnd sechzig Seereuber zu Dantzke geköpffet. 76.
+Achte Seereuber abgehawen. 86.
+Funffzehen Lübecksche enthauptet. 87.
+Seereuber werden wider beraubet. 101. 147. Polen benemen die Weipa. Wer. 440.
+
+Barmhertzigkeit.
+Man sol gegen Arme nicht zu karg sein. 345. Der Krancken angenommen. 360. Heinrich Walpott ein guter Spitalmeister. 362.
+Wie vnser Herrschafft vnd sonsten guete Leut den armen diene / behülfft sich fein vnd speisen / hat man fol. 240. zusehen.`,
+    english: `[Register continued -- Seventh Commandment: trade regulations, justice, theft, papal greed, church robbery, piracy, charity]
+
+[Carnival excesses] Hearing on Whitsun Eve. 163. Bad Carnival of the priests at Elbing. 113. Bad Carnival play at Danzig market. 90. Bad Carnival from a jousting tournament. 270.
+
+[Extravagance in feasting] Grand feasting. 94. Brothers' feast. 86. Great splendor at the banquet. 295. A meal at Marienwerder -- what it cost. 311.
+
+[Seventh Commandment]
+
+[Regulations] Order in measures and weights. 281. Order in buying and selling. 292. Land ordinance. 292. Three staple rights [Niederlage] established in the land. 112, 292. Thorn Niederlage obtained -- others displeased. 459. Other routes created. ibid.
+
+[Judge's cleverness] How a judge got behind a false accusation. 231, 232. How the old Burggraf C.V.K. uncovered a theft that no torture could extract [a confession for]. 230.
+
+[Theft] Great theft at Marienburg from the treasury tower [Tressellthurm]. 267. / Grand Master was robbed. 201. / A cunning thief betrayed a parson for his horse. 254. / A thief who could open all locks with a herb and a pin. 468. / Brugman hanged. 88. Krom hanged. 173. Kitchen-master hanged. 190. Zweiffel beheaded. 190. Johannes Wernerus buried under the gallows. 249. / Landsknechte steal a quarter of an ox from a parson, put a dead woman in its place. 348.
+
+[Strong beggars] 480.
+
+[Papal greed] Pope's greed. 23. Demands tithes [Decimas] from clergy in Prussia. 28, 293. Sets the Emperor against the Order. 28, 293. The Order must give them money. ibid. The Order under the ban for 14 years over Peter's Pence. 57. The Pope pays his servants with indulgences. 449.
+
+[Church robbers] At Conradewald, a silver image with 2 consecrated wafers stolen. 62. Bishop's church treasure attempted [to be stolen]. 449. Terrifying examples of church robbery. 171. Small coins betray a church thief. 462. Church property does not prosper [for the thief]. 265. One should beware of the poor's and church's goods. ibid. [Such goods] usually go through fire [are lost]. ibid. Released thieves behave badly. 79, 113.
+
+[Arsonists] Some burn the Braunsbergers' wheel [?]. 39. Burn many of the Order's granaries at Marienburg. 268. Sturmbuffel burned. 442. Danzig Tierhof [animal court] set on fire. 80.
+
+[Pirates and their punishment] Lubeckers bring 70 ships before Danzig and burn 14. 87. 61 pirates beheaded at Danzig. 76. 8 pirates executed. 86. 15 Lubeck [pirates] beheaded. 87. Pirates robbed in return. 101, 147.
+
+[Charity] One should not be too stingy toward the poor. 345. The sick taken in. 360. Heinrich Walpott, a good hospital master. 362.`,
+  },
+  "p549": {
+    original: `Register.
+
+Vnbarmhertzigkeit. Nicht Rechts verholffen.
+Wladislao Albo ware nicht rechts verholffen / thue derhalben grossen schaden. 424. Greger Materne kan nicht recht erlangen. 82. Geschrey das man zu Dantzke kein recht könde erhalten. 92. Burggrassen helffen nit zu recht. 110. 116.
+
+Wie gestraffet.
+Wie gestraffet. 83. 116. 117. Wladislaus Albus / wie er sich rechet. 424.
+
+Falsche Zeugen.
+Heerpracker. 227. 228. 232. 451.
+
+Gestraffet.
+Falsche zeugen fürm Bapst / werden trew los gehalten / haben forthin kein Gelübd. 451. Sechs exempel solcher falschen zeugen. 228. vnd kam vnschulde vber sieben Jar an tag. ibi.
+
+Jerer wil kein Wucherer. Geitziger betrogen / das er vierzehn gebotener groschen nur ein kriget. 220. Wie die Landtsknechte einsaltige Leute betrogen hat. ibidem. Korn Wucherer Gott gestraffet. 95. 96. Keugen Rocken Die last für 50. gülden / müssen wider für 25. gülden geben. 187.
+
+Wahn Mas.
+Eine Krügerin so vbel gemessen / vom Teuffel zu beschlagen / für die Schmiede gerieten. 429.
+
+Betriegligkeit / Geld zu bekommen.
+Ein Ertzbube fordert Geldt mit vnrecht / wurde zuschanden. 242. Praceida Gelde zubekommen. 332.
+
+Lohn verhalten.
+Brach wagen / zahlet nicht / Kompe grosser Schaden daraus. 119.
+
+Zum achten Gebott.
+Gute Richter.
+Hertzog Lüder von Braunschweig. 406.
+Liebhaben der Gerechtigkeit. 285. Hoemeistera fleis. 454. Heinrich Restle. 201. Landes Rath. 303. Rittersbandt zum Colmien gehalten. 52.
+Fürm Schlos zu Königsperg. 222.
+Obergerichte zu Schlos genomen. 174.
+
+Böser Richter. 406. Dantzker wollen nicht an das Landgerichte. 116.
+Trenmen sich von andern Stedten. ibid.
+Vngerechter Richter mit einem Pferde zerrissen. 206. Setzt habe ab / lang sam ein. 191. Auslandische hendel in Preussen verrichteten. ibi.
+
+Bürgermeister zu Marienburg gehalte urtheil. 278.
+
+Verg`,
+    english: `[Register continued -- Seventh/Eighth Commandments: injustice, false witnesses, usury, fraud, judges]
+
+[Mercilessness / No justice obtained] Wladislao Albo received no justice, therefore caused great damage. 424. Greger Matterne cannot obtain justice. 82. Outcry that one cannot obtain justice in Danzig. 92. Burggraves do not help [obtain] justice. 110, 116.
+
+[How punished] 83, 116, 117. Wladislaus Albus, how he avenged himself. 424.
+
+[False witnesses] Heerpracker [slanderers/perjurers]. 227, 228, 232, 451.
+
+[Punished] False witnesses before the Pope -- held to be faithless, henceforth no credibility. 451. Six examples of such false witnesses. 228. And the innocence came to light after 7 years. ibid.
+
+[Usury] No one wants to be [called] a usurer. A miser cheated so that of 14 offered Groschen he gets only 1. 220. How the Landsknechte cheated simple people. ibid. God punished a grain usurer. 95, 96. Buying rye -- a Last for 50 Gulden, must sell back for 25 Gulden. 187.
+
+[False measures] A tavern-keeper woman who measured badly -- the Devil had her beaten, driven to the smithy. 429.
+
+[Deception to get money] A rogue demands money unjustly, is put to shame. 242. Stratagem to obtain money. 332.
+
+[Withholding wages] Broke the wagon, did not pay; great damage resulted. 119.
+
+[Eighth Commandment -- Good Judges]
+Duke Lüder von Braunschweig. 406. Lover of justice. 285. Grand Master's diligence. 454. Heinrich Restle. 201. State Council. 303. Court of knights held at Culm [Chelmno]. 52. Before the castle at Konigsberg. 222. High court brought to the castle. 174.
+
+[Bad judges] 406. Danzigers will not submit to the Land Court. 116. Separate themselves from other cities. ibid. An unjust judge torn apart by a horse. 206. Slow to act. 191.
+
+Burgomaster of Marienburg's verdict. 278.`,
+  },
+  "p550": {
+    original: `Register.
+
+Verleumbder.
+Falsche Leut vnd angeber. 91. 93. 450.
+Kürschner. 226. Los der Schütz. 172.
+Hoserrath den Bürgenmeister. 172.
+Losen straffe. ibidem.
+
+Betrieger.
+Ein Bub gibt sich für einen Künstlichen Botten aus / betreuget ein simple Frawe. 480. Bischoff betreugt die Wormditter mit seinen wagen. 489. Pfarherr vmbs Pferdt betrogen. 225. Tolck ein Schalck. 4. Böser berichtet / betreugt sich selber. 478.
+Vierung über das gantze Lande koman. ibidem.
+Bierschöppen geben allen Bier böse namen / werden gestraffe. 475.
+
+Grobe Papistische Lügen.
+Mönch vom Apostel Christi vber die Wassel geährt. 52. Lügen von S. Albrecht. 20.
+
+Folgen andere wenig vnd gemeine Historien vnnd Exempla.
+
+Sonderlicher Segen Gottes.
+Ein kleiner Heller Speise mit Fischen / raichlich belagertte Burgleutt 9. Jar lang. 321. Viel Kaulpersse. 196. 221. Für tau / eng gülden Fischer im Crafter org / auff einen zug gefangen. 62. Desgleichen im flachung 0 11. Item für 1200. marck. 42.
+Im grossen wasser viel Fisch in Graben. 94. Klein fisigen viel Schmerling. 344. Papisten gros glück im Fischen. o 11. o 14. Wolfseil Heering. 95. Viel Dalen vnd Krähen zu marckt kommen. 221. Wolfeile zeit. 221. Korn abgeschlagen. 95. 96.
+
+Sonderliche straffe Gottes.
+In baden Haffin den gantzen Winter vber / nicht ein gericht Fisch gefangen. 330. Gering Fischerey. 402.
+Kein Fisch mehr gefangs bis Geitzbauch verlesst. 343. Seefang hinterm Elbing vergangen. 113. Fische in der mitte des Flusses verschwunden. 344. Krebs verschwunden. ibid.
+Fisch verschwunden. ibidem. Samen kreuppen Fisch / sollen so balde nicht wider kommen. 351.
+
+Gewühlich. 4.
+150. Grosse Strükel oder 191. Grosser Ochse. 96.
+Grosser Arrochsse. 250. Gros Wildschwein. 190. Ein sehr gros wilde Schwein / zu Morungs Stadt gefangen. 321. Gros Wolff. 335. Ein sehr staun. Mensch. 195. Büchsenkugel zwischen zwey Kinder / ohn schaden eine Wiegen nider gefallen. 139.
+Rocken zu Froblanch. 35. 385. Brot zum Stein geworden. 339. Fewer aus einer Trummen / auch aus eine Privat ge schlagen. 156. 232.
+Wunderwerck am Eis. 443. o 14.
+Wunderlicher Kürbs. 3. 7. Viel Bawren haben ein Klein Heuslein in Ost. abbrechen t Haufen. 167.
+
+Missgeburtten.
+Ein erschrecklich Teuffels Rindt. 188.
+Mancherley Monstera oder Missgeburt. 152. 197. 225. 241. 242. 252. 320. 325. 351. 467.
+Ein Saw ein Schwein geworffen. 451.
+Buntes Kalb mit 3r Köpffsen. 73.
+Ferckel mit einem Gesicht geworden. 430.
+
+Gott behüt wunderbarlich.
+S. Niclas Thurn felt ohn schaden. 187.
+Der Giebel am Sachsennischen Tor / felt in die Stadt ohn schaden. 241.
+Ein Kugel aus einer Todtschlangen geschossen / in eine Wiegen zwischen 2. Kinder gefallen / ohne schaden. 159.
+Ein Medlein im Wasser erhalten. 96.
+Joe ein armes Lameo gebundetics Weib / in einem grossen strome. 119.
+Zwo Personen auff der Kirchelbrücken 236. Puluer im Schlos.
+bern überfalle
+In seinem benn`,
+    english: `[Register continued -- Eighth Commandment: slander, deceivers; then miscellaneous stories and wonders]
+
+[Slanderers] False people and informers. 91, 93, 450. / Currier. 226. / Hoserrath [slandered] the Burgomaster. 172.
+
+[Deceivers] A rogue poses as a skillful messenger, cheats a simple woman. 480. A bishop cheats the Wormditters [people of Wormditt/Orneta] with his wagons. 489. A parson cheated of his horse. 225. The interpreter [Tolck] is a rogue. 4. A bad reporter deceives himself. 478.
+
+[Gross Papist lies] A monk [said to be] carried over the Vistula by Christ's Apostle. 52. Lies about St. Albrecht. 20.
+
+[Various other stories and Exempla]
+
+[God's special blessings] A small Heller [coin's worth] of fish richly fed besieged castle-folk for 9 years. 321. Many ruffe [Kaulpersse]. 196, 221. / Great catches of fish. 62. / In the great flood, many fish in the ditches. 94. / Many loach [Schmerling]. 344. / Cheap herring. 95. / Many jackdaws and crows came to market. 221. / Cheap times. 221. / Grain prices dropped. 95, 96.
+
+[God's special punishments] In the whole winter at the lagoon, not a single fish caught. 330. Poor fishing. 402. No fish caught until a miser was driven out. 343. Fishing behind Elbing ceased. 113. Fish in the middle of the river disappeared. 344. Crayfish disappeared. ibid.
+
+[Wonders of nature] Large sturgeon [Strükel]. 150, 191. Large ox. 96. Great aurochs [Arrochsse]. 250. Great wild boar. 190. / A bullet [fell] between two children in a cradle without harm. 139. / Bread turned to stone. 339. / Fire struck from a drum and from a privy. 156, 232. / Wonder on the ice. 443, o 14. / Wondrous gourd. 3, 7.
+
+[Monstrous births] A terrifying devilish calf. 188. Various monsters or monstrous births. 152, 197, 225, 241, 242, 252, 320, 325, 351, 467. A sow [gave birth to] a pig [with unusual features]. 451. A spotted calf with 3 heads. 73. A piglet with [a human] face. 430.
+
+[God protects wonderfully] St. Nicholas tower fell without harm. 187. The gable at the Saxon Gate fell into the city without harm. 241. A bullet from a cannon [Todtschlangen] shot into a cradle between 2 children, without harm. 159. A girl preserved in water. 96. A poor bound woman [saved] in a great current. 119. Two persons on a church bridge. 236.`,
+  },
+  "p551": {
+    original: `Register.
+
+Item. Kirchdorffer vnnd der Stadt Weisselburg versoffen. 310.
+Mancherley Weissel vnd Nagots ausbrüche / findet man. o 17. o 25. o 26. o 27.
+
+Zeichen am Himel.
+Blut roet. 225. 323. 326. Gülden Creutz. 140. An der Sonnen. 433. 242. Am Mon. 109. Erschreckliches Wunderzeichen mit der Fewern Kugel. 19. Comet wie ein besen. 224. Newer Stern. 224. 225.
+
+Besserung.
+Landt nimpt zu / wird wol bebawet. 387.
+Oil zu Königsperg vnter der Erden in den Kellern wonenede. 387.
+Gros vnd schön gebew im Schlos. 198.
+
+Von der Müntze.
+Von erster Müntze in Preussen. 453. Erste Schilling. ibidem. Lessen des Ordens Müntze gewesen. 252.
+Gute Müntz nicht zu verarbeiten. 292.
+Müntz verendert. 92. Keulen Schilling. 172. Gute Müntz. 250.
+Alte Pfenning verbotten. 54.
+
+Vermessenheit.
+Bawmeister war truncken / fallet zu todt. 476. Fehret einer zu wasser in einer Kupfferen Brewpfannen / von Königsperg gen Dantzke. 186.
+Hans Mopr steiget auff den Rathaus Thurn zu Dantzke. 86.
+
+Für Sünden sich zu hüten.
+Der Teuffel machet geringe Sünde gros. 163. Führet aus einer Sünde in die ander. 343. In seinem beruff zu bleiben. 223.
+
+Ende des Registers.`,
+    english: `[Register continued -- final entries: signs in heaven, improvements, coinage, presumption, moral warnings]
+
+[Various floods] Kirchdorfer and the city of Weisselburg flooded. 310. Various Vistula and Nogat breaches -- see o 17, o 25, o 26, o 27.
+
+[Signs in the sky] Blood-red [sky]. 225, 323, 326. Golden cross. 140. On the sun. 433, 242. On the moon. 109. Terrifying wonder-sign with a fiery ball. 19. Comet like a broom. 224. New star. 224, 225.
+
+[Improvement] The land grows, is well cultivated. 387. Oil [found?] at Konigsberg underground in cellars. 387. Great and beautiful buildings in the castle. 198.
+
+[On coinage] On the first coinage in Prussia. 453. First Schilling. ibid. Reading [?] the Order's coinage. 252. Good coin not to be melted down [verarbeiten]. 292. Coinage changed. 92. Club Schilling [Keulen Schilling]. 172. Good coin. 250. Old Pfennig forbidden. 54.
+
+[Presumption / Vermessenheit] A master builder was drunk, fell to his death. 476. Someone sailed in a copper brewing-pan from Konigsberg to Danzig. 186. [A remarkable feat of foolhardiness.] Hans Mopr climbs the Town Hall tower at Danzig. 86.
+
+[Guarding against sin] The Devil makes small sins large. 163. Leads from one sin to another. 343. One should remain in one's calling [beruff]. 223.
+
+End of the Register.`,
+  },
+  "p552": {
+    original: `[Blank]`,
+    english: `[Blank endpaper]`,
+  },
+  "p553": {
+    original: `[Blank]`,
+    english: `[Blank endpaper]`,
+  },
+  "p554": {
+    original: `[Back paste-down endpaper with conservation stamp: 'Konserwacja dokonana w r. 1964 przez Piotra Karowskiego, Introligatora Biblioteki Miejskiej']`,
+    english: `[Back paste-down endpaper. Contains a library conservation stamp in Polish reading: 'Conservation completed in the year 1964 by Piotr Karowski, Bookbinder of the Municipal Library.' This indicates the volume was rebound or restored in 1964 by the municipal library's bookbinder.]`,
+  },
+  "p555": {
+    original: `[Back cover -- dark leather binding with spine bands visible]`,
+    english: `[Back cover -- dark leather binding with raised spine bands and clasps visible. The binding appears to be a 20th-century restoration, consistent with the 1964 conservation stamp on the previous page.]`,
+  },
+  "p556": {
+    original: `[Spine view -- gold-stamped title on dark leather spine reading: 'Galerie der Preußischen Landtaffel oder Mappen.' Library shelf number F 455 visible at bottom.]`,
+    english: `[Spine of the book, photographed separately. Gold-stamped Fraktur title reads: 'Galerie der Preussischen Landtaffel oder Mappen' (Gallery of the Prussian Land-Map or Maps). At the bottom of the spine, a library shelf-mark label reads 'F 455.' The spine shows 4 raised bands typical of early modern binding. This is the final photograph of the volume, completing the full digitization of Hennenberger's 1595 Prussian encyclopedia.]`,
+  },
+  "p501": {
+    original: `[Printed page 484]
+
+in einer schrecklichen weise sich der Prediger ein mal in
+seiner Predigt beklagete / das man jhm grosse gewalt thete / vnd jhn
+belegte vnd schmehete: So es denn also were / das ich einen armen
+Gesellen gelehret hette / wie er eine Hure solte from machen / hett
+ich an solchem freylich vnchristlich gehandelt: vnd kam in dieser klage
+vnd entschuldigung / das er viel mal das (fast allen Mennern)
+erschreckliche wort Hure / Hure / nante. Von diesem ein Ersamer
+Raht den Prediger furnam / straffet jhn wegen seiner vnbescheiden=
+heit / von Jungfrawen in der Predigt gethan / das er viel
+mal Hure / Hure gesaget hette. Als aber der Prediger wolte wiss=
+sen / wie er solche Personen nennen solte / sprachen sie / Er solte sie
+böse heutte nennen / vnd der Prediger verantwortte seine sache wie
+er wuste. Vnd an einem gar löblichen Feyertage sprach er in
+der Predigt / Ich hab mich gegen einer liebe beklaget / wie mich eine
+Fraw böstlich zu rede gesetzet / in welchem beklagen ich diemal das
+bittere wort Hure / Hure genant habe / So hatt mich ein Erbar
+Raht vmb der wort willen gestraffet / vnd mir entblösset / so ich die
+meine / die mich also berüchtiget hat / soll ich sie nennen eine böse
+haut / Warlich es ist wahr / O sicher ist dis bewerlich / das Fraw
+Ruffeteuffelin meine Widersacherin eine böse haut ist / wie wol sie
+40. Jahr von Creutzherrn / Pfaffen / Rahtherrn vnd Rauffleuten
+gegerbet ist / so könte jhm doch der Teuffel nicht ein pahr schuhe aus
+der bösen haut schneiden / vnd mit solchen worten gieng er von dem
+Predigstuhl / vnd fuhr aus der Stadt in sichere stelle. Dis kam
+aus diesem Asperge me.
+
+Doctor Ambrosius Lowasser von
+bösen Weibern.
+
+Ein böses Weib /           Krenkt des Manns Leib /
+Gebiert jhm schmertzen / Vnd frist sein Hertz /
+Da ist vnruh /               Vnd noch dartzu /
+Des Teuffels segen /    Plitz / Donner / Regen /
+Nichts grewlichers kan eim begegnen.
+
+Ein anders von fromen Frawen.
+
+Ein Weib das frum /      Lob ich darumb /
+Das sie ein zier /          Gleich eim Saphier /
+Des Hauses ehr /          Vnd das noch mehr /
+Das Gott den Segen /   Auff sie thut legen /
+Kein grösser glück kan eim begegnen.
+
+Von Wittfrawen.
+
+Wenn die Wittfrawen         Sich baldt vmbsehe wen /
+Nach andern Haien /          Vnd jhrer Mannen /             So balte`,
+    english: `[Page 484 -- The preacher's revenge sermon on 'Frau Ruffteuffelin'; Dr. Lobwasser's verses on bad wives, good wives, and widows]
+
+[The preacher's sermon] ...in a terrible manner, the preacher once complained in his sermon that great violence was done to him, and he was slandered and reviled. [He said:] 'If it were so that I had taught a poor fellow how to reform a whore [Hure], I would indeed have acted un-Christianly.' And in this complaint and apology, he used the word (frightful to almost all men) 'whore, whore' [Hure, Hure] many times.
+
+[The council's rebuke] For this, an Honorable Council [Ersamer Raht] summoned the preacher and rebuked him for his indiscretion in speaking of maidens [Jungfrawen] in the sermon, saying he had used the word 'whore' too many times. When the preacher asked what he should call such persons, they said he should call them 'böse heutte' [bad hides/skins]. The preacher answered as best he could.
+
+[The preacher's parting shot] On a very commendable feast day, he said in his sermon: 'I complained to a dear [congregation] how a woman had rudely confronted me, and in that complaint I used the bitter word "whore." The Honorable Council punished me for those words and instructed me: if I must name the one who has defamed me, I should call her a "böse haut" [bad hide]. Truly it is so! Indeed it is proven that Frau Ruffeteuffelin, my adversary, is a bad hide -- even though she has been tanned [gegerbet, a pun on leather-working] for 40 years by Teutonic Knights [Creutzherrn], priests, councillors, and merchants, the Devil still could not cut a pair of shoes from that bad hide!' With these words he left the pulpit and fled the city to a safe place. This all came from that 'Asperges me.'
+
+[Dr. Ambrosius Lobwasser on bad wives -- verse]
+A bad wife / sickens the man's body, / gives him pains / and eats his heart. / There is unrest / and in addition / the Devil's blessing: / lightning, thunder, rain. / Nothing more terrible can befall a man.
+
+[Another, on pious wives -- verse]
+A wife who is pious / I praise therefore, / for she is an ornament / like a sapphire, / the house's honor / and even more: / that God His blessing / upon her does lay. / No greater fortune can befall a man.
+
+[On widows -- verse]
+When widows / soon look around / for other [husbands] / and their [late] husbands... / so soon...`,
+  },
+  "p502": {
+    original: `[Printed page 485]
+
+So balde vergessen /          Draus ist zum
+Was sie sie haen /             Vnd sol das ... .
+Ein Freyer gar wol nemen war.
+
+Von Trunckenheit.
+
+Alda es zu Königsperg war wegen der Prussischen Gottesdiener
+lere / hielten sich die Adel fast alle im Thum / den D. Albertum zu Gottesdiener
+hören / Morin wuste aber wol / jhr böses versoffenes Hofleben / das grosse
+nemlich das gros schlemmen / prediget derhalben offtermals gar hart laufletten.
+darwider / das sie sein ablesen / theten dem D. ein herrlich geschenck
+an Kleidern / als aber sie widerumb schlemeten / vnd gar voll sich ge= Schampf
+soffen / gab jhnen der Doctor gar harte wort von der Cantzel / saget / auff grodt.
+er müsse das geschenck verdienen / denn die Sewe hetten sich so voll ge=
+soffen / das sie sich in Kunsteur geweltzet hatten / solches / vnd viel an=
+derswort mehr thet etzlichen sehr wehe / was wolten sie thun / es war
+die warheit. Als sie aus der Kirchen giengen / saget fast die fürnepeste
+( Lieben Junckern / vnser gescheid wil nichts helssen / was werden wir
+nun thun / den der Doctor wird nicht anders werden / wir werden müss=
+sen nachlassen. Vnd were es geschehen / so were es auch für jhn gut Strofft vll
+gewesen. Denn er war gar ein trefflicher vnd wolgehaltener Mann / der fal=
+das jhn F. D. in wichtigsten Legationibus brauchte. Nicht con.
+vbrig lang hernacher / wurd er in einer sehr wichtigen sachen hinaus
+geschickt / in zurück ziehen kompt er zu grossen Herrn / die beseuffen Schret
+jhn mit hitzigen Weinen / wie denn die Weltkinder einen nicht besser trucken zu
+ehren können / denn das sie einen zur Saw machen. Als aber die dahin.
+selbige person so beseuffen fort fuhr / vnd in die Herberg kam / ist er im
+Wagen todt / vnd hette diese person Landt vnd Leutten noch viel nütz=
+lich können gewesen sein / wenn er nicht so jemerlich were vmbkommen.
+
+So gehet es leider noch / das seine Leut / so herrliche Gaben ha=
+ben / Fürsten / Herrn / vnd dem Gemeinen nutze sehr wol dienen kön=
+ten / wo sie mit diesem bösen Laster nicht beladen weren. Aber man
+wil es beschönen / heists der Herren Gesundtheit getruncken / so es
+doch den Herren nicht hilfft / sich selber aber vertrürisch die Gesundt=
+heit vnd leben / wie der Exempel genug weren / wie sie sich entweder
+kranck oder gar zu todt gesoffen / oder in trunckener weise schendtlich
+vmbkommen sein.
+
+Vom Papistischen Wetterhan.
+
+Hosius / der Bischoff zu Heilsperg gewesen / hat Jesuitten gen Jesuitten
+Braunsperg gesetzt / die da eine Schule halten / vnd mit jhrer Heu= gen
+cheley vnd glatten Worten viel / auch im Fürstenthum jhre machen / Braunsperg
+sondertlichen mit jrem schelterischen Hahn / den sie Wetterhan nen= Lesen
+nen / welchen sie anno 1590. alda mit schöner schrifft / ausflegen Wetterhan
+Vnd nacher ygen lassen / vnd solchen den anserigen beibringen vnd auff der
+vercheren.       Lutherum den teuren Man GOTTES suche Cantzel.
+allerhandt`,
+    english: `[Page 485 -- On drunkenness among the Prussian nobility; the Jesuit 'Weathercock' at Braunsberg]
+
+[Widows verse concluded] So soon forgotten / what they [their husbands] were / and so it is... / A suitor should take good note.
+
+[On drunkenness] There at Konigsberg, because of the Prussian church service and teaching, the nobility [Adel] all attended the Cathedral [Thum] to hear Dr. Albertus [Dr. Albert, likely a preacher]. But Morin [the preacher?] well knew their evil, drunken court life [versoffenes Hofleben] -- namely, the great carousing [schlemmen]. He preached harshly against it many times. They gave the Doctor a splendid gift of clothing [to buy his silence]. But when they went back to carousing and got themselves completely drunk, the Doctor gave them harsh words from the pulpit, saying he had to earn the gift -- for the swine [Sewe] had drunk themselves so full that they had wallowed in their own vomit [Kunsteur]. These and many other words hurt some of them greatly -- but what could they do? It was the truth.
+
+As they left the church, nearly the most prominent [lady/lord] said: 'Dear Junkers, our protests will not help. What shall we do? The Doctor will not change. We must desist [from drinking].'
+
+[A tragic end] Had that happened, it would have been good for him too. For he was a truly excellent and well-regarded man, whom His Princely Grace [F.D.] used in the most important embassies [Legationibus]. Not long afterward, he was sent out on a very important matter. On his return journey, he came to great lords who made him drunk with hot wines -- for worldly people [Weltkinder] can show no better honor to a man than to make him into a sow [zur Saw machen]. After this person, so besotted, continued on his way and arrived at the inn, he was dead in the wagon [im Wagen todt]. This person could have been of much more use to the land and people, had he not perished so miserably.
+
+So it still goes, unfortunately: fine people with splendid gifts, who could serve princes, lords, and the common good very well, are burdened with this evil vice. They excuse it, calling it 'drinking the lords' health' -- yet it does not help the lords, while they themselves ruin their health and life. There are examples enough of those who drank themselves sick or to death, or perished shamefully while drunk.
+
+[On the Papist Weathercock] Hosius [Stanislaus Hosius, Bishop of Warmia, 1504-1579], who was Bishop of Heilsberg [Lidzbark Warminski], placed Jesuits [Jesuitten] at Braunsberg [Braniewo], where they keep a school and, with their hypocrisy [Heucheley] and smooth words, do much [mischief] -- also in the Duchy [Furstenthum] -- especially with their slanderous 'rooster' [Hahn] which they call the 'Weathercock' [Wetterhan], which in 1590 they published there with fine script, distributed, and tried to foist upon our people and pervert them. Luther, that precious man of God, seek [him] in all manner [of their writings]...`,
+  },
+  "p503": {
+    original: `[Printed page 486]
+
+ordentlig zumachen / sondern jhn auch zu schenden / vnd
+zu lestern / da noch viel mehr ist / darumb es jhnen auch zuthun /
+wolten sie hin.        Gottes Wort vnd Seligkeit brengen / wollen
+nicht wissen wer jetlich Lutherus gewesen / vnd das er ein recht
+eyferiger Papist gewesen / vnd wie sie jhn seine meinung /
+wie auch jhr Vatter Matth. 4. den 91. Psalm zerstümpert vnd ver=
+felschet / auch thun. Haben da die Papisten solche Deustliche Lü=
+gen vom Tode Lutheri dürffen ausgehen lassen / da der tewre Mar=
+tschier noch ein gantzes Jahr hernacher gelebet hat / welche erschreck=
+liche lügen er selbst verdammet / vnd jhnen zu ehren trucken lassen /
+wie in dem achten Tomo Ienensi fol. 206. zusehen ist / wie viel we=
+niger werden sie sich / solches nach seinem tode enthalten.
+Darumb
+mögen sich die vnseren wol fursehen / vnd für jhnen hüten / vnd wo
+sie solche Lugenbücher kriegen / dagegen des Hochgelarten Herren
+Doctoris Jacobi Herbrandt Büchlein / des Tittel ist / Propffung vnd Wo sahe
+aberttigung des vermeinteln / newlich ausgebrateten Euangelischen für ich
+Wetterhauen / zu Tübingen gedrucket / lesen.
+
+Wem auch solcher gesellen that nicht bekandt ist / aus dem Ge=
+meste zu Prag / vnd den thatten so in Franckreich gesche= Worame
+het / der lese die stattliche ernstliche / vnd ausfürliche warnung eines man die
+Polnischen Catholischen Ritters im 1591. Jahr gethan / an die Jesuitter
+hochlobligsten Senatores in voller Rathsversamlung der Kronen solle kent=
+Polen / vnd Melchiorem Leporium / der so lange vnter jhnen ge= nen lernen.
+wesen / vnd jhre stücke sehr wol weis.
+
+Von Betlern.
+
+Es sindt zwar viel vnd mancherley Bettler / so noch zum theil Starcke
+Jung vnd starck / lauffen aber im Landt herumb / wollen lieber Bettler Bettler
+als arbeitter sein / haben auch ein theil mehr / als die jhnen geben sol=
+len / man sol jhen auch geben was sie wollen / liegen zum teil in schan=
+den vnd lastern / ein theil stelen / rauben vnd morden auch mit / Aber
+wir wollen nur ein Exempel erzehlen.
+
+Als Anthonius Borck auff Brandenburg Heuptman war / ste= Wolcla
+het er mit etzlichen Edelleuten fur einem Krug / da kompt ein Bet= den.
+tler sehr wol beladen / auff zweyen Krücken / grewlich hinckende. Als er
+jhn sahe / sagt er zun Edelleuten / diesem Bettler ist nicht so wehe / als
+er sich stellet / er köndte sein Brodt noch wol selber erwerben. Einer
+antwortet: Ey Herr Heuptman / versündiget euch nicht an Gott / wer
+weis was jhm fehlet. Nun sagt er / wir wollens baldt erfahren. Der
+Bettler kompt neher / stellet sich grausam schwach / bittet dartzu gar
+erbermlich / Aber der Heuptman kehret jhn hart an / wie er so betelen
+dürffte gehen / so er doch ein starcker gesunder Mensch sey / befiehlet den Ralsla.
+Dienern jhn zu greiffen / vnd einzulegen. Da er das höret / lest er Ratsla.von
+die Krücken fallen / leufft so geschwinde / das jhn die Diener kaume Tolken wis
+
+abholen`,
+    english: `[Page 486 -- Anti-Jesuit polemic continued; on beggars and a fraud exposed]
+
+[Papist Weathercock continued] ...to make [Luther] disreputable, to defame and blaspheme him -- and there is much more they intend. They want to bring God's Word and salvation, [yet] they do not want to know what kind of man Luther truly was -- that he was a right zealous Papist [once] -- and how they distort his views, just as their Father [the Devil] distorted the 91st Psalm (Matthew 4). The Papists have dared to spread such devilish lies [Deustliche Lugen] about Luther's death, even though the precious martyr [tewre Martschier] lived another whole year afterward. These terrible lies he himself condemned, and had them printed for their [dis]honor, as can be seen in the eighth Jena volume, folio 206. How much less will they restrain themselves after his death!
+
+Therefore our people should be on guard and beware of them, and where they come across such books of lies, they should read instead the learned Doctor Jacobi Herbrandt's booklet, titled 'Testing and Refutation of the Supposed, Newly Hatched Evangelical Weathercock' [Propffung vnd abertigung], printed at Tubingen.
+
+[Further warning] Anyone not aware of the deeds of such fellows -- from the massacre at Prague, and the deeds committed in France [St. Bartholomew's Day Massacre, 1572] -- should read the formal, earnest, and thorough warning of a Polish Catholic knight, given in 1591 to the most praiseworthy Senators in the full council-assembly of the Crown of Poland, and [the writings of] Melchior Leporius [a former Jesuit?], who was long among them and knows their tricks very well.
+
+[On beggars] There are indeed many and various beggars [Bettler], some still young and strong, who wander about the land, preferring to be beggars rather than workers. Some have more than those who are supposed to give to them. They want people to give them whatever they demand. Some wallow in shame and vice; some steal, rob, and even murder. But we shall tell only one example.
+
+[The Brandenburg captain and the beggar] When Anthonius Borck was captain [Heuptman] at Brandenburg [Ushakovo], he was standing with some noblemen before an inn [Krug]. A beggar came along, heavily laden, on two crutches, limping horribly. When [Borck] saw him, he said to the noblemen: 'This beggar is not as afflicted as he pretends. He could still earn his bread himself.' One answered: 'Oh, Herr Hauptmann, do not sin against God -- who knows what ails him?' He said: 'We shall soon find out.'
+
+The beggar came closer, pretending to be dreadfully weak, begging most pitifully. But the captain confronted him harshly, [asking] how he dared go begging when he was a strong, healthy man, and ordered his servants to seize and lock him up. When the beggar heard this, he dropped the crutches and ran so fast that the servants could barely catch up...`,
+  },
+  "p504": {
+    original: `[Printed page 487]
+
+abholen kundten / man besucht jn / vnd fande viel Geldes
+vnd Brot bey jhm / wurde eingelegt. Aufstehen andern nun thumps
+jhn für / fragt was er man thun wolte / das Jungvolcke er geflest=
+ten / hette wol ein schwere straff verdienet. Er sagte er wolle nu ge=
+ne arbeiten. Nun er bringet jhn in Schloss gra. nimust da in Ket=
+ten gehende den Hollender ausshacken / gibt jhm von seinem gebettel= Mus vnd
+ten zu essen / lohnet jm auch mit seinem eigenen Gelde. Als nun sol= gebette
+ches vertzehret / stellet er sich als ob jhm nun das Bettelen mus falle Hinuus
+wolte triebe arbeiten. Der Heuptman verdringet jhm ein stück bey Sol wen
+der Kochspuden / gareumen / gibt jhn rabezung vnd Victalien / schickt Ketteusch
+jhn hin / er reimet aber nicht viel / sondern nimmet was er hat / vnd
+leufft darvon. Als der Heuptman einmal zu Königsperg für sei= Betteln
+ner Herberg fichet / kompt dieser wider also geschinckt / als er aber des in
+Heuptmans gewar wurd / lesst er wider die Krücken fallen / leuffer Betteln.
+jn die engen Gassen herumb / vnd kompt so darvon / solcher buben ne=
+ret man viel im Lande / were gut das man ein einsehen darinnen hette.
+
+Widiminen V. 24. Ein gros Kirchdorff / hat Marck=
+recht vnd 10. Krüge. Ist Anno 1572. ausgebrandt / bis auff die
+Kirche vnd Widem.
+
+Wiesen W. 12. Alda ist für zeitten eine grosse Abgöt=
+terey gewesen.
+
+Wildeman L. 19.
+Wildenberg b. 18. Im Orttelsburgischen / ein feiter
+ort / da der alte Fürste eine Stadt hat anlegen wollen.
+
+Willenbergt V. 7. Bey Marienburg.
+Wildenhoff R. 16.     Wilhelmsdorff W. 12.
+Willuste K. 26.          Teutsch Wilten Q. 19.
+
+Windtburg G. 21. Ein Schlos gebawet Anno 1409 Windburg
+am Curischen Haff / ein meyl vom Cracker ort / nach der Meimel Gebawet.
+werths / man fishet noch die Mauren alda / vnd ist darherumb ein fein Gering
+Sandigt Lendichen / das man mit einem Pferdt pflüge kan. Albrecht ackerweck
+Morlins Chronica sagt: Heinrich Schindekopff hat es Anno 1360.
+gebawet.
+
+Wirbaliste O. 29.      Wisitten P. 29.
+Wittegewalt Z. 14.    Wittenberg P. 17.
+Wittenstein P. 18.     Wleffsto
+Wogain Q. 17.           Wolfsdorff W. 18.
+
+Wonsdorff Q. 20. Ein Schlos / zwischen Frieds= Capostete
+landt vnd Allenburg / von Preussen erstlich Capostete genande. An= te.
+no 1256. Nam B. Burckhardt der Compthur zu Königsperg /
+Tyreste den Welawischen Heuptman / brachten heimlich leittern an Wonds
+die Feste burg Capostete / stürmeten vnd erstigen sie / schlugen als dorff ge=
+was todt / funden viel güter vnd Victalien darinnen. wonnen.`,
+    english: `[Page 487 -- Beggar fraud concluded; Widiminen, Wiesen, Wildenberg, Windtburg, Wonsdorff/Capostete]
+
+[Beggar continued] ...they caught him, searched him, and found much money and bread on him. He was locked up. The next day they brought him before [the captain], who asked what should be done with the young rogue [Jungvolcke] -- he had well deserved a heavy punishment. He said he would now work willingly.
+
+[Forced labor] So [the captain] brought him to the castle, where, in chains, he had to hack out the [timber for the] Hollander [a type of building/project?]. He was fed from his own begged provisions and paid with his own money. When that was consumed, the beggar pretended he now wanted to give up begging and work properly.
+
+The captain assigned him a piece [of land] by the cook-house to clear, gave him equipment and provisions, and sent him off. But the beggar did not work much -- rather, he took what he had and ran away.
+
+[Caught again] When the captain was once at Konigsberg before his inn, this same fellow came along again, feigning [lameness]. But when he noticed the captain, he again dropped the crutches and ran through the narrow lanes, and so escaped. Many such rogues are fed in the land; it would be good to look into it.
+
+[Gazetteer entries]
+Widiminen [Wydminy] V. 24. A large church village [Kirchdorff] with market rights [Marckrecht] and 10 inns. Burned down in 1572, except for the church and vicarage [Widem].
+
+Wiesen W. 12. There was formerly a great idolatry [Abgotterey] there.
+
+Wildeman L. 19.
+Wildenberg b. 18. In the Orttelsburg [Szczytno] district, a fine place where the old Prince [Duke] wanted to establish a town.
+
+Willenbergt [Wielbark] V. 7. Near Marienburg [Malbork].
+Wildenhoff R. 16. / Wilhelmsdorff W. 12. / Willuste K. 26. / Teutsch Wilten [Deutsch Wilten] Q. 19.
+
+Windtburg G. 21. A castle built in 1409 on the Curonian Lagoon [Curischen Haff], one mile from the Cracker headland, toward Memel [Klaipeda]. One can still fish out the walls [Mauren] there, and the surroundings are a fine sandy little land [Lendichen] that can be plowed with one horse. Albrecht Morlin's Chronicle says Heinrich Schindekopff built it in 1360.
+
+Wirbaliste O. 29. / Wisitten P. 29. / Wittegewalt Z. 14. / Wittenberg P. 17. / Wittenstein P. 18. / Wleffsto / Wogain Q. 17. / Wolfsdorff W. 18.
+
+Wonsdorff [Znamensk] Q. 20. A castle between Friedland [Pravdinsk] and Allenburg [Druzhba], first called Capostete by the Prussians. In 1256, Brother Burckhardt, the Komtur [Commander] of Konigsberg, [and] Tyreste, the Welau captain, secretly brought ladders to the fortress of Capostete, stormed and scaled it, killed everyone, and found much goods and provisions within.`,
+  },
+  "p505": {
+    original: `[Printed page 488]
+
+Anno 1319. Kurtz nach Ostern / im grossen Wasser / kam Dawid
+der Littas=
+Heuptman vor Garten / mit 800. Mannen den haus=
+Ptoln der Üb aus zog nur mit 80. für Wonsdorff / thit grossen scha=
+Pfann rauh zu bremien / zog zu rücke / wolte die Brüder in die wüst=
+is zum haus= sen vnd erschlagen. Aber der Compthur von
+Taplaw B. Alb von Dreyenlewen / vnd sein Compan Dierers / na=
+men jhnen att einem Flis smoren / wurffen die Brücken ab / das sie
+nicht uber kommen kondten / erschlugen jhrer 55. die andern verliessen
+alles raub / vnd ausschwummen / kamen mit noth zum hauffen / den=
+sie wolgerustet funden / aber der zeitung halben so hart erschracken /
+das sie die flucht namen / sollen wenig lebendig zu haus komen sein.
+
+Anno 1391. Ists widerumb gebawet / doch ist es wider wüste
+worden / weil des gespensts halben lange zeit niemands drauff hat wo=
+nen können. Nun aber ist es auffsen newes gebawet / vnd wonen vit
+derumb leut darauff.       Wonuetten G. 24.
+
+Woplaucken T. 21. Ist im Bartischen / ein Schloss= Woplauck
+chen des Ordens gewesen / der Berg ist noch zusehen / zwischen Rasten= en.
+burg vnd Schwartzenstein / so findet man auch noch handtfesten / also
+gegeben. Wenn es aber gebawet / vnd wider zerstöret sey worden /
+hab ich nirgents gefunden.
+
+Anno 1311. Als newlich Seyfrid von Feuchttwangen / gestorbe
+war / kompt Bitte der König aus Littawen mit 4000. aufferlesenen Alte Ier.
+Man / vnd dieweil er nun etzliche mahl nach einander gros glücke hat= Orde Cher
+te gehabt / ward er gahr hochmütig / vnd verheret Ermelandt bis an Tri2. C. 2
+Braunsperg / zog mit grossem raub / vnd 1400. Jungfrawen / Frawen sage aber
+vnd Kindern zurückwerths / legt sich bey Woplaucken in der Wildtnus / Erzehnet
+auff einen Berg / nicht weit von See Tensat / lestert greulich / er habe von Luderu
+jhren Gott (das ist / die Consecierte Ostien) mit Füssen getretten / so im Prusse
+wolte er jhren Herrn auch mit fahren. Auff den morgen hernach / das schwartz
+es war der Mitwochen in der Martter wochen / kam Heinrich Plokto Gros buche
+Compthur / mit denen von Königsperg / 80. Brüdern / vnd sonsten auch Sam.
+viel Christen / finden die Feinde alda / mit einem Hage vmbhawen / setz= Rapt. Ges
+ten an sie / vnd verlieren im ersten angriff 40. Man / denn die Reuss=
+sen sich mechtig am schiessen wehreten / doch brach B. Günther von
+Arstein ein / mit seinem hauffen / an der seitten / am andern ort brach
+auch der B. Fahne ein / so das die Feinde die flucht gaben / vnd alle
+entweder erschlagen würden oder verstossen / das der König auch im
+Heupt verwundet / vnd selb Dritte daruon kam. Die Brüder krigten Jungfrau=
+2800. Pferde / vnd grosses gut / baweten das Jungfrawen Closter en Closter
+zu Thorn / b. versorgens wol / vnd welche von den erlöseten / eine Non= bey
+ne darinnen werden wolte / die mocht es thun. Thorn ge=
+
+Wortallen W. 33.
+
+Wormditt V. 14. Polnisch Ormeta. Anno 1316. die Grün.
+Ist Stadt vnd Schlos gebawet. derg.
+
+Anno 1456. auff Mathei sol Wormditt dem Orden verraten Sie Grün
+fein werden / darumb lies man vom Freytag anff den Sonnabent 3. 172. 15.
+jauor / in der nacht des Landes Saltner / so zu Hollandt vnd Lib. Worm
+stade le.`,
+    english: `[Page 488 -- Wonsdorff continued: Lithuanian raids 1319, rebuilt 1391; Woplaucken: battle of 1311; Wortallen; Wormditt]
+
+[Wonsdorff 1319] In 1319, shortly after Easter, during the great flood [grossen Wasser], David the Lithuanian captain came before Garten with 800 men. The [Teutonic] householder rode out with only 80 toward Wonsdorff, causing great damage, burning, and plundering, then withdrew, intending to ambush and slay the Brothers [Teutonic Knights]. But the Komtur of Tapiau [Gvardeysk], Brother Albrecht von Dreyenlewen, and his companion Dierers, caught them at a river crossing [Flis], threw down the bridges so they could not cross, and slew 55 of them. The rest abandoned all their plunder and swam across, reaching the main force with difficulty. Finding [the main force] well-equipped, they were nonetheless so alarmed by the news that they fled -- reportedly few returned alive.
+
+In 1391, [Wonsdorff] was rebuilt, but became desolate again because no one could live there for a long time on account of ghosts [gespensts]. But now it has been rebuilt anew, and people live there again. Wonuetten G. 24.
+
+[Woplaucken] Woplaucken T. 21. In the Bartenland [Bartischen], a small castle [Schlosschen] of the [Teutonic] Order. The hill [Berg] can still be seen between Rastenburg [Ketrzyn] and Schwartzenstein. Charters [handtfesten] were issued there. When it was built and destroyed, I have found nowhere.
+
+[Battle of Woplaucken, 1311] In 1311, shortly after Siegfried von Feuchtwangen [Grand Master, d. 1311] had died, King Butigeidis [Bitte] of Lithuania came with 4,000 select men. Having had several consecutive great successes, he became very arrogant [hochmutig], ravaged Ermland [Warmia] as far as Braunsberg [Braniewo], withdrew with great plunder and 1,400 maidens, women, and children, and encamped at Woplaucken in the wilderness on a hill, not far from Lake Tensat. He blasphemed terribly, [saying] he had trampled their God (that is, the consecrated Host [Consecierte Ostien]) with his feet, and now he would deal with their Lord too.
+
+The next morning -- it was Wednesday in Passion Week -- Heinrich Plokto [Plötzke], the Komtur, came with the Konigsberg garrison, 80 Brothers, and many other Christians. They found the enemy there behind a hedge [Hage] they had cut. They attacked and lost 40 men in the first assault, for the [Lithua]nians defended fiercely with archery. But Brother Gunther von Arstein broke in with his troop from the side, and the Brothers' banner broke in from another direction, so the enemy fled. All were either killed or scattered; the King himself was wounded in the head and escaped with only two companions [selb Dritte].
+
+The Brothers captured 2,800 horses and great goods, and built the Convent of the Maidens [Jungfrawen Closter] at Thorn [Torun], furnished it well, and any of the freed [women] who wished to become a nun could do so.
+
+Wortallen W. 33.
+
+[Wormditt] Wormditt [Orneta] V. 14. Polish: Ormeta. In 1316, the town and castle were built.
+
+In 1456, on St. Matthew's Day [September 21], Wormditt was supposed to be betrayed to the [Teutonic] Order. Therefore from Friday to Saturday night, the Land-guards [Landes Saltner] of Holland and Liebstadt...`,
+  },
+  "p506": {
+    original: `[Printed page 489]
+
+stadt lagen ein / aber sie handelten gar vbel bey den
+jhnen alles das jhre / fiengen die Polen vnd Bürger darnde
+weg / auch verfeusteten sie etzliche Bürger / so bein furt ein.
+der Passerge / vnd verliessen hernacher die Stadt. ische fehen e.
+was anders / als Funcken Chronica / vnd Oyor Rumares 13. bey Warmig.
+zeitige Krieg / das es des Ordens Soldener gewesen sein / den
+aber aus dem Grundaw / vnd sonderlichen aus Löhemüllers Chroni= doh.
+ken / findet man es anders vnd besser.
+
+Anno 1462. Den andern abent vor den Weichnachten / wolt Risttwas
+ein verweister Bürger mit etzliche Bürgern in der Stadt die Stadt weht an.
+dem Bischoff von Heilsperg / durchs Badenther verraten. Dis es
+fuhr der Polnische Heuptman in der Stadt / Saghi genant / vnd
+schrieb dem Jahn Schalski Heuptman auff Hollandt / der kam spat
+vnd heimlich / so hatte der Bischoff geschickt von seinem Adel / Schüt=
+tzen vnd Bawren 71. Pferde / die losung der verreterey / war ein büch= Erlaufficha
+sen schusz / als nun ein schusz geschach / wolten sie vber den gefrornen die Stadt.
+Stadtgraben hinein / da kam jhn Jahn Schalski von hinden / vnd Pracken.
+erschlug wol 47. von des Bischoffs Volck / die andern entrausten.
+Der Bürger hies Richtstern / wird mit sampt seiner Gesellschafft Verrethe
+von den Polen entheupted. enthauptet.
+
+Im Pfaffen Kriege.
+
+Anno 1478. Im Pfaffenkriege auff Hedwigis / kam Poliorim
+der Polnische Fürst / vnd sie liessen jhn ein / vnd namen jhn an.
+
+Im Polnischen Kriege.
+
+Anno 1520. Auff Mitfasten / stellet sich der Bischoff als wolte Bischoff
+er selbst gen Wormditt komen / denn er sich besorget / sie weren besser auff betreuget
+des Ordens / denn auff seiner seiten / vnd würden frembdes volck nicht die Stadt
+einlassen / derhalben schickt er Speisswägen zuuoraus / lies seine Hans= mit fre=
+wägen mit etzlichen seinen dienern hernach gehen / mit welchem auch den Volck.
+frembde Gesetze eintrunge / vnd weil die in der Stadt des Bischoffs hans=
+wägen / vnd seine kleidung sahen / worde sie betrogen / krigten einen
+ledigen Hauswägen / vnd die Stadt voller frembder Gesetze.
+
+Anno 1520. Im Augusto / kam der Hoemeister vnd lagert sich für 
+von Goe=
+die Stadt / da hielt Radwanhoffski der Heuptman des Königs / ein ge= genommen.
+sprech mit dem Hoemeister / thet jm darnach die Pforte auff / vnd lis in
+die Stadt eynemen. Aber Job: Freyb: schreibt also. Als Anno 1520.
+die Knecht die Guttstat erohert hatte / zog der Hoemeister den Freytag
+nach S. Merten / mit 4. Fenlein Knecht vnd etzlichen Reisigen zeuge Job. Frey.
+nach Wormditt / mit etzlichem geschosslettern / vnd andern zubehö= 15. ij. 13.
+rung / etc. Als sie hinkamen / haben sie die Stadt an eine bösen ort an= 44.
+gefangen zustürmen / vnd zu jhrem vnglück war der Teich / so vmb
+die Stadt gehet / vom grossen Wasser / sie etzlichen wochen ausgerissen / Gurmdk
+vnd schütte die mott oben / als ober etruge were / aber die Landknecht Lessen v.
+so bie anliessen / blieben im mott / wurden auch viel drinnen von den
+maüer erschossen / wie lebendig bischmuß man zugeworffen / seil
+zu rückschleppen / darnach gieng man die Stadt zu stürmen / an einem
+andern`,
+    english: `[Page 489 -- Wormditt continued: betrayals 1462; War of the Priests 1478; Polish War 1520, siege of Wormditt]
+
+[Wormditt 1456 continued] ...the [soldiers] entered, but they treated [the townspeople] badly, taking everything from them, captured Poles and citizens, and even drowned [verfeusteten] some citizens in the Passerge [Pasleka River], then abandoned the town. [Other] sources tell it differently: Funcken's Chronicle and Oyor's Rumares [?] say the Thirteen Years' War [zeritiger Krieg] -- that these were the Order's mercenaries [Soldener]. But from the Grundaw [source] and especially from Lohemüller's Chronicle, one finds it differently and better.
+
+[Betrayal of 1462] In 1462, on the second evening before Christmas, a banished citizen [verweister Burger] with other citizens wanted to betray the town to the Bishop of Heilsberg [Lidzbark Warminski] through the Bath Gate [Badenther]. The Polish captain in the town, named Saghi, learned of it and wrote to Jan Schalski [Szalski], captain at Holland [Paslek]. He came late and secretly. The Bishop had sent from his nobility, marksmen, and peasants 71 horses. The signal for the betrayal was a musket shot [buchsen schusz]. When the shot was fired and they tried to cross the frozen town-moat, Jan Schalski came upon them from behind and killed about 47 of the Bishop's men; the rest fled. The citizen [traitor] was named Richtstern; he and his company were beheaded by the Poles.
+
+[In the War of the Priests] In 1478, during the War of the Priests [Pfaffenkrieg, 1467-1479], on [the feast of] St. Hedwig, the Polish prince came, and they let him in and accepted him.
+
+[In the Polish War] In 1520, at Mid-Lent [Mitfasten], the Bishop pretended he would come to Wormditt himself -- for he feared they were more loyal to the [Teutonic] Order than to him, and would not admit foreign troops. Therefore he sent supply wagons ahead, then had his household wagons follow with some servants, among whom foreign soldiers [Gesetze] had infiltrated. Since those in the town saw the Bishop's household wagons and his clothing, they were deceived -- they received an empty household wagon, and the town was full of foreign soldiers.
+
+[August 1520] In August 1520, the Grand Master [Hoemeister] came and encamped before the town. Radwanhoffski, the King's captain, held a parley with the Grand Master, then opened the gate and let the town be taken. But Job. Freyberg writes differently: In 1520, after the soldiers had conquered Guttstadt [Dobre Miasto], the Grand Master marched on the Friday after St. Martin's Day [November 11] with 4 companies of soldiers [Fenlein Knecht] and some cavalry to Wormditt, with artillery [geschosslettern] and other equipment.
+
+When they arrived, they began storming the town at an unfavorable spot. Unfortunately, the pond surrounding the town had been washed out by high water for several weeks. The mud [mott] on top appeared solid, but the landsknechts who advanced got stuck in the mud, and many were shot from the walls while trapped. Living men had to be [pulled out and] dragged back by ropes. Then they went to storm the town from another [direction]...`,
+  },
+  "p507": {
+    original: `[Printed page 490]
+
+nweil sie aber die Stadt nicht trawetn zuerhalten /
+man ... vnterredung / also dingeten sich die Polen / mit allem
+jhr sein gutte. gte in die Stadt gebracht / ab / vnd mit freyem si=
+cheren geleite den weg zuzihen / welches jnen der Hoemeister zusaget /
+vnd auch hielt. Also nam der Hoemeister auff S. Catharinen
+abent die Stadt ein. Es hatte der Bischoff von Heilsperg der
+Stadt 60. Polen zuhülff geschickt / die in der anderen stunden zuuor
+hinein waren kommen / die musten auch mit herausser / vngessen vnd
+vngetruncken / ober welche die Knechte so ergritzet waren / das / wo Polen mus
+der Hoemeister nicht selbest persönlich gestewret hette / vnangesehen jhn strauch
+das Geleite / hetten sie sie alle erschlagen / Diesen Heuptman machet Elbr. Cron.
+der König vnehrlich. ander theil
+Salconji.
+
+Ein böser Sohn.
+
+Ein ertz Alhie ist newlich gewesen ein armer blinder Man / den sein
+schalck ge= Sohn nach Almusen hat vmblettten müssen. Aber wenn er fleisch
+gen seinem kriget / so fras jhm der Schalck solches auff / vnd gab dem Vater nur
+Vatter. das Brot / aber der Vater roche / das fleisch auff dem Brot gewesen
+war / vnd fraget nach dem fleisch. Einsmals führet der Schalck
+seinen Vatter für den Schlagbaum / vnd saget / Vatter da ist ein
+Blinde Va Ertblein / da springet vber. Der Vatter meinet es sey also /
+ter fol springet nach seiner gewonheit / springet aber wider den Schlagbaum / das
+springen. er wider zurück prallet vnd thal störtzet / Da schelt der Vattr den sohn
+vmb solches verrechterischen stückes willen: Da saget der Schalck /
+Schalcks Ja Vatter / könt jhr das fleisch richen / ey Wilt jhr denn nicht auch
+antwort. den Schlagbaum richen.
+
+Doctor Ambrosius Lowasser von
+den bösen Kindern.
+
+Ein böses Kindt /           Der man viel findt /
+Der Eltern schandt /      Leufft vmb im Landt /
+Auffborgt vnd spielt / Leugt / treugt vnd stielt /
+Die Eltern sein /            Durch sorg vnd pein /
+Offtmals bringt in die Erdt hinein.
+
+Wossitz S. 6.              Wrokto d. 7.
+Wusen T. 13.              Wuslack T. 18.
+
+Z.
+
+Zandthoppen V. 19.
+Zaniscer W. 7. Ein Schlos. Ist gebawet anno Riter Jeret
+1243. vom Schwantipol in des Ordens Landt / in Pomefan / nicht Goemer. Cr
+im Colmischen Lande wie Mechonius wis lib. 3. cap. 41. Son= Micha Cr
+dern da die Weiffel vnd Nogot / von einander scheiden. Es barpig Ordo. Chr.
+aber Schwantipol der Pomerelische Fürst / derenhalben dahin Webs: lib.
+dem Orden 3. 06. 41`,
+    english: `[Page 490 -- Wormditt siege concluded; 'A bad son' anecdote; Dr. Lobwasser verse on bad children; gazetteer Z begins: Zandthoppen, Zaniscer/Zantir]
+
+[Wormditt concluded] ...since they could not hold the town, they negotiated. The Poles, with all their possessions that had been brought into the town, were allowed to depart under free safe-conduct, which the Grand Master promised and kept. Thus the Grand Master took the town on St. Catherine's Eve [November 24].
+
+The Bishop of Heilsberg had sent 60 Poles to reinforce the town, who had arrived just two hours earlier. They too had to leave -- unfed and without drink. The soldiers [Knechte] were so enraged at them that, had the Grand Master not personally intervened despite the safe-conduct [Geleite], they would have killed them all. The King made this captain [who surrendered] dishonorable [vnehrlich].
+
+[A bad son -- anecdote] There was recently here a poor blind man [blinder Man] whose son had to lead him about begging for alms [Almusen]. But whenever the son got meat [fleisch], the rogue [Schalck] would eat it all himself and give his father only the bread. But the father could smell that meat had been on the bread, and asked about the meat.
+
+One day the rogue led his father to a barrier-beam [Schlagbaum] and said: 'Father, there is a mound [Ertblein] -- jump over it.' The father, thinking it was so, jumped as was his habit -- but jumped straight into the barrier-beam, bounced back, and fell down. The father scolded the son for such a treacherous trick. The rogue said: 'Well, Father, if you can smell the meat -- can you not also smell the barrier-beam?'
+
+[Dr. Ambrosius Lobwasser on bad children -- verse]
+A bad child / of whom many are found / is the parents' shame / runs about the land / borrows and gambles / lies, cheats, and steals / [and] the parents / through worry and pain / often brings into the grave.
+
+[Gazetteer]
+Wossitz S. 6. / Wrokto d. 7. / Wusen T. 13. / Wuslack T. 18.
+
+Z.
+Zandthoppen V. 19.
+Zaniscer [Zantir/Zantyr] W. 7. A castle. Built in 1243 by Swantopolk [Schwantipol, Duke of Pomerelia] in the Order's land, in Pomesania -- not in the Kulmerland [Colmischen Lande] as Mechonius [Miechowita] says, Book 3, Chapter 41 -- but where the Vistula [Weiffel] and Nogat part from each other. Swantopolk, the Pomerelian Prince, [built it] therefore toward the Order...`,
+  },
+  "p508": {
+    original: `[Printed page 491]
+
+dem Orden die Schiffahrt auff der Weissel / vnd Na=
+dieweil sie jhm seinen Son Nestowm / den er jhnen gesell go.
+nicht widergeben wolten. Von diesem Schlos ist hier der Ma=
+burg gebawet worden.
+
+Zeidelis. Ist ein Vorwerck in Dobrin gewesen / bei 2. Frewde
+Schwerdtbrüdern gegeben / von Hertzog Conrado aus der Ma= broche
+saw / den Preussen zu widerstehen. ware.
+
+Zelaw P. 19. Ein gros Morost / darauff die Krauchen Zelawin
+Junge ziehen / vnd man helt es darfür / das es für zeiten ein See ge= sche Brut.
+wesen sey.
+
+Zernowitz P. 2. Ist ein staetlich Nonnen Clo= Zernowitz
+Sim. Gran ster / Ordinis Praemonstratensium, von Schwantepols Mutter in Po= ein furstlich
+Tradi. 17. merellen gestifftet Anno 1213. Anno 1465. Im grossen Kriege Nonnen
+sep. 17. schlug sich vom Dienstvolck 1200. an Reuttern vnd Landtsknechten Closter.
+zu hauff / denn sonsten in Preussen nicht mehr zunemen war / be=
+raubten dis Closter vnd andere mehr / machten die Nonnen Schwanger geschendet
+/ zogen durch Pomerellen zum Lande aus.
+
+Ziegenberg N. 14.        Zimerpude O. 14.
+Gros Zinder S. 6. Anno 1575. War alda Pfarrherr Grosse
+M. Franciscus Burckard / der hatte seine 4. Huben also ausgethan: Huben
+14. Morgen thet er aus vmb die helffte / daruon hatte er ge= aus vom
+meiniglich Brodt vnd trincken. Das ander theil nemlich vierdtehalb Huben.
+Huben vnd ein Morge / hatte er 4. Bairen vermiettet / daruon mus=
+te jhn ein jeglicher für sein 4. part / alle quartal 20. marck Preussz
+zinsen / das er also das Jar für seine 4. Huben 320. marck / ohne die
+14. Morgen / von denen er Brot vnd Trincken / sein notturfft hat
+kriegt. Das mügen sein / Mir dorfften sie in der ersten für Fruchtbar
+4. freyhe Huben 8. marck jins bietten / Ich frage jhn was doch ein feit der
+Morgen bey jhnen das Jahr an getreide brechte / Er saget in gemei= Wedar.
+nen Jaren 40. Scheffel / in gutten auch wol 50. auch wol 60. schef=
+fel. Im kleinen Zinder sagt er / hette er auch wol Acker / da trage
+der morgen gemeiniglich eine Last / das ist 60. Scheffel. Aber er
+trüge nur Sommergetreid / denn es were nidriger Acker.
+
+Zinten Q. 15. Eine Stadt / Ist Anno 1313. Geschickte ener
+gebawet. Stadt
+
+Anno 1455. Im Grossen Kriege / ergab sie sich wider an Alle
+den Orden. Auleger
+Ompst. C.
+Anno 1520. Im Polnischen Kriege / wie die Stadt mit Gran. C.
+der Stadt / des Ordens Volck besetzet / da kamen die Polen nach Reminiscere / B. Franc.
+mit steigleitern / vnd allerley rüstung darfür / sie zustürmen / lagerten Ohr. Cr.
+sich in die Scheunen / wiesich mit alles dings gerüster hatten /
+auff den Morgen zu stürmen / werffen die in der Stadt in der nacht
+Fewr hinaus in die Scheunen / vnd verbrennen den Polen / Pferde / poll solls
+harnisch / vnd allen zeug / das sie mit nöthe ein theil auch nur in Hemb= lich abge=
+den daruon kamen. Der Hoe= waffen.`,
+    english: `[Page 491 -- Zaniscer concluded; Zeidelis; Zelaw; Zernowitz convent; Ziegenberg; Gros Zinder agriculture; Zinten: history and wars]
+
+[Zaniscer concluded] ...the Order the shipping on the Vistula [Weissel] and the Nogat, because they would not return his son Nestowm, whom he had given them [as hostage?]. From this castle, the [site of] Marienburg [Malbork] was [later] built.
+
+Zeidelis. Was a manor [Vorwerck] in Dobrin [Dobrzyń], given to two Sword Brothers [Schwerdtbrudern] by Duke Conrad of Masovia [Mazowsze], to resist the Prussians.
+
+Zelaw P. 19. A great marsh [Morost] where cranes [Krauchen] raise their young. It is believed to have formerly been a lake.
+
+[Zernowitz] Zernowitz [Żarnowiec] P. 2. A stately convent [Nonnen Closter] of the Premonstratensian Order [Ordinis Praemonstratensium], founded by Swantopolk's mother in Pomerelia in 1213. In 1465, during the Great War [Thirteen Years' War], 1,200 soldiers [Dienstvolck] -- cavalry and landsknechts -- banded together, since there was nothing more to be had in Prussia. They robbed this convent and others, made the nuns pregnant [machten die Nonnen Schwanger], and marched out of the country through Pomerelia.
+
+Ziegenberg N. 14. / Zimerpude O. 14.
+
+[Gros Zinder] Gros Zinder [Czyże?] S. 6. In 1575, the parish priest [Pfarrherr] there was M. Franciscus Burckard, who managed his 4 Hufen [land units, c. 17 hectares each] thus: 14 Morgen [acres] he farmed for half the yield, from which he generally had bread and drink. The other part -- namely 3.5 Hufen and one Morgen -- he rented to 4 peasants [Bairen], each of whom paid 20 Mark Prussian per quarter for their quarter-share. So he received 320 Mark per year for his 4 Hufen, besides the 14 Morgen from which he had bread and drink for his needs.
+
+[Agricultural yields] 'That may be so -- they would offer us only 8 Mark rent for 4 free Hufen.' I asked him what a Morgen yielded in grain per year. He said: in average years, 40 Scheffel [bushels]; in good years, also 50 or even 60 Scheffel. In Klein Zinder, he said, some fields yielded a whole Last [60 Scheffel] per Morgen. But it only bore summer grain [Sommergetreid], since the land was low-lying.
+
+[Zinten] Zinten [Kornevo] Q. 15. A town. Built in 1313.
+
+In 1455, during the Great War [Thirteen Years' War], it surrendered back to the [Teutonic] Order.
+
+In 1520, during the Polish War, while the town was garrisoned by the Order's troops, the Poles came after Reminiscere [2nd Sunday of Lent] with scaling ladders and equipment to storm it. They quartered in the barns [Scheunen] and prepared for the morning assault. [But] those in the town threw fire [Fewr] into the barns at night, burning the Poles' horses, armor, and all equipment, so that some barely escaped in their shirts [Hembden]...`,
+  },
+  "p509": {
+    original: `[Printed page 492]
+
+ister besorget sich die Polen wurden den bohn vnge=
+stuert und weil die Stadt denn auch nicht feste war / hies
+das jhr ... vnd sich in fester orter zubergeben. Denn sol= Job. Frey.
+ches hetten jhm die Hauptleut / so darinnen lagen / vnd wenig auff Tr. II.
+Kriegsgeschesse / en auff sauffen / etc. sich verstunden / gerathen. cap. 14.
+
+Also stunde die Stadt wüste / bis das etzliche Heilsperger mit
+jhres wahr zu Marckt gewesen waren / vnd eine nacht vnterwegen / Von Heils=
+hierinnen lagen / vnd auff den morgen der Herberg / mit anstecken / pergen
+danckten / also brandte die Stadt aus. ausgebrant.
+
+Anno 1593. den 5. Septembris / Ist die Stadt Zinten gegen Heinrich
+abendt von eigenem Fewer ausgebrandt / bis auff die Kirche / Wie= von Dohr
+den Schule / vnd Mühlen.
+
+Zipel Suche Seipel.   Zobowitz T. 15.
+
+Zopta V. 6. Vnter dem Hoemeister Wernerr Zopte.
+von Orselen / brachte der Masawische Fürste Wandö / den Orden in
+ein verbündtnis / wider den König Locteck: Aber der Fürst einigt
+sich mit dem König / vnd verlies den Orden mit schaden / derhalben
+der Orden in die Masaw / Dobrin vnd Coyaw zog / vnd diese Len=
+der verheret.
+
+Matthias der Coyawische Bischoff / weil jhm von Könige nicht Sim. Grun
+Coyawisch geholffen wardt / zog er in dis Dorff Zopta / bawet sich alda ein Fe= Tract. 11.
+Bischoff / stung / vnd lebet der Güter / so sie auff Pomerellen hatten. Da macht cap. 14.
+fsste zu der Orden ein geding mit dem Bischoff / das er fort hin nicht mehr
+Zopta die zehende Garben / sondern nur fünff breiter groschen vom Erbe ne=
+hoff. men solte. Vnd alda wardt auch geordnet / was ein jeglicher Pfarrherrn
+Verendert auff Pomerellen haben solte. Aber hernacher hies man den Bischoff
+den Decels aus des Ordens Lande / mit seinen Thumbherrn ziehen / denn sie we=
+ten. ren verdechtig / das sie des Ordens sachen / dem Könige offenbare=
+Pfarherrn ten. Aber der König wolt jhr auch keine gnade haben / weil sie den
+einkomen. Zehenden ohne seinen willen verkaufft hetten.
+Geendert.
+Bischoff Zum Leihen d. 15.
+Kompt in Zur Saiwen Such Dirschaw.
+vngunst. Zur Scheutte P. 12.`,
+    english: `[Page 492 -- Zinten concluded; fires of 1520 and 1593; Zopta and the Cuyavian Bishop's fortress; gazetteer cross-references]
+
+[Zinten continued] ...the Grand Master [Hoemeister] feared the Poles would go unpunished, and since the town was not fortified [nicht feste], he ordered [the garrison] to withdraw to stronger positions [fester orter]. The captains [Hauptleut] who were stationed there -- and who understood little of military matters, only carousing -- had advised this.
+
+So the town stood empty [wuste] until some Heilsbergers, who had been at market [Marckt] with their wares, stayed overnight there on their way back. In the morning, they 'thanked' [set fire to] the inn [Herberg] -- and so the town burned down.
+
+[Fire of 1593] In 1593, on September 5th, the town of Zinten was burned down in the evening by an accidental fire [eigenem Fewer], except for the church, vicarage, school, and mills.
+
+Zipel: see Seipel. / Zobowitz T. 15.
+
+[Zopta] Zopta [Żuławka?] V. 6. Under Grand Master Werner von Orseln [r. 1324-1330], the Masovian Prince Wanda [Wańdo] brought the Order into an alliance against King Łokietek [Locteck, Władysław I]. But the Prince reconciled with the King and abandoned the Order at its expense. Therefore the Order invaded Masovia [Masaw], Dobrzyń [Dobrin], and Cuiavia [Coyaw], and ravaged these lands.
+
+[The Cuyavian Bishop at Zopta] Matthias, the Cuyavian Bishop [Coyawische Bischoff], since the King would not help him, withdrew to this village of Zopta, built himself a fortress [Festung] there, and lived off the estates the [bishopric] held in Pomerelia. The Order then made an agreement with the Bishop: henceforth he would take not the tithe-sheaves [zehende Garben] but only five broad Groschen [breiter groschen] per estate [Erbe]. And there it was also established what each parish priest [Pfarrherrn] in Pomerelia should receive.
+
+But afterward, the Order made the Bishop and his canons [Thumbherrn] leave the Order's land, as they were suspected of revealing the Order's affairs to the King. The King likewise showed them no favor, since they had sold the tithe without his consent.
+
+Zum Leihen d. 15. / Zur Saiwen: see Dirschaw [Tczew]. / Zur Scheutte P. 12.`,
+  },
+  "p510": {
+    original: `[Title page]
+
+Der See Ströme
+vnd Flüsser Namen / Welche in
+der Preuschen Mappen verzeichnet
+sind / vnnd wie solche auff fürge=
+hende weis / leichtlich zu
+finden sein.
+
+Königsperg in Preussen /
+Bey Georgen Osterbergern /
+ANNO 1595.`,
+    english: `[Title page -- Index of waterways]
+
+[Decorative title page with ornamental woodcut border featuring lions, grotesque faces, and floral motifs]
+
+The Names of the Lakes, Streams, and Rivers which are recorded in the Prussian Maps, and how these may easily be found in the following manner.
+
+Konigsberg in Prussia, published by Georg Osterberger, Anno 1595.
+
+[This is the title page for the second major section of Hennenberger's work: a hydrographic gazetteer listing every body of water marked on his map of Prussia, with grid coordinates for locating them.]`,
+  },
+  "p511": {
+    original: `[Dedicatory epistle, page 1]
+
+...und Wolgebornen / Gestren=
+gen / Edelen / Ehrenvesten / Achtbarn vnd Hochge=
+larten F. D. zu Preussen zur Regierung hinderlassenen
+Räthen / Herrn Albrechten Freyherrn zu Kitlitz Hoffmei=
+stern / Herrn Hausen Rautern Obersten Burggraffen zu Kö=
+nigsperg / Herrn Georgen Pndewelfen Obermarschalcke /
+Vnd Herren Andreæ Fabricio der Rechten Doc=
+torn vnd Cantzlern / meinen Gnedigen
+vnd Hochgünstigen Herren
+vnd Forderrn.
+
+Vnter andern schöne herr=
+lichen vnd wunderbartlichen Creaturen vnd
+Geschöpffen des Allmechtigen Gottes / damit er den
+Erdboden zu Nutz der Menschen vnd Thiere gezie=
+ret / ist sonderlich vnter den vier Elementen nicht das
+geringste das Wasser / Wie solches die tegliche erfa=
+rung genugsam bezeuget / sintemal schier keine Cre=
+atur desselben entperen kan / vnd hat es Gott in der
+ersten Schöpffung nach seiner Göttlichen weisheit
+wunderbarlich von der Erden abgesondert / vnd einen
+theil in dem Meere beschlossen / einen theil aber in die
+See / Ströme / Fliesser vnd Brunnen versamlet /
+vnd also vergrenzet / das sie ire gesetzte terminos hal=
+ten / vnd dieselben nicht vberschreiten / vnd das Erd=
+reich vberschwemmen sollen.`,
+    english: `[Dedicatory epistle, page 1 -- Dedication to Prussian government councillors; theological praise of water]
+
+[Dedication] ...to the Well-born, Valiant, Noble, Honorable, Worthy, and Highly Learned [gentlemen], the Councillors left in governance of His Princely Grace [F.D.] of Prussia: Herr Albrecht, Freiherr [Baron] zu Kitlitz, Hofmeister [Court Master]; Herr Hans Rauter, Oberster Burggraf [Supreme Burgrave] of Konigsberg; Herr Georg Pndewelfen [Pudewels?], Obermarschall [Supreme Marshal]; and Herr Andreas Fabricius, Doctor of Law and Chancellor -- my gracious and most favorable lords and patrons.
+
+[Prologue on water] Among other beautiful, splendid, and wondrous creatures and creations of Almighty God, with which He has adorned the earth for the benefit of mankind and animals, not the least among the four elements is water -- as daily experience sufficiently attests, since scarcely any creature can do without it. God in the first Creation, according to His divine wisdom, wondrously separated it from the earth: one part He enclosed in the sea [Meere], another part He gathered into lakes [See], streams [Strome], rivers [Fliesser], and springs [Brunnen], and so bounded them that they keep their appointed limits [terminos] and shall not exceed them and flood the earth.`,
+  },
+  "p512": {
+    original: `[Dedicatory epistle, page 2]
+
+Lebens vermanen lassen / aber bey jhr vi=
+fen können / endlich als ein gerechter / ge... er G....
+vmb jhrer Sünden willen straffen / ... gantz vnd
+gar vertilgen wollen / hat er solches durchs Wasser
+vnd Sündflut gethan / wie man Genesis am 7. Ca=
+pitel liset. Vnd als er auch sein Volck die Jüden
+aus der Tyrannischen Dienstbarkeit Königs Pha=
+raonis in Egypten erlösete / ist solches auch durchs
+Wasser vnd Rote Meer geschehen / darinnen er Kö=
+nig Pharaonem, mit aller seiner macht erseuffet / vnd
+sein Volck truckenes Fuss hindurch gefüret / Exodi
+am 14. Wie auch durch den Jordan Josua am 3 vnd
+4 Capitel / wie dann dergleichen Exempel noch viel
+aus Heiliger Schrifft könten erzelet werden.
+
+So hat auch der Sohn Gottes vor den an=
+dern zu diesem Element sonderlichen Lust gehabt /
+wie er solches mit vielen schönen Zeichen bewiesen /
+sintemal er sich nicht allein im Jordan von Johan=
+ne mit Wasser teuffen lassen / vnnd allda die schöne
+stimme seines Himlischen Vaters gehöret / Das ist
+mein lieber Sohn / etc. Matthei am 3: sondern hat
+auch offtmals die herrlichsten vnd tröstlichsten Pre=
+digten daran gethan / darauff offtmals gefahren vnd
+vber natürlicher weise darauff gegangen vnd gewan=
+delt. Matthei am 13 vnd 14. Vnd welches sonder=
+lich wol zu mercken ist / Hat er auch das Hochwirdige
+Sacrament der Heiligen Tauff / darinnen vns die
+Sünde abgewaschen / vnd dadurch widerumb new ge=
+boren werden / mit Wasser zuvolbringen / verordnet
+vnd geboten / Johannis am 3. vnd Matthei am 28.
+Capitel.`,
+    english: `[Dedicatory epistle, page 2 -- Biblical significance of water: the Flood, Red Sea, Jordan, Christ's baptism]
+
+[Continuation] ...to admonish [them] to amend their lives, but since they would not listen, finally as a righteous [God] wanting to punish them for their sins and utterly destroy them, He did so through water and the Flood [Sundflut], as one reads in Genesis chapter 7.
+
+And when He also delivered His people, the Jews, from the tyrannical servitude of King Pharaoh in Egypt, this too happened through water and the Red Sea [Rote Meer], wherein He drowned King Pharaoh with all his might, and led His people through on dry feet [truckenes Fuss] -- Exodus 14. Likewise through the Jordan -- Joshua chapters 3 and 4. Many more such examples could be recounted from Holy Scripture.
+
+[Christ and water] So also the Son of God had a special fondness [sonderlichen Lust] for this element above the others, as He demonstrated with many beautiful signs. For He not only had Himself baptized by John with water in the Jordan, and there heard the beautiful voice of His Heavenly Father -- 'This is my beloved Son,' etc. (Matthew 3) -- but also often delivered the most glorious and comforting sermons at the water, often sailed upon it, and walked upon it supernaturally [vber naturlicher weise] (Matthew 13 and 14).
+
+And what is especially noteworthy: He also ordained and commanded that the most worthy Sacrament of Holy Baptism [Heiligen Tauff] -- wherein our sins are washed away and we are born anew -- should be performed with water (John 3 and Matthew 28).`,
+  },
+  "p513": {
+    original: `[Dedicatory epistle, page 3]
+
+das kommen auch vns Menschen grosse
+vntze. der Nutzbarkeiten daraus / in deme wir
+nicht allein von die liebe Narung von allerley gu=
+ten Fischen / damit Gott dieses Land sonderlich ge=
+segnet / haben / sondern auch desselben durchaus im ge=
+ringsten nicht entperen können / vnd vns zu allen din=
+gen dienen mus / wie solches der tegliche augenschein
+gnugsam bezeuget vnd dar thut.
+
+Vnd weil vor andern Lendern sonderlich die=
+ses Land Preussen in allen dingen also von GOT=
+t begabet vn versorget worden / das es nicht allein am
+Baltischen Meere liget / vff welchem man in viel
+Lender als in Liefflandt / Schweden / Nor=
+wegen / Dennemarck / Pommern vnd alle An See
+Stede / Frieslandt / Hollandt / Brabandt / Flandern /
+Franckreich / Engelandt / Schotlandt / Spanien /
+Portugal / ins Mittelmeer / gen Rom / Venedig / in
+Barbarien / Brasilien / seglen vnd schiffen / vnd da=
+durch in ab vnd zufuhr aller Wahren vnd Noturfft
+gewaltige hanctierung treiben kan: Sondern auch
+mit viel herrlichen fischereien / Seen / Haaben / Flies=
+sern vnd Strömen gezieret ist / als mit dem gewalti=
+gen Strom Memmel von alten Cronos genant / dar=
+auff man aus Lictawen / der Wilde / Rawen vnd an=
+dern Stedten / allerley notturfft vnd Wahren holen
+vnd zu Wasser vmb ein geringes anhero bringen kan /
+Item die Weissel darauff man ingleichem aus Polen
+Masaw / Döbren / vnd andern örten / allerley Güter
+zu Wasser bisher verschaffen mag / wie auch der Pre=
+gel / so sonderlich dieser Stad ein sehe bequemer fluss
+ist / damit dann nicht allein diesem / sondern auch vie=
+len an=`,
+    english: `[Dedicatory epistle, page 3 -- Prussia's waterways as economic arteries; trade routes via the Baltic, Memel, Vistula, and Pregel]
+
+[Benefits of water] ...from this come also great benefits and uses for us humans. For we not only have the dear nourishment of all kinds of good fish [Fischen], with which God has especially blessed this land, but cannot in the slightest do without [water] and it must serve us in all things, as daily observation sufficiently testifies.
+
+[Prussia's maritime advantages] And since, above other lands, this land of Prussia has been so endowed and provided by God in all things -- for it lies not only on the Baltic Sea [Baltischen Meere], from which one can sail and ship to many lands: Livonia [Liefflandt], Sweden, Norway, Denmark, Pomerania, and all Hanseatic towns [An See Stede], Friesland, Holland, Brabant, Flanders, France, England, Scotland, Spain, Portugal, into the Mediterranean [Mittelmeer], to Rome, Venice, to Barbary [North Africa], Brazil -- and thereby drive a mighty commerce [hanctierung] in the import and export of all wares and necessities.
+
+[Inland waterways] Moreover, [Prussia] is adorned with many splendid fisheries, lakes, harbors [Haaben], rivers, and streams -- such as the mighty river Memel [Nemunas], called Cronos by the ancients, on which one can bring all manner of necessities and goods by water from Lithuania [Lictawen], the wilderness [Wilde], Ragnit [Rawen], and other towns at little cost. Likewise the Vistula [Weissel], on which one can similarly transport all manner of goods by water from Poland, Masovia [Masaw], Dobrzyń [Dobren], and other places. And also the Pregel, which is an especially convenient river for this city [Konigsberg], so that not only this but also many other...`,
+  },
+  "p514": {
+    original: `[Dedicatory epistle, page 4]
+
+len andern Lendern mehr gedienet wird ...
+itzteberürter vrsachen wegen in meiner Mappen
+nicht mit stillschweigen vbergehen sollen / vnd aber se...
+ches E. G. G. E. vnd A. derenthalben zuschrei=
+ben vnd dediciren wollen. Erstlich / weil dieselbe ich
+jederzeit vor meine Grossgünstige Herrn vnd Für=
+derer nicht allein erkand / sondern auch in der That
+erfaren vnd gespüret hab. Zum andern / das dis mein
+Büchlein wieder die Zoiles vnd Calumniatores, derer
+sich sonders zweiffels wol finden werden Patronos vnd
+Tutores hette. Zumdritten / das man auch etzlichen
+stücken draussen Landes desto besser Glauben stellen
+möchte / danebenst zum dienstlichsten bittende / solche
+meine geringferige Arbeit von mir in allen günsten
+auff vnd an zunemen / vnnd wie bis hero günstig=
+lich geschehn / also noch ferner meine Hoch=
+günstige Herrn vnd Patronen zubleib=
+ben / dieselbe hiemit Gotts All=
+macht trewlich empfehlende.
+
+E. G. G. E. vnd A.
+
+dienstwilliger
+
+Caspar Hennenberger / Spi=
+tal Pfarrer im Löbenicht.
+Königsberg.`,
+    english: `[Dedicatory epistle, page 4 -- Hennenberger's dedication concluded, signed as Hospital Pastor of Löbenicht, Konigsberg]
+
+[Conclusion of dedication] ...serves many other lands as well. For the aforementioned reasons, [these waterways] should not be passed over in silence in my map, and I have wished to write and dedicate [this work] to Your Graces [E.G.G.E. und A.].
+
+Firstly, because I have always recognized you not only as my most gracious lords and patrons, but have also experienced and felt this in deed. Secondly, so that this my booklet may have patrons and protectors [Patronos vnd Tutores] against the Zoiluses and calumniators [critics and slanderers], of whom there will doubtless be found some. Thirdly, so that certain matters abroad may be given the more credence.
+
+With this I most humbly ask that you receive this my modest work [geringferige Arbeit] from me in all favor, and as you have hitherto graciously done, so continue to remain my most gracious lords and patrons -- commending you herewith faithfully to God's Almighty power.
+
+Your Graces' willing servant,
+
+Caspar Hennenberger, Hospital Pastor [Spital Pfarrer] in the Löbenicht [quarter of Konigsberg].
+
+[The word 'Achmena' appears at bottom -- beginning of the alphabetical waterways index.]`,
+  },
+  "p515": {
+    original: `[Waterways index, page A]
+
+A
+
+Achm. alt H. 21. fl. Ist zuuoren ein Ström aus der Russ
+gewesen / nun aber ist er versüllet.
+Aglon fl. D. 23. kompt aus Samaitten / felt zu Preckol in
+den Strom Minien.
+Agmen fl. N. 26. felt in die Inster.
+Alla die Alt a. 15. Ein sehr krummer Strom / entspringt Cromerus
+im Meidenburgischen Ampt / in des Kirchdorffs Lana Grentzen / in polonis
+aus schönen vnd herrlichen Springen / der viel bey einander / vnd fol. 31.
+nicht aus Seen / sondern hernacher durch See / leufft sie Allen=
+stein / Gutstat / Heilsperg / Bartenstein / Schippenpeil / Fridlandt
+vnd Allenburg fürbey / felt zu Welaw in den Pregel. Sol den woher der
+namen vom Ael haben / denn sie sich sehr krumb herumber win= namen.
+det / etzliche meinen / sie werde vom Dorff Lana Allana genant.
+Alland fl. A. 22. felt in die Minien.
+
+Allmonia fl. Q. 22. die Elme genant / kompt aus dem
+Nordenburgischen / felt in die Schwena.
+
+Almoy See X. 19.         Altkeykut See Z. 9.
+Alt schnacken See M. 28.
+
+Alt schnacken fl. M. 28. das fliesslein so aus dem See die= zelt fl.
+ses namens in die Schessupa felt.
+Amland fl. Z. 14. das flies zum Hoenstein. Karnss
+Altrusse oder Warussne fl. H. 21. schwügt.
+Angerap fl. R. 24. Ein sehr krummer Strom / aus den Nicole Je=
+Angerburgischen Seen / hat zuuor Arks geheissen / wie im Jero= roschen
+schen zu sehen / denn der Schlosberg Rameschwigt daran leit /
+fleust durch Insterburg / kompt zur Georgenburg mit der Inster
+zuhauff / vnnd wird der Pregel daraus.
+
+Der Angerburgische See T. 25. Ist nach der besteigung
+nur ein See / sein zuuorn viel gewesen / vnd hat zwar auch ein
+jeglich ort / noch seinen sonderlichen namen / ist ein sehr herrlicher
+grosser See / fisch vnd Aelreich / denn man zu zeiten zur Angers=
+burg in Aelkasten / viel fasse vol / ja wol etzliche laste sehet.
+
+Aelkasten.
+
+Aelwaffen Die Aelkasten werden also gemacht / man nimpt behaw=
+wie ge= en holtz / vnd setzet solches sein vierkantig zusamen / vnd auff allen
+macht. vieren kanten giersatzet man es / für dem vberfall des Wassers / da
+man das freywasser lauffen lest / der wird inwendig vngefehrli=
+chen einer stube weit / auch vngefehrlich eines Mannes hoch / vn=
+ten an den seiten vnd boden dort man viel löcher hindurch / doch
+das die Ael nicht durch kriechen können / sondern das wasser /
+dadurch ab / vnd hinweg leuffe. Wenn es nu gegen dem Sommer
+gehet /`,
+    english: `[Waterways index, page A -- Rivers and lakes beginning with A; description of eel-traps (Aelkasten)]
+
+A
+
+Achm[ena] alt. H. 21, river. Was formerly a stream [Strom] from the Russ [Rusnė River]; now it is silted up [versullet].
+
+Aglon river, D. 23. Comes from Samogitia [Samaitten], falls into the Preckol [?] in the stream Minien [Minija].
+
+Agmen river, N. 26. Falls into the Inster [Instruch/Insterburg River].
+
+Alla (the Alle) a. 15. A very crooked stream [sehr krummer Strom]. Rises in the Meidenburg [Heiligenbeil?] district, at the boundaries of the church-village of Lana, from beautiful and splendid springs [Springen] -- many together -- not from lakes. It then flows through lakes past Allenstein [Olsztyn], Gutstadt [Dobre Miasto], Heilsberg [Lidzbark Warminski], Bartenstein [Bartoszyce], Schippenpeil [Sępopol], Friedland [Pravdinsk], and Allenburg [Druzhba], and falls into the Pregel at Wehlau [Znamensk]. It is said to take its name from the eel [Ael], because it winds very crookedly. Some think it is named Allana from the village Lana.
+
+Alland river, A. 22. Falls into the Minien [Minija].
+
+Allmonia river, Q. 22. Called the Elme. Comes from the Nordenburg [Krylovo] district, falls into the Schwena.
+
+Almoy See [Lake] X. 19. / Altkeykut See Z. 9. / Alt Schnacken See M. 28.
+
+Alt Schnacken river, M. 28. The streamlet [fliesslein] that flows from the lake of this name into the Schessupa [Šešupė River].
+
+Amland river, Z. 14. The stream to Hoenstein [Hoenstein?]. / Altrusse or Warussne river, H. 21. /
+
+Angerap river, R. 24. A very crooked stream, from the Angerburg [Węgorzewo] lakes. Formerly called Arks, as seen in the Jeroschin [chronicle]. The castle-hill Rameschwigt [Kamswiken?] lies on it. It flows through Insterburg [Chernyakhovsk], joins with the Inster at Georgenburg [Mayovka], and becomes the Pregel.
+
+[Angerburg Lake] The Angerburg Lake [Mamry], T. 25. Upon inspection it is only one lake, though formerly there were many, and each place still has its own name. It is a very splendid, great lake, rich in fish and eel [Aelreich]. At times at Angerburg, in eel-traps [Aelkasten], many barrels -- indeed, whole Lasts [bulk measures] -- are caught.
+
+[Eel-traps] The eel-traps [Aelkasten] are made thus: one takes hewn timber [behawsen holtz] and sets it together in a square. On all four sides one places it at the weir [giersatzet] where the overflow of the water is, letting the free water run through. The inside is about one room's width and about a man's height. On the bottom and sides, many holes are drilled -- but not so large that the eels can crawl through, only that the water can drain off and away. When it gets toward summer...`,
+  },
+  "p516": {
+    original: `[Waterways index, page A continued]
+
+gehet / tunckele nachte vnd vngewitter sein / auch Hi=
+ner mit einselt / denn domals der Ael nicht weis wo
+leufft er dem wasser nach vn vnderwerts / so zeug man
+gen auss / lest das wasser in Kasten fallen / mit solchem wasser / fe
+der Ael auch in Kasten / denn er des nachts / sonderlich wenn es
+donnert vnd blizt / dem wasser nachleyfft / das wasser leufft durch /
+die Ael bleiben darinnen / die finder man des morgens / offtmals
+mit grossen hauffen / im Kasten ohne Wassr ligen / wenn das
+schützort wider fürgesetzer ist.
+
+Argo fl. M. 24.           Arschen See R. 16.
+Aschwa fl. D. 23. kumpt in die Minien.
+Aschwein See R. 22. Im Nordenburgische / sehr berümpt
+von guten Hechten.
+Athmath fl. N. 22. aus der Russe hat oben ein grosse
+wehre / darinnen man viel Lachsse fenget.
+
+Augspirt fl. L. 29. kompt aus Littawe felt in die Schessupa.
+
+Augste fl. Q. 28. P. 22. kumpt aus dem Nordenburgische /
+felt bey Norbekitten in den Pregel / heist auff Deusch das Golosties.
+Ausclad ein See V. 17. sonsten Blancksee genant / im Bischö=
+thumb Heilsperg.
+Austrich See Y. 16.        Gros Auhr See X. 17.
+
+B.
+
+Babent See Y. 20.
+Babent Fluuius kompt aus dem Ortelsburgischen in das
+Seesische / leusst den Poppen vnd Crattinen fürbey / felt 1. meil hin=
+ter S. Nicolai in den Dalten. Auff dem Babent hat einer bey Schwan
+Mans gedencken angefangen Holtz zu flössen gen Dantzigk / hat holtz flöss=
+erstlich auff dem See Dessoy angefangen / vnd wunderlich herumb= en.
+her durch die See bis in den Spirding / die Pisch / Nareff / Bugt /
+vnd Weissel hinab gefaren / bis auff die stelle / hat aber wenig ge=
+winst daran gehabt / kompt nicht wieder mehr zu holen.
+
+Bach fl. T. 14. kompt aus Mingeynen vnd Baysen / felt
+zu Wasen in die Passerge /
+Balaw fl. V. 8. kompt von Schrappen vnd felt mit Cam=
+penausischem Graben in die Syrgune.
+Baldein See Z. 22. ein arme oder Ausgang / aus dem
+Spirding 2. Meilen lang.
+
+Balt / oder Balticum mare, Die Ost See / Cornelius Tacitus Der Balti=
+heist es / Mare Sueuicum, Albertus Krantz saget weher es Balti=
+cum genennet werde / vnd reprehendiret Helmoldum vnd wiederle= Hermolo.
+get in seine meinung / saget Cornelius Tacitus sol es auch Germani=
+cum vnd Sarmaticum mare nennen. So nennet es auch Vopelius in Wopelus.
+seinem Europa Prutenicum.
+
+Bammon.`,
+    english: `[Waterways index, page A-B -- Eel-catching method concluded; rivers and lakes A continued; section B begins]
+
+[Eel-traps continued] ...it gets dark nights and stormy weather, also cold [Hiner?], and the eel does not know where [to go], so it follows the water downstream. One pulls [the sluice], lets the water fall into the trap; with the water, the eel also falls into the trap. For at night, especially when it thunders and lightens, the eel follows the water. The water runs through [the holes], the eels remain within. One finds them in the morning, often in great heaps, lying in the trap without water, once the sluice-gate [schutzort] is set back in place.
+
+[Gazetteer continued]
+Argo river, M. 24. / Arschen See R. 16. / Aschwa river, D. 23 -- enters the Minien [Minija]. / Aschwein See R. 22 -- in the Nordenburg district, very famous for good pike [Hechten]. / Athmath river, N. 22 -- from the Russ [River], has a great weir upstream where many salmon [Lachsse] are caught.
+
+Augspirt river, L. 29 -- comes from Lithuania, falls into the Schessupa [Šešupė]. / Augste river, Q. 28, P. 22 -- comes from the Nordenburg district, falls into the Pregel near Norbekitten; in German called 'das Golosties.' / Ausclad, a lake, V. 17 -- otherwise called Blancksee, in the Bishopric of Heilsberg. / Austrich See Y. 16. / Gros Auhr See X. 17.
+
+B.
+
+Babent See Y. 20.
+Babent River -- comes from the Ortelsburg [Szczytno] district into the Seesische [Seeburg/Jeziorany area], flows past Poppen and Crattinen, falls one mile behind St. Nicolai into the Dalten. On the Babent, within living memory [Mans gedencken], someone began floating timber [Holtz flossen] to Danzig. He first started on Lake Dessoy, and traveled wonderfully through the lakes into the Spirding [Śniardwy], the Pisa, Narew, Bug, and Vistula [Weissel] -- but made little profit and did not come back for more.
+
+Bach river, T. 14 -- comes from Mingeynen and Baysen, falls into the Passerge [Pasleka] at Wasen. / Balaw river, V. 8 -- comes from Schrappen and falls with the Campenau ditch into the Syrgune. / Baldein See Z. 22 -- an arm or outlet from the Spirding [Śniardwy], 2 miles long.
+
+[The Baltic Sea] Balt, or Balticum mare -- the East Sea [Ost See]. Cornelius Tacitus calls it 'Mare Suevicum.' Albertus Krantz [Albert Crantz, Hamburg chronicler] explains why it is called 'Balticum,' and corrects Helmold [of Bosau], refuting his view. [Krantz] says Cornelius Tacitus should also call it 'Germanicum' and 'Sarmaticum mare.' Vopelius [Caspar Vopel, geographer] also calls it so in his 'Europa Prutenicum.'`,
+  },
+  "p517": {
+    original: `[Waterways index, page B continued]
+
+...See K. 26.
+efl. ... 11. entspringt hinder dem Hoehfurst / leufft
+... Lagenbeihl hinweg / felt in das frische Haff / in wel=
+Bogek. Fohren vnd Eschen findet.
+Dansen ee X. 10.      Daprotten See Y. 22.
+Gras d.
+
+Baute fl. S. 12. entspringt zum Truntz / leufft auff Mülb=
+hauses / felt zur Frawenburg ins frische Haff.
+Boo fl. b. 3. auff Pomerellen / felt vnter ber Schwetze in
+die Weissel.
+Berdnick See X. 12.
+
+Biser fl. R. 13. entspringt bey Tolcksdorff darnach grens=
+tzet es das Fürstenthumb vom Bischoffethumb Heilsperg / felt
+beim Braunsperg in die Passerge.
+Bircken See T. 26.
+Biss fl. P. 27. kumpt aus dem Wisitten / vnd felt in die
+Angerrappe.
+Bissen See W. 18. Ein schöner langer See hinter See=
+burg.
+
+Bisleng fl. R. 18. Entspringt hinter dem alten Schloss=
+berge Beseleben / so in des von Brembocks Güttern ligt / kompt
+auff Mülhausen / felt bey der Lautten in Frishing. ist gar ein fisch=
+reiches flieslein.
+
+Diophose See a. 8. klein vnd gros / vnd gehet die grentze
+zwischen Kön. May. vnd F. D. dadurch / vnd scheidet das Col=
+mische Land von dem Pomesanischen.
+Bleichenbarts See V. 18.   Bodup See M. 23/
+Bodup fl. M. 27.             Borauen See Z. 26.
+
+Borduen fl. Z. 26. leufft schier ein halb Meil vnter der er=
+den / bis das er hersir kumpt / fleust auff Rudaw / darnach in ein
+Morast / vnd See Warsaw.
+
+Bouolno See W. 23. Ein langer schmaler See / hat zu=
+uorn in einem Graben in Lenentin nach Königsperg gelauffen /
+Nun aber leufft er in Wentschen vnd in die Masaw nach Dant=
+zks zu.
+
+Breupsan oder Brepani G. 18. Das ist elend gebrüch / jet=
+zunder aber ist es ein grosses gesteigtes Wasser.
+Bro fl. d. 2. Ein strom auff Pomerellen daran Bram=
+berg ligt / felt zu Vordon in die Weissel.
+Bruck See V. 26.
+Buchort fl. c. 9. ergeust sich zu zeiten gar sehr / vnd felt
+ein Meil wegs vber Strasburg in die Driwentz.
+Bendfona See S. 28.
+Budup fl. M. 27.
+Bugdan See X. 17.
+Burgenfer Z. 15.`,
+    english: `[Waterways index, page B continued -- Various rivers and lakes B]
+
+[Entries, partially damaged at top]
+...See K. 26. / [B]... river, ...11 -- rises behind the Hoehfurst, flows past Lagenbeihl, falls into the Frisches Haff [Vistula Lagoon], where one finds ash [Eschen] and pine [Fohren] trees.
+Dansen See X. 10. / Daprotten See Y. 22.
+
+Baute river, S. 12 -- rises at Truntz, flows toward Mühlhausen, falls at Frauenburg [Frombork] into the Frisches Haff. / Boo river, b. 3 -- in Pomerelia, falls below Schwetz [Świecie] into the Vistula. / Berdnick See X. 12.
+
+Biser river, R. 13 -- rises at Tolcksdorff, then forms the border between the Duchy [Furstenthumb] and the Bishopric of Heilsberg, falls at Braunsberg [Braniewo] into the Passerge [Pasleka]. / Bircken See T. 26. / Biss river, P. 27 -- comes from the Wisitten, falls into the Angerrappe [Angrapa]. / Bissen See W. 18 -- a beautiful long lake behind Seeburg [Jeziorany].
+
+Bisleng river, R. 18 -- rises behind the old castle-hill Beseleben, which lies in von Brembock's estates. Flows to Mühlhausen, falls near the Lautten into the Frishing [Frisches Haff]. A very fish-rich streamlet.
+
+Diophose See a. 8 -- small and large, and the border between His Royal Majesty [Kon. May.] and His Princely Grace [F.D.] runs through it, dividing the Kulmerland [Colmische Land] from Pomesania. / Bleichenbarts See V. 18. / Bodup See M. 23. / Bodup river, M. 27. / Borauen See Z. 26.
+
+Borduen river, Z. 26 -- flows almost half a mile underground [vnter der erden] until it emerges; flows toward Rudau, then into a marsh [Morast] and Lake Warsaw.
+
+Bouolno See W. 23 -- a long, narrow lake. It formerly flowed in a ditch via Lenentin to Konigsberg; now it flows into Wentschen and into the Masuria toward Danzig.
+
+Breupsan or Brepani G. 18 -- a desolate swamp [elend gebruch]; now a large dammed-up body of water [gesteigtes Wasser]. / Bro river, d. 2 -- a stream in Pomerelia, on which Bromberg [Bydgoszcz] lies, falls at Fordon into the Vistula. / Bruck See V. 26. / Buchort river, c. 9 -- overflows greatly at times, falls one mile past Strasburg [Brodnica] into the Drewenz [Drwęca]. / Bendfona See S. 28. / Budup river, M. 27. / Bugdan See X. 17. / Burgensee Z. 15.`,
+  },
+  "p518": {
+    original: `[Waterways index, page C-D]
+
+C.
+
+Claus See X. 25.          Campen See.
+Caustres fl. P. 16. oder Caupter / kompt aus dem D.
+Dinge genant / gen Creutzburg vnd treibet die Papiermulten.
+Celart fl. L. 28.       Cronon oder Cronos suche Men.
+Colligin See Y. 20. sein die zwene See bey dem Ha.
+Colligin / gros vnd Klein Colligin See genant.
+Corene fl. M. 18.             Corten See Y. 16.
+Crackeisfurt Y. 11. Ist ein ausgang vom langen See Ge=
+serich.
+
+Csise fl. G. 22. kompt aus Samaitten / felt in das Cu= viel fische
+risch Haff. Gefangenn.
+Curischhaff Das gibt zu zeiten wenn Gott segenen wil /
+gewaltig viel herrlicher fische wie droben folio 62 im Cracker ort
+zu sehen ist / auch dieses Jahr 1595. bey Rositten geschehn ist / das
+sie auff einen zug für 1200 Marck fische gefangen haben / wie bey
+Rositten zu sehen.
+
+D.
+
+Dadei See X. 18. Ist ein schöner See im Bischtthumb
+Heilsperg.
+Daigun See V. 22. den Rostenburgern gehörig.
+Dalgawiszka See X. 22. Ist ein ausgang oder Arm aus
+dem grossen See Spirding vierdthalb meil lang.
+Dalt See X. 22.          Dalgabiba See T. 24/
+Dargist See V. 24.      Daumer See X. 17.
+Deme fl. N. 20. sol gegraben sein mit einem mechtigen vol= Graben.
+cke / den man saget / das man 6. last Hering zum frühstück hab müss=
+sen haben / einem jeglichen einen Hering zu geben. Es ist auch ein
+zimlicher berg / bey der Tappiauischen Schleusen der (sagt man) sey
+geschütt worden / das ein jeglicher nur ein Molden vol hinauft ge=
+tragen / vnd es sey zum gedechtnis geschehen : Obs aber war seye
+weis ich nicht / denn die steine darauff machen michwege der krüme
+zweiffelhafftig. Man rechnet die Deme 6. meilen lang.
+
+Dena See V. 20. Ist ein langer See zwischen Pilsen vnd
+vnd dem Wirbel See / daraus das flies Dena genant / kompt.
+Dena fl. V. 20. entspringt aus den Seesischen Seen / doch
+bekompt es den namen allererst vom See so bey Pilsen ligt /
+leufft auff Beyslacken / felt vnter Rastenburg in Guber.
+Denen fl. E. 25. kompt aus Samaitten / vnd sleust in die
+Minia.
+Dene See fl. F. 22.
+Denfe fl. A. 21. entfpringt in Samaitten / aus einem ge=
+bruch / felt in flus Lange.
+Dessoy See Y. 20.     Dialle fl. L. 22. beim Grünhoffe.
+B.                           Dilinge`,
+    english: `[Waterways index, pages C-D -- Lakes and rivers C and D]
+
+C.
+
+Claus See X. 25. / Campen See. / Caustres river, P. 16 (or Caupter) -- comes from the [village] called Dinge, toward Kreuzburg [Slavskoye], and drives the paper mill [Papiermulten]. / Celart river, L. 28. / Cronon or Cronos: see 'Men[mel].' / Colligin See Y. 20 -- these are two lakes near the [village] Colligin: Gross and Klein Colligin Lake. / Corene river, M. 18. / Corten See Y. 16. / Crackeisfurt Y. 11 -- an outlet from the long Lake Geserich [Jeziorak].
+
+Csise river, G. 22 -- comes from Samogitia, falls into the Curisches Haff [Curonian Lagoon].
+
+[Curisches Haff / Curonian Lagoon] At times, when God wills to bless, a tremendous quantity of splendid fish [is caught there], as seen above at folio 62 regarding the Cracker headland. Also this year 1595, near Rositten [Rybachy/Rossitten], they caught fish worth 1,200 Mark in a single haul -- as can be seen at Rositten.
+
+D.
+
+Dadei See X. 18 -- a beautiful lake in the Bishopric of Heilsberg [Warmia]. / Daigun See V. 22 -- belonging to the Rastenburg [Kętrzyn] people. / Dalgawiszka See X. 22 -- an arm or outlet from the great Lake Spirding [Śniardwy], 3.5 miles long. / Dalt See X. 22. / Dalgabiba See T. 24. / Dargist See V. 24. / Daumer See X. 17.
+
+[Deme River] Deme river, N. 20 -- said to have been dug [gegraben] by a mighty host of people. They say 6 Last [large measures] of herring were needed for breakfast alone, to give each worker one herring. There is also a considerable hill near the Tapiau sluice [Tappiauischen Schleusen] which (they say) was heaped up, each person carrying only one basin [Molden] full to the top, as a memorial. Whether this is true I do not know, for the stones on it make me doubtful because of the curves [krume]. The Deme is reckoned 6 miles long.
+
+Dena See V. 20 -- a long lake between Pilsen and the Wirbel See, from which the stream called Dena flows. / Dena river, V. 20 -- rises from the Seeburg [Jeziorany] lakes, but takes its name from the lake near Pilsen; flows past Beyslacken, falls below Rastenburg [Kętrzyn] into the Guber [River]. / Denen river, E. 25 -- comes from Samogitia, flows into the Minia [Minija]. / Dene See, F. 22. / Denfe river, A. 21 -- rises in Samogitia from a swamp [gebruch], falls into the river Lange. / Dessoy See Y. 20. / Dialle river, L. 22, near Grünhoff.`,
+  },
+  "p519": {
+    original: `[Waterways index, pages D-F]
+
+Ditua fl. Q. 25.
+T. 27.              Dlusentz See Y. 20.
+ber Y. 11.            Döbein See W. 25.
+Domert See b. 13. sein zweene See / der kleine vnd der
+grosze zwischen Gilgenburg die Stadt ligt.
+Domäicken See V. 26.        Dogup fl. Q. 29/
+Dost See V. 13.
+Drausen See T. 10. Ein schöner See / gehöret zum theil
+zur Stadt gen Martzenburg / vnd ein theil gen Elbing. So sein etzliche Dörff=
+er im Fürstenthumb als Althoffe die auch fischereyen darinnen Drausen
+haben / daruon müssen sie wochentlich fisch für den Zins auff das See
+Schloss Hollandt bringen.
+Draueen E. 21. Ist ein ausgang in dem Curischem Haff.
+Dribenz fl. T. 16. Entspringt bey Römerswalde / leufft
+auff Wormditt / 1 meil darvon felt sie in die Passerge.
+
+Dribenz fl. Z. 19. oder Dribuitz / Item c. 7. Entspringt in
+einem thal / do die 3 Kirchdörffer Mulen / Kirstendorff vnnd Petzdorff zuhauff grenzen / leufft auff Osterroda / allda durch den Dri=
+bentz See / auff Bretchen / Newmarck / Cawernick / Strassburg /
+Golbe / felt 1 meil vber Thorn in den flus die Weissel genant. da das
+Schlos Schlotterey gewesen ist.
+Dribentz See Z. 12. Ein schöner See an Osterrode /
+schier 2 Meilen lang.
+Driel fl. X. 12.     Druschen See Z. 20. klein vnd gros.
+Dulchin See Y. 25.     Dawer See Y. 18.
+Dunawischbeck M. 19.
+
+E.
+
+Eilentz See 2. 11.                 Eimen fl. N. 25.
+Eisse fl. D. 23.                     Eissen See Y. 13.
+Eister fl. Y. 25.
+Elbing fl. S. 9. Kompt aus dem See Dransen / leusst die
+Stad Elbing fürbey / 1 meil darunter felt er in das frische Haff.
+
+Alt Elbing fl. S. 9.              Eller flies Q. 18.
+Elling oder Alling See Z. 16. Elme fl. S. 17.
+Elisge fl. T. 11.                   Erling See X. 12.
+Erling See Z. 12.
+
+F.
+
+Ferss fl. V. 4. auff Pomerellen / kompt auff Schoneck vnd
+Stargard / felt zur Merwa in die Weissel.
+
+Fischeradt fl. N. 14. auff Samlandt / kompt zu Fischhau=
+sen auff die Mühlen / vnd in die Schöne wiesen / das vbrig wasser
+kompt auff den Keuge forsen. Flachiug`,
+    english: `[Waterways index, pages D-F -- Rivers and lakes D continued, E, and F begins]
+
+Ditua river, Q. 25. / [various grid references] / Dlusentz See Y. 20. / Döbein See W. 25. / Domert See b. 13 -- two lakes, small and large, between which the town Gilgenburg [Dąbrówno] lies. / Domäicken See V. 26. / Dogup river, Q. 29. / Dost See V. 13.
+
+[Drausen See / Lake Drużno] Drausen See T. 10. A beautiful lake. Part belongs to Marienburg [Malbork] and part to Elbing [Elbląg]. Some villages in the Duchy [Furstenthumb], such as Althoffe, also have fishing rights there, for which they must bring fish weekly as rent [Zins] to the castle of Holland [Pasłęk].
+
+Draueen E. 21 -- an outlet into the Curisches Haff [Curonian Lagoon]. / Dribenz river, T. 16 -- rises near Römerswalde, flows past Wormditt [Orneta], and one mile from there falls into the Passerge [Pasłęka].
+
+[Drewenz / Drwęca] Dribenz river, Z. 19 (or Dribuitz), also c. 7 -- rises in a valley where the 3 church-villages of Mulen, Kirstendorff, and Petzdorff border each other. Flows past Osterode [Ostróda], through Lake Dribenz [Drwęckie], past Bretchen, Neumark, Kauernik [Kurzętnik], Strasburg [Brodnica], Golbe [Golub], and falls one mile past Thorn [Toruń] into the Vistula [Weissel], where the castle Schlotterey stood. / Dribentz See Z. 12 -- a beautiful lake at Osterode, almost 2 miles long. / Driel river, X. 12. / Druschen See Z. 20 -- small and large. / Dulchin See Y. 25. / Dawer See Y. 18. / Dunawischbeck M. 19.
+
+E.
+
+Eilentz See 2 [Z?]. 11. / Eimen river, N. 25. / Eisse river, D. 23. / Eissen See Y. 13. / Eister river, Y. 25.
+
+[Elbing River] Elbing river, S. 9 -- comes from Lake Drausen [Drużno], flows past the town of Elbing [Elbląg], and one mile below it falls into the Frisches Haff [Vistula Lagoon].
+
+Alt Elbing river, S. 9. / Eller flies Q. 18. / Elling or Alling See Z. 16. / Elme river, S. 17. / Elisge river, T. 11. / Erling See X. 12. / Erling See Z. 12.
+
+F.
+
+Ferss river, V. 4 -- in Pomerelia, comes to Schöneck [Skarszewy] and Stargard [Starogard], falls at the Merwa into the Vistula. / Fischeradt river, N. 14 -- in Samland [Sambia], comes to Fischhausen [Primorsk] to the mills and into the Schöne wiesen [beautiful meadows]; the remaining water comes from the Keuge forest.`,
+  },
+  "p520": {
+    original: `[Waterways index, pages F-G]
+
+Flachiug See Y. 10. Ist ein feiner See am
+Preussschmarck gehörig / hat vier werder / Da
+dis Ampt in versatzung gehabt / do hat er in s. verzen.
+für 1500. Marck das ist für 1000. floren fische gefanzen.
+
+Fogler fl. Ist ein flies gewesen zwischen Fogler vnd
+Schmeltzgruben auffer der frischen Nerung.
+Frisching fl. P. 18. Entspringt aus dem grossen Morast
+Zeelaw genant / leufft auff die Oderwangen / vnd nimpt ein halb
+Meil vnter Mülhausen / das flies Bisleng mit sich / vber der Lo=
+belpuden die Posmar / darunter die Stratze / felt zu Branden=
+burgt in das frische Haff / vnd ist sehr fischreich.
+
+G.
+
+Gabelick See V. 25.           Gandt See Y. 20.
+Garden See Y. 10. gros vnd Klein. Garden fl. S. 12.
+Garden See T. 12.              Garten See Y. 22.
+Gauden See Y. 9.              Gautke See M. 14.
+Gausutte I. 18. Ist ein winckel im Curischen Haff / ist zunor
+ein köstlicher ort zu Aelwaden gewesen / nun aber ist er mit San=
+de vertrieben / das er schraflos ist worden.
+Gawaitte fl. R. 25.
+Gayl See V. 25.                   Gegen fl. I. 23.
+Gelland See X. 19.              Gerbas See S. 28.
+
+Geeserich See Z. 11. Dieser See hebt an vnter Salfeldt /
+vnd strecket sich bis vnter die Deutsche Eylaw / da dann ein herr=
+licher Aelfang ist / man rechnet die lenge dieses Sees fünff Meil
+mit den Krümmen. Ist aber nicht sehr breit / hat etzliche Werder /
+ein schönes Werder zum Ackerwerck / vnnd gegen Tielewald ligt Heiligg
+das heilige Werder / auff welchem die geengstigten Preussen vom Werder.
+Orden / jhre Abgötterey heimlich getrieben haben.
+
+Geil See Y. 11. Ein schöner fischreicher See / gehörte
+dem Orden / als dem Pomesanischen Bischofe.
+Geil See X. 13.              Gilbing See Y. 14.
+Gilg fl. L. 21. am Curischen Haff.
+Gilg fl. O. 19. auff Natangen.
+Gimen See X. 14.            Gimen See Z. 16.
+Gros Glauben See Z. 19.
+Golbe fl. P. 25. Ist ein kleines flieslein im Insterburgischen Ein Abgo=
+Ampte / welches die zu Marpisten für heilig gehalten / vnd angebe= tteriseh
+tet haben / sein aber auch stets vmb ein Auge gekommen / welches sie Atelcken.
+für grosse gnade geachtet / sonst aber weil man nicht mehr dran glen= fein einem
+bete / schemet sich der Teuffel seiner zeichen auch / thut sie nicht mehr / auffgewor=
+wie droben bey Marpisten auch gesagt. den die su
+haben.`,
+    english: `[Waterways index, pages F-G -- Lakes and rivers F-G; Geserich lake; pagan idolatry at the Golbe stream]
+
+[Flachiug See] Flachiug See Y. 10. A fine lake belonging to Preussisch Markt [Przezmark]. Has four Werder [islands/peninsulas]. When this district [Ampt] was held in pledge, fish worth 1,500 Mark (that is, 1,000 Florins) were caught there.
+
+Fogler river -- was a stream between Fogler and Schmeltzgruben on the Frische Nehrung [Vistula Spit]. / Frisching river, P. 18 -- rises from the great marsh [Morast] called Zeelaw, flows past the Oderwangen [?], and half a mile below Mühlhausen takes up the Bisleng stream; past Lobelpuden [?] the Posmar [?]; below that the Strasse [?]. Falls at Brandenburg [Ushakovo] into the Frisches Haff [Vistula Lagoon]. Very fish-rich.
+
+G.
+
+Gabelick See V. 25. / Gandt See Y. 20. / Garden See Y. 10, large and small. / Garden river S. 12. / Garden See T. 12. / Garten See Y. 22. / Gauden See Y. 9. / Gautke See M. 14.
+
+Gausutte I. 18 -- a corner [winckel] of the Curisches Haff [Curonian Lagoon]. Was formerly an excellent place for eel-catching [Aelwaden]; now it has been choked with sand [Sande vertrieben] and become barren [schraflos].
+
+Gawaitte river, R. 25. / Gayl See V. 25. / Gegen river, I. 23. / Gelland See X. 19. / Gerbas See S. 28.
+
+[Geserich See / Lake Jeziorak] Geeserich See Z. 11. This lake begins below Saalfeld [Zalewo] and extends to below Deutsch Eylau [Iława], where there is a splendid eel-fishery [Aelfang]. The length of this lake is reckoned at 5 miles with its curves. It is not very wide, has several Werder [islands], a beautiful Werder for farming, and toward Tielewald lies the 'Heilige Werder' [Holy Island], on which the oppressed Prussians secretly practiced their idolatry [Abgotterey] away from the [Teutonic] Order.
+
+Geil See Y. 11 -- a beautiful, fish-rich lake belonging to the Order and the Pomesanian Bishop. / Geil See X. 13. / Gilbing See Y. 14. / Gilg river, L. 21 -- at the Curisches Haff. / Gilg river, O. 19 -- in Natangia. / Gimen See X. 14. / Gimen See Z. 16. / Gros Glauben See Z. 19.
+
+[Golbe stream and pagan worship] Golbe river, P. 25. A small streamlet in the Insterburg [Chernyakhovsk] district, which the people at Marpisten [Marpissen?] held holy and worshipped as an idol [Abgotterisch]. They also always lost an eye [there], which they considered a great grace. But since people no longer believe in it, the Devil is ashamed of his signs and does them no more -- as said above at Marpisten.`,
+  },
+  "p521": {
+    original: `[Waterways index, pages G-I]
+
+26.                 Goluben See W. 26.
+W. 21. Ist ein langer winckel aus dem See
+
+Graisslia g. Y. 20. gros vnd Klein.
+Grammersee Z. 18.        Greybo See Y. 27.
+Grodiste See T. 27. Ist ein schöner Alter Schlossberg
+daran.
+Grodissten fl. a. 12.        Grun See X. 20.
+
+Guber fl. V. 27. entspringt zu Gneistein halb Meil vom
+Rein / aus einem Seegen desselbigen namens / sleust Rastenburg
+ist schlosss fürbey / vnd zu Leunenburg felt er in Jain. Es sein vorzei=
+berg am ten viel Schlösser an dem Guber gelegen / wie die alte Schloss=
+Guber. berge noch ausweisen / vnd ein sonderlicher so Weissenburg geheis=
+sen hat / Sol auch Barthoner Land von Galinder Land scheiden.
+An diesem fliesse ist ereylet worden Dywan der Barthner Heupt= Eltc. Jer.
+man mit grossem raub / (so er vmb Margenburg / Christburg / vnd Ordens
+preussten Marienwerder im anderen Abfall genommen) von wenig Elbin= Chronica.
+geschlagen gern / vnd vbergebliebenen Christburgern / so jm nach eyleten / vnnd
+worden. ist schendlich geschlagen / vnnd jhm aller raub wieder genommen
+worden
+Gugaw. See Z. 14.          Guhena fl. S. 28.
+Gungapis fl. G. 25.        Gunsti See W. 27.
+Gusse fl. R. 17.
+
+H
+
+Habessgar See Y. 11.      Hars See T. 23.
+Hasen See T. 26.            Hasen flies V. 26.
+Hensel See V. 25.           Holm See W. 26.
+Humling See Y. 15.
+
+I.
+
+Jadia L. 28. Ein grentz flies an Littawen.
+Jarcke fl. S. 28. Jara. Es wird eins in alten Scriben= Eltc. Jero=
+ten / vnd sonderlichen im Jeroschin Nara genant / daran auch ein schen.
+mal viel Littawen geschlagen sein worden / vnd ich halte es dafür
+das es dieses sein müsse. Dann Lorentz von Halle hatte viel
+seltzamer Kriegszeug allda gefunden.
+
+Jante fl. G. 14. heiligenpeilisch flies.
+Jdiossa See a. 18. gros vnd klein.
+Jegorschin See a. 24. gros vnd fein.
+Jlgenit See V. 27.
+Jnster fl. I. 29. Ein flies im Littawischen Georgenburg.
+Jusse fl. K. 21. felt in das Curisch Haff bey einem Dorffe
+besselbigen namens / vnd gehöret die helfte / so jenseit an / an dem`,
+    english: `[Waterways index, pages G-I -- Rivers and lakes G continued, H, and I]
+
+[G continued]
+...Goluben See W. 26. / W. 21 -- a long arm [winckel] from the lake.
+
+Graisslia g. Y. 20 -- large and small. / Grammersee Z. 18. / Greybo See Y. 27. / Grodiste See T. 27 -- a beautiful old castle-hill [Schlossberg] stands by it. / Grodissten river, a. 12. / Grun See X. 20.
+
+[Guber River] Guber river, V. 27 -- rises at Gneistein [Gnistein?], half a mile from Rein [Rhein/Ryn], from a lake of the same name. Flows past Rastenburg [Kętrzyn] and falls into the Jain [?] at Leunenburg. In former times many castles [Schlosser] stood on the Guber, as the old castle-hills [Schlossberge] still show; one in particular was called Weissenburg. [The Guber] is also said to divide the Bartenland from the Galinderland [Galindian territory].
+
+On this river, Dywan [Diwan], the Bartian captain, was overtaken with great plunder (which he had taken around Marienwerder [Kwidzyn], Christburg [Dzierzgoń], and Marienburg in the second uprising). He was pursued by a few Elbingers and surviving Christburgers, shamefully defeated, and all the plunder taken back.
+
+Gugaw See Z. 14. / Guhena river, S. 28. / Gungapis river, G. 25. / Gunsti See W. 27. / Gusse river, R. 17.
+
+H.
+
+Habessgar See Y. 11. / Hars See T. 23. / Hasen See T. 26. / Hasen flies V. 26. / Hensel See V. 25. / Holm See W. 26. / Humling See Y. 15.
+
+I.
+
+Jadia L. 28 -- a border stream [grentz flies] on Lithuania. / Jarcke river, S. 28 (Jara). In old writings, and especially in the Jeroschin [chronicle], it is called Nara. Many Lithuanians were once defeated there, and I believe this must be the same [river]. Lorenz von Halle found much strange military equipment [Kriegszeug] there.
+
+Jante river, G. 14 -- the Heiligenpeil [Mamonovo] stream. / Jdiossa See a. 18 -- large and small. / Jegorschin See a. 24 -- large and fine. / Jlgenit See V. 27. / Jnster river, I. 29 -- a stream at Lithuanian Georgenburg [Jurbarkas]. / Jusse river, K. 21 -- falls into the Curisches Haff [Curonian Lagoon] near a village of the same name. The half on the far side belongs to...`,
+  },
+  "p522": {
+    original: `[Waterways index, pages I-K]
+
+fliesse ligt / nach Nordwerts in das Schack au / che ...
+zum Cunsen zur Kiechen. Die ander helste au
+ist Labiawisch / gehört auch gen Labiaw zur Kiech...
+gen Kirchreissen sein. Doch sol nun ein Pfarrer alda woneh ...
+
+Inster fl. M. 27. Entspringt oben in dem Rangutti=
+schen / kompt zur Georgenburg mit der Goldap zuhauss / verlieres
+allda beyde die Namen / vnd heisser fort der Pregel.
+
+Jedup fl. N. 26.     Jon See W. 20. gros vnd Klein.
+Jura fl. I. 27.        Jupt See X. 21.
+
+K
+
+Kalampe fl. G. 32. Ist nur mit dem Buchstaben K. in der
+Mappen vorzeichnet.
+Kalben See Z. 17.          Kammon fl. H. 25.
+Karbin fl. Y. 12.           Karckel fl. I. 21.
+Karp See X. 18.            Kasten flies V. 15.
+Kas fl. S. 3. auff Pomerellen. Katzen See X. 23.
+Kaucke fl. I. 23. So auch Narmedien / in Schrifften ge= Narmedie.
+neunet wird. Leufft aus der Gilge in die Russe / vnd benimpt der
+Gilge das wasser / das des Sommers die Wittinnen oder Schiff
+nicht wol die Gilge hinab können gehen / Müssen derhalben die
+Russe hinab / vnd durch die Stilbeck / mit dem M. verzeichnet in
+das Haff kommen / da sie denn sehr weit im haff gen Labiaw ha=
+ben / vnd offmals jr viel im sturme vntergehen. Der Gilge aber
+zu helffen / sagt man / das wol ein Thonne Goldes an der Kaucke
+verbawet sey / das auslauffen zu wehren. Aber es hilfst nichts /
+ob schon ein vnsegliche Arbeit daran geschehen ist / wie dann noch
+allda zusehen stehet.
+
+Kaurter oder Kauster fl. Q. 16. zu Creutzburg.
+Kieckoua See a. 17.      Kellern See Y. 16.
+Kenstrui See Y. 17.      Kermes See X. 17.
+Kirsick See a. 21. vmbfasset schier die schöne Jagtbuden
+Poppen genant.
+Kirmes See Z. 15.        Kirschenflies V: 16.
+Klesslawisch See R. 26.  Klockstock See X. 10.
+Kossuen See b. 14.       Konigk See b. 17.
+
+Kossnich See Z. 17. gehört ein theil F. D. in Preussen /
+das andere den Thumbherrn zur Frawenburg / die dann bessere
+Fischerey darinnen haben als F. D. so doch der Fürst die besten Die Geist=
+örter innen hat / nemlich wo die fliesser hinein lauffen / vnd sich son= lichen da s
+sten gemeiniglich die fische nach dem frischen wasser begeben. Sol= beffe glüe
+ches geschicht an vielen orten / das die Geistlichen das beste glück in der
+haben. Queritur autum cur id fiat, Responsio: Rustice, ergo schalck Welkt.
+le besser`,
+    english: `[Waterways index, pages I-K -- Rivers I continued; section K with Kaucke/Narmedien waterway problem]
+
+[Jusse continued] ...the stream lies northward toward Schackau, [belonging] to the Cunsen parish. The other half is Labiau-ish [belonging to Labiau/Polessk], and belongs to the Labiau parish. But now a pastor is said to live there...
+
+[Inster River] Inster river, M. 27 -- rises high in the Ragnit [Rautenberg?] district, comes to Georgenburg [Mayovka] where it joins with the Goldap [River]. There both lose their names and it is called the Pregel henceforth.
+
+Jedup river, N. 26. / Jon See W. 20 -- large and small. / Jura river, I. 27. / Jupt See X. 21.
+
+K.
+
+Kalampe river, G. 32 -- marked only with the letter K on the map. / Kalben See Z. 17. / Kammon river, H. 25. / Karbin river, Y. 12. / Karckel river, I. 21. / Karp See X. 18. / Kasten flies V. 15. / Kas river, S. 3 -- in Pomerelia. / Katzen See X. 23.
+
+[Kaucke / Narmedien] Kaucke river, I. 23 -- also called Narmedien in writings. It flows from the Gilge [Matrosovka] into the Russ [Rusnė] and takes water from the Gilge, so that in summer the Wittinnen [flat-bottomed boats] or ships cannot well go down the Gilge. They must therefore go down the Russ and through the Stilbeck (marked with M [on the map]) into the Haff [lagoon], where they have a very long way across the lagoon toward Labiau [Polessk], and many often perish in storms.
+
+To help the Gilge, it is said that a whole barrel of gold [Thonne Goldes] has been spent on the Kaucke to block its outflow -- but it does not help, even though unspeakable labor has been spent on it, as can still be seen there.
+
+Kaurter or Kauster river, Q. 16 -- at Kreuzburg [Slavskoye]. / Kieckoua See a. 17. / Kellern See Y. 16. / Kenstrui See Y. 17. / Kermes See X. 17. / Kirsick See a. 21 -- almost encircles the beautiful hunting lodge [Jagtbuden] called Poppen. / Kirmes See Z. 15. / Kirschenflies V. 16. / Klesslawisch See R. 26. / Klockstock See X. 10. / Kossuen See b. 14. / Konigk See b. 17.
+
+[Kossnich See] Kossnich See Z. 17. One part belongs to His Princely Grace [F.D.] in Prussia; the other to the canons [Thumbherrn] at Frauenburg [Frombork], who have better fishing there than F.D. -- even though the Prince holds the best locations, namely where the streams flow in and the fish generally seek fresh water. Such happens in many places: the clergy [Geistlichen] always have the best luck. One asks why this is so; the answer: 'Peasant, therefore rogue' [Rustice, ergo schalck] -- [meaning the clergy always get the better deal].`,
+  },
+  "p523": {
+    original: `[Waterways index, pages K-L]
+
+als a. an dem reichen Man vnd Lazaro zusehen hat.
+gs Ampt haben vnd Seelhirten sollen sein / gibt
+Mherrn dieser Welt das lehn redlich / vnd volkommen=
+us sie darüber nicht zu klagen hab. Bastian Rosbersee hat=
+e in Seen vmb Regelen / da die Papisten gar viel fische innen
+ingen / auch Gerechtigkeit. Ihm aber wolts nicht glücken / lies
+auch Garn vnd Fischer von Neidenburg (so wol mit vnsten vmb=
+zugehen) holen / halff aber alles nichts. Darumb Christus auch
+die gereinigten Aussetzigen zu Priestern / die doch seine ergsten
+Feinde waren / jhnen das opffer zu geben weisete.
+
+Kostnich fl. Y. 16.        Kreef fl. M. 14.
+Krucklamicken See V. 24. Krzbielle See W. 25.
+Kuckowin See V. 27.      Kuckling See X. 16.
+Kun flies O. 19.            Kuina See. Y. 20.
+Kusaw See V. 14.
+
+Kutten See T. 24. Die Tieffe / die Grumme vnd Grosse
+K. See genant.                Kutsch See X. 22.
+
+L.
+
+Labentz See Z. 11.        Laicken fl. K. 24.
+Lais See Z. 16.             Langfuck See T. 25.
+Langsee a. 11. zwischen deutsch Eylaw vnd Bretchen.
+Langsee a. 16. bey Gedwakwenen.
+Langsee Y. 15. bey dem Allenstein.
+Langsee Z. 19. im Orttelsburgischem.
+Lapasten See X. 19.     Lapimosten See x. 20.
+Lauben See a. 14.        Lauckne fl. M. 22.
+Laucup fl. P. 29.          Lauter See Z. 10.
+Lazomet See W. 26. Ein sehr schöner See an der Stra=
+daun.                          Layse See Y. 9.
+
+Lelisste See Z. 17. Ist ein schöner See bey Passenheim /
+Im diesem See / sol der Geitzbauch wie droben im Passenheim
+vermeldet ist / versoffen sein.     Gros Lembock See b. 17.
+
+Lepoon fl. O. 29. ein grentz flies an Littawen.
+
+Leuentin oder Liewotin See V. 23. Dieser See ligt an
+Lenzen / Es sein die Deutsche Ordens Brüder so in Sudawen ge=
+wesen waren / eins mal vmb Vesper zeit / vber diesen See im win=
+ter vber Eis gezogen / vnnd sich auff diese seiten gelagert / auff den wunder=
+Morgen solet eitel blanck wasser gewesen sein / das sich jederman werek am
+verwundert hat. Es sol aber die art haben / das wann es beginnet Eio.
+net warn zu werden / das sich das Eis so darinnen ist / auff den
+grund geben / vnd zu boden sincken sol.
+
+Lich fl. Y. 8. fleust aus dem See Gauden / Risteburg für=
+bey / zu Marienwerder felt er in den Nogot.`,
+    english: `[Waterways index, pages K-L -- Lakes K continued; section L with Leuentin lake miracle]
+
+[Kossnich continued] ...as one can see with the rich man and Lazarus [Luke 16]. [The clergy] should have office and be shepherds of souls; [but God] gives the lords of this world their fief honestly and completely, so they have nothing to complain about.
+
+Bastian Rosbersee had [fishing rights] in lakes around Regelen, where the Papists caught very many fish [and] also had [legal] rights. But he had no luck -- he even brought nets and fishermen from Neidenburg [Nidzica] (who knew well how to handle them) -- but nothing helped. Therefore Christ also sent the cleansed lepers to the priests -- who were His worst enemies -- to give them the offering.
+
+Kostnich river Y. 16. / Kreef river M. 14. / Krucklamicken See V. 24. / Krzbielle See W. 25. / Kuckowin See V. 27. / Kuckling See X. 16. / Kun flies O. 19. / Kuina See Y. 20. / Kusaw See V. 14.
+
+Kutten See T. 24 -- called the Tieffe [Deep], the Grumme [Crooked], and the Grosse K. See. / Kutsch See X. 22.
+
+L.
+
+Labentz See Z. 11. / Laicken river K. 24. / Lais See Z. 16. / Langfuck See T. 25. / Langsee a. 11 -- between Deutsch Eylau [Iława] and Bretchen. / Langsee a. 16 -- near Gedwakwenen. / Langsee Y. 15 -- near Allenstein [Olsztyn]. / Langsee Z. 19 -- in the Ortelsburg [Szczytno] district. / Lapasten See X. 19. / Lapimosten See x. 20. / Lauben See a. 14. / Lauckne river M. 22. / Laucup river P. 29. / Lauter See Z. 10. / Lazomet See W. 26 -- a very beautiful lake on the Stradaun. / Layse See Y. 9.
+
+[Lelisste See] Lelisste See Z. 17 -- a beautiful lake near Passenheim [Pasym]. In this lake the miser [Geitzbauch], as mentioned above under Passenheim, is said to have drowned.
+
+Gros Lembock See b. 17. / Lepoon river O. 29 -- a border stream on Lithuania.
+
+[Leuentin / Liewotin See] Leuentin or Liewotin See V. 23. This lake lies at Lenzen. The German Order's Brothers, who had been in Sudavia [Sudawen], once crossed over this lake on the ice in winter around Vesper time and camped on this side. In the morning, there was supposed to be nothing but clear open water [blanck wasser] -- everyone was astonished. The lake is said to have the property that when it begins to warm, the ice within it sinks to the bottom.
+
+Lich river Y. 8 -- flows from Lake Gauden, past Riesenburg [Prabuty], falls at Marienwerder [Kwidzyn] into the Nogat.`,
+  },
+  "p524": {
+    original: `[Waterways index, pages L-M]
+
+Liebe fl. Y. 12. zur Liebmühl.    Libenitz
+Lick fl. Y. 27. An diesem flies / hat sich de=
+den / auch mit den Samaitten geschlagen. Dann is
+lic. Jur maitten auff Mednick / ein gewaltiger Boyar / Jesibuto gw=
+der wolte nicht wieder die Brüder Deutsches Ordens streiten / da naph.
+wuste der Orden wol / vnd war jm wieder günstig. Dis vberhu er wil
+er sich / vnd meinete der Orden / würde jhm zugefallen sein / vnd jm durch des
+durch jr Land wieder die Masuren zu ziehen gestatten. Aber der Ordens
+Landmeister / mit seinen Brüdern / schlug es jhm ab / sintem: Alle die Land sis
+Masuren Christen waren. Dis verdros dem Jesibuto sehr / vnd den.
+sprach / Es solte jhm sein Gott Perckuno helffe / er wolte noch alle mulo ab.
+Deutsche Brüder aus dem Land vertreiben / macht sich mit 10000 geschlagen
+Man auff / zog zwischen Preussen vnd Littawen / nach der Masaw Jesibatho
+zu / lagerte sich an das flies Licke. Auff den Morgen / wil er ver= wil den
+suchen / ob er glück werde haben / nach jhrer weise / bindt er einen ge= Orden ver=
+fangenen Christen an einen Baum / scheust jhm einen Pfeil in das treiben.
+Hertz / do liess das Blut vntersich / des Jesibuto hart erschrack: probirung
+Dann wann es frisch heraus sprang / vnd weit hinweg / so solte es der Heiden
+jhnen glück bedeuten: wenn es aber nur am Leib herab lieff / solte ires glücks
+es jhnen vnglück bedeuten. In solchem kam B. Heinrich Zucken=
+schwerdt / der Vogt von Barthen / mit wenigen / aber mit fehr gu= Samaitta
+tem Volck / sprengt zu jhm ein / vnnd schlagen sich hesstig. In sol= müssen flio
+chem schlagen / heuet Jesibuto / dem Vogt den lincken arm ab / da hen.
+ergrümet der Vogt / kriegt ein Speer / vnd durchrante Jesibuto /
+mit macht / vnd nach diesem / namen die Samaitten die flucht.
+
+Lickerort See Y. 25.     Lictigin See T. 26.
+Loben See Y. 13.         Loschieinen See S. 18.
+Loy slus I. 21.            Lubnitz fl. b. 14.
+Luckanisch See Y. 22.  Lutke See a. 14.`,
+    english: `[Waterways index, pages L-M -- Lick river and battle with Jesibuto the Samogitian chieftain]
+
+[Liebe river] Liebe river Y. 12 -- to Liebmühl [Miłomłyn]. / Libenitz.
+
+[Lick River and Battle] Lick river Y. 27. On this stream there was fighting, including with the Samogitians [Samaitten]. For there was at Mednick [Medininkai], a powerful Boyar [nobleman], Jesibuto [Gediminid/Lithuanian noble?], who would not fight against the Brothers of the Teutonic Order, since he knew the Order well and was favorably disposed toward them.
+
+This went to his head [vberhu er sich] -- he thought the Order would support him and allow him passage through their land against the Masurians [Masuren]. But the Land Master [Landmeister] and his Brothers refused, since the Masurians were Christians.
+
+This greatly angered Jesibuto, and he swore his god Perkunas [Perkuno] would help him -- he would drive all the German Brothers from the land. He gathered 10,000 men, marched between Prussia and Lithuania toward Masovia [Masaw], and encamped at the stream Licke.
+
+[The blood divination] In the morning, wanting to test his fortune in their manner, he bound a captured Christian to a tree and shot an arrow into his heart. The blood dripped downward -- which greatly alarmed Jesibuto. For if the blood sprang out fresh and far, it meant good fortune; but if it only flowed down the body, it meant ill fortune.
+
+[The battle] In this [moment], Brother Heinrich Zuckenschwert [Zuckenschwerdt], the Vogt [bailiff] of Barthen [Barciany], charged in with few but very good troops, and they fought fiercely. In the fighting, Jesibuto hewed off the Vogt's left arm. Enraged, the Vogt seized a spear and ran Jesibuto through with full force. After this, the Samogitians fled.
+
+Lickerort See Y. 25. / Lictigin See T. 26. / Loben See Y. 13. / Loschieinen See S. 18. / Loy slus I. 21. / Lubnitz river b. 14. / Luckanisch See Y. 22. / Lutke See a. 14.`,
+  },
+  "p525": {
+    original: `[Waterways index, page M]
+
+M.
+
+Malshössen See a. 17.     Margensee X. 6.
+Maring See Y. 14.          Marung See X. 13.
+Marxhösser See Z. 19.
+
+Matter See a. 18. Ist im Ortelsburgischen / wenn sie den=
+selben fischen wollen / so fischen sie andere zweene darneben / so gibt
+sich aller fisch in diesen / da sie jn dann beyeinander kriegen.
+
+Mawers fl. M. 27.          Mebing See X. 10.
+Medlauck fl. M. 25.
+
+Mechon. Meinmel fl. K. 27. Niemen Littawisch / vorzeiten Chro= Niemen
+lib. 1. est 2 nos geheissen / kompt aus Littawen / leusst Rangesit / vnd Tilsen Chronos.
+Cromerus fürbey / 2 meilen vnter der Tilsen theilet er sich / das ein theil wird Russe.
+de reb. po. die Russe / das ander die Gilge genant. Gilge.
+folio 43.
+lib: Olyq.`,
+    english: `[Waterways index, page M -- Lakes and rivers M; the Memel/Niemen river]
+
+M.
+
+Malshössen See a. 17. / Margensee X. 6. / Maring See Y. 14. / Marung See X. 13. / Marxhösser See Z. 19.
+
+[Matter See] Matter See a. 18 -- in the Ortelsburg [Szczytno] district. When they want to fish this lake, they fish two other [lakes] nearby; then all the fish gather in this one, and they catch them together. [An interesting description of coordinated lake-fishing in Masuria.]
+
+Mawers river M. 27. / Mebing See X. 10. / Medlauck river M. 25.
+
+[Memel / Niemen River] Meinmel [Memel/Nemunas] river K. 27. Lithuanian: Niemen. Formerly called Chronos. Comes from Lithuania, flows past Ragnit [Neman] and Tilsit [Sovetsk]. Two miles below Tilsit it divides: one branch becomes the Russ [Rusnė], the other the Gilge [Matrosovka].
+
+[References: Mechovius Book 1, Chapter 2; Cromerus 'De rebus Polonicis,' folio 43.]`,
+  },
+  "p526": {
+    original: `[Waterways index, page M continued]
+
+D. Georgius Sabinus.
+
+16. / saxosa prolapsus origine, fontem
+Non procul a Grodnæ finibus urbis habet.
+Hanc dixere Chronum, sed nescia turba locorum
+Nomen id alterius fluminis esse putat.
+
+Brüder Bendolt von Wehchausen Compthur auff Rans=
+genit / vnd B. Rudolff von Samland mit 4 Brüdern vnd jhrem
+Volck / waren zu schiffe in Litawen gewesen / im herab fahren / bet= betreugg der
+se Gurminna des Königs Puttiwert Marschald 62 starcker Lit= fe. Litauner.
+tawen bestelt / die lagen hinter einem Berglein / vnnd einen Masu=
+ren ausgemacht / wie ein Weib / die stund am vfer / schrie vnd bat
+erbermlich / man wolte sie vmb Marien willen / mit nemen / Dann
+sie were ein Christen weib vom Rosenberge geraubet. Das erste
+Schiff gieng fürbey / der Compthur erbarmet sich / lies anlegen / da
+erwuschte der Schalck die ketten forne am Schiff vnd wurffs sie
+vmb einen Baum / schrye / da sprangen die andern zu / schlugen sich
+schedlich mit denen im Schiff / doch gewonnen die Brüder / mit sie im schiff
+schentlich mit denen im Schiff / doch gewonnen die Brüder / mit fe kamen
+schefflich mercklichem schaden / vnd erschlugen die Littawen. Aber von de= aller vmb
+nen / so im Schiff waren / blieb keiner vber 4 wochen lebendig / dann von stun=
+die Littawen hetten Fewer vnter sie geworffen / von stünkender ender
+Materien / das sie tödtet. Materien.
+
+Meinmelm fl. I. 21.          Mendabar See W. 20.
+Milden See W. 14.           Milisch See a. 14.
+
+Minia fl. E. 22. Ein schöner strom kompt aus Samait=
+ten / felt in das Curisch Haff / bey einem Dorff auch Minia genant.
+Minter See R. 16.            Miegla fl. G. 24.
+Mischlitz See a. 15.         Mitwe fl. I. 30.
+Morausen See Z. 15.       Mösing See X. 15.
+Mort See V. 25.
+Mucker / Ich achte das es ein theil von der Ossa sey / so auff
+das Dorff Mucker kompt.
+Mucker See Z. 21. Ein schöner See 2 Meilen lang nicht
+weit vom Poppen.
+Muncken See Q. 18.`,
+    english: `[Waterways index, page M continued -- Latin poem on the Memel; Lithuanian ambush on the river; Minia and other entries]
+
+[Latin poem by D. Georgius Sabinus (Georg Sabinus, 1508-1560, humanist poet, first rector of Konigsberg University)]
+'From a rocky source, not far from the borders of the city of Grodno, it has its spring. They called it Chronos, but the ignorant crowd of places thinks this is the name of another river.'
+
+[Lithuanian ambush on the Memel] Brother Bendolt von Wehchausen, Komtur [Commander] at Ragnit, and Brother Rudolf von Samland with 4 Brothers and their troops, had been by ship in Lithuania. On the way downriver, Gurminna, the marshal of King Puttiwert [Butigeidis?], had positioned 62 strong Lithuanians, who lay behind a hillock. They dressed up a Masurian as a woman, who stood on the bank, cried and begged piteously, [saying] they should take her for Mary's sake, for she was a Christian woman abducted from Rosenberg [Susz].
+
+The first ship passed by. The Komtur took pity and ordered [his ship] to land. Then the rogue [Schalck] seized the chain at the bow of the ship and threw it around a tree, shouted, and the others sprang out. They fought terribly with those in the ship. The Brothers won, but with considerable losses, and killed the Lithuanians.
+
+[Poisoned casualties] But of those in the ship, none survived more than 4 weeks -- for the Lithuanians had thrown fire among them made of foul [stunkender] material, which killed them.
+
+Meinmelm river I. 21. / Mendabar See W. 20. / Milden See W. 14. / Milisch See a. 14.
+
+[Minia] Minia river E. 22 -- a beautiful stream, comes from Samogitia [Samaitten], falls into the Curisches Haff [Curonian Lagoon] near a village also called Minia. / Minter See R. 16. / Miegla river G. 24. / Mischlitz See a. 15. / Mitwe river I. 30. / Morausen See Z. 15. / Mösing See X. 15. / Mort See V. 25.
+
+Mucker -- I believe this is a part of the Ossa [River], where it reaches the village of Mucker. / Mucker See Z. 21 -- a beautiful lake, 2 miles long, not far from Poppen. / Muncken See Q. 18.`,
+  },
+  "p527": {
+    original: `[Waterways index, page N]
+
+N.
+
+Nabe fl. M. 29.          Nagot See Y. 6.
+Nagot oder Nogot See Z. 7.
+Nagot fl. Y. 6. Die Werder waren vor zeiten lauter ge= alt: Mos
+stümpffe stunden nur 5 Dörffer darinnen / Da war Anno 1294 der Chronica
+Nagoroff Landmeister Meinecke von Querfurt / der lies die Themme von
+tennert. beiden seiten am Nagot schütten / Als nu das land war was treug
+geworden / gab er den Bawren die darinnen bawen wolten 5 Jahr
+Zins`,
+    english: `[Waterways index, page N -- Nogat River and the draining of the Werder marshlands]
+
+N.
+
+Nabe river M. 29. / Nagot [Nogat] See Y. 6. / Nagot or Nogot See Z. 7.
+
+[Nagot / Nogat River] Nagot river Y. 6. The Werder [lowlands between the Vistula branches near Marienburg/Malbork] were formerly nothing but swamps [gestumpffe] with only 5 villages in them. In 1294, the Land Master [Landmeister] Meineke von Querfurt ordered dikes [Themme] to be built on both sides of the Nogat. Once the land had become somewhat dry, he gave the peasants [Bawren] who wanted to settle there 5 years free of rent [Zins]...`,
+  },
+  "p528": {
+    original: `[Waterways index, page N-O]
+
+Zins vnd Scharwerck frey / Da baweten die Ba=
+machten tieffe Graben mit Schlehsen / ds wasser ...
+
+Amptl. C. Anno 1465. vorin Sontag Laetare hat sich das Wass=
+Klein. C. Nagot sehr ergossen vber die Themme / vnd fast die Insel Fischaw
+Salco. pp. erleufft / doch ists in etzlichen tagen wieder abgefallen.
+störel. Desgleichen vmb das Jar 1466. hat der Nagot vberge=
+lauffen in das Gros / auch Fischauische Werder / vnd hat grossen
+schaden gethan / wie denn auch dis Jar Anno 1595. auff ire Oster=
+nacht wie droben in der Weissel zu sehen.
+
+Alt Nagot fl. T. 9.          New Nagot fl. S. 9.
+Naimen See W. 11.       Naltz See X. 18/
+Napergel See x. 9.        Nara fl. such Jarcken.
+Nasewitz See X. 12.      Natasz See a. 18.
+Nein fl. O. 21. bey Taplacken.
+
+Nergen See W. 13. Ein seltzamer See / sol in die viertzig
+Werder haben.
+Neucupe fl. H. 21.          Newottin such Leuentin.
+Nyda fl. c. 35. Entspringt bey Neydenburg / leufft auff
+Soldaw / vnd fort in die Masaw.
+Nieden See b. 25. Ist ein langer See in dem Johanns=
+burgischen.                     Niepot fl. O. 25.
+
+O.
+
+Occul See Y. 15.         Oletzko fl. V. 27. klein vnd gros.
+Oletzko fl. W. 27.
+Omet fl. R. 21. Kompt von Dringsfort auff Gerdawen /
+zur Allenburg in die Apte vnd folgends in die Alle.
+Omezan fl. Q. 14.
+Omuleff fl. b. 17. In alten Schrifften / wird er auch ge=
+nant Mollye oder Mallien.
+Omulsti See a. 16. In alten Schrifften Malsicke genant.
+Oorschiz fl. c. 17. grentzet an Pobesan.
+
+Ossa fl. Z. 10. Dieses fliesgen entspringt in den Schön=
+bergischen Seen / die Ossen See genant / heist aber zum ersten noch
+nicht die Ossa. Es scheinet in alten Schrifften / das es auch Mo= Grentz
+ckto oder Mucker genant sey worden / vnd dieser Strom scheidet flies.
+das Colmische Land von Pomesan. Der eine Arm dieses flies=
+ses fellet oberhalb Graudentz in die Weissel. Der ander vnterhalb
+Graudentz vnd Muckeraw bey Sackeraw.
+
+In diesem Strom bey dem Dorff Schlup / sol Boleslaus Ein eyser=
+Chrobri Polnischer König ein eysenen Pfal eingeschlagen haben. ner Pfal
+Mechonius lib. 2. ca. 7. in die Ossa.
+
+Klein Ossa fl. b. 2.      Ossen See. Y. 10.`,
+    english: `[Waterways index, pages N-O -- Nogat floods; Nergen lake with 40 islands; Ossa river as boundary marker]
+
+[Nogat continued] ...free of rent and labor-service [Scharwerck]. Then the peasants built and made deep ditches with sluices [Schlehsen] for the water...
+
+In 1465, on the Sunday Laetare [4th Sunday of Lent], the Nogat flooded greatly over the dikes [Themme] and almost inundated the island of Fischau, though it receded after several days. Likewise around 1466, the Nogat overflowed into the Gross and also the Fischau Werder, causing great damage -- as also this year 1595, on Easter night, as can be seen above under the Vistula [Weissel].
+
+Alt Nagot river T. 9. / New Nagot river S. 9. / Naimen See W. 11. / Naltz See X. 18. / Napergel See x. 9. / Nara river: see Jarcken. / Nasewitz See X. 12. / Natasz See a. 18. / Nein river O. 21 -- near Taplacken [Talpiaki].
+
+[Nergen See] Nergen See W. 13 -- a strange lake [seltzamer See], said to have forty islands [viertzig Werder].
+
+Neucupe river H. 21. / Newottin: see Leuentin. / Nyda river c. 35 -- rises near Neidenburg [Nidzica], flows toward Soldau [Działdowo] and on into Masovia. / Nieden See b. 25 -- a long lake in the Johannsburg [Pisz] district. / Niepot river O. 25.
+
+O.
+
+Occul See Y. 15. / Oletzko river V. 27 -- small and large. / Oletzko river W. 27. / Omet river R. 21 -- comes from Dringsfort [?] to Gerdauen [Zheleznodorozhny], to Allenburg [Druzhba] into the Apte and then into the Alle [Łyna]. / Omezan river Q. 14. / Omuleff river b. 17 -- in old writings also called Mollye or Mallien. / Omulsti See a. 16 -- in old writings called Malsicke. / Oorschiz river c. 17 -- borders on Pomesania.
+
+[Ossa River] Ossa river Z. 10. This stream rises in the Schönberg [Szymbark] lakes, called Ossen See, though at first it is not yet called the Ossa. In old writings it appears also to have been called Mockto or Mucker. This stream divides the Kulmerland [Colmische Land] from Pomesania. One arm falls above Graudenz [Grudziądz] into the Vistula; the other below Graudenz and Muckeraw, near Sackeraw.
+
+[Boleslaw's iron stake] In this stream, near the village of Schlup, Boleslaw Chrobry [Boleslaus the Brave], King of Poland, is said to have driven in an iron stake [eysenen Pfal] (Mechovius Book 2, Chapter 7). [This refers to the legendary boundary marker between Poland and Prussia.]
+
+Klein Ossa river b. 2. / Ossen See Y. 10.`,
+  },
+  "p529": {
+    original: `[Waterways index, page P]
+
+P.
+
+Pagabia See b. 24. klein vnd gros.
+Pammer See W. 24. klein vnd gros.
+Dantzer See b. 13.
+Passerge fl. S. 13. Entspringt zwischen Hoenstein vnnd Wilbald. par.
+Kreisling / in einer Wiesen / leufft durch den Szerin See / do wurd Grents
+sie schon so gros / das man Holtz darauff flössen mag / scheidet das flies.
+fürstenthumb / vom Bischoffthumb Heilsperg / felt ein Meil vnter
+Braunsperg in das frische Haff. Bilibaldus Pirckeymerus / neunt
+in Passariam / sagt auch / man halte sie für den Chronos.
+
+paulick See Z. 15.           Pausen See Z. 13.
+Pauten See Y. 13.          Paugter wick P. 3.
+Pawer fl. N. 22.             Petarn See V. 16.
+Petterger See Y. 12.      Pfassen See Z. 10.
+Piasuden See a. 20. klein vnd gros.
+Pirsus See Y. 22.          Piss flus X. 16.
+Piss See X. 17.
+Plancksee V. 17. sonsten Anschlab genant.
+Plautzen See Z. 15.       Plussuppa fl. L. 28.
+
+Plene See L. 23. Im Vorjahr ist es ein fischreich See /
+Im Sommer gewint man Hew darinnen.
+Poplusste See Z. 5.       Possmar fl. Q. 16.
+Pralles fl M. 13.
+
+Starre= Pregel fl. O. 21. Zuuorn Skarra geheissen / weil aber dem Sim. Grun.
+olla Samo / sein Weib Pregolla darinnen ertranck / nennet er jhn nach T. 2. c. 4.
+warumb jhr / auch Pregollam. Fehet an zur Georgenburg / da die Inster In Samo.
+also ge= vnd Angerap zuhauff kommen / theilet sich hienieden / in den Al= T. Eynert.
+heissen. ten vnd Newen Pregel / zu Königsperg kommen sie wieder zusam= Gobr. Er.
+men / vnd vmbgeben den Kneiphoss. Ein Meil darunter felt er fol. 305.
+Chronos in das frische Haff. Philippus Melanchthon helt den Pregel für Eber. Er.
+aber vn= den Chronos Ptolemei / desgleichen auch Erasmus Stella. Eros Erd.
+recht.
+
+Alt Pregel fl. N. 17.       New Pregel O. 17.
+Prerosle See Q. 29.       Printz flus b. 11.
+Prionien See a. 16.        Proberg See X. 21.
+Przosolasken fl. Z. 22.  Pudler ort L. 21.
+Purduned See a. 17.      Pirwoyn See X. 20.
+Pirwoy See Y. 19.         Pyrfuss See Y. 22.
+Pysch fl. a. 24. zur Johannsburg.
+
+R.
+
+Ragupst. M. 27.             Raigrob See X. 27.
+Rackschde fl. Q. 13.      Ram flies V. 15.
+Raude fl. T. 20. bey Leunenburg.
+Raude fl. R. 23. felt in Aschwein.           Rausfwe`,
+    english: `[Waterways index, page P-R begins -- Passerge river; Pregel river origin story; beginning of R]
+
+P.
+
+Pagabia See b. 24 -- small and large. / Pammer See W. 24 -- small and large. / Dantzer See b. 13.
+
+[Passerge / Pasleka River] Passerge river S. 13. Rises between Hoenstein [?] and Kreisling, in a meadow [Wiesen]. Flows through the Szerin See, where it is already so large that timber [Holtz] can be floated on it. It divides the Duchy [Furstenthumb] from the Bishopric of Heilsberg [Warmia]. Falls one mile below Braunsberg [Braniewo] into the Frisches Haff [Vistula Lagoon]. Bilibaldus Pirckeymerus [Willibald Pirckheimer, Nuremberg humanist, 1470-1530] calls it 'Passaria' and says some consider it to be the [ancient] Chronos.
+
+Paulick See Z. 15. / Pausen See Z. 13. / Pauten See Y. 13. / Paugter wick P. 3. / Pawer river N. 22. / Petarn See V. 16. / Petterger See Y. 12. / Pfassen See Z. 10. / Piasuden See a. 20 -- small and large. / Pirsus See Y. 22. / Piss flus X. 16. / Piss See X. 17. / Plancksee V. 17 -- otherwise called Anschlab. / Plautzen See Z. 15. / Plussuppa river L. 28.
+
+[Plene See] Plene See L. 23 -- In the previous year [Vorjahr] it is a fish-rich lake; in summer one harvests hay [Hew] from it. [A seasonal lake that becomes a meadow.]
+
+Poplusste See Z. 5. / Possmar river Q. 16. / Pralles river M. 13.
+
+[Pregel River] Pregel river O. 21. Formerly called Skarra. But when Samo's wife Pregolla drowned in it, he named it after her -- also Pregollam. It begins at Georgenburg [Mayovka], where the Inster and the Angerap come together. Below, it divides into the Old and New Pregel; at Konigsberg they reunite and encircle the Kneiphof [island district of Konigsberg]. One mile below, it falls into the Frisches Haff.
+
+Philippus Melanchthon [Philip Melanchthon, 1497-1560] considers the Pregel to be the Chronos of Ptolemy; likewise Erasmus Stella [Silesian humanist, c. 1460-1521]. [Hennenberger notes this identification is 'aber vnrecht' -- incorrect.]
+
+Alt Pregel river N. 17. / New Pregel O. 17. / Prerosle See Q. 29. / Printz flus b. 11. / Prionien See a. 16. / Proberg See X. 21. / Przosolasken river Z. 22. / Pudler ort L. 21. / Purduned See a. 17. / Pirwoyn See X. 20. / Pirwoy See Y. 19. / Pyrfuss See Y. 22. / Pysch river a. 24 -- to Johannsburg [Pisz].
+
+R.
+
+Ragupst M. 27. / Raigrob See X. 27. / Rackschde river Q. 13. / Ram flies V. 15. / Raude river T. 20 -- near Leunenburg. / Raude river R. 23 -- falls into Aschwein [lake].`,
+  },
+  "p530": {
+    original: `[Waterways index, pages R-S]
+
+Rausfwe fl. O. 28.          Reinisch flu=
+Reinste See V. 27.
+
+Resaw See S. 22. Ist der See an dem Dringsfor ...
+berge / ds flies leufft auff Engelstein / Soy vn in den See Aschwein.
+
+Ordens Rensen See a. 5. Bey diesem See sein die Colmer mit
+Chronica. dem Orden von den Heiden erschlagen worden / Wie droben in
+dem Colmischen Lande zu sehen ist.
+
+Ribno See b. 15. vnter Gilgenburg.
+Ribno See c. 24. vnter Johannsburg.
+Riedsassa See T. 27.
+
+Rocken See L. 24. klein vnd gros / ein halb viertel meilen Erstlich
+lang vnd breit. Im vorjahr / wenn die wasser gros sein / so fenget Fischreich /
+man darinnen viel Fische / Aber im Sommer gewinnet man Hew darnach
+darinnen. Rodaun See S. 3. Hew ter.
+
+Rodaun fl. S. 4. Ist das Dantzker Mühlen wasser / wird
+hinter Praust her / aus einem Teiche / durch einen Graben / eine sehr
+grosse Meilen wegs geleitet. Ist jhnen auch offtmals ausgesto=
+chen worden / vnd das wasser benommen / treibt viel Mühlen / auch
+eine Mehl Mühlen in der Stadt Dantzigk / mit Achtzehen gengen.
+Dis Wasser weil es in der höhe hin in die Stad geleitet ist / kan es
+leichtlich ausfreissen / oder aussgestochen werden / darumb offtmals
+es verhindert ist geworden.
+
+Anno 1500 den 8 Septembris brach die Rodaune aus bey
+der Silberhütten / vnd das wasser wusch ein gros stück von der
+Mauren hinweg.
+
+P. Stuerl Rhor See b. 15.     Rommen See b. 13.
+Göhr. Co. Romitten See R. 27. Insterburgisch.
+Romitten See T. 27. Oletzisch.
+Rosocka fl. d. 21.        Rostick See X. 25.
+Rotlauff See X. 12.  Roszing See X. 10. gros vñ klein.
+
+Russ fl. I. 23. Dieser strom / theilet sich / in viel ströme /
+bey dem Curischen Haff: vnd hat ein jeglicher / seinen sonderlichen
+namen / wie denn in einem sonderlichen Täfflein / in der Mappen
+verzeichnet / vnd zu sehen ist.
+
+S.
+
+Sall fl. V. 12.               Sallen See W. 21
+Saltz See W. 21.           Sanne See V. 26.
+Sargen See X. 8.          Satrinde See X. 26.
+Satup fl. D. 24. In Samaitten.
+C ij                              Sarre.`,
+    english: `[Waterways index, pages R-S -- Rensen lake battle site; Rodaun/Radunia as Danzig's mill-water; Russ river delta; S begins]
+
+Rausfwe river O. 28. / Reinisch river [?]. / Reinste See V. 27.
+
+[Resaw See] Resaw See S. 22 -- the lake at the Dringsfort hill [?]. The stream flows to Engelstein, [Goy?], and into Lake Aschwein.
+
+[Rensen See -- battle site] Rensen See a. 5. Near this lake, the Kulmer [Colmer] were slain along with the [Teutonic] Order by the heathens [Heiden] -- as can be seen above under the Kulmerland [Colmischen Lande]. [Reference to a battle during the Prussian Crusade.]
+
+Ribno See b. 15 -- below Gilgenburg [Dąbrówno]. / Ribno See c. 24 -- below Johannsburg [Pisz]. / Riedsassa See T. 27.
+
+[Rocken See] Rocken See L. 24 -- small and large, a quarter-mile long and wide. In the previous year [Vorjahr], when the waters are high, many fish are caught there. But in summer, hay [Hew] is harvested from it. [Another seasonal lake/meadow.]
+
+Rodaun See S. 3.
+
+[Rodaun / Radunia River] Rodaun river S. 4. This is the Danzig [Gdańsk] mill-water. It is led from behind Praust [Pruszcz Gdański], from a pond through a ditch, a very great mile's distance. It has often been tapped [ausgestochen] and the water diverted. It drives many mills, including a flour mill in the city of Danzig with eighteen runs [Achtzehen gengen, i.e., 18 millstones]. Since this water is led at height into the city, it can easily be breached or tapped, which has often hindered [operations].
+
+In 1500, on September 8th, the Radunia broke through near the Silberhutte [silver foundry], and the water washed away a large piece of the [city] wall.
+
+Rhor See b. 15. / Rommen See b. 13. / Romitten See R. 27 -- Insterburg district. / Romitten See T. 27 -- Oletzko [Olecko] district. / Rosocka river d. 21. / Rostick See X. 25. / Rotlauff See X. 12. / Roszing See X. 10 -- large and small.
+
+[Russ River] Russ river I. 23. This stream divides into many branches [ströme] near the Curisches Haff [Curonian Lagoon]. Each has its own name, as is recorded and can be seen in a special table [Tafflein] on the map.
+
+S.
+
+Sall river V. 12. / Sallen See W. 21. / Saltz See W. 21. / Sanne See V. 26. / Sargen See X. 8. / Satrinde See X. 26. / Satup river D. 24 -- in Samogitia.`,
   },
 };
