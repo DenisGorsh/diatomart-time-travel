@@ -39,6 +39,19 @@ export const books: Book[] = [
     description: "The most important eyewitness account of the Northern Crusades in the Baltic. Written by a priest who participated in the events, it covers the Christianization of Livonia from 1184 to 1227 \u2014 the founding of Riga, the establishment of the Livonian Brothers of the Sword, wars with the native Livonians, Letts, and Estonians, and the arrival of the Teutonic Order. Henry\u2019s vivid Latin prose records battles, baptisms, diplomacy, and daily life on Christendom\u2019s northeastern frontier.",
     thumbnail: "/images/chronicon/p001.jpg",
   },
+  {
+    slug: "hennenberger-1595",
+    title: "Erclerung der Preussischen Landtaffel",
+    subtitle: "Caspar Hennenberger\u2019s Geography of Prussia & Livonia",
+    date: "1595",
+    author: "Caspar Hennenberger",
+    language: "Early New High German",
+    source: "Kujawsko-Pomorska Biblioteka Cyfrowa, Toru\u0144",
+    sourceUrl: "kpbc.umk.pl",
+    totalPages: 556,
+    description: "A monumental geographic and historical description of Prussia, Livonia, and the broader Baltic region, published in K\u00f6nigsberg in 1595. Written in German blackletter (Fraktur), Hennenberger\u2019s work combines cartographic knowledge with a year-by-year chronicle of events from the Teutonic Order\u2019s campaigns through the Reformation era. The book includes woodcut illustrations, maps, and detailed descriptions of cities, castles, rivers, and peoples across the Baltic provinces.",
+    thumbnail: "/images/hennenberger/p001.jpg",
+  },
 ];
 
 export function getBook(slug: string): Book | undefined {

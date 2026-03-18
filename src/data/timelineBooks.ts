@@ -40,7 +40,7 @@ export const timelineBooks: Record<string, TimelineBook[]> = {
   ],
   "1513": [
     { title: "Fr\u00fchgeschichte des Buchdrucks in Riga", author: "Silvija Augstkalns", year: "1938", lang: "German" },
-    { title: "Erclerung der Preussischen Landtaffel", author: "Caspar Hennenberger", year: "1595", lang: "German", thumbnail: "/images/gallery/hennenberger-1595-title.jpg", externalUrl: "https://digitale-sammlungen.de/en/view/bsb10804504" },
+    { title: "Erclerung der Preussischen Landtaffel", author: "Caspar Hennenberger", year: "1595", lang: "German", thumbnail: "/images/gallery/hennenberger-1595-title.jpg", bookSlug: "hennenberger-1595" },
   ],
   "1521": [
     { title: "Die Reformation in Livland", author: "Leonid Arbusow", year: "1921", lang: "German" },

@@ -9,6 +9,8 @@ import { allFolioTranslations } from "@/data/chronicleTranslations";
 import { fullFolioTranslations } from "@/data/fullTranslations";
 import { chroniconPages } from "@/data/chroniconPages";
 import { chroniconFullTranslations } from "@/data/chroniconFullTranslations";
+import { hennenbergerPages } from "@/data/hennenbergerPages";
+import { hennenbergerFullTranslations } from "@/data/hennenbergerFullTranslations";
 
 /* ---------- build merged page data ---------- */
 interface PageData {
@@ -24,6 +26,20 @@ function buildPages(slug: string): PageData[] {
   if (slug === "chronicon-livoniae") {
     return chroniconPages.map((p, i) => {
       const full = chroniconFullTranslations[p.label];
+      return {
+        idx: i,
+        label: p.label,
+        file: p.file,
+        original: full?.original || undefined,
+        english: full?.english || "",
+        notes: undefined,
+      };
+    });
+  }
+
+  if (slug === "hennenberger-1595") {
+    return hennenbergerPages.map((p, i) => {
+      const full = hennenbergerFullTranslations[p.label];
       return {
         idx: i,
         label: p.label,
