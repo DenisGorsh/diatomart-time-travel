@@ -42,9 +42,9 @@ export default function HomePage() {
         <div className="max-w-5xl mx-auto px-4 grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
           {[
             ['700+', 'Years of History'],
-            ['80–120', 'Archive Documents'],
-            ['3', 'Languages'],
-            ['7', 'Chapters'],
+            ['3', 'Primary Source Books'],
+            ['926', 'Digitized Pages'],
+            ['8', 'Chapters'],
           ].map(([num, label]) => (
             <div key={label}>
               <p className="font-display text-3xl text-burgundy">{num}</p>
@@ -102,15 +102,44 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* Primary Sources */}
+      <section className="py-20 bg-navy text-parchment">
+        <div className="max-w-5xl mx-auto px-4">
+          <SectionHeading title="Primary Sources" subtitle="Read the original chronicles with full English translations" />
+          <div className="grid sm:grid-cols-3 gap-6">
+            {[
+              { title: "Chronicle of Henry of Livonia", subtitle: "Chronicon Livoniae", date: "c. 1227", lang: "Latin", pages: 222, href: "/books/chronicon-livoniae", desc: "Eyewitness account of the founding of Riga and the Northern Crusades" },
+              { title: "Livonian Rhymed Chronicle", subtitle: "Livl\u00e4ndische Reimchronik", date: "c. 1290", lang: "Middle High German", pages: 148, href: "/books/livonian-chronicle", desc: "12,017 rhyming verses chronicling the Baltic crusades" },
+              { title: "Hennenberger 1595", subtitle: "Erclerung der Preussischen Landtaffel", date: "1595", lang: "German", pages: 556, href: "/books/hennenberger-1595", desc: "Geographic masterwork of Prussia and Livonia with woodcut illustrations" },
+            ].map((b) => (
+              <Link key={b.href} href={b.href} className="group border border-gold/20 hover:border-gold/50 p-5 transition-all">
+                <p className="font-display text-lg text-gold group-hover:text-gold-light transition-colors">{b.title}</p>
+                <p className="text-xs text-parchment/50 italic mb-3">{b.subtitle}</p>
+                <p className="text-sm text-parchment/70 leading-relaxed mb-3">{b.desc}</p>
+                <div className="flex justify-between text-[10px] text-parchment/40">
+                  <span>{b.date} &middot; {b.lang}</span>
+                  <span>{b.pages} pages</span>
+                </div>
+              </Link>
+            ))}
+          </div>
+          <div className="mt-8 text-center">
+            <Link href="/books" className="text-gold hover:text-gold-light transition-colors tracking-wide">
+              View All Sources &rarr;
+            </Link>
+          </div>
+        </div>
+      </section>
+
       {/* CTA */}
-      <section className="py-20 bg-navy text-parchment text-center">
+      <section className="py-20 bg-parchment text-ink text-center">
         <div className="max-w-2xl mx-auto px-4">
-          <h2 className="font-display text-3xl mb-4">Explore the Archive</h2>
-          <p className="text-parchment/70 mb-8">
+          <h2 className="font-display text-3xl mb-4">Explore the Gallery</h2>
+          <p className="text-ink-light mb-8">
             Browse our digital collection of medieval manuscripts, maps,
             engravings, and historical documents spanning seven centuries.
           </p>
-          <Link href="/gallery" className="inline-block bg-gold text-ink px-10 py-3 tracking-wide hover:bg-gold-light transition-colors">
+          <Link href="/gallery" className="inline-block bg-burgundy text-parchment px-10 py-3 tracking-wide hover:bg-burgundy-light transition-colors">
             View the Gallery
           </Link>
         </div>
